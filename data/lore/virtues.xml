@@ -5,7 +5,6 @@
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072895"/>
 <stat name="OCPR" scaling="1879072896"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072874" key="COMPASSION" name="Compassion" rankStatKey="Trait_Virtue_Rank_Compassionate">
 <activeStats>
@@ -13,7 +12,6 @@
 <stat name="OCPR" scaling="1879072899"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072900"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072875" key="CONFIDENCE" name="Confidence" rankStatKey="Trait_Virtue_Rank_Confidence">
 <activeStats>
@@ -21,7 +19,6 @@
 <stat name="WILL" scaling="1879072903"/>
 <stat name="OCPR" scaling="1879072896"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072876" key="DETERMINATION" name="Determination" rankStatKey="Trait_Virtue_Rank_Determination">
 <activeStats>
@@ -29,7 +26,6 @@
 <stat name="ICMR" scaling="1879072906"/>
 <stat name="MORALE" scaling="1879072907"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072877" key="DISCIPLINE" name="Discipline" rankStatKey="Trait_Virtue_Rank_Discipline">
 <activeStats>
@@ -37,7 +33,6 @@
 <stat name="Resist_Additional_Resistance_Disease" scaling="1879072910"/>
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072911"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072878" key="EMPATHY" name="Empathy" rankStatKey="Trait_Virtue_Rank_Empathy">
 <activeStats>
@@ -45,7 +40,6 @@
 <stat name="FATE" scaling="1879072914"/>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879072915"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072879" key="FIDELITY" name="Fidelity" rankStatKey="Trait_Virtue_Rank_Fidelity">
 <activeStats>
@@ -53,7 +47,6 @@
 <stat name="VITALITY" scaling="1879072918"/>
 <stat name="POWER" scaling="1879072919"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072880" key="FORTITUDE" name="Fortitude" rankStatKey="Trait_Virtue_Rank_Fortitude">
 <activeStats>
@@ -61,7 +54,6 @@
 <stat name="MIGHT" scaling="1879072922"/>
 <stat name="Resist_Additional_Resistance_Disease" scaling="1879072923"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072881" key="HONESTY" name="Honesty" rankStatKey="Trait_Virtue_Rank_Honesty">
 <activeStats>
@@ -69,7 +61,6 @@
 <stat name="Combat_Agent_Armor_Value" scaling="1879072926"/>
 <stat name="FATE" scaling="1879072927"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072882" key="HONOUR" name="Honour" rankStatKey="Trait_Virtue_Rank_Honour">
 <activeStats>
@@ -77,7 +68,6 @@
 <stat name="SHADOW_MITIGATION_PERCENTAGE" scaling="1879072930"/>
 <stat name="VITALITY" scaling="1879072931"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072883" key="IDEALISM" name="Idealism" rankStatKey="Trait_Virtue_Rank_Idealism">
 <activeStats>
@@ -85,7 +75,6 @@
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879072934"/>
 <stat name="WILL" scaling="1879072935"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072884" key="JUSTICE" name="Justice" rankStatKey="Trait_Virtue_Rank_Just">
 <activeStats>
@@ -93,7 +82,6 @@
 <stat name="MORALE" scaling="1879072938"/>
 <stat name="OCMR" scaling="1879072939"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072885" key="LOYALTY" name="Loyalty" rankStatKey="Trait_Virtue_Rank_Loyalty">
 <activeStats>
@@ -101,7 +89,6 @@
 <stat name="POWER" scaling="1879072942"/>
 <stat name="Combat_Agent_Armor_Value" scaling="1879072943"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072886" key="MERCY" name="Mercy" rankStatKey="Trait_Virtue_Rank_Merciful">
 <activeStats>
@@ -109,7 +96,6 @@
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072946"/>
 <stat name="AGILITY" scaling="1879072947"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072887" key="PATIENCE" name="Patience" rankStatKey="Trait_Virtue_Rank_Patience">
 <activeStats>
@@ -117,7 +103,6 @@
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879072949"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072950"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072888" key="INNOCENCE" name="Innocence" rankStatKey="Trait_Virtue_Rank_Innocence">
 <activeStats>
@@ -125,7 +110,6 @@
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879072953"/>
 <stat name="SHADOW_MITIGATION_PERCENTAGE" scaling="1879072954"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072889" key="TOLERANCE" name="Tolerance" rankStatKey="Trait_Virtue_Rank_Tolerant">
 <activeStats>
@@ -133,7 +117,6 @@
 <stat name="AGILITY" scaling="1879072957"/>
 <stat name="ICMR" scaling="1879072958"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072890" key="VALOUR" name="Valour" rankStatKey="Trait_Virtue_Rank_Valor">
 <activeStats>
@@ -141,7 +124,6 @@
 <stat name="OCMR" scaling="1879072961"/>
 <stat name="MIGHT" scaling="1879072962"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072891" key="WISDOM" name="Wisdom" rankStatKey="Trait_Virtue_Rank_Wisdom">
 <activeStats>
@@ -149,7 +131,6 @@
 <stat name="OCPR" scaling="1879072899"/>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879072965"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 <virtue identifier="1879072892" key="ZEAL" name="Zeal" rankStatKey="Trait_Virtue_Rank_Zeal">
 <activeStats>
@@ -157,6 +138,5 @@
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072968"/>
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879072969"/>
 </activeStats>
-<passiveStats/>
 </virtue>
 </virtues>

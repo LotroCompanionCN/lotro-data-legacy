@@ -8,6 +8,7 @@
 <label key="1879049270" value="Erwiderung \qParade\q"/>
 <label key="1879049330" value="Hetzende Furcht"/>
 <label key="1879049334" value="Ablenkung"/>
+<label key="1879049335" value="Trick: Erzürnen"/>
 <label key="1879049336" value="Suppression Vulnerability"/>
 <label key="1879049339" value="Gelenkter Angriff"/>
 <label key="1879049342" value="Räuber-Wolf-Begleiter beschwören"/>
@@ -81,6 +82,7 @@
 <label key="1879051273" value="Verstummt"/>
 <label key="1879051274" value="Durchgefroren"/>
 <label key="1879051277" value="Aura des Machtworts"/>
+<label key="1879051278" value="Befehlsaura"/>
 <label key="1879051284" value="Unruhig"/>
 <label key="1879051287" value="Leichtes Grauen"/>
 <label key="1879051290" value="Grauen"/>
@@ -112,6 +114,8 @@
 <label key="1879052127" value="\qZielen\q neutralisieren"/>
 <label key="1879052129" value="Double Edged"/>
 <label key="1879052132" value="Anlegen"/>
+<label key="1879052133" value="Gezielt"/>
+<label key="1879052134" value="Gezieltes Schleichen"/>
 <label key="1879052163" value="Induce Fellowship Manoeuvre Stunned"/>
 <label key="1879052204" value="Induce Stunned"/>
 <label key="1879052213" value="Niederer Riesenadler"/>
@@ -128,9 +132,11 @@
 <label key="1879052433" value="Feueröl"/>
 <label key="1879052436" value="Bärenfalle erstellen"/>
 <label key="1879052475" value="Bogen der Rechtschaffenen"/>
+<label key="1879052476" value="Bogen der Rechtschaffenen"/>
 <label key="1879052519" value="Unterwegs (Heilung der Moral)"/>
 <label key="1879052520" value="Unterwegs (Heilung der Kraft)"/>
 <label key="1879052535" value="Angewurzelt (Dornenregen)"/>
+<label key="1879052651" value="Reaktion"/>
 <label key="1879052657" value="Schattengriff"/>
 <label key="1879052658" value="Schattengriff"/>
 <label key="1879052660" value="Fürchterliche Vergeltung"/>
@@ -162,6 +168,8 @@
 <label key="1879053063" value="Zeichen des Eidbrechers"/>
 <label key="1879053116" value="Herausfordernd"/>
 <label key="1879053117" value="Letztes Gefecht"/>
+<label key="1879053118" value="Healing Countdown"/>
+<label key="1879053131" value="Eigenschaft: Letztes Gefecht – Heilung"/>
 <label key="1879053138" value="Leicht verstärkte Rüstung"/>
 <label key="1879053143" value="Verbesserte Moral"/>
 <label key="1879053192" value="Power Damage Med"/>
@@ -215,8 +223,10 @@
 <label key="1879056916" value="Induce Knockeddown"/>
 <label key="1879056917" value="Brennbares Ziel entzünden"/>
 <label key="1879056918" value="Geopfert"/>
+<label key="1879056982" value="Gefährten-Manöver"/>
 <label key="1879056987" value="Durchbohrende Krallen"/>
 <label key="1879056988" value="Peinigende Flügel"/>
+<label key="1879056989" value="Verwüstende Schwingen"/>
 <label key="1879056990" value="Ruhm durch Sieg"/>
 <label key="1879056991" value="\qRaserei\q neutralisieren"/>
 <label key="1879056992" value="Erwiderung neutralisieren"/>
@@ -239,6 +249,7 @@
 <label key="1879059591" value="Erneuerung"/>
 <label key="1879059634" value="Wut"/>
 <label key="1879059646" value="Blutgeschenk"/>
+<label key="1879059647" value="Blutgeschenk"/>
 <label key="1879059659" value="Blutpakt-Schutz"/>
 <label key="1879059705" value="Aufspießen"/>
 <label key="1879059706" value="Aufgespießt"/>
@@ -277,11 +288,14 @@
 <label key="1879060286" value="Rekrutierung: Siegesherold"/>
 <label key="1879060295" value="Beflügelnde Siegesfreude"/>
 <label key="1879060296" value="Siegesschrei: Moral"/>
+<label key="1879060297" value="Beflügelnde Siegesfreude"/>
 <label key="1879060301" value="Flucht aus der Dunkelheit"/>
 <label key="1879060305" value="Verbesserter Schlachtruf"/>
+<label key="1879060306" value="Siegesschrei: Kraft"/>
 <label key="1879060308" value="\qVernichtung des Gegners\q neutralisieren"/>
 <label key="1879060310" value="Erwiderung \qVernichtung des Gegners\q"/>
 <label key="1879060314" value="Verbesserter Kriegsschrei"/>
+<label key="1879060315" value="Verbesserter Kriegsschrei"/>
 <label key="1879060318" value="Kriegsschrei"/>
 <label key="1879060323" value="Verbesserter Spottruf"/>
 <label key="1879060329" value="Combo Schlag des Helden/Schrei des Helden"/>
@@ -296,6 +310,7 @@
 <label key="1879060368" value="Rekrutierung: Kriegsherold"/>
 <label key="1879060370" value="Rekrutierung: Kriegsherold"/>
 <label key="1879060379" value="Verbesserte Worte der Ermutigung"/>
+<label key="1879060380" value="Verbesserte Worte der Ermutigung"/>
 <label key="1879060384" value="Mut"/>
 <label key="1879060402" value="Rekrutierung: Verbesserter Hoffnungsherold"/>
 <label key="1879060418" value="Rekrut.: Hoffnungsherold"/>
@@ -304,19 +319,29 @@
 <label key="1879060424" value="Rekrut.: Hoffnungsherold"/>
 <label key="1879060433" value="\qKampfbereit\q neutralisieren"/>
 <label key="1879060492" value="Verbesserte Angriffsverteilung"/>
+<label key="1879060493" value="Verbesserter Wirbel"/>
 <label key="1879060497" value="Verbesserter Schneller Schlag"/>
+<label key="1879060498" value="Ruf der Wildnis"/>
 <label key="1879060520" value="Verbesserte Angriffsverteilung"/>
+<label key="1879060521" value="Heilung: Stärkender Angriff"/>
 <label key="1879060525" value="Verbesserter wilder Angriff"/>
 <label key="1879060535" value="Verbesserte Klingenwand"/>
+<label key="1879060536" value="Verbesserte Klingenwand"/>
 <label key="1879060539" value="Tiefe Schläge"/>
+<label key="1879060540" value="Tiefe Schläge"/>
 <label key="1879060554" value="Verzweiflung"/>
 <label key="1879060557" value="Geduld"/>
+<label key="1879060558" value="Verbesserter Schlagabtausch"/>
 <label key="1879060575" value="\qBlocken\q neutralisieren"/>
 <label key="1879060576" value="Schildstreich"/>
 <label key="1879060584" value="Wächterschild"/>
+<label key="1879060585" value="Verbesserter Wächterschild"/>
 <label key="1879060607" value="Verbesserte Angriffsverteilung"/>
+<label key="1879060608" value="Luft holen (Heilung der Kraft)"/>
+<label key="1879060609" value="Verbessertes Luft holen (Heilung der Moral)"/>
 <label key="1879060612" value="\qAusweichen\q neutralisieren"/>
 <label key="1879060614" value="Luft holen (Heilung der Moral)"/>
+<label key="1879060616" value="Erwiderung \qAusweichen\q"/>
 <label key="1879060637" value="Schutz"/>
 <label key="1879060639" value="Schutz"/>
 <label key="1879060646" value="Gelöbnis des Wächters"/>
@@ -327,14 +352,22 @@
 <label key="1879060662" value="Verbesserte Angriffsverteilung"/>
 <label key="1879060664" value="Erregende Gefahr"/>
 <label key="1879060669" value="Stabile Falle"/>
+<label key="1879060670" value="Falle erstellen"/>
+<label key="1879060672" value="Induce Rooted"/>
 <label key="1879060673" value="Fallenschaden"/>
 <label key="1879060677" value="Falle erstellen"/>
 <label key="1879060689" value="Verbesserte Schattenaufspürung"/>
 <label key="1879060690" value="Verbesserte Naturaufspürung"/>
 <label key="1879060691" value="Verbesserte Feindaufspürung"/>
+<label key="1879060692" value="Verbesserte Schattenverfolgung des Jägers"/>
+<label key="1879060693" value="Verbesserte Naturverfolgung des Jägers"/>
+<label key="1879060694" value="Verbesserte Feindesverfolgung des Jägers"/>
 <label key="1879060704" value="Zentrierendes Selbst"/>
+<label key="1879060705" value="Verbesserte Kraft"/>
 <label key="1879060709" value="Tödliche Präzision"/>
+<label key="1879060710" value="Fokus-Verbesserung"/>
 <label key="1879060718" value="Heimlicher Schuss"/>
+<label key="1879060719" value="Verbessertes Unscheinbar"/>
 <label key="1879060721" value="Unscheinbar"/>
 <label key="1879060726" value="Nötige Hast"/>
 <label key="1879060754" value="Flankiert! Verbesserter Stabschlag"/>
@@ -354,6 +387,7 @@
 <label key="1879060822" value="Induce Dazed"/>
 <label key="1879060828" value="Kranke versorgen"/>
 <label key="1879060833" value="Wissen über die Vergangenheit"/>
+<label key="1879060834" value="Wissen über die Vergangenheit"/>
 <label key="1879060838" value="Uralte Weisheit"/>
 <label key="1879060840" value="Verbesserte Uralte Weisheit"/>
 <label key="1879060847" value="Kraft leihen"/>
@@ -361,21 +395,27 @@
 <label key="1879060873" value="Hymne der freien Völker"/>
 <label key="1879060881" value="Lied der Hilfe"/>
 <label key="1879060883" value="Verbessertes Lied der Hilfe"/>
+<label key="1879060884" value="Lied der Hilfe"/>
 <label key="1879060906" value="Ballade der Resonanz"/>
 <label key="1879060912" value="Beseelende Anmut"/>
 <label key="1879060917" value="Stille neutralisieren."/>
 <label key="1879060924" value="Sanftes Lied"/>
 <label key="1879060940" value="Täuschende Blutung"/>
 <label key="1879060941" value="Täuschende Blutung"/>
+<label key="1879060942" value="Aderlass"/>
+<label key="1879060943" value="Verbesserter Aderlass"/>
 <label key="1879060954" value="Komplexes Rätsel"/>
 <label key="1879060957" value="Induce Dazed"/>
 <label key="1879060969" value="Bogenbann"/>
+<label key="1879060970" value="Verbesserte Kraft"/>
 <label key="1879060973" value="Trick: Staub in die Augen"/>
 <label key="1879060974" value="'Benommenheit' beenden"/>
 <label key="1879060984" value="Ablenkung"/>
 <label key="1879060988" value="Erschwerter Angriff"/>
+<label key="1879060989" value="Trick: Verbessertes Behindern"/>
 <label key="1879060990" value="Trick: Behindern"/>
 <label key="1879060994" value="Opportunist"/>
+<label key="1879060995" value="Trick: Verbessertes Abwehr reduzieren"/>
 <label key="1879060997" value="Trick: Abwehr reduzieren"/>
 <label key="1879061009" value="Verbessertes Schleichen"/>
 <label key="1879061013" value="Einfaches Schleichen"/>
@@ -393,7 +433,9 @@
 <label key="1879062363" value="Brennendes Öl"/>
 <label key="1879062364" value="Klebriger Teer"/>
 <label key="1879062461" value="Aiglos-Ballade[f]"/>
+<label key="1879062462" value="Aiglos-Ballade[f]"/>
 <label key="1879062463" value="Gesang der Beherzten[m]"/>
+<label key="1879062464" value="Gesang der Beherzten[m]"/>
 <label key="1879062868" value="Minen aufspüren"/>
 <label key="1879062907" value="Holz aufspüren"/>
 <label key="1879062970" value="Pfeifenkraut rauchen"/>
@@ -508,12 +550,15 @@
 <label key="1879070536" value="Siegel: Dúnedain"/>
 <label key="1879070537" value="Siegel: Dúnedain"/>
 <label key="1879072523" value="Zerfurchter Schnitt (Bluten)"/>
+<label key="1879072524" value="Zerfurchte Wunde"/>
 <label key="1879072527" value="Exit All Harmful States"/>
 <label key="1879072532" value="Durchtrennte Achillessehne"/>
 <label key="1879072535" value="Eingesponnen"/>
 <label key="1879072539" value="Zufluchtsort mit Falltür"/>
 <label key="1879072540" value="Eingraben"/>
 <label key="1879072541" value="Angewurzelt (Behindernder Schuss)"/>
+<label key="1879072542" value="Festnagelnder Pfeil"/>
+<label key="1879072553" value="Mobilisieren"/>
 <label key="1879072564" value="Verbessertes Schleichen"/>
 <label key="1879072566" value="Einfaches Schleichen"/>
 <label key="1879072994" value="Induce Cowering"/>
@@ -539,6 +584,7 @@
 <label key="1879073079" value="Erwiderung \qVernichtung eines Gefährten\q"/>
 <label key="1879073080" value="Racheschrei"/>
 <label key="1879073088" value="In den Weg werfen"/>
+<label key="1879073089" value="Hauptmanns Schutz"/>
 <label key="1879073090" value="Fokus"/>
 <label key="1879073091" value="Kniet nieder!"/>
 <label key="1879073093" value="Heilungswohltat des Schlags des Herolds"/>
@@ -562,6 +608,11 @@
 <label key="1879073135" value="Zurücksetzen von 'Edler Beweggrund'"/>
 <label key="1879073139" value="Gr. Auferstehung d. Seele"/>
 <label key="1879073142" value="Niederlage neutralisieren."/>
+<label key="1879073143" value="Ein schwankender Schritt"/>
+<label key="1879073144" value="Ein unerheblicher Rückschlag"/>
+<label key="1879073145" value="Der schmale Grat"/>
+<label key="1879073146" value="Bilder des Krieges"/>
+<label key="1879073147" value="Angmars Verhängnis"/>
 <label key="1879073157" value="Hymne des Mitgefühls"/>
 <label key="1879073162" value="Triumphierender Geist"/>
 <label key="1879073164" value="Ballade der Flamme"/>
@@ -627,6 +678,7 @@
 <label key="1879073395" value="Combo Enthäutender Schnitt/Stachelpfeil"/>
 <label key="1879073396" value="Schaden durch 'Enthäutender Schnitt'"/>
 <label key="1879073405" value="findthepath"/>
+<label key="1879073406" value="Weg finden"/>
 <label key="1879073407" value="Cleanse Poison Resistance"/>
 <label key="1879073413" value="Lager"/>
 <label key="1879073418" value="Jägerreise zum nächstgelegenen Sammelpunkt"/>
@@ -641,6 +693,7 @@
 <label key="1879073433" value="Haltung: Präzision"/>
 <label key="1879073434" value="Haltung: Stärke"/>
 <label key="1879073435" value="Steigerung der Stärkehaltung: Lähmender Schuss"/>
+<label key="1879073436" value="Lähmender Schuss"/>
 <label key="1879073438" value="Haltung: Ausdauer"/>
 <label key="1879073439" value="Haltung: Ausdauer"/>
 <label key="1879073482" value="Hobbit-Reise ins Auenland"/>
@@ -689,6 +742,7 @@
 <label key="1879074174" value="Huhn"/>
 <label key="1879074177" value="Huhn"/>
 <label key="1879076069" value="Aura der Hoffnung"/>
+<label key="1879076070" value="Hoffnung"/>
 <label key="1879076078" value="Mut"/>
 <label key="1879076079" value="Herz der Gefährten"/>
 <label key="1879076274" value="Kochfeuer entzünden"/>
@@ -849,6 +903,7 @@
 <label key="1879085345" value="Menschen aufspüren"/>
 <label key="1879085346" value="Verbessertes 'Menschen aufspüren'"/>
 <label key="1879085382" value="Horn"/>
+<label key="1879085383" value="Induce Cowering"/>
 <label key="1879085384" value="Horn"/>
 <label key="1879085385" value="Induce Feared"/>
 <label key="1879085397" value="Horn"/>
@@ -1098,6 +1153,9 @@
 <label key="1879093331" value="Anwachsendes Feuer"/>
 <label key="1879093337" value="Willenskraft"/>
 <label key="1879093339" value="Combo \qSiegesworte\q"/>
+<label key="1879093341" value="Verbessertes Kriegsbanner"/>
+<label key="1879093344" value="Verbessertes Banner der Verteidigung"/>
+<label key="1879093345" value="Verbessertes Banner der Hoffnung"/>
 <label key="1879093389" value="Verbesserte Standarte des Sieges"/>
 <label key="1879093390" value="Verbesserte Standarte der Hoffnung"/>
 <label key="1879093391" value="Verbesserte Standarte des Krieges"/>
@@ -1148,6 +1206,7 @@
 <label key="1879094624" value="Roten Troll-Hüter beschwören"/>
 <label key="1879094625" value="Befehl des Meisters"/>
 <label key="1879094741" value="Aura des Machtworts"/>
+<label key="1879094744" value="Aura des Machtworts"/>
 <label key="1879094786" value="Paranoia"/>
 <label key="1879094803" value="Feuer zerstreuen"/>
 <label key="1879094810" value="Bewachter Bereich: Kreaturen der Natur"/>
@@ -1158,8 +1217,11 @@
 <label key="1879094829" value="Klebriger Teer"/>
 <label key="1879094830" value="Klebriger Teer"/>
 <label key="1879094874" value="Heldensage"/>
+<label key="1879094875" value="Heldensage"/>
 <label key="1879094883" value="Geschichte der Bewachung"/>
+<label key="1879094885" value="Geschichte der Bewachung"/>
 <label key="1879094887" value="Geschichte des Gefechts"/>
+<label key="1879094889" value="Geschichte des Gefechts"/>
 <label key="1879095021" value="Anrufung Ardas"/>
 <label key="1879095064" value="Kraftentzug"/>
 <label key="1879095065" value="Moralentzug"/>
@@ -1219,7 +1281,10 @@
 <label key="1879095831" value="Bündelung der Leere"/>
 <label key="1879095832" value="Schwere Wunde"/>
 <label key="1879095833" value="Beschworener Helfer"/>
+<label key="1879095834" value="Leere entziehen"/>
 <label key="1879095835" value="Blendende Finsternis"/>
+<label key="1879095836" value="Moralentzug"/>
+<label key="1879095837" value="Kraftentzug"/>
 <label key="1879095838" value="Ruf der Leere"/>
 <label key="1879096314" value="Tanzt!"/>
 <label key="1879096315" value="Akkord der Erlösung"/>
@@ -1267,12 +1332,15 @@
 <label key="1879096865" value="Lernt Theorbe spielen."/>
 <label key="1879096879" value="Gut geschützt"/>
 <label key="1879096899" value="Dispel Half Mitigation"/>
+<label key="1879097086" value="Knochenmahler"/>
+<label key="1879097087" value="Blutgeschenk"/>
 <label key="1879097098" value="Grausame Blutung"/>
 <label key="1879097165" value="Feueröl"/>
 <label key="1879097191" value="Letzte Tat"/>
 <label key="1879097219" value="Jubeln"/>
 <label key="1879097229" value="Hoffnung geben"/>
 <label key="1879097234" value="Schildkröte[f]"/>
+<label key="1879097235" value="Um Haaresbreite"/>
 <label key="1879097318" value="Parade[f]"/>
 <label key="1879097338" value="Um Haaresbreite"/>
 <label key="1879097387" value="Betäuben"/>
@@ -1295,11 +1363,15 @@
 <label key="1879097593" value="Ernste Blöße"/>
 <label key="1879097594" value="Bedeutende Blöße"/>
 <label key="1879097595" value="Gefährliche Blöße"/>
+<label key="1879097596" value="Balrogs Schutz"/>
+<label key="1879097597" value="Balrogs Zorn"/>
 <label key="1879097598" value="Aura des Schutzes"/>
 <label key="1879097599" value="Aura der Wiederherstellung"/>
 <label key="1879097600" value="Aura der Raserei"/>
 <label key="1879097601" value="Aura der Ahndung"/>
+<label key="1879097602" value="Erneuerung des Balrogs"/>
 <label key="1879097605" value="Luchs-Schleichen"/>
+<label key="1879097692" value="Balrogs Ahndung"/>
 <label key="1879097694" value="Schwächen"/>
 <label key="1879097710" value="Zogtarks Fluch"/>
 <label key="1879097782" value="Blutgeschenk"/>
@@ -1327,6 +1399,7 @@
 <label key="1879098323" value="Exposing Strke Chain Up Combo"/>
 <label key="1879098324" value="Exposing Strke Chain Up Base"/>
 <label key="1879098336" value="Induce Dazed"/>
+<label key="1879098337" value="Induce Improved Riddle"/>
 <label key="1879098376" value="Induce Feared"/>
 <label key="1879098720" value="Induce Dazed"/>
 <label key="1879098722" value="Größere Verletzbarkeit gegenüber Schatten"/>
@@ -1336,6 +1409,7 @@
 <label key="1879098727" value="Tief eindringender Dorn"/>
 <label key="1879098808" value="Prozent Moralschaden"/>
 <label key="1879098828" value="Beschworener Feuerhauch"/>
+<label key="1879098829" value="Verbesserte Gabe der Hammerhand"/>
 <label key="1879098830" value="Verbesserte Gabe der Hammerhand"/>
 <label key="1879098854" value="Flammengestählt"/>
 <label key="1879098901" value="Vogel-Lockruf[m]"/>
@@ -1380,6 +1454,7 @@
 <label key="1879101733" value="Banner des Schreckens"/>
 <label key="1879101734" value="Befehlsstand"/>
 <label key="1879101801" value="Überfluss der Natur"/>
+<label key="1879101872" value="Lied der Hilfe"/>
 <label key="1879101894" value="Reitanfänger"/>
 <label key="1879101901" value="Siedlung Breeland"/>
 <label key="1879101902" value="Siedlung Breeland"/>
@@ -1394,6 +1469,7 @@
 <label key="1879101911" value="Heim in Thorins Halle"/>
 <label key="1879101912" value="Thorins Halle, Sippenhalle"/>
 <label key="1879101913" value="Flammenkeule"/>
+<label key="1879101923" value="Geschichte der Bewachung"/>
 <label key="1879101996" value="Wurzel zurückrufen"/>
 <label key="1879102249" value="Huhn auf Reisen - Angmar"/>
 <label key="1879102250" value="Huhn auf Reisen - Breeland"/>
@@ -1412,6 +1488,9 @@
 <label key="key:620757522:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qBlocken\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620757523:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qParade\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620757541:54354734" value="Die Furcht vor dem Euch hetzenden Monster hat Eure Seele und Euren Geist ergriffen und verlangsamt Eure Bewegung."/>
+<label key="key:620757546:106251889" value="Das Ziel wird meist nicht in der Lage sein, Fernangriffe auszuführen."/>
+<label key="key:620757546:106251890" value="Das Ziel greift willkürlich Feinde an."/>
+<label key="key:620757546:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620757552:54354734" value="Sendet einen Ruf an alle Freunde, das Ziel anzugreifen, auf das dieser Effekt angewendet wird."/>
 <label key="key:620757557:54354734" value="Das Monster ist wütend."/>
 <label key="key:620757563:54354734" value="Der Biss der Kreatur hat Euer Bein verwundet, und Ihr werdet langsamer."/>
@@ -1451,6 +1530,7 @@
 <label key="key:620758172:54354734" value="Durch Angriff verursachter allgemeiner Schaden wird meist vermindert."/>
 <label key="key:620758622:54354734" value="Steht unter einem fürchterlichen Kampfrausch."/>
 <label key="key:620758624:54354734" value="Einige Fertigkeiten, für die die Stimme eingesetzt werden muss, können nicht benutzt werden."/>
+<label key="key:620758628:54354734" value="Durch die Gegenwart des Uruks wachsen bei den Orks in der Nähe Stärke und Wut."/>
 <label key="key:620758632:54354734" value="Mindert Wille und Schicksal"/>
 <label key="key:620758635:54354734" value="Mindert Wille und Schicksal"/>
 <label key="key:620758637:54354734" value="Ein solches Trauma kann nicht allzu lange unterdrückt werden. Früher oder später macht es sich bemerkbar."/>
@@ -1474,6 +1554,7 @@
 <label key="key:620759376:181298206" value="Verschiedene Fernkampf-Fertigkeiten verursachen standardmäßig Feuerschaden und bei kritischen Treffern Feuerschaden über Zeit."/>
 <label key="key:620759376:54354734" value="Verschiedene Fernkampf-Fertigkeiten verursachen standardmäßig Feuerschaden und bei kritischen Treffern Feuerschaden über Zeit."/>
 <label key="key:620759441:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
+<label key="key:620759496:54354734" value="Kann auf das kürzlich stattgefundene Ereignis reagieren."/>
 <label key="key:620759500:54354734" value="Entzieht dem Ziel Moral und heilt den Geist."/>
 <label key="key:620759505:54354734" value="Nach dem Angriff auf den Geist fühlt Ihr einen kalten, stechenden Schmerz. Manchmal genügt der Schock des Schmerzes, den Angreifer bewegungslos werden zu lassen."/>
 <label key="key:620759507:54354734" value="Angesichts etwas derart Bösen wird Euch das Herz schwer."/>
@@ -1509,8 +1590,10 @@
 <label key="key:620762630:181298206" value="Durch Angriff verursachter allgemeiner Schaden wird meist vermindert."/>
 <label key="key:620762630:54354734" value="Durch Angriff verursachter allgemeiner Schaden wird meist vermindert."/>
 <label key="key:620762696:54354734" value="Sendet einen Ruf an die in der Nähe des Ziels befindlichen Helfer, am Kampf teilzunehmen."/>
+<label key="key:620762783:54354734" value="War das Ziel eines erfolgreichen Gefährten-Manövers."/>
 <label key="key:620762785:54354734" value="Eine Wolke wirbelnder Crebain umgibt den Uruk, die gegen jeden Vergeltung übt, der ihn angreift."/>
 <label key="key:620762786:54354734" value="Ein Crebain-Schwarm behindert jede Bewegung und reduziert dadurch die Angriffsgeschwindigkeit."/>
+<label key="key:620762787:54354734" value="Wirbelnde Crebain behindern Euch, als Ihr näher kommt, und verlangsamen Eure Angriffe."/>
 <label key="key:620762789:54354734" value="Der Uruk erhält durch die Niederlage eines Feindes gestärkt zusätzlichen Mut."/>
 <label key="key:620762799:181298206" value="Erhöht die Wahrscheinlichkeit, einen Teil des Schadens zurück auf den Angreifer zurückzuwerfen."/>
 <label key="key:620762799:54354734" value="Erhöht die Wahrscheinlichkeit, einen Teil des Schadens zurück auf den Angreifer zurückzuwerfen."/>
@@ -1534,7 +1617,10 @@
 <label key="key:620765331:54354734" value="Jede Fertigkeit, die eine erfolgreiche kritische Erwiderung voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620765404:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qVernichtung des Gegners\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620765422:54354734" value="Verwendung des Kampfschreis hat den kampfbereiten Zustand herbeigeführt."/>
+<label key="key:620765623:54354734" value="Fügt Angreifern Schaden zu"/>
 <label key="key:620765638:54354734" value="Die Verwendung von 'Schildstreich' hat neue Möglichkeiten für den Kampf eröffnet."/>
+<label key="key:620765664:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qAusweichen\q voraussetzt, kann nun eingesetzt werden."/>
+<label key="key:620765710:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
 <label key="key:620765792:54354734" value="Kraft wird entzogen."/>
 <label key="key:620765795:54354734" value="Kraft wird entzogen."/>
 <label key="key:620765826:54354734" value="Wo die Feinde Mittelerdes stehen, erhebt sich die Erde und bebt. Nach diesem Countdown ist das Ziel angewurzelt."/>
@@ -1546,9 +1632,14 @@
 <label key="key:620765967:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620765968:181298206" value="Beendet die Benommenheit eines Ziels."/>
 <label key="key:620765978:54354734" value="Lenkt das Monster für ein paar Sekunden ab."/>
+<label key="key:620765982:106251889" value="Verringert die Angriffsgeschwindigkeit um ${PERCENTVALUE} Prozent."/>
+<label key="key:620765982:106251890" value="Verringert Nahkampfschaden um ${PERCENTVALUE} Prozent."/>
+<label key="key:620765982:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620765984:106251889" value="Verringert die Angriffsgeschwindigkeit um ${PERCENTVALUE} Prozent."/>
 <label key="key:620765984:106251890" value="Verringert Nahkampfschaden um ${PERCENTVALUE} Prozent."/>
 <label key="key:620765984:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
+<label key="key:620765988:106251889" value="Verringert Parieren, Blocken und Ausweichen um ${PERCENTVALUE}"/>
+<label key="key:620765988:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620765990:106251889" value="Verringert Parieren, Blocken und Ausweichen um ${PERCENTVALUE}"/>
 <label key="key:620765990:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620766001:106251890" value="Euer Schleichen wird nicht unterbrochen, wenn Ihr Schaden erleidet."/>
@@ -1585,6 +1676,8 @@
 <label key="key:620774682:54354734" value="Der Schnitter hat das Bein des Ziels getroffen, so dass es sich nicht mehr so schnell bewegen kann."/>
 <label key="key:620774701:106251889" value="Angriff nicht möglich."/>
 <label key="key:620774765:106251890" value="Euer Schleichen wird nicht unterbrochen, wenn Ihr Schaden erleidet."/>
+<label key="key:620774792:106251889" value="Bewegungsunfähig."/>
+<label key="key:620774792:54354734" value="Der Pfeil des Uruk verhindert, dass Ihr Euch bewegen könnt."/>
 <label key="key:620774799:106251889" value="Verringerte Bewegungsgeschwindigkeit"/>
 <label key="key:620774876:106251891" value="Ziel kann weder ausweichen, parieren noch blocken."/>
 <label key="key:620774882:54354734" value="Fügt Angreifern Schaden zu"/>
@@ -1594,11 +1687,22 @@
 <label key="key:620774926:106251889" value="Moral-Höchstwert +5 %"/>
 <label key="key:620774933:54354734" value="Der Schaden, der dem markierten Ziel zugefügt wurde, hat eine wiederherstellende Wirkung auf den Angreifer."/>
 <label key="key:620774937:54354734" value="Jede Fertigkeit, die die Niederlage eines Gefährten voraussetzt, kann nun eingesetzt werden."/>
+<label key="key:620774940:54354734" value="Ein Hauptmann beschützt das Ziel."/>
 <label key="key:620774944:54354734" value="Lässt das Ziel niederknien."/>
 <label key="key:620774953:54354734" value="Euer Schlag des Herolds gibt Euch Moral zurück."/>
 <label key="key:620774954:54354734" value="Euer Schlag des Herolds gibt Euch Moral zurück."/>
 <label key="key:620774958:181298206" value="Sofortige Gefährtenheilung"/>
 <label key="key:620774960:54354734" value="Verbessert Eure Spezialangriffe."/>
+<label key="key:620774993:106251889" value="Grauen hinzufügen: ${VALUE}."/>
+<label key="key:620774993:54354734" value="Eine unbedeutende Niederlage lässt sich einfach abschütteln."/>
+<label key="key:620774994:106251889" value="Grauen hinzufügen: ${VALUE}."/>
+<label key="key:620774994:54354734" value="Es ist gut zu leben und weiterkämpfen zu können."/>
+<label key="key:620774995:106251889" value="Grauen hinzufügen: ${VALUE}."/>
+<label key="key:620774995:54354734" value="Der Stachel der Niederlage sitzt noch immer tief."/>
+<label key="key:620774996:106251889" value="Grauen hinzufügen: ${VALUE}."/>
+<label key="key:620774996:54354734" value="Die ganze Welt könnte untergehen."/>
+<label key="key:620774997:106251889" value="Grauen hinzufügen: ${VALUE}."/>
+<label key="key:620774997:54354734" value="Der Zorn des Hexenkönigs hängt in der Luft."/>
 <label key="key:620775021:54354734" value="Erlittener Moralschaden wird in Kraftschaden umgewandelt."/>
 <label key="key:620775073:106251889" value="Eure Schleich-Erkennung verbessert sich um ${VALUE}."/>
 <label key="key:620775075:106251889" value="Eure Schleich-Erkennung verbessert sich um ${VALUE}."/>
@@ -1622,6 +1726,7 @@
 <label key="key:620775229:106251890" value="Erhöht die Kraftkosten von Bogen-Fertigkeiten um ${PERCENTVALUE}"/>
 <label key="key:620775229:106251891" value="Erhöht die Bedrohung, die Ihr darstellt, um ${PERCENTVALUE}"/>
 <label key="key:620775229:54354734" value="In der Stärkehaltung verlangsamt ein 'Schneller Schuss' die Bewegungsgeschwindigkeit des Ziels."/>
+<label key="key:620775231:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 40 %."/>
 <label key="key:620775234:106251890" value="Verringert die Kraftkosten von Bogen-Fertigkeiten um ${PERCENTVALUE}"/>
 <label key="key:620775234:106251891" value="Verringert die Bedrohung, die Ihr darstellt, um ${PERCENTVALUE}"/>
 <label key="key:620775234:54354734" value="Habt Ihr eine Ausdauerhaltung angenommen, verringert Euer 'Schneller Schuss' die Bedrohung durch Euer Ziel."/>
@@ -1649,6 +1754,8 @@
 <label key="key:620775431:106251889" value="Verlangsamt Bewegungen um 25 %"/>
 <label key="key:620775766:54354734" value="Der Biss des kranken Keilers hat Euch infiziert."/>
 <label key="key:620777549:54354734" value="Die erhebende Anwesenheit des Guten."/>
+<label key="key:620777550:106251891" value="Hoffnung + ${VALUE}"/>
+<label key="key:620777550:54354734" value="Euer Herz freut sich, endlich ein Licht im Dunkel gefunden zu haben."/>
 <label key="key:620777561:54354734" value="Verleiht Immunität gegen Furcht-Effekte."/>
 <label key="key:620778067:54354734" value="Mehr Erfahrungspunkte für besiegte Gegner"/>
 <label key="key:620778069:54354734" value="Bewegungsgeschwindigkeit wird erhöht."/>
@@ -1897,10 +2004,12 @@
 <label key="key:620794210:181298206" value="Verwendung: Diesen Käse zu essen ist wohl nicht ratsam."/>
 <label key="key:620794210:54354734" value="Das war äußerst unklug."/>
 <label key="key:620794511:54354734" value="Dem Troll wird von seinem Verbündeten befohlen, alle Feinde willkürlich anzugreifen."/>
+<label key="key:620794590:54354734" value="Durch die Gegenwart des Uruks wachsen bei den anderen in der Nähe Stärke und Wut."/>
 <label key="key:620794612:54354734" value="Eure Schleich-Erkennung ist stark gestiegen."/>
 <label key="key:620794617:181298206" value="Schatten zerstreuen. Erhöht die Wahrscheinlichkeit, einen Teil des Euch zugefügten Feuerschadens zu absorbieren."/>
 <label key="key:620794617:54354734" value="Erhöhte Wahrscheinlichkeit, einen Teil des Euch zugefügten Feuerschadens zu absorbieren."/>
 <label key="key:620794649:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 50 %."/>
+<label key="key:620794664:106251890" value="+1 Hoffnung"/>
 <label key="key:620794981:54354734" value="Der Gorthorog findet Eure gut gemeinten Handlungen bedrohlicher."/>
 <label key="key:620795342:54354734" value="Dieser Effekt fügt Angreifern Schaden zu, kann Feinde betäuben und hin und wieder einen gesamten Angriff absorbieren."/>
 <label key="key:620795343:54354734" value=".."/>
@@ -1946,10 +2055,13 @@
 <label key="key:620796204:106251889" value="Lässt Euren Luchs wie einen Frostluchs aussehen."/>
 <label key="key:620796206:106251889" value="Lässt Euren Luchs wie einen gefleckten Luchs aussehen."/>
 <label key="key:620796246:54354734" value="Der Balrog strahlt eine spürbare Aura aus, die ihn selbst und seine nahen Verbündeten stärkt."/>
+<label key="key:620796247:106251889" value="Ziel verursacht 10 % mehr Schaden."/>
 <label key="key:620796248:54354734" value="Der Balrog strahlt eine spürbare Aura aus, die ihn selbst und seine nahen Verbündeten stärkt."/>
 <label key="key:620796251:106251889" value="Verbesserte Fähigkeit, Fernangriffen auszuweichen"/>
 <label key="key:620796251:54354734" value="Der vom Balrog aufgewirbelte Schwefel bietet jetzt Deckung."/>
 <label key="key:620796252:54354734" value="Der Balrog strahlt eine spürbare Aura aus, die ihn selbst und seine nahen Verbündeten stärkt."/>
+<label key="key:620796253:106251889" value="Ziel erleidet 50 % weniger Schaden."/>
+<label key="key:620796253:106251892" value="Die Wahrscheinlichkeit, einen kritischen Treffer zu erleiden, ist reduziert."/>
 <label key="key:620796254:54354734" value="Der Balrog strahlt eine spürbare Aura aus, die ihn selbst und seine nahen Verbündeten stärkt."/>
 <label key="key:620796255:106251889" value="+${PERCENTVALUE} kritische Verwundbarkeit"/>
 <label key="key:620796255:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in durchschnittlichem Maße ausgesetzt seid."/>
@@ -1963,6 +2075,7 @@
 <label key="key:620796259:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in außerordentlich hohem Maße ausgesetzt seid."/>
 <label key="key:620796285:181298206" value="5%ige Chance, Ziele zu betäuben, die Euch derzeit Schaden zufügen."/>
 <label key="key:620796285:54354734" value="5%ige Chance, Ziele zu betäuben, die Euch derzeit Schaden zufügen."/>
+<label key="key:620796343:54354734" value="Diese Kreatur anzugreifen, verursacht auch Euch Schaden. Der Schmerz kann so stark sein, dass Ihr entsetzt zurückweicht."/>
 <label key="key:620796344:181298206" value="Verwendung: Fügt dem Ziel leichten Schaden zu und verleiht Euch Kraft."/>
 <label key="key:620796360:54354734" value="Sendet einen Ruf an Zogtarks Drachen, das Ziel seiner Wahl anzugreifen."/>
 <label key="key:620796392:181298206" value="Beschwört einen Wurm-Begleiter."/>
@@ -1983,6 +2096,8 @@
 <label key="key:620796750:106251889" value="Lässt Euren Luchs wie einen Schwarzluchs aussehen."/>
 <label key="key:620796751:106251889" value="Lässt Euren Raben wie einen gefleckten Raben aussehen."/>
 <label key="key:620796753:54354734" value="Der Hieb des Orks hat Eure Rüstung beschädigt und dadurch ihren Schutz gemindert."/>
+<label key="key:620796872:181298206" value="Macht nach 5 Sek. für 35 Sek. benommen."/>
+<label key="key:620796872:54354734" value="Nach 5 Sek. für 35 Sek. benommen."/>
 <label key="key:620796873:181298206" value="Macht nach 5 Sek. für 15 Sek. benommen."/>
 <label key="key:620796873:54354734" value="Nach 5 Sek. für 15 Sek. benommen."/>
 <label key="key:620796892:181298206" value="Versetzt für bis zu 10 Sek. in Furcht"/>

@@ -94110,7 +94110,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Item_InductionDuration_Burglar_Looting" operator="SUBSTRACT" descriptionOverride="key:620794561:106251892" constant="50.0"/>
+<stat name="Item_InductionDuration_Burglar_Looting" operator="MULTIPLY" descriptionOverride="key:620794561:106251892" constant="0.5"/>
 <stat name="WILL" scaling="1879085572"/>
 <stat name="ARMOUR" scaling="1879099358"/>
 </stats>
@@ -97399,191 +97399,191 @@
 </item>
 <item key="1879097238" name="Exquisite Superior Dwarf-make Drum" icon="1090557426-1090531554-1090557428-1090557427" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088727" name="Serenade - Damage"/>
 </item>
 <item key="1879097239" name="Exquisite Superior Beleriand Drum" icon="1090557426-1090531554-1090557428-1090557427" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088727" name="Serenade - Damage"/>
 </item>
 <item key="1879097240" name="Exquisite Superior Westernesse Drum" icon="1090557426-1090531554-1090557428-1090557427" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088727" name="Serenade - Damage"/>
 </item>
 <item key="1879097241" name="Exquisite Superior Dwarf-make Flute" icon="1090552922-1090531554-1090552924-1090552923" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064212" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070465" name="Serenade - Utility"/>
 </item>
 <item key="1879097242" name="Exquisite Superior Beleriand Flute" icon="1090552922-1090531554-1090552924-1090552923" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064212" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070465" name="Serenade - Utility"/>
 </item>
 <item key="1879097243" name="Exquisite Superior Westernesse Flute" icon="1090552922-1090531554-1090552924-1090552923" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064212" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070465" name="Serenade - Utility"/>
 </item>
 <item key="1879097244" name="Exquisite Superior Dwarf-make Harp" icon="1090552919-1090531554-1090552921-1090552920" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064213" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070460" name="Serenade - Offense"/>
 </item>
 <item key="1879097245" name="Exquisite Superior Beleriand Harp" icon="1090552919-1090531554-1090552921-1090552920" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064213" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070460" name="Serenade - Offense"/>
 </item>
 <item key="1879097246" name="Exquisite Superior Westernesse Harp" icon="1090552919-1090531554-1090552921-1090552920" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064213" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070460" name="Serenade - Offense"/>
 </item>
 <item key="1879097247" name="Exquisite Superior Dwarf-make Lute" icon="1090532809-1090531554-1090532811-1090532810" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070132" name="Serenade - Defence"/>
 </item>
 <item key="1879097248" name="Exquisite Superior Beleriand Lute" icon="1090532809-1090531554-1090532811-1090532810" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070132" name="Serenade - Defence"/>
 </item>
 <item key="1879097249" name="Exquisite Superior Westernesse Lute" icon="1090532809-1090531554-1090532811-1090532810" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070132" name="Serenade - Defence"/>
 </item>
 <item key="1879097250" name="Exquisite Superior Dwarf-make Theorbo" icon="1090648174-1090531554-1090648175-1090648515" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088471" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088718" name="Ballad - Threat"/>
 </item>
 <item key="1879097251" name="Exquisite Superior Beleriand Theorbo" icon="1090648174-1090531554-1090648175-1090648515" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088471" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088718" name="Ballad - Threat"/>
 </item>
 <item key="1879097252" name="Exquisite Superior Westernesse Theorbo" icon="1090648174-1090531554-1090648175-1090648515" level="45" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088471" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088718" name="Ballad - Threat"/>
 </item>
 <item key="1879097253" name="Superior Dwarf-make Drum" icon="1090557426-1090531554-1090557428-1090557427" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088724" name="Serenade - Damage"/>
 </item>
 <item key="1879097254" name="Superior Beleriand Drum" icon="1090557426-1090531554-1090557428-1090557427" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088724" name="Serenade - Damage"/>
 </item>
 <item key="1879097255" name="Superior Westernesse Drum" icon="1090557426-1090531554-1090557428-1090557427" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088724" name="Serenade - Damage"/>
 </item>
 <item key="1879097256" name="Superior Dwarf-make Flute" icon="1090552922-1090531554-1090552924-1090552923" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064212" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070464" name="Serenade - Utility"/>
 </item>
 <item key="1879097257" name="Superior Beleriand Flute" icon="1090552922-1090531554-1090552924-1090552923" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064212" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070464" name="Serenade - Utility"/>
 </item>
 <item key="1879097258" name="Superior Westernesse Flute" icon="1090552922-1090531554-1090552924-1090552923" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064212" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070464" name="Serenade - Utility"/>
 </item>
 <item key="1879097259" name="Superior Dwarf-make Harp" icon="1090552919-1090531554-1090552921-1090552920" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064213" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070459" name="Serenade - Offense"/>
 </item>
 <item key="1879097260" name="Superior Beleriand Harp" icon="1090552919-1090531554-1090552921-1090552920" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064213" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070459" name="Serenade - Offense"/>
 </item>
 <item key="1879097261" name="Superior Westernesse Harp" icon="1090552919-1090531554-1090552921-1090552920" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064213" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070459" name="Serenade - Offense"/>
 </item>
 <item key="1879097262" name="Superior Dwarf-make Lute" icon="1090532809-1090531554-1090532811-1090532810" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070131" name="Serenade - Defence"/>
 </item>
 <item key="1879097263" name="Superior Beleriand Lute" icon="1090532809-1090531554-1090532811-1090532810" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070131" name="Serenade - Defence"/>
 </item>
 <item key="1879097264" name="Superior Westernesse Lute" icon="1090532809-1090531554-1090532811-1090532810" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879070131" name="Serenade - Defence"/>
 </item>
 <item key="1879097265" name="Dwarf-make Drum" icon="1090557426-1090531554-1090557428-1090557427" level="44" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="TOUGH" quality="COMMON" minLevel="44" requiredClass="Minstrel" requiredFaction="1879091408;5" requiredTrait="1879088470" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 </item>
 <item key="1879097266" name="Westernesse Lute" icon="1090532809-1090531554-1090532811-1090532810" level="39" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="TOUGH" quality="COMMON" minLevel="39" requiredClass="Minstrel" requiredFaction="1879091340;5" requiredTrait="1879064210" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 </item>
 <item key="1879097267" name="Superior Dwarf-make Theorbo" icon="1090648174-1090531554-1090648175-1090648515" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088471" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Ancient Dwarf-make"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:4"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088721" name="Ballad - Threat"/>
 </item>
 <item key="1879097268" name="Superior Beleriand Theorbo" icon="1090648174-1090531554-1090648175-1090648515" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088471" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Beleriand"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:8"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088721" name="Ballad - Threat"/>
 </item>
 <item key="1879097269" name="Superior Westernesse Theorbo" icon="1090648174-1090531554-1090648175-1090648515" level="40" slot="RANGED_ITEM" category="ITEM" class="11" equipmentCategory="7" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="COMMON" minLevel="40" requiredClass="Minstrel" requiredTrait="1879088471" valueTableId="1879049654">
 <stats>
-<specialEffect label="Set Chant of the Oathbreaker damage type to Westernesse"/>
+<stat name="Item_Minstrel_Oathbreaker_Damagetype" operator="SET" value="e587202600:2"/>
 </stats>
 <effect type="ON_EQUIP" id="1879088721" name="Ballad - Threat"/>
 </item>

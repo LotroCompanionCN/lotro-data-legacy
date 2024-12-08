@@ -8,6 +8,7 @@
 <label key="1879049270" value="Parry Response"/>
 <label key="1879049330" value="Hounding Fear"/>
 <label key="1879049334" value="Distraction"/>
+<label key="1879049335" value="Trick: Enraged"/>
 <label key="1879049336" value="Suppression Vulnerability"/>
 <label key="1879049339" value="Directed Attack"/>
 <label key="1879049342" value="Summon Brigand Wolf Pet"/>
@@ -81,6 +82,7 @@
 <label key="1879051273" value="Silenced"/>
 <label key="1879051274" value="Chilled"/>
 <label key="1879051277" value="Aura of Command"/>
+<label key="1879051278" value="Aura of Command"/>
 <label key="1879051284" value="Unsettled"/>
 <label key="1879051287" value="Minor Dread"/>
 <label key="1879051290" value="Dread"/>
@@ -112,6 +114,8 @@
 <label key="1879052127" value="Dispel Aim."/>
 <label key="1879052129" value="Double Edged"/>
 <label key="1879052132" value="Aiming"/>
+<label key="1879052133" value="Aimed"/>
+<label key="1879052134" value="Aimed Stealth"/>
 <label key="1879052163" value="Induce Fellowship Manoeuvre Stunned"/>
 <label key="1879052204" value="Induce Stunned"/>
 <label key="1879052213" value="Lesser Giant Eagle"/>
@@ -128,9 +132,11 @@
 <label key="1879052433" value="Fire Oil"/>
 <label key="1879052436" value="Create Bear Trap"/>
 <label key="1879052475" value="Bow of the Righteous"/>
+<label key="1879052476" value="Bow of the Righteous"/>
 <label key="1879052519" value="On the Move Morale Heal"/>
 <label key="1879052520" value="On the Move Power Heal"/>
 <label key="1879052535" value="Rain of Thorns Root"/>
+<label key="1879052651" value="Response"/>
 <label key="1879052657" value="Shadow Grip"/>
 <label key="1879052658" value="Shadow Grip"/>
 <label key="1879052660" value="Terrible Retribution"/>
@@ -162,6 +168,8 @@
 <label key="1879053063" value="Oathbreaker Mark"/>
 <label key="1879053116" value="Defiant"/>
 <label key="1879053117" value="Last Stand"/>
+<label key="1879053118" value="Healing Countdown"/>
+<label key="1879053131" value="Trait: Last Stand Heal"/>
 <label key="1879053138" value="Lightly Reinforced Armour"/>
 <label key="1879053143" value="Increased Morale"/>
 <label key="1879053192" value="Power Damage Med"/>
@@ -215,8 +223,10 @@
 <label key="1879056916" value="Induce Knockeddown"/>
 <label key="1879056917" value="Ignite flammable target"/>
 <label key="1879056918" value="Immolated"/>
+<label key="1879056982" value="Fellowship Manoeuvre"/>
 <label key="1879056987" value="Piercing Talons"/>
 <label key="1879056988" value="Harrying Wings"/>
+<label key="1879056989" value="Harrying Wings"/>
 <label key="1879056990" value="Glory in Victory"/>
 <label key="1879056991" value="Dispel Frenzy"/>
 <label key="1879056992" value="Dispel Response"/>
@@ -239,6 +249,7 @@
 <label key="1879059591" value="Renewal"/>
 <label key="1879059634" value="Rage"/>
 <label key="1879059646" value="Blood Gift"/>
+<label key="1879059647" value="Blood Gift"/>
 <label key="1879059659" value="Blood Pact Protection"/>
 <label key="1879059705" value="Impale"/>
 <label key="1879059706" value="Impaled"/>
@@ -277,11 +288,14 @@
 <label key="1879060286" value="Call to Arms: Herald of Victory"/>
 <label key="1879060295" value="Empowering Triumph"/>
 <label key="1879060296" value="Cry of Victory: Morale"/>
+<label key="1879060297" value="Empowering Triumph"/>
 <label key="1879060301" value="Escape From Darkness"/>
 <label key="1879060305" value="Improved Rallying Cry"/>
+<label key="1879060306" value="Cry of Victory: Power"/>
 <label key="1879060308" value="Dispel Enemy Defeat"/>
 <label key="1879060310" value="Enemy Defeat Response"/>
 <label key="1879060314" value="Improved Warcry"/>
+<label key="1879060315" value="Improved War-cry"/>
 <label key="1879060318" value="War-cry"/>
 <label key="1879060323" value="Improved Routing Cry"/>
 <label key="1879060329" value="Heroic Strike/Heroic Cry Combo"/>
@@ -296,6 +310,7 @@
 <label key="1879060368" value="Call to Arms: Herald of War"/>
 <label key="1879060370" value="Call to Arms: Herald of War"/>
 <label key="1879060379" value="Improved Words of Courage"/>
+<label key="1879060380" value="Improved Words of Courage"/>
 <label key="1879060384" value="Courage"/>
 <label key="1879060402" value="Call to Arms: Improved Herald of Hope"/>
 <label key="1879060418" value="Call to Arms: Herald of Hope"/>
@@ -304,19 +319,29 @@
 <label key="1879060424" value="Call to Arms: Herald of Hope"/>
 <label key="1879060433" value="Dispel Readied."/>
 <label key="1879060492" value="Improved Branching Attack"/>
+<label key="1879060493" value="Improved Flurry"/>
 <label key="1879060497" value="Improved Swift Strike"/>
+<label key="1879060498" value="Call of the Wild"/>
 <label key="1879060520" value="Improved Branching Attack"/>
+<label key="1879060521" value="Bracing Attack Heal"/>
 <label key="1879060525" value="Improved Wild Attack"/>
 <label key="1879060535" value="Improved Blade Wall"/>
+<label key="1879060536" value="Improved Blade Wall"/>
 <label key="1879060539" value="Deep Strikes"/>
+<label key="1879060540" value="Deep Strikes"/>
 <label key="1879060554" value="Dire Need"/>
 <label key="1879060557" value="Patience"/>
+<label key="1879060558" value="Improved Exchange of Blows"/>
 <label key="1879060575" value="Dispel Block"/>
 <label key="1879060576" value="Shield Swipe"/>
 <label key="1879060584" value="Guardian's Ward"/>
+<label key="1879060585" value="Improved Guardian's Ward"/>
 <label key="1879060607" value="Improved Branching Attack"/>
+<label key="1879060608" value="Catch a Breath Power Heal"/>
+<label key="1879060609" value="Improved Catch a Breath Morale Heal"/>
 <label key="1879060612" value="Dispel Evade"/>
 <label key="1879060614" value="Catch a Breath Morale Heal"/>
+<label key="1879060616" value="Evade Response"/>
 <label key="1879060637" value="Protection"/>
 <label key="1879060639" value="Protection"/>
 <label key="1879060646" value="Guardian's Pledge"/>
@@ -327,14 +352,22 @@
 <label key="1879060662" value="Improved Branching Attack"/>
 <label key="1879060664" value="Thrill of Danger"/>
 <label key="1879060669" value="Sturdy Trap"/>
+<label key="1879060670" value="Create Trap"/>
+<label key="1879060672" value="Induce Rooted"/>
 <label key="1879060673" value="Trap Damage"/>
 <label key="1879060677" value="Create Trap"/>
 <label key="1879060689" value="Improved Shadow Tracking"/>
 <label key="1879060690" value="Improved Nature Tracking"/>
 <label key="1879060691" value="Improved Foe Tracking"/>
+<label key="1879060692" value="Improved Hunter Shadow Tracking"/>
+<label key="1879060693" value="Improved Hunter Nature Tracking"/>
+<label key="1879060694" value="Improved Hunter Foe Tracking"/>
 <label key="1879060704" value="Centreing Self"/>
+<label key="1879060705" value="Increased Power"/>
 <label key="1879060709" value="Deadly Precision"/>
+<label key="1879060710" value="Focus Increase"/>
 <label key="1879060718" value="Stealthy Shot"/>
+<label key="1879060719" value="Improved Beneath Notice"/>
 <label key="1879060721" value="Beneath Notice"/>
 <label key="1879060726" value="Needful Haste"/>
 <label key="1879060754" value="Flanked! Improved Staff Strike"/>
@@ -354,6 +387,7 @@
 <label key="1879060822" value="Induce Dazed"/>
 <label key="1879060828" value="Tend the Sick"/>
 <label key="1879060833" value="Knowledge of the Past"/>
+<label key="1879060834" value="Knowledge Of The Past"/>
 <label key="1879060838" value="Ancient Wisdom"/>
 <label key="1879060840" value="Improved Ancient Wisdom"/>
 <label key="1879060847" value="Lend Power"/>
@@ -361,21 +395,27 @@
 <label key="1879060873" value="Anthem of the Free People"/>
 <label key="1879060881" value="Song of Aid"/>
 <label key="1879060883" value="Song of Aid Improved"/>
+<label key="1879060884" value="Song of Aid"/>
 <label key="1879060906" value="Ballad of Resonance"/>
 <label key="1879060912" value="Enlivening Grace"/>
 <label key="1879060917" value="Dispel Silence"/>
 <label key="1879060924" value="Soothing Song"/>
 <label key="1879060940" value="Cunning Bleed"/>
 <label key="1879060941" value="Cunning Bleed"/>
+<label key="1879060942" value="Bleeding Vitals"/>
+<label key="1879060943" value="Improved Bleeding Vitals"/>
 <label key="1879060954" value="ComplexRiddle"/>
 <label key="1879060957" value="Induce Dazed"/>
 <label key="1879060969" value="Bow Bane"/>
+<label key="1879060970" value="Increased Power"/>
 <label key="1879060973" value="Trick: Dust in the Eyes"/>
 <label key="1879060974" value="Exit Dazed"/>
 <label key="1879060984" value="Distraction"/>
 <label key="1879060988" value="Disabled Attack"/>
+<label key="1879060989" value="Trick: Improved Disable"/>
 <label key="1879060990" value="Trick: Disable"/>
 <label key="1879060994" value="Opportunist"/>
+<label key="1879060995" value="Trick: Improved Counter Defence"/>
 <label key="1879060997" value="Trick: Counter Defence"/>
 <label key="1879061009" value="Improved Stealth"/>
 <label key="1879061013" value="Simple Stealth"/>
@@ -393,7 +433,9 @@
 <label key="1879062363" value="Burning Oil"/>
 <label key="1879062364" value="Sticky Tar"/>
 <label key="1879062461" value="Ballad of Aiglos[sp]"/>
+<label key="1879062462" value="Ballad of Aiglos[sp]"/>
 <label key="1879062463" value="Chant of the Stalwart[E]"/>
+<label key="1879062464" value="Chant of the Stalwart[E]"/>
 <label key="1879062868" value="Track Mines"/>
 <label key="1879062907" value="Track Wood"/>
 <label key="1879062970" value="Smoking Pipe-weed"/>
@@ -508,12 +550,15 @@
 <label key="1879070536" value="Sigil - Dúnedain"/>
 <label key="1879070537" value="Sigil - Dúnedain"/>
 <label key="1879072523" value="Jagged Cut Bleed"/>
+<label key="1879072524" value="Jagged Wound"/>
 <label key="1879072527" value="Exit All Harmful States"/>
 <label key="1879072532" value="Hamstrung"/>
 <label key="1879072535" value="Webbed"/>
 <label key="1879072539" value="Trapdoor Sanctuary"/>
 <label key="1879072540" value="Burrowed Stealth"/>
 <label key="1879072541" value="Hindering Shot Root"/>
+<label key="1879072542" value="Arrow Pin"/>
+<label key="1879072553" value="Mobilize"/>
 <label key="1879072564" value="Improved Stealth"/>
 <label key="1879072566" value="Simple Stealth"/>
 <label key="1879072994" value="Induce Cowering"/>
@@ -539,6 +584,7 @@
 <label key="1879073079" value="Fellow Defeat Response"/>
 <label key="1879073080" value="Cry of Vengeance"/>
 <label key="1879073088" value="In Harm's Way"/>
+<label key="1879073089" value="Captain's Protection"/>
 <label key="1879073090" value="Focus"/>
 <label key="1879073091" value="Kneel!"/>
 <label key="1879073093" value="Herald Strike Healing Boon"/>
@@ -562,6 +608,11 @@
 <label key="1879073135" value="Noble Cause Reset"/>
 <label key="1879073139" value="Greater Raise the Spirit"/>
 <label key="1879073142" value="Dispel Defeat"/>
+<label key="1879073143" value="A Faltering Step"/>
+<label key="1879073144" value="A Minor Setback"/>
+<label key="1879073145" value="The Thin Red Line"/>
+<label key="1879073146" value="Visions of War"/>
+<label key="1879073147" value="Angmar's Doom"/>
 <label key="1879073157" value="Anthem of Compassion"/>
 <label key="1879073162" value="Triumphant Spirit"/>
 <label key="1879073164" value="Ballad of Flame"/>
@@ -627,6 +678,7 @@
 <label key="1879073395" value="Flensing Slash/Barbed Arrow Combo"/>
 <label key="1879073396" value="Flensing Slash Damage"/>
 <label key="1879073405" value="findthepath"/>
+<label key="1879073406" value="Find the Path"/>
 <label key="1879073407" value="Cleanse Poison Resistance"/>
 <label key="1879073413" value="Camp"/>
 <label key="1879073418" value="Hunter Travel to Nearest Rally Point"/>
@@ -641,6 +693,7 @@
 <label key="1879073433" value="Stance: Precision"/>
 <label key="1879073434" value="Stance: Strength"/>
 <label key="1879073435" value="Strength Stance Upgrade: Crippling Shot"/>
+<label key="1879073436" value="Crippling Shot"/>
 <label key="1879073438" value="Stance: Endurance"/>
 <label key="1879073439" value="Stance: Endurance"/>
 <label key="1879073482" value="Hobbit Travel to The Shire"/>
@@ -689,6 +742,7 @@
 <label key="1879074174" value="Chicken"/>
 <label key="1879074177" value="Chicken"/>
 <label key="1879076069" value="Hope Aura"/>
+<label key="1879076070" value="Hope"/>
 <label key="1879076078" value="courage"/>
 <label key="1879076079" value="Fellowship's Heart"/>
 <label key="1879076274" value="Create Cooking Campfire"/>
@@ -849,6 +903,7 @@
 <label key="1879085345" value="Track Men"/>
 <label key="1879085346" value="Improved Track Men"/>
 <label key="1879085382" value="Horn"/>
+<label key="1879085383" value="Induce Cowering"/>
 <label key="1879085384" value="Horn"/>
 <label key="1879085385" value="Induce Feared"/>
 <label key="1879085397" value="Horn"/>
@@ -1098,6 +1153,9 @@
 <label key="1879093331" value="Growing Fire"/>
 <label key="1879093337" value="Strength of Will"/>
 <label key="1879093339" value="Words of Victory Combo"/>
+<label key="1879093341" value="Improved Banner of War"/>
+<label key="1879093344" value="Improved Banner of Defence"/>
+<label key="1879093345" value="Improved Banner of Hope"/>
 <label key="1879093389" value="Improved Standard of Victory"/>
 <label key="1879093390" value="Improved Standard of Hope"/>
 <label key="1879093391" value="Improved Standard of War"/>
@@ -1148,6 +1206,7 @@
 <label key="1879094624" value="Summon Red Troll-keeper"/>
 <label key="1879094625" value="Master's Command"/>
 <label key="1879094741" value="Aura of Command"/>
+<label key="1879094744" value="Aura of Command"/>
 <label key="1879094786" value="Paranoia"/>
 <label key="1879094803" value="Disperse Fire"/>
 <label key="1879094810" value="Warded Area: Creatures of Nature"/>
@@ -1158,8 +1217,11 @@
 <label key="1879094829" value="Sticky Tar"/>
 <label key="1879094830" value="Sticky Tar"/>
 <label key="1879094874" value="Tale of Heroism"/>
+<label key="1879094875" value="Tale of Heroism"/>
 <label key="1879094883" value="Tale of Warding"/>
+<label key="1879094885" value="Tale of Warding"/>
 <label key="1879094887" value="Tale of Battle"/>
+<label key="1879094889" value="Tale of Battle"/>
 <label key="1879095021" value="The Call of Arda"/>
 <label key="1879095064" value="Power Drain"/>
 <label key="1879095065" value="Morale Drain"/>
@@ -1219,7 +1281,10 @@
 <label key="1879095831" value="Channelling The Void"/>
 <label key="1879095832" value="Grievous Wound"/>
 <label key="1879095833" value="Summoned Minion"/>
+<label key="1879095834" value="Draining Void"/>
 <label key="1879095835" value="Blinding Dark"/>
+<label key="1879095836" value="Morale Drain"/>
+<label key="1879095837" value="Power Drain"/>
 <label key="1879095838" value="Call of the Void"/>
 <label key="1879096314" value="Dance!"/>
 <label key="1879096315" value="Chord of Salvation"/>
@@ -1267,12 +1332,15 @@
 <label key="1879096865" value="Learn the theorbo"/>
 <label key="1879096879" value="Great Protection"/>
 <label key="1879096899" value="Dispel Half Mitigation"/>
+<label key="1879097086" value="Bone Grind"/>
+<label key="1879097087" value="Blood Gift"/>
 <label key="1879097098" value="Savage Bleed"/>
 <label key="1879097165" value="Fire Oil"/>
 <label key="1879097191" value="Final Act"/>
 <label key="1879097219" value="Cheer"/>
 <label key="1879097229" value="Give Hope[e]"/>
 <label key="1879097234" value="Turtle"/>
+<label key="1879097235" value="Back from the Brink"/>
 <label key="1879097318" value="Parry[e]"/>
 <label key="1879097338" value="Back from the Brink"/>
 <label key="1879097387" value="Stun Proc"/>
@@ -1295,11 +1363,15 @@
 <label key="1879097593" value="Large Breach"/>
 <label key="1879097594" value="Major Breach"/>
 <label key="1879097595" value="Grievous Breach"/>
+<label key="1879097596" value="Balrog's Protection"/>
+<label key="1879097597" value="Balrog's Rage"/>
 <label key="1879097598" value="Aura of Protection"/>
 <label key="1879097599" value="Aura of Restoration"/>
 <label key="1879097600" value="Aura of Rage"/>
 <label key="1879097601" value="Aura of Retribution"/>
+<label key="1879097602" value="Balrog's Renewal"/>
 <label key="1879097605" value="Lynx Stalking"/>
+<label key="1879097692" value="Balrog's Retribution"/>
 <label key="1879097694" value="Weaken"/>
 <label key="1879097710" value="Zogtark's Bane"/>
 <label key="1879097782" value="Blood Gift"/>
@@ -1327,6 +1399,7 @@
 <label key="1879098323" value="Exposing Strke Chain Up Combo"/>
 <label key="1879098324" value="Exposing Strke Chain Up Base"/>
 <label key="1879098336" value="Induce Dazed"/>
+<label key="1879098337" value="Induce Improved Riddle"/>
 <label key="1879098376" value="Induce Feared"/>
 <label key="1879098720" value="Induce Dazed"/>
 <label key="1879098722" value="Greater Shadow Vulnerability"/>
@@ -1336,6 +1409,7 @@
 <label key="1879098727" value="Deeply Penetrating Thorn"/>
 <label key="1879098808" value="Percent Morale Damage"/>
 <label key="1879098828" value="Summoned Fire-wisp"/>
+<label key="1879098829" value="Improved Gift of the Hammerhand"/>
 <label key="1879098830" value="Improved Gift of the Hammerhand"/>
 <label key="1879098854" value="Tempered by Flame"/>
 <label key="1879098901" value="Bird Call"/>
@@ -1380,6 +1454,7 @@
 <label key="1879101733" value="Banner of Terror"/>
 <label key="1879101734" value="Command Post"/>
 <label key="1879101801" value="Nature's Bounty"/>
+<label key="1879101872" value="Song of Aid"/>
 <label key="1879101894" value="Novice Riding"/>
 <label key="1879101901" value="Bree-land Homestead"/>
 <label key="1879101902" value="Bree-land Homestead"/>
@@ -1394,6 +1469,7 @@
 <label key="1879101911" value="Thorin’s Halls Homestead"/>
 <label key="1879101912" value="Thorin’s Halls Kinship Hall"/>
 <label key="1879101913" value="Fire Club"/>
+<label key="1879101923" value="Tale of Warding"/>
 <label key="1879101996" value="Recalling Root"/>
 <label key="1879102249" value="Chicken Travel - Angmar"/>
 <label key="1879102250" value="Chicken Travel - Breeland"/>
@@ -1412,6 +1488,9 @@
 <label key="key:620757522:54354734" value="Any Skills that are based on a successful block response may now be played."/>
 <label key="key:620757523:54354734" value="Any Skills that are based on a successful parry response may now be played."/>
 <label key="key:620757541:54354734" value="The fear of the monster hounding you has locked your heart and mind with fear slowing your movement."/>
+<label key="key:620757546:106251889" value="Target unable to make most ranged attacks."/>
+<label key="key:620757546:106251890" value="Target will attack enemies at random"/>
+<label key="key:620757546:54354734" value="Only one Trick per Burglar."/>
 <label key="key:620757552:54354734" value="Sends a call to friends to attack the target of this effect."/>
 <label key="key:620757557:54354734" value="The monster is infuriated."/>
 <label key="key:620757563:54354734" value="The creature's bite wounded your leg, slowing you."/>
@@ -1451,6 +1530,7 @@
 <label key="key:620758172:54354734" value="Reduces incoming common damage most of the time."/>
 <label key="key:620758622:54354734" value="In a terrible frenzy."/>
 <label key="key:620758624:54354734" value="Some skills requiring voice cannot be used."/>
+<label key="key:620758628:54354734" value="The Uruk's presence inspires nearby Orcs to greater strength and fury."/>
 <label key="key:620758632:54354734" value="Decreases Will and Fate"/>
 <label key="key:620758635:54354734" value="Decreases Will and Fate"/>
 <label key="key:620758637:54354734" value="Such trauma can only be suppressed before it fully manifests."/>
@@ -1474,6 +1554,7 @@
 <label key="key:620759376:181298206" value="Several ranged skills deal Fire Damage instead of their normal damage type and will cause Fire Damage over time on critical hits."/>
 <label key="key:620759376:54354734" value="Several ranged skills deal Fire Damage instead of their normal damage type and will cause Fire Damage over time on critical hits."/>
 <label key="key:620759441:181298206" value="Roots for up to 30s"/>
+<label key="key:620759496:54354734" value="Able to respond to recent event."/>
 <label key="key:620759500:54354734" value="Steals the morale of the target, healing the wraith"/>
 <label key="key:620759505:54354734" value="Attacking the wraith returns cold, shocking pain. Sometimes the shock is enough to root the attacker with terror where they stand."/>
 <label key="key:620759507:54354734" value="Your heart is heavy in the face of such evil."/>
@@ -1509,8 +1590,10 @@
 <label key="key:620762630:181298206" value="Reduces incoming common damage most of the time."/>
 <label key="key:620762630:54354734" value="Reduces incoming common damage most of the time."/>
 <label key="key:620762696:54354734" value="Sends a call to minions nearby the target to join in the combat."/>
+<label key="key:620762783:54354734" value="Has been struck by a successful fellowhip manoeuvre."/>
 <label key="key:620762785:54354734" value="A swirling cloud of craban surround the Uruk, retaliating at any who strike him."/>
 <label key="key:620762786:54354734" value="A swarm of craban hamper movement, slowing any attacks."/>
+<label key="key:620762787:54354734" value="Swirling craban hamper you as you come near, slowing your attacks."/>
 <label key="key:620762789:54354734" value="The Uruk is bolstered by the defeat of an enemy."/>
 <label key="key:620762799:181298206" value="Chance of reflecting a portion of damage back to the attacker."/>
 <label key="key:620762799:54354734" value="Chance of reflecting a portion of damage back to the attacker."/>
@@ -1534,7 +1617,10 @@
 <label key="key:620765331:54354734" value="Any Skills that are based on a successful critical response may now be played."/>
 <label key="key:620765404:54354734" value="Any Skills that are based on a successful enemy defeat response may now be played."/>
 <label key="key:620765422:54354734" value="Battle Cry's use has initiated the Battle-readied State."/>
+<label key="key:620765623:54354734" value="Damages attackers."/>
 <label key="key:620765638:54354734" value="Shield Swipe's use has opened new combat opportunities."/>
+<label key="key:620765664:54354734" value="Any Skills that are based on a successful evade response may now be played."/>
+<label key="key:620765710:181298206" value="Roots for up to 30s"/>
 <label key="key:620765792:54354734" value="Power is being drained."/>
 <label key="key:620765795:54354734" value="Power is being drained."/>
 <label key="key:620765826:54354734" value="The ground heaves and buckles around the foes of Middle-Earth.  When this countdown is over, the target will be rooted."/>
@@ -1546,9 +1632,14 @@
 <label key="key:620765967:54354734" value="Only one Trick per Burglar."/>
 <label key="key:620765968:181298206" value="Will break a target out of being Dazed."/>
 <label key="key:620765978:54354734" value="The target is briefly distracted."/>
+<label key="key:620765982:106251889" value="Slows attack speed by ${PERCENTVALUE}"/>
+<label key="key:620765982:106251890" value="Reduces melee damage by ${PERCENTVALUE}"/>
+<label key="key:620765982:54354734" value="Only one Trick per Burglar."/>
 <label key="key:620765984:106251889" value="Slows attack speed by ${PERCENTVALUE}"/>
 <label key="key:620765984:106251890" value="Reduces melee damage by ${PERCENTVALUE}"/>
 <label key="key:620765984:54354734" value="Only one Trick per Burglar."/>
+<label key="key:620765988:106251889" value="Reduces Parry, Block, and Evade by ${PERCENTVALUE}"/>
+<label key="key:620765988:54354734" value="Only one Trick per Burglar."/>
 <label key="key:620765990:106251889" value="Reduces Parry, Block, and Evade by ${PERCENTVALUE}"/>
 <label key="key:620765990:54354734" value="Only one Trick per Burglar."/>
 <label key="key:620766001:106251890" value="Your stealth is not broken by damage."/>
@@ -1585,6 +1676,8 @@
 <label key="key:620774682:54354734" value="The reaver's cut wounds the target's leg, slowing movement."/>
 <label key="key:620774701:106251889" value="Cannot be attacked."/>
 <label key="key:620774765:106251890" value="Your stealth is not broken by damage."/>
+<label key="key:620774792:106251889" value="Cannot move."/>
+<label key="key:620774792:54354734" value="The Uruk's arrow prevents you from moving."/>
 <label key="key:620774799:106251889" value="Decreased movement speed."/>
 <label key="key:620774876:106251891" value="Cannot Evade, Parry or Block"/>
 <label key="key:620774882:54354734" value="Damages attackers."/>
@@ -1594,11 +1687,22 @@
 <label key="key:620774926:106251889" value="+5% Maximum Morale"/>
 <label key="key:620774933:54354734" value="Damage dealt to the marked target has a restoring effect on the attacker."/>
 <label key="key:620774937:54354734" value="Any Skills that are based on a fellowship member being defeated may now be played."/>
+<label key="key:620774940:54354734" value="The character is being protected by a Captain."/>
 <label key="key:620774944:54354734" value="Causes the target to kneel."/>
 <label key="key:620774953:54354734" value="Your Herald Strike attacks give you back morale."/>
 <label key="key:620774954:54354734" value="Your Herald Strike attacks give you back morale."/>
 <label key="key:620774958:181298206" value="Instant Fellowship Heal"/>
 <label key="key:620774960:54354734" value="Special attacks are improved."/>
+<label key="key:620774993:106251889" value="Add ${VALUE} Dread"/>
+<label key="key:620774993:54354734" value="A minor defeat can be shrugged off like water upon stone."/>
+<label key="key:620774994:106251889" value="Add ${VALUE} Dread"/>
+<label key="key:620774994:54354734" value="It's good to live and fight another day."/>
+<label key="key:620774995:106251889" value="Add ${VALUE} Dread"/>
+<label key="key:620774995:54354734" value="This sting of defeat still lies heavily about."/>
+<label key="key:620774996:106251889" value="Add ${VALUE} Dread"/>
+<label key="key:620774996:54354734" value="All the world may come to ruin."/>
+<label key="key:620774997:106251889" value="Add ${VALUE} Dread"/>
+<label key="key:620774997:54354734" value="The Wrath of the Witch King hovers overhead."/>
 <label key="key:620775021:54354734" value="Incoming Morale damage is transformed into Power damage."/>
 <label key="key:620775073:106251889" value="You gain ${VALUE} in stealth detection."/>
 <label key="key:620775075:106251889" value="You gain ${VALUE} in stealth detection."/>
@@ -1622,6 +1726,7 @@
 <label key="key:620775229:106251890" value="Increases Power cost of bow skills by ${PERCENTVALUE}."/>
 <label key="key:620775229:106251891" value="Increases the Threat you generate by ${PERCENTVALUE}."/>
 <label key="key:620775229:54354734" value="While in Strength Stance, your Quick Shot will slow your target's movement."/>
+<label key="key:620775231:106251889" value="Slows movement speed by 40%"/>
 <label key="key:620775234:106251890" value="Reduces Power cost of bow skills by ${PERCENTVALUE}."/>
 <label key="key:620775234:106251891" value="Reduces the Threat you generate by ${PERCENTVALUE}."/>
 <label key="key:620775234:54354734" value="While in Endurance Stance, your Quick Shot lowers your target's threat for you."/>
@@ -1649,6 +1754,8 @@
 <label key="key:620775431:106251889" value="Slows movement by 25%"/>
 <label key="key:620775766:54354734" value="The boar's diseased bite has infected you."/>
 <label key="key:620777549:54354734" value="The uplifting presence of good."/>
+<label key="key:620777550:106251891" value="Add ${VALUE} Hope"/>
+<label key="key:620777550:54354734" value="Your heart is glad to have found a beacon of light in the dark."/>
 <label key="key:620777561:54354734" value="Immunity to fear effects."/>
 <label key="key:620778067:54354734" value="Experience gained from defeating enemies is increased."/>
 <label key="key:620778069:54354734" value="Movement speed is increased."/>
@@ -1897,10 +2004,12 @@
 <label key="key:620794210:181298206" value="Usage: Eating this cheese is probably not a great idea."/>
 <label key="key:620794210:54354734" value="That was rather unwise."/>
 <label key="key:620794511:54354734" value="The troll is commanded by his ally to attack all foes at random."/>
+<label key="key:620794590:54354734" value="The Uruk's presence inspires those nearby to greater strength and fury."/>
 <label key="key:620794612:54354734" value="Your stealth detection is greatly increased."/>
 <label key="key:620794617:181298206" value="Disperse Shadow: You have a chance of absorbing some incoming Fire Damage."/>
 <label key="key:620794617:54354734" value="Increased chance of absorbing some incoming Fire damage."/>
 <label key="key:620794649:106251889" value="Slows movement speed by 50%"/>
+<label key="key:620794664:106251890" value="+1 Hope"/>
 <label key="key:620794981:54354734" value="The Gorthorog finds your friendly actions more threatening."/>
 <label key="key:620795342:54354734" value="This effect damages attackers, has a chance to stun enemies, and infrequently can absorb an entire attack."/>
 <label key="key:620795343:54354734" value=".."/>
@@ -1946,10 +2055,13 @@
 <label key="key:620796204:106251889" value="Changes the appearance of your Lynx to a Frost-lynx."/>
 <label key="key:620796206:106251889" value="Changes the appearance of your Lynx to a Spotted Lynx."/>
 <label key="key:620796246:54354734" value="The Balrog emanates a palpable aura, empowering itself and its allies nearby."/>
+<label key="key:620796247:106251889" value="Target deals 10% more damage"/>
 <label key="key:620796248:54354734" value="The Balrog emanates a palpable aura, empowering itself and its allies nearby."/>
 <label key="key:620796251:106251889" value="Increased evasion against ranged attacks"/>
 <label key="key:620796251:54354734" value="The sulfur raised by the Balrog now provides obscuring cover."/>
 <label key="key:620796252:54354734" value="The Balrog emanates a palpable aura, empowering itself and its allies nearby."/>
+<label key="key:620796253:106251889" value="Target takes 50% less damage"/>
+<label key="key:620796253:106251892" value="Reduced chance to suffer a critical hit."/>
 <label key="key:620796254:54354734" value="The Balrog emanates a palpable aura, empowering itself and its allies nearby."/>
 <label key="key:620796255:106251889" value="+${PERCENTVALUE} Critical Vulnerability"/>
 <label key="key:620796255:54354734" value="The force of the Balrog's attack leaves you moderately exposed to devastating strikes to follow."/>
@@ -1963,6 +2075,7 @@
 <label key="key:620796259:54354734" value="The force of the Balrog's attack leaves you extremely exposed to devastating strikes to follow."/>
 <label key="key:620796285:181298206" value="5% chance of stunning targets inflicting damage on you."/>
 <label key="key:620796285:54354734" value="5% chance of stunning targets inflicting damage on you."/>
+<label key="key:620796343:54354734" value="Attacking this creature causes you harm, as well. Sometimes it pain is enough to make you recoil in dread."/>
 <label key="key:620796344:181298206" value="Usage: Slightly damages the target while granting you Power."/>
 <label key="key:620796360:54354734" value="Sends a call to Zogtark's drakes to attack the target of his choosing."/>
 <label key="key:620796392:181298206" value="Summons a worm pet"/>
@@ -1983,6 +2096,8 @@
 <label key="key:620796750:106251889" value="Changes the appearance of your Lynx to an Ebony Lynx."/>
 <label key="key:620796751:106251889" value="Changes the appearance of your Raven to a Mottled-wing Raven."/>
 <label key="key:620796753:54354734" value="The orc's blow has damaged your armour, reducing the protection it offers."/>
+<label key="key:620796872:181298206" value="Dazes for up to 35s, with a five second grace period."/>
+<label key="key:620796872:54354734" value="Dazed for up to 35s, with a 5s grace period."/>
 <label key="key:620796873:181298206" value="Dazes for up to 15s with a five second grace period."/>
 <label key="key:620796873:54354734" value="Dazed for up to 15s with a 5s grace period."/>
 <label key="key:620796892:181298206" value="Fears for up to 10s"/>
