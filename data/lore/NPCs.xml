@@ -54,13 +54,21 @@
 <NPC id="1879048395" name="Celandine Brandybuck" gender="FEMALE"/>
 <NPC id="1879048396" name="Amdir" gender="MALE"/>
 <NPC id="1879048397" name="Mundo Sackville-Baggins" gender="MALE"/>
-<NPC id="1879048401" name="Elrohir" gender="MALE"/>
+<NPC id="1879048401" name="Elrohir" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048405" name="Gimli" gender="MALE"/>
-<NPC id="1879048407" name="Gandalf" gender="MALE"/>
+<NPC id="1879048407" name="Gandalf" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048409" name="Otur" gender="MALE"/>
 <NPC id="1879048411" name="Vitharr" gender="MALE"/>
-<NPC id="1879048436" name="Gildor Inglorion" gender="MALE"/>
-<NPC id="1879048441" name="Halbarad" gender="MALE"/>
+<NPC id="1879048436" name="Gildor Inglorion" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
+<NPC id="1879048441" name="Halbarad" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048453" name="Of Arthedain and its Settlements"/>
 <NPC id="1879048456" name="Nellie Boskins" gender="FEMALE"/>
 <NPC id="1879048460" name="Jennet Brockhouse" gender="FEMALE" title="key:620759147:229802005"/>
@@ -86,29 +94,45 @@
 <NPC id="1879048489" name="Olin" gender="MALE"/>
 <NPC id="1879048494" name="Halmur Stoneshaper" gender="MALE"/>
 <NPC id="1879048498" name="Postman Took" gender="MALE"/>
-<NPC id="1879048502" name="Tom Bombadil" gender="MALE"/>
+<NPC id="1879048502" name="Tom Bombadil" gender="MALE">
+<startupEffect id="1879076088" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048510" name="Gerebert Took" gender="MALE"/>
-<NPC id="1879048513" name="The Witch-king" gender="MALE" title="key:620779048:229802005"/>
-<NPC id="1879048515" name="Tom Bombadil" gender="MALE"/>
+<NPC id="1879048513" name="The Witch-king" gender="MALE" title="key:620779048:229802005">
+<startupEffect id="1879080624" name="Dread Aura"/>
+</NPC>
+<NPC id="1879048515" name="Tom Bombadil" gender="MALE">
+<startupEffect id="1879076088" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048519" name="Bounder Primstone" gender="MALE"/>
-<NPC id="1879048526" name="Thain Paladin Took II" gender="MALE"/>
+<NPC id="1879048526" name="Thain Paladin Took II" gender="MALE">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048529" name="Pervinca Took" gender="FEMALE"/>
 <NPC id="1879048531" name="Adelard Took" gender="MALE"/>
 <NPC id="1879048537" name="Small Bookshelf"/>
 <NPC id="1879048539" name="Captain Brackenbrook" gender="MALE"/>
 <NPC id="1879048543" name="Ellie Cutleaf" gender="FEMALE"/>
 <NPC id="1879048554" name="Toradan" gender="MALE"/>
-<NPC id="1879048558" name="Barliman Butterbur" gender="MALE" title="key:620757737:229802005"/>
+<NPC id="1879048558" name="Barliman Butterbur" gender="MALE" title="key:620757737:229802005">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048565" name="Bob" gender="MALE"/>
-<NPC id="1879048568" name="Strider" gender="MALE"/>
-<NPC id="1879048574" name="Gandalf" gender="MALE"/>
+<NPC id="1879048568" name="Strider" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
+<NPC id="1879048574" name="Gandalf" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048576" name="Piper Prescott" gender="MALE"/>
 <NPC id="1879048581" name="Archivist Arodel" gender="MALE" title="key:620767162:229802005"/>
 <NPC id="1879048585" name="Researcher Mallennor" gender="MALE" title="key:620767169:229802005"/>
 <NPC id="1879048587" name="Laerdan" gender="MALE"/>
 <NPC id="1879048593" name="Fimreg" gender="FEMALE"/>
 <NPC id="1879048598" name="Lunathron" gender="MALE"/>
-<NPC id="1879048601" name="Lorniel" gender="FEMALE"/>
+<NPC id="1879048601" name="Lorniel" gender="FEMALE">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048605" name="Golodir" gender="MALE"/>
 <NPC id="1879048608" name="Húriel" gender="FEMALE"/>
 <NPC id="1879048610" name="Thoriel" gender="FEMALE"/>
@@ -119,7 +143,9 @@
 <NPC id="1879048628" name="Thorth" gender="MALE" title="key:620763065:229802005"/>
 <NPC id="1879048630" name="Gormal" gender="MALE"/>
 <NPC id="1879048633" name="Bethad" gender="MALE"/>
-<NPC id="1879048641" name="Aragorn" gender="MALE"/>
+<NPC id="1879048641" name="Aragorn" gender="MALE">
+<startupEffect id="1879076088" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048646" name="Mundol" gender="MALE"/>
 <NPC id="1879048649" name="Lizbeth Honeymeade" gender="FEMALE" title="key:620766887:229802005"/>
 <NPC id="1879048651" name="Toradan" gender="MALE"/>
@@ -128,16 +154,28 @@
 <NPC id="1879048656" name="Expert Scholar" gender="MALE" title="key:620767343:229802005"/>
 <NPC id="1879048658" name="Expert Jeweller" gender="FEMALE" title="key:620767421:229802005"/>
 <NPC id="1879048660" name="Deluros" gender="MALE"/>
-<NPC id="1879048665" name="Gandalf" gender="MALE"/>
-<NPC id="1879048668" name="Elrond" gender="MALE"/>
+<NPC id="1879048665" name="Gandalf" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
+<NPC id="1879048668" name="Elrond" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048685" name="Dorset Oakes" gender="MALE"/>
 <NPC id="1879048688" name="Novice Cook" gender="FEMALE" title="key:620767185:229802005"/>
-<NPC id="1879048689" name="Lindir" gender="MALE"/>
-<NPC id="1879048702" name="Bilbo Baggins" gender="MALE"/>
+<NPC id="1879048689" name="Lindir" gender="MALE">
+<startupEffect id="1879076062" name="Hope Aura"/>
+</NPC>
+<NPC id="1879048702" name="Bilbo Baggins" gender="MALE">
+<startupEffect id="1879076062" name="Hope Aura"/>
+</NPC>
 <NPC id="1879048711" name="Lenglinn" gender="MALE"/>
 <NPC id="1879049229" name="Torthann" gender="MALE"/>
-<NPC id="1879049235" name="Strider" gender="MALE"/>
-<NPC id="1879049238" name="Constable Underhill" gender="MALE"/>
+<NPC id="1879049235" name="Strider" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
+<NPC id="1879049238" name="Constable Underhill" gender="MALE">
+<startupEffect id="1879076062" name="Hope Aura" spellcraft="1.0"/>
+</NPC>
 <NPC id="1879049258" name="Constable Tanglerush" gender="FEMALE"/>
 <NPC id="1879049272" name="Leecher Cartwell" gender="MALE" title="key:620766891:229802005"/>
 <NPC id="1879049547" name="Jon Brackenbrook" gender="MALE"/>
@@ -163,10 +201,14 @@
 <NPC id="1879049607" name="Dora Brownlock" gender="FEMALE"/>
 <NPC id="1879049608" name="Edilina Proudfoot" gender="FEMALE"/>
 <NPC id="1879049609" name="Everard Holebourne" gender="MALE"/>
-<NPC id="1879049610" name="Farmer Maggot" gender="MALE" title="key:620757644:229802005"/>
+<NPC id="1879049610" name="Farmer Maggot" gender="MALE" title="key:620757644:229802005">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879049611" name="Farmer Sandson" gender="MALE"/>
 <NPC id="1879049612" name="Filibert Bolger" gender="MALE"/>
-<NPC id="1879049613" name="Gaffer Gamgee" gender="MALE" title="key:620766373:229802005"/>
+<NPC id="1879049613" name="Gaffer Gamgee" gender="MALE" title="key:620766373:229802005">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879049614" name="Gammer Boffin" gender="FEMALE" title="key:620758963:229802005"/>
 <NPC id="1879049615" name="Gammer Tunnelly" gender="FEMALE"/>
 <NPC id="1879049616" name="Gerd Whitfoot" gender="MALE" title="key:620758807:229802005"/>
@@ -201,7 +243,9 @@
 <NPC id="1879049645" name="Wilimar Bolger" gender="MALE"/>
 <NPC id="1879049646" name="Lorgo Bunce" gender="MALE"/>
 <NPC id="1879049707" name="Gil Sandheaver" gender="MALE"/>
-<NPC id="1879049708" name="Goldberry" gender="FEMALE"/>
+<NPC id="1879049708" name="Goldberry" gender="FEMALE">
+<startupEffect id="1879076053" name="Hope Aura"/>
+</NPC>
 <NPC id="1879049710" name="Saradoc Brandybuck" gender="MALE"/>
 <NPC id="1879049711" name="Doderic Brandybuck" gender="MALE"/>
 <NPC id="1879049712" name="Rollo Maggot" gender="MALE"/>
@@ -211,8 +255,12 @@
 <NPC id="1879049789" name="Ham Rushlight" gender="MALE"/>
 <NPC id="1879049833" name="Langlas" gender="MALE"/>
 <NPC id="1879049843" name="Halros" gender="MALE"/>
-<NPC id="1879049851" name="Radagast the Brown" gender="MALE"/>
-<NPC id="1879049852" name="Radagast the Brown" gender="MALE"/>
+<NPC id="1879049851" name="Radagast the Brown" gender="MALE">
+<startupEffect id="1879076055" name="Hope Aura"/>
+</NPC>
+<NPC id="1879049852" name="Radagast the Brown" gender="MALE">
+<startupEffect id="1879076055" name="Hope Aura"/>
+</NPC>
 <NPC id="1879049864" name="Candaith" gender="MALE"/>
 <NPC id="1879049878" name="Aric the Stone-speaker" gender="MALE"/>
 <NPC id="1879049880" name="Emelin" gender="MALE"/>
@@ -272,17 +320,29 @@
 <NPC id="1879052052" name="Atherol Took" gender="MALE"/>
 <NPC id="1879052058" name="Atherol Took" gender="MALE"/>
 <NPC id="1879052062" name="Sterling Proudfoot" gender="MALE"/>
-<NPC id="1879052166" name="Boromir" gender="MALE"/>
-<NPC id="1879052175" name="Glorfindel" gender="MALE"/>
+<NPC id="1879052166" name="Boromir" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
+<NPC id="1879052175" name="Glorfindel" gender="MALE">
+<startupEffect id="1879076073" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052206" name="Isdi" gender="FEMALE"/>
 <NPC id="1879052220" name="Istuienn" gender="FEMALE"/>
 <NPC id="1879052221" name="Hemeldir" gender="MALE"/>
-<NPC id="1879052224" name="Elladan" gender="MALE"/>
-<NPC id="1879052228" name="Legolas" gender="MALE"/>
-<NPC id="1879052231" name="Elrohir" gender="MALE"/>
+<NPC id="1879052224" name="Elladan" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
+<NPC id="1879052228" name="Legolas" gender="MALE">
+<startupEffect id="1879076055" name="Hope Aura"/>
+</NPC>
+<NPC id="1879052231" name="Elrohir" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052237" name="Glóin" gender="MALE"/>
 <NPC id="1879052258" name="Daervunn" gender="MALE"/>
-<NPC id="1879052265" name="Arwen" gender="FEMALE"/>
+<NPC id="1879052265" name="Arwen" gender="FEMALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052270" name="Gwaemithrin" gender="FEMALE"/>
 <NPC id="1879052314" name="Dalton Willow" gender="MALE" title="key:620759320:229802005"/>
 <NPC id="1879052315" name="Athradir" gender="MALE" title="key:620759344:229802005"/>
@@ -295,15 +355,23 @@
 <NPC id="1879052322" name="Elwen" gender="FEMALE" title="key:620765302:229802005"/>
 <NPC id="1879052340" name="Isferon" gender="MALE"/>
 <NPC id="1879052355" name="Dorset Oakes" gender="MALE"/>
-<NPC id="1879052369" name="Dorongúr Whitethorn" gender="MALE"/>
+<NPC id="1879052369" name="Dorongúr Whitethorn" gender="MALE">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052370" name="Malthendring" gender="MALE" title="key:620764953:229802005"/>
 <NPC id="1879052371" name="Anglor" gender="FEMALE" title="key:620765241:229802005"/>
 <NPC id="1879052372" name="Glanwen" gender="FEMALE" title="key:620765130:229802005"/>
 <NPC id="1879052373" name="Thalchyl" gender="MALE" title="key:620759711:229802005"/>
-<NPC id="1879052379" name="Elladan" gender="MALE"/>
+<NPC id="1879052379" name="Elladan" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052382" name="Merethen" gender="FEMALE"/>
-<NPC id="1879052385" name="Elrond" gender="MALE"/>
-<NPC id="1879052386" name="Talagan Silvertongue" gender="MALE"/>
+<NPC id="1879052385" name="Elrond" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
+<NPC id="1879052386" name="Talagan Silvertongue" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052414" name="Dori" gender="MALE"/>
 <NPC id="1879052419" name="Grímr" gender="MALE" title="key:620764944:229802005"/>
 <NPC id="1879052420" name="Snorri" gender="MALE" title="key:620765157:229802005"/>
@@ -332,7 +400,9 @@
 <NPC id="1879052592" name="Anhebir" gender="MALE"/>
 <NPC id="1879052596" name="Heithur Ironfist" gender="MALE"/>
 <NPC id="1879052598" name="Alphlanc" gender="FEMALE"/>
-<NPC id="1879052621" name="Gimli" gender="MALE"/>
+<NPC id="1879052621" name="Gimli" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879052710" name="Areneth" gender="MALE"/>
 <NPC id="1879052736" name="Toram" gender="MALE" title="key:620763113:229802005"/>
 <NPC id="1879052743" name="Raghnall" gender="MALE"/>
@@ -433,14 +503,20 @@
 <NPC id="1879060106" name="Severin Wheeler" gender="MALE"/>
 <NPC id="1879060108" name="Oswin Leek" gender="MALE"/>
 <NPC id="1879060112" name="Wáli" gender="MALE"/>
-<NPC id="1879060131" name="Samwise Gamgee" gender="MALE"/>
+<NPC id="1879060131" name="Samwise Gamgee" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879060199" name="Gailthin" gender="FEMALE" title="key:620765257:229802005"/>
 <NPC id="1879060208" name="Laergil" gender="FEMALE"/>
 <NPC id="1879060221" name="Regin" gender="MALE" title="key:620765293:229802005"/>
 <NPC id="1879060241" name="Amdir" gender="MALE"/>
 <NPC id="1879060242" name="Bounder Boffin" gender="MALE"/>
-<NPC id="1879060243" name="Gildor" gender="MALE"/>
-<NPC id="1879061037" name="Cardavor" gender="MALE"/>
+<NPC id="1879060243" name="Gildor" gender="MALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
+<NPC id="1879061037" name="Cardavor" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879061039" name="Athal" gender="MALE"/>
 <NPC id="1879061046" name="Dorongúr Whitethorn" gender="MALE"/>
 <NPC id="1879061055" name="Gailthin" gender="FEMALE"/>
@@ -527,8 +603,12 @@
 <NPC id="1879062471" name="Miradan" gender="MALE" title="key:620767428:229802005"/>
 <NPC id="1879062472" name="Merilos" gender="FEMALE"/>
 <NPC id="1879062485" name="Ollie Redbrush" gender="MALE"/>
-<NPC id="1879062508" name="Frodo Baggins" gender="MALE"/>
-<NPC id="1879062511" name="Sam" gender="MALE"/>
+<NPC id="1879062508" name="Frodo Baggins" gender="MALE">
+<startupEffect id="1879061521" name="Dread Aura"/>
+</NPC>
+<NPC id="1879062511" name="Sam" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879062514" name="Halli Shimmershield" gender="MALE"/>
 <NPC id="1879062515" name="Geitir" gender="MALE"/>
 <NPC id="1879062516" name="Óláfr" gender="MALE"/>
@@ -890,7 +970,9 @@
 <NPC id="1879077395" name="Drama Color Shouter"/>
 <NPC id="1879077410" name="Jimmy the Minstrel" gender="MALE"/>
 <NPC id="1879077411" name="Woman of Bree" gender="FEMALE"/>
-<NPC id="1879077484" name="Skorgrím" gender="MALE"/>
+<NPC id="1879077484" name="Skorgrím" gender="MALE">
+<startupEffect id="1879056899" name="Dread Aura"/>
+</NPC>
 <NPC id="1879077530" name="Ingólfr" gender="MALE"/>
 <NPC id="1879077606" name="Bregedúr" gender="MALE"/>
 <NPC id="1879077607" name="Gwaloth" gender="FEMALE"/>
@@ -933,7 +1015,9 @@
 <NPC id="1879077941" name="Crocus Stonybanks" gender="FEMALE"/>
 <NPC id="1879077970" name="Frog"/>
 <NPC id="1879077971" name="Skinner Grubb" gender="MALE" title="key:620778664:229802005"/>
-<NPC id="1879078018" name="Black Rider" gender="MALE"/>
+<NPC id="1879078018" name="Black Rider" gender="MALE">
+<startupEffect id="1879052645" name="Dread Aura"/>
+</NPC>
 <NPC id="1879078044" name="Drama Coach" gender="MALE"/>
 <NPC id="1879078064" name="Townsperson" gender="FEMALE"/>
 <NPC id="1879078065" name="Odo Mudbottom" gender="MALE"/>
@@ -959,7 +1043,9 @@
 <NPC id="1879078514" name="Peren" gender="FEMALE"/>
 <NPC id="1879078515" name="Relondir" gender="MALE"/>
 <NPC id="1879078519" name="Townsperson" gender="MALE"/>
-<NPC id="1879078554" name="Skorgrím" gender="MALE"/>
+<NPC id="1879078554" name="Skorgrím" gender="MALE">
+<startupEffect id="1879056899" name="Dread Aura"/>
+</NPC>
 <NPC id="1879078573" name="Kenton Thistleway" gender="MALE"/>
 <NPC id="1879078574" name="Lofar Ironband" gender="MALE"/>
 <NPC id="1879078581" name="Flint Oakhewer" gender="MALE"/>
@@ -1003,7 +1089,9 @@
 <NPC id="1879078922" name="Eldo Swatmidge" gender="MALE"/>
 <NPC id="1879078923" name="Asphodel Froghorn" gender="FEMALE"/>
 <NPC id="1879078941" name="Gar" gender="MALE"/>
-<NPC id="1879078954" name="Willowsong" gender="FEMALE"/>
+<NPC id="1879078954" name="Willowsong" gender="FEMALE">
+<startupEffect id="1879076046" name="Hope Aura"/>
+</NPC>
 <NPC id="1879078971" name="Burl Beeman" gender="MALE"/>
 <NPC id="1879078974" name="Seward Proudfoot" gender="MALE"/>
 <NPC id="1879078975" name="Amlan" gender="MALE"/>
@@ -1077,8 +1165,12 @@
 <NPC id="1879079869" name="Earth-kin Hunter"/>
 <NPC id="1879079964" name="Warrior-shade" gender="MALE"/>
 <NPC id="1879080388" name="Townsperson" gender="MALE"/>
-<NPC id="1879080397" name="Peregrin Took" gender="MALE"/>
-<NPC id="1879080403" name="Meriadoc Brandybuck" gender="MALE"/>
+<NPC id="1879080397" name="Peregrin Took" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
+<NPC id="1879080403" name="Meriadoc Brandybuck" gender="MALE">
+<startupEffect id="1879076069" name="Hope Aura"/>
+</NPC>
 <NPC id="1879080406" name="Malthenor" gender="FEMALE"/>
 <NPC id="1879080429" name="Vighar Roadwalker" gender="MALE"/>
 <NPC id="1879080455" name="Reflecting Pool"/>
@@ -1104,8 +1196,12 @@
 <NPC id="1879080832" name="Goblin"/>
 <NPC id="1879080833" name="Guard" gender="MALE"/>
 <NPC id="1879080837" name="Guard" gender="FEMALE"/>
-<NPC id="1879080840" name="Skorgrím" gender="MALE"/>
-<NPC id="1879080841" name="Dorongúr Whitethorn" gender="MALE"/>
+<NPC id="1879080840" name="Skorgrím" gender="MALE">
+<startupEffect id="1879050227" name="Dread Aura"/>
+</NPC>
+<NPC id="1879080841" name="Dorongúr Whitethorn" gender="MALE">
+<startupEffect id="1879076052" name="Hope Aura"/>
+</NPC>
 <NPC id="1879080845" name="Snow-troll"/>
 <NPC id="1879080859" name="Goblin"/>
 <NPC id="1879080860" name="Goblin"/>
@@ -1119,7 +1215,9 @@
 <NPC id="1879080956" name="Lynx-cub"/>
 <NPC id="1879081003" name="Dongandel" gender="MALE"/>
 <NPC id="1879081051" name="Bartelot Took" gender="MALE"/>
-<NPC id="1879081062" name="Olnathron" gender="FEMALE"/>
+<NPC id="1879081062" name="Olnathron" gender="FEMALE">
+<startupEffect id="1879059052" name="Dread Aura"/>
+</NPC>
 <NPC id="1879081067" name="Váli" gender="MALE"/>
 <NPC id="1879081068" name="Bôrk" gender="MALE" title="key:620780700:229802005"/>
 <NPC id="1879081069" name="Lengloth" gender="FEMALE"/>
@@ -1186,12 +1284,20 @@
 <NPC id="1879082447" name="Spirit of Morgoth"/>
 <NPC id="1879082465" name="Nethraw" gender="MALE"/>
 <NPC id="1879083432" name="Wárr Ink-sleeve" gender="MALE" title="key:620782270:229802005"/>
-<NPC id="1879083436" name="Black Rider" gender="MALE"/>
+<NPC id="1879083436" name="Black Rider" gender="MALE">
+<startupEffect id="1879052645" name="Dread Aura"/>
+</NPC>
 <NPC id="1879083452" name="Tvistur" gender="MALE"/>
 <NPC id="1879083456" name="Cave-claw"/>
-<NPC id="1879083480" name="Skorgrím" gender="MALE"/>
-<NPC id="1879083481" name="Ivar the Blood-hand" gender="MALE"/>
-<NPC id="1879083559" name="Ivar the Blood-hand" gender="MALE"/>
+<NPC id="1879083480" name="Skorgrím" gender="MALE">
+<startupEffect id="1879056899" name="Dread Aura"/>
+</NPC>
+<NPC id="1879083481" name="Ivar the Blood-hand" gender="MALE">
+<startupEffect id="1879050227" name="Dread Aura"/>
+</NPC>
+<NPC id="1879083559" name="Ivar the Blood-hand" gender="MALE">
+<startupEffect id="1879050227" name="Dread Aura"/>
+</NPC>
 <NPC id="1879083608" name="Guard"/>
 <NPC id="1879083624" name="Harvi the Mapmaker" gender="MALE"/>
 <NPC id="1879083632" name="Watcher" gender="MALE"/>
@@ -1262,12 +1368,20 @@
 <NPC id="1879085904" name="Nomad Healer" gender="MALE" title="key:620789403:229802005"/>
 <NPC id="1879086466" name="Malgannel" gender="MALE" title="key:620789484:229802005"/>
 <NPC id="1879086609" name="Hallam Comfrey" gender="MALE" title="key:620789524:229802005"/>
-<NPC id="1879086688" name="Aragorn" gender="MALE"/>
+<NPC id="1879086688" name="Aragorn" gender="MALE">
+<startupEffect id="1879076088" name="Hope Aura"/>
+</NPC>
 <NPC id="1879086689" name="Arwen" gender="FEMALE"/>
 <NPC id="1879086690" name="Bilbo Baggins" gender="MALE"/>
-<NPC id="1879086694" name="Elrond" gender="MALE"/>
-<NPC id="1879086695" name="Frodo Baggins" gender="MALE"/>
-<NPC id="1879086696" name="Gandalf" gender="MALE"/>
+<NPC id="1879086694" name="Elrond" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
+<NPC id="1879086695" name="Frodo Baggins" gender="MALE">
+<startupEffect id="1879061521" name="Dread Aura"/>
+</NPC>
+<NPC id="1879086696" name="Gandalf" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
 <NPC id="1879086699" name="Hemeldir" gender="MALE"/>
 <NPC id="1879086718" name="Orso" gender="MALE" title="key:620789560:229802005"/>
 <NPC id="1879086810" name="Balchelos" gender="MALE"/>
@@ -1405,15 +1519,21 @@
 <NPC id="1879090873" name="Eirieniel" gender="FEMALE"/>
 <NPC id="1879090874" name="Rosselloth" gender="FEMALE"/>
 <NPC id="1879090875" name="Fainneleg" gender="MALE"/>
-<NPC id="1879090876" name="Amarthiel" gender="FEMALE"/>
+<NPC id="1879090876" name="Amarthiel" gender="FEMALE">
+<startupEffect id="1879080624" name="Dread Aura"/>
+</NPC>
 <NPC id="1879090877" name="Glangilith" gender="MALE"/>
 <NPC id="1879090878" name="Harthadril" gender="FEMALE"/>
 <NPC id="1879090879" name="Legrindavor" gender="MALE"/>
 <NPC id="1879090880" name="Rosselloth" gender="FEMALE"/>
 <NPC id="1879090881" name="Ringlor" gender="FEMALE"/>
 <NPC id="1879090882" name="Tadan" gender="MALE"/>
-<NPC id="1879090883" name="Laerdan" gender="MALE"/>
-<NPC id="1879091324" name="Mordrambor" gender="MALE"/>
+<NPC id="1879090883" name="Laerdan" gender="MALE">
+<startupEffect id="1879076055" name="Hope Aura"/>
+</NPC>
+<NPC id="1879091324" name="Mordrambor" gender="MALE">
+<startupEffect id="1879052866" name="Dread Aura"/>
+</NPC>
 <NPC id="1879091527" name="Torcall" gender="MALE"/>
 <NPC id="1879091528" name="Maerchiniath" gender="MALE"/>
 <NPC id="1879091529" name="Horace Roxhythe" gender="MALE"/>
@@ -1529,7 +1649,9 @@
 <NPC id="1879097381" name="Nestael" gender="FEMALE" title="key:620796073:229802005"/>
 <NPC id="1879097488" name="Fantus" gender="MALE" title="key:620796167:229802005"/>
 <NPC id="1879097543" name="Quest Barrel"/>
-<NPC id="1879097579" name="Gandalf" gender="MALE"/>
+<NPC id="1879097579" name="Gandalf" gender="MALE">
+<startupEffect id="1879076054" name="Hope Aura"/>
+</NPC>
 <NPC id="1879097583" name="Glathlírel" gender="FEMALE"/>
 <NPC id="1879097773" name="Forgamdir" gender="MALE" title="key:620796382:229802005"/>
 <NPC id="1879097774" name="Coruchador" gender="MALE" title="key:620796383:229802005"/>

@@ -2658,6 +2658,9 @@
 </skill>
 <skill identifier="1879059853" name="Ferocious Strikes" category="38" iconId="1090539697" description="key:620764879:228830419">
 <requiredTrait id="1879059852" name="Ferocious Strikes"/>
+<combos propertyID="268436579">
+<combo value="28" skillID="1879059855" skillName="Ferocious Strikes"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="30.0" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879059854" mods="268440875,268438687,268441154"/>
@@ -2705,6 +2708,9 @@
 </skill>
 <skill identifier="1879059881" name="Raging Blade" category="33" iconId="1090539701" description="key:620764903:228830419">
 <requiredTrait id="1879059880" name="Explosion of Blades"/>
+<combos propertyID="268436579">
+<combo value="28" skillID="1879059884" skillName="Raging Blade"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="10.0" flags="64" maxTargets="8">
 <geometry detectionAnchor="3" shape="sphere" radius="8.0"/>
 <effectsMgr type="USER">
@@ -2999,6 +3005,9 @@
 </details>
 </skill>
 <skill identifier="1879060250" name="Call to Arms: Herald of Victory" category="14" iconId="1090541063" description="key:620765376:228830419">
+<combos propertyID="268436089">
+<combo value="44" skillID="1879092799" skillName="Call to Arms: Improved Herald of Victory"/>
+</combos>
 <details actionDurationContribution="3.0" inductionId="1879060276">
 <powerCost pointsProgression="1879060275"/>
 <attack>
@@ -3109,6 +3118,9 @@
 </details>
 </skill>
 <skill identifier="1879060293" name="Escape from Darkness" category="25" iconId="1090541067" description="key:620765396:228830419">
+<combos propertyID="268436349">
+<combo value="41" skillID="1879092788" skillName="Escape from Darkness"/>
+</combos>
 <details actionDurationContribution="4.0" inductionId="1879053029" cooldown="1800.0" cooldownMods="268441336">
 <geometry maxRange="25.0"/>
 <powerCost pointsProgression="1879053028"/>
@@ -3163,6 +3175,9 @@
 </details>
 </skill>
 <skill identifier="1879060327" name="Battle-shout" category="47" iconId="1090541075" description="key:620765417:228830419">
+<combos propertyID="268436579">
+<combo value="13" skillID="1879060332" skillName="Enraged Shout"/>
+</combos>
 <details actionDurationContribution="1.5" cooldown="20.0" cooldownMods="268439183" flags="64" resistCategory="5">
 <geometry maxRange="20.0"/>
 <effectsMgr type="USER">
@@ -3194,6 +3209,9 @@
 </details>
 </skill>
 <skill identifier="1879060346" name="Call to Arms: Herald of War" category="14" iconId="1090541081" description="key:620765444:228830419">
+<combos propertyID="268435866">
+<combo value="42" skillID="1879092800" skillName="Call to Arms: Improved Herald of War"/>
+</combos>
 <details actionDurationContribution="3.0" inductionId="1879060276">
 <powerCost pointsProgression="1879060275"/>
 <attack>
@@ -3246,6 +3264,9 @@
 </details>
 </skill>
 <skill identifier="1879060399" name="Call to Arms: Herald of Hope" category="14" iconId="1090541116" description="key:620765492:228830419">
+<combos propertyID="268438187">
+<combo value="43" skillID="1879092801" skillName="Call to Arms: Improved Herald of Hope"/>
+</combos>
 <details actionDurationContribution="3.0" inductionId="1879060276">
 <powerCost pointsProgression="1879060275"/>
 <attack>
@@ -3301,6 +3322,9 @@
 </details>
 </skill>
 <skill identifier="1879060437" name="Threatening Shout" category="47" iconId="1090541120" description="key:620765512:228830419">
+<combos propertyID="268438187">
+<combo value="32" skillID="1879060440" skillName="Intimidating Shout"/>
+</combos>
 <details actionDurationContribution="1.5" cooldown="20.0" flags="64" resistCategory="5">
 <geometry maxRange="40.0"/>
 <powerCost pointsProgression="1879060439" mods="268438242,268439447"/>
@@ -3392,6 +3416,9 @@
 </details>
 </skill>
 <skill identifier="1879060618" name="Vexing Blow" category="22" iconId="1090541171" description="key:620765667:228830419">
+<combos propertyID="268436089">
+<combo value="36" skillID="1879060621" skillName="Vexing Blow"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="6.5" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879060620" mods="268436867"/>
@@ -3417,6 +3444,9 @@
 </details>
 </skill>
 <skill identifier="1879060634" name="Protection" category="13" iconId="1090541176" description="key:620765680:228830419">
+<combos propertyID="268435866">
+<combo value="30" skillID="1879060636" skillName="Protection"/>
+</combos>
 <details actionDurationContribution="1.5" cooldown="10.0" flags="32">
 <geometry maxRange="25.0"/>
 <effectsMgr type="TOGGLE">
@@ -3465,6 +3495,9 @@
 </details>
 </skill>
 <skill identifier="1879060660" name="Thrill of Danger" category="13" iconId="1090541184" description="key:620765702:228830419">
+<combos propertyID="268436349">
+<combo value="37" skillID="1879060663" skillName="Improved Thrill of Danger"/>
+</combos>
 <details actionDurationContribution="2.0" cooldown="420.0" cooldownMods="268436865" flags="64" maxTargets="3">
 <geometry detectionAnchor="3" shape="sphere" radius="10.0"/>
 <attack damageQualifier="1">
@@ -3529,6 +3562,9 @@
 </details>
 </skill>
 <skill identifier="1879060749" name="Staff-strike" category="8" iconId="1090541204" description="key:620765784:228830419">
+<combos propertyID="268438187">
+<combo value="15" skillID="1879060752" skillName="Improved Staff-strike"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="10.0" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879060751" mods="268438687"/>
@@ -3550,6 +3586,9 @@
 </details>
 </skill>
 <skill identifier="1879060758" name="Power of Knowledge" category="19" iconId="1090541206" description="key:620765790:228830419">
+<combos propertyID="268436089">
+<combo value="33" skillID="1879060760" skillName="Power of Knowledge"/>
+</combos>
 <details actionDurationContribution="2.0" channelingDuration="16.0" cooldown="60.0" flags="96" resistCategory="9">
 <geometry maxRange="40.0"/>
 <effectsMgr type="TOGGLE">
@@ -3597,6 +3636,9 @@
 </details>
 </skill>
 <skill identifier="1879060786" name="Leechcraft" category="2" iconId="1090541213" description="key:620765810:228830419">
+<combos propertyID="268436577">
+<combo value="29" skillID="1879060789" skillName="Leechcraft"/>
+</combos>
 <details actionDurationContribution="1.5" inductionId="1879060788">
 <geometry maxRange="25.0"/>
 <effectsMgr type="USER" override="268435472"/>
@@ -3671,6 +3713,9 @@
 </details>
 </skill>
 <skill identifier="1879060824" name="Tend the Sick" category="2" iconId="1090541224" description="key:620765841:228830419">
+<combos propertyID="268436577">
+<combo value="29" skillID="1879060827" skillName="Tend the Sick"/>
+</combos>
 <details actionDurationContribution="1.5" inductionId="1879060826">
 <geometry maxRange="25.0"/>
 <effectsMgr type="USER" override="268435472"/>
@@ -3697,6 +3742,9 @@
 </details>
 </skill>
 <skill identifier="1879060831" name="Ancient Wisdom" category="19" iconId="1090541226" description="key:620765849:228830419">
+<combos propertyID="268436089">
+<combo value="33" skillID="1879060837" skillName="Ancient Wisdom"/>
+</combos>
 <details actionDurationContribution="1.5" inductionId="1879060836">
 <effectsMgr type="USER" override="268435472"/>
 <powerCost pointsProgression="1879060835"/>
@@ -3747,6 +3795,9 @@
 </skill>
 <skill identifier="1879060868" name="Anthem of the Valar" category="52" iconId="1090541232" description="key:620765879:228830419">
 <requiredEffect id="1879052915" name="Ballad Tier 3"/>
+<combos propertyID="268435866">
+<combo value="24" skillID="1879060871" skillName="Anthem of the Valar"/>
+</combos>
 <details actionDurationContribution="3.0" cooldown="60.0" flags="64" maxTargets="3" resistCategory="5">
 <geometry detectionAnchor="1" maxRange="30.0" shape="sphere" radius="5.0"/>
 <effectsMgr type="USER">
@@ -3769,6 +3820,9 @@
 </details>
 </skill>
 <skill identifier="1879060876" name="Song of Aid" category="40" iconId="1090541234" description="key:620765884:228830419">
+<combos propertyID="268436349">
+<combo value="6" skillID="1879060878" skillName="Song of Aid"/>
+</combos>
 <details actionDurationContribution="1.5" channelingDuration="10.0" cooldown="600.0" cooldownMods="268442490" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879060881" name="Song of Aid"/>
@@ -3868,6 +3922,9 @@
 </details>
 </skill>
 <skill identifier="1879060967" name="Trick: Dust in the Eyes" category="10" iconId="1090541262" description="key:620765966:228830419">
+<combos propertyID="268435866">
+<combo value="27" skillID="1879060972" skillName="Trick: Dust in the Eyes"/>
+</combos>
 <details actionDurationContribution="2.5" cooldown="5.0" flags="65" resistCategory="3">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879060971" mods="268438245,268440385"/>
@@ -3935,6 +3992,9 @@
 </details>
 </skill>
 <skill identifier="1879061010" name="Sneak" category="37" iconId="1090541275" description="key:620766002:228830419">
+<combos propertyID="268436349">
+<combo value="22" skillID="1879061012" skillName="Stalk"/>
+</combos>
 <details actionDurationContribution="3.5" cooldown="10.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879061013" name="Simple Stealth"/>
@@ -4079,6 +4139,9 @@
 </details>
 </skill>
 <skill identifier="1879064060" name="Wild Attack" category="24" iconId="1090553751" description="key:620774869:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073004" skillName="Wild Attack"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="1.8" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879073003" mods="268438687,268441154"/>
@@ -4087,6 +4150,9 @@
 </details>
 </skill>
 <skill identifier="1879064061" name="Blade-wall" category="33" iconId="1090553752" description="key:620774871:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073007" skillName="Blade-wall"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="4.2" flags="64" maxTargets="5">
 <geometry detectionAnchor="3" shape="arc" radius="5.0" degrees="160.0"/>
 <effectsMgr type="USER" override="268435920">
@@ -4098,6 +4164,9 @@
 </details>
 </skill>
 <skill identifier="1879064062" name="Savage Strikes" category="38" iconId="1090553753" description="key:620774873:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073010" skillName="Savage Strikes"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="4.2" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879073009" mods="268440875,268438687,268441154"/>
@@ -4131,6 +4200,9 @@
 </details>
 </skill>
 <skill identifier="1879064065" name="Brutal Strikes" category="38" iconId="1090553754" description="key:620774879:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073019" skillName="Brutal Strikes"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="4.2" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879073018" mods="268440875,268438687,268441154"/>
@@ -4158,6 +4230,9 @@
 </details>
 </skill>
 <skill identifier="1879064067" name="Blade-storm" category="33" iconId="1090553756" description="key:620774883:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073023" skillName="Blade-storm"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="10.0" flags="64" maxTargets="5" maxTargetsMods="268438683">
 <geometry detectionAnchor="3" shape="sphere" radius="5.0"/>
 <effectsMgr type="USER">
@@ -4169,6 +4244,9 @@
 </details>
 </skill>
 <skill identifier="1879064068" name="Bracing Attack" category="4" iconId="1090553757" description="key:620774885:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073027" skillName="Bracing Attack"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="30.0" flags="64">
 <geometry maxRange="2.5"/>
 <effectsMgr type="USER" override="268437813">
@@ -4206,6 +4284,9 @@
 </details>
 </skill>
 <skill identifier="1879064071" name="Relentless Strike" category="38" iconId="1090553759" description="key:620774892:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073038" skillName="Relentless Strike"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="1.8" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879073037" mods="268440875,268438687,268441154"/>
@@ -4536,6 +4617,9 @@
 </details>
 </skill>
 <skill identifier="1879064186" name="Herald's Strike" category="26" iconId="1090553789" description="key:620774949:228830419">
+<combos propertyID="268436579">
+<combo value="10" skillID="1879073095" skillName="Herald's Strike"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="10.0" flags="64">
 <geometry maxRange="2.5"/>
 <effectsMgr type="USER">
@@ -4557,6 +4641,9 @@
 </details>
 </skill>
 <skill identifier="1879064188" name="Ballad of Vigour" category="53" iconId="1090553794" description="key:620774964:228830419">
+<combos propertyID="268436577">
+<combo value="5" skillID="1879073113" skillName="Song of Vigour"/>
+</combos>
 <details actionDurationContribution="3.0" cooldown="4.0" flags="64" resistCategory="5">
 <geometry maxRange="30.0"/>
 <effectsMgr type="USER">
@@ -4568,6 +4655,9 @@
 </details>
 </skill>
 <skill identifier="1879064189" name="Piercing Cry" category="39" iconId="1090553795" description="key:620774968:228830419">
+<combos propertyID="268436089">
+<combo value="17" skillID="1879073116" skillName="Piercing Cry"/>
+</combos>
 <details actionDurationContribution="1.5" cooldown="30.0" cooldownMods="268436395" flags="64" resistCategory="5">
 <geometry maxRange="40.0"/>
 <powerCost pointsProgression="1879073115" mods="268439447,268442066"/>
@@ -4637,6 +4727,9 @@
 </skill>
 <skill identifier="1879064195" name="Ballad of Balance" category="53" iconId="1090553800" description="key:620774981:228830419">
 <requiredEffect id="1879052918" name="Ballad Tier 1"/>
+<combos propertyID="268436577">
+<combo value="5" skillID="1879073131" skillName="Song of Balance"/>
+</combos>
 <details actionDurationContribution="3.0" cooldown="4.9" flags="64" resistCategory="5">
 <geometry maxRange="30.0"/>
 <effectsMgr type="USER">
@@ -4865,6 +4958,9 @@
 </details>
 </skill>
 <skill identifier="1879064248" name="Friend of Bears" category="1" iconId="1090553875" description="key:620775046:228830419">
+<combos propertyID="268436349">
+<combo value="7" skillID="1879073208" skillName="Improved Friend of Bears"/>
+</combos>
 <details actionDurationContribution="3.0" inductionId="1879052212">
 <effectsMgr type="USER" override="268435472"/>
 <powerCost pointsProgression="1879052211"/>
@@ -4914,6 +5010,9 @@
 </details>
 </skill>
 <skill identifier="1879064252" name="Sign of Power: Righteousness" category="6" iconId="1090553882" description="key:620775067:228830419">
+<combos propertyID="268435866">
+<combo value="3" skillID="1879073234" skillName="Sign of Power: Improved Righteousness"/>
+</combos>
 <details actionDurationContribution="2.1" cooldown="5.0">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268435472"/>
@@ -4927,6 +5026,9 @@
 </details>
 </skill>
 <skill identifier="1879064253" name="Sign of Power: Vigilance" category="6" iconId="1090553883" description="key:620775072:228830419">
+<combos propertyID="268435866">
+<combo value="3" skillID="1879073238" skillName="Sign of Power: Improved Vigilance"/>
+</combos>
 <details actionDurationContribution="2.1" cooldown="3.0">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268435472"/>
@@ -5143,6 +5245,9 @@
 </details>
 </skill>
 <skill identifier="1879064327" name="Trip" category="37" iconId="1090553908" description="key:620775115:228830419">
+<combos propertyID="268436577">
+<combo value="31" skillID="1879073287" skillName="Tangle-foot"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="300.0" cooldownMods="268438237" flags="64">
 <geometry maxRange="3.5"/>
 <powerCost pointsProgression="1879060983" mods="268438687,268440385"/>
@@ -5154,6 +5259,9 @@
 </details>
 </skill>
 <skill identifier="1879064328" name="Surprise Strike" category="37" iconId="1090553910" description="key:620775117:228830419">
+<combos propertyID="268436579">
+<combo value="34" skillID="1879073289" skillName="Surprise Strike"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="10.0" flags="64">
 <geometry positionalHeading="180" positionalSpread="90" maxRange="2.5"/>
 <effectsMgr type="USER">
@@ -5164,6 +5272,9 @@
 </details>
 </skill>
 <skill identifier="1879064329" name="Cunning Attack" category="37" iconId="1090541253" description="key:620775119:228830419">
+<combos propertyID="268436579">
+<combo value="34" skillID="1879073293" skillName="Cunning Attack"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="3.5" flags="64">
 <geometry positionalHeading="180" positionalSpread="90" maxRange="2.5"/>
 <effectsMgr type="USER">
@@ -5178,6 +5289,9 @@
 </details>
 </skill>
 <skill identifier="1879064330" name="Provoke" category="37" iconId="1090553911" description="key:620775123:228830419">
+<combos propertyID="268436579">
+<combo value="34" skillID="1879073298" skillName="Provoke"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="5.0" flags="64">
 <geometry positionalHeading="180" positionalSpread="90" maxRange="2.5"/>
 <effectsMgr type="USER">
@@ -5262,6 +5376,9 @@
 </details>
 </skill>
 <skill identifier="1879064337" name="Reveal Weakness" category="49" iconId="1090519172" description="key:620775140:228830419">
+<combos propertyID="268436089">
+<combo value="9" skillID="1879073320" skillName="Reveal Weakness"/>
+</combos>
 <details actionDurationContribution="2.0" cooldown="5.0" flags="96">
 <geometry maxRange="20.0"/>
 <effectsMgr type="TOGGLE">
@@ -5336,6 +5453,10 @@
 </details>
 </skill>
 <skill identifier="1879064370" name="Quick Shot" category="34" iconId="1090553925" description="key:620775158:228830419">
+<combos propertyID="268440828">
+<combo value="1" skillID="1879073359" skillName="Quick Shot: Elvish Arrow"/>
+<combo value="39" skillID="1879073358" skillName="Quick Shot: Flaming Arrow"/>
+</combos>
 <details actionDurationContribution="0.0" inductionId="1879089882" flags="64">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268438945"/>
@@ -5347,6 +5468,10 @@
 </details>
 </skill>
 <skill identifier="1879064371" name="Barbed Arrow" category="34" iconId="1090553904" description="key:620775161:228830419">
+<combos propertyID="268440828">
+<combo value="1" skillID="1879073364" skillName="Eldarin Arrow"/>
+<combo value="39" skillID="1879073363" skillName="Burning Arrow"/>
+</combos>
 <details actionDurationContribution="0.0" inductionId="1879089883" cooldown="1.5" flags="64">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268438945"/>
@@ -5361,6 +5486,10 @@
 </details>
 </skill>
 <skill identifier="1879064372" name="Swift Bow" category="34" iconId="1090553930" description="key:620775169:228830419">
+<combos propertyID="268440828">
+<combo value="1" skillID="1879073374" skillName="Swift Bow: Star-light"/>
+<combo value="39" skillID="1879073373" skillName="Swift Bow: Ablaze"/>
+</combos>
 <details actionDurationContribution="0.0" inductionId="1879073372" cooldown="10.0" cooldownMods="268441333" flags="64">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268438945"/>
@@ -5371,6 +5500,10 @@
 </details>
 </skill>
 <skill identifier="1879064373" name="Penetrating Shot" category="28" iconId="1090553933" description="key:620775173:228830419">
+<combos propertyID="268440828">
+<combo value="1" skillID="1879073379" skillName="Penetrating Shot: Pierce the Darkness"/>
+<combo value="39" skillID="1879073378" skillName="Penetrating Shot: Burn Through"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="3.0" cooldownMods="268441334" flags="65">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268438945"/>
@@ -5380,6 +5513,10 @@
 </details>
 </skill>
 <skill identifier="1879064374" name="Rain of Arrows" category="28" iconId="1090553936" description="key:620775176:228830419">
+<combos propertyID="268440828">
+<combo value="1" skillID="1879073382" skillName="Rain of Arrows: Light From The Sky"/>
+<combo value="39" skillID="1879073381" skillName="Rain of Arrows: Fire-storm"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="10.0" flags="65" maxTargets="5">
 <geometry detectionAnchor="1" maxRange="40.0" shape="sphere" radius="10.0"/>
 <effectsMgr type="USER" override="268438945"/>
@@ -5398,6 +5535,9 @@
 </details>
 </skill>
 <skill identifier="1879064376" name="Swift Stroke" category="30" iconId="1090541125" description="key:620775180:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073386" skillName="Swift Stroke"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="5.0" cooldownMods="268437331" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879073385" mods="268438687"/>
@@ -5405,6 +5545,9 @@
 </details>
 </skill>
 <skill identifier="1879064377" name="Low Cut" category="30" iconId="1090553940" description="key:620775182:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073389" skillName="Low Cut"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="5.0" cooldownMods="268437331" flags="64" maxTargets="2">
 <geometry detectionAnchor="3" shape="arc" radius="5.0" degrees="120.0"/>
 <powerCost pointsProgression="1879073388" mods="268438687"/>
@@ -5416,6 +5559,9 @@
 </details>
 </skill>
 <skill identifier="1879064378" name="Scourging Blow" category="30" iconId="1090553941" description="key:620775185:228830419">
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073393" skillName="Scourging Blow"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="5.0" cooldownMods="268437331" flags="64">
 <geometry maxRange="2.5"/>
 <powerCost pointsProgression="1879073392" mods="268438687"/>
@@ -5436,6 +5582,9 @@
 </skill>
 <skill identifier="1879064380" name="Agile Rejoinder" category="30" iconId="1090553943" description="key:620775190:228830419">
 <requiredEffect id="1879049270" name="Parry Response"/>
+<combos propertyID="268436579">
+<combo value="28" skillID="1879073402" skillName="Agile Rejoinder"/>
+</combos>
 <details actionDurationContribution="0.0" cooldown="5.0" cooldownMods="268437331" flags="64">
 <geometry maxRange="2.5"/>
 <effectsMgr type="USER">
@@ -5620,6 +5769,9 @@
 </details>
 </skill>
 <skill identifier="1879064399" name="Stance: Endurance" category="34" iconId="1090553960" description="key:620775232:228830419">
+<combos propertyID="268438187">
+<combo value="8" skillID="1879073437" skillName="Stance: Endurance"/>
+</combos>
 <details actionDurationContribution="0.5" cooldown="5.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879073438" name="Stance: Endurance"/>
@@ -7395,6 +7547,9 @@
 </details>
 </skill>
 <skill identifier="1879073750" name="Claws" category="8" iconId="1090555730" description="key:620775427:228830419">
+<combos propertyID="268436579">
+<combo value="34" skillID="1879073757" skillName="Bestial Claws"/>
+</combos>
 <details actionDurationContribution="2.0" flags="64">
 <geometry positionalHeading="180" positionalSpread="90" maxRange="2.5"/>
 <powerCost pointsProgression="1879072546"/>
@@ -7402,6 +7557,9 @@
 </details>
 </skill>
 <skill identifier="1879073751" name="Pounce" category="8" iconId="1090555732" description="key:620775429:228830419">
+<combos propertyID="268436579">
+<combo value="34" skillID="1879073758" skillName="Sudden Pounce"/>
+</combos>
 <details actionDurationContribution="2.0" cooldown="10.0" flags="64">
 <geometry positionalHeading="180" positionalSpread="90" maxRange="2.5"/>
 <powerCost pointsProgression="1879073707"/>
@@ -11364,6 +11522,9 @@
 </details>
 </skill>
 <skill identifier="1879094935" name="Chant of the Oathbreaker" category="59" iconId="1091400693" description="key:620794643:228830419">
+<combos propertyID="268442119">
+<combo value="45" skillID="1879094936" skillName="Chorus of the Oathbreakers"/>
+</combos>
 <details actionDurationContribution="2.0" cooldown="10.0" flags="96" resistCategory="5">
 <geometry maxRange="30.0"/>
 <effectsMgr type="TOGGLE">
@@ -14447,6 +14608,9 @@
 </details>
 </skill>
 <skill identifier="1879099080" name="Mentor : Harp" category="58" iconId="1091403998" description="key:620797423:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096836" skillName="Scribe Manual : Harp"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.9"/>
@@ -14458,6 +14622,9 @@
 </details>
 </skill>
 <skill identifier="1879099270" name="Mentor : Bagpipes" category="58" iconId="1091404000" description="key:620797598:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096866" skillName="Scribe Manual : Bagpipes"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.9"/>
@@ -14469,6 +14636,9 @@
 </details>
 </skill>
 <skill identifier="1879099271" name="Mentor : Clarinet" category="58" iconId="1091404002" description="key:620797599:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096867" skillName="Scribe Manual : Clarinet"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.8"/>
@@ -14480,6 +14650,9 @@
 </details>
 </skill>
 <skill identifier="1879099272" name="Mentor : Cowbell" category="58" iconId="1091404004" description="key:620797600:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096868" skillName="Scribe Manual : Cowbell"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.7"/>
@@ -14491,6 +14664,9 @@
 </details>
 </skill>
 <skill identifier="1879099273" name="Mentor : Drums" category="58" iconId="1091404006" description="key:620797604:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096869" skillName="Scribe Manual : Drums"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.9"/>
@@ -14502,6 +14678,9 @@
 </details>
 </skill>
 <skill identifier="1879099274" name="Mentor : Flute" category="58" iconId="1091404008" description="key:620797605:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096870" skillName="Scribe Manual : Flute"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.9"/>
@@ -14513,6 +14692,9 @@
 </details>
 </skill>
 <skill identifier="1879099275" name="Mentor : Horn" category="58" iconId="1091403991" description="key:620797601:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096871" skillName="Scribe Manual : Horn"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.8"/>
@@ -14524,6 +14706,9 @@
 </details>
 </skill>
 <skill identifier="1879099276" name="Mentor : Moor Cowbell" category="58" iconId="1091403993" description="key:620797602:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096872" skillName="Scribe Manual : Moor Cowbell"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.99"/>
@@ -14535,6 +14720,9 @@
 </details>
 </skill>
 <skill identifier="1879099277" name="Mentor : Theorbo" category="58" iconId="1091403995" description="key:620797603:228830419">
+<combos propertyID="268442390">
+<combo value="46" skillID="1879096873" skillName="Scribe Manual : Theorbo"/>
+</combos>
 <details actionDurationContribution="1.0" inductionId="1879101990" cooldown="432000.0">
 <geometry maxRange="25.0"/>
 <powerCost percentage="0.9"/>

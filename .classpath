@@ -7,6 +7,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="lib/effectIcons.zip"/>
-	<classpathentry kind="lib" path="/delta-lotro-icons-legacy"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

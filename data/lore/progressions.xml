@@ -8059,6 +8059,68 @@
 <point count="50" y="0.02"/>
 <point count="10" y="0.0"/>
 </arrayProgression>
+<arrayProgression identifier="1879051496" nbPoints="60">
+<point y="-1.3755333"/>
+<point y="-2.0052063"/>
+<point y="-2.700316"/>
+<point y="-3.4886594"/>
+<point y="-4.3711133"/>
+<point y="-5.348467"/>
+<point y="-6.421462"/>
+<point y="-7.5908074"/>
+<point y="-8.857183"/>
+<point y="-10.221249"/>
+<point y="-11.683639"/>
+<point y="-12.589623"/>
+<point y="-13.50034"/>
+<point y="-14.415657"/>
+<point y="-15.335452"/>
+<point y="-16.259615"/>
+<point y="-17.18804"/>
+<point y="-18.12063"/>
+<point y="-19.057299"/>
+<point y="-19.997961"/>
+<point y="-20.942537"/>
+<point y="-21.890953"/>
+<point y="-22.84314"/>
+<point y="-23.799028"/>
+<point y="-24.758558"/>
+<point y="-25.721668"/>
+<point y="-26.688303"/>
+<point y="-27.658407"/>
+<point y="-28.63193"/>
+<point y="-29.608822"/>
+<point y="-31.07336"/>
+<point y="-32.072422"/>
+<point y="-33.074768"/>
+<point y="-34.667465"/>
+<point y="-36.269333"/>
+<point y="-37.907627"/>
+<point y="-39.582455"/>
+<point y="-41.293934"/>
+<point y="-43.042175"/>
+<point y="-43.47854"/>
+<point y="-43.86417"/>
+<point y="-45.597004"/>
+<point y="-46.69669"/>
+<point y="-47.798912"/>
+<point y="-48.90364"/>
+<point y="-50.01085"/>
+<point y="-51.120518"/>
+<point y="-52.232616"/>
+<point y="-53.347126"/>
+<point y="-54.464024"/>
+<point y="-50.09582"/>
+<point y="-51.10155"/>
+<point y="-52.109024"/>
+<point y="-53.118225"/>
+<point y="-54.129143"/>
+<point y="-55.14176"/>
+<point y="-56.156063"/>
+<point y="-57.17203"/>
+<point y="-58.18966"/>
+<point y="-59.208927"/>
+</arrayProgression>
 <arrayProgression identifier="1879051658" nbPoints="60">
 <point count="12" y="0.504"/>
 <point y="0.546"/>
@@ -9369,6 +9431,68 @@
 <point count="56" y="0.01"/>
 <point count="2" y="0.0"/>
 <point count="2" y="0.01"/>
+</arrayProgression>
+<arrayProgression identifier="1879052659" nbPoints="60">
+<point y="-3.8107755"/>
+<point y="-5.349985"/>
+<point y="-7.0377727"/>
+<point y="-9.0004835"/>
+<point y="-11.307637"/>
+<point y="-14.05443"/>
+<point y="-17.374994"/>
+<point y="-21.464577"/>
+<point y="-26.618753"/>
+<point y="-33.30732"/>
+<point y="-42.324722"/>
+<point y="-45.606712"/>
+<point y="-48.90584"/>
+<point y="-52.221634"/>
+<point y="-55.55365"/>
+<point y="-58.90148"/>
+<point y="-62.26476"/>
+<point y="-65.643135"/>
+<point y="-69.03628"/>
+<point y="-72.443886"/>
+<point y="-75.86567"/>
+<point y="-79.30137"/>
+<point y="-82.75072"/>
+<point y="-86.213486"/>
+<point y="-89.689445"/>
+<point y="-93.178375"/>
+<point y="-96.68007"/>
+<point y="-100.19434"/>
+<point y="-103.72098"/>
+<point y="-107.25983"/>
+<point y="-113.25602"/>
+<point y="-116.89739"/>
+<point y="-120.55074"/>
+<point y="-127.32129"/>
+<point y="-134.28735"/>
+<point y="-141.61412"/>
+<point y="-149.32918"/>
+<point y="-157.46304"/>
+<point y="-166.04951"/>
+<point y="-169.857"/>
+<point y="-173.70515"/>
+<point y="-183.2227"/>
+<point y="-187.64157"/>
+<point y="-192.07063"/>
+<point y="-196.50977"/>
+<point y="-200.95888"/>
+<point y="-205.41786"/>
+<point y="-209.88663"/>
+<point y="-214.36507"/>
+<point y="-218.85309"/>
+<point y="-201.30032"/>
+<point y="-205.34164"/>
+<point y="-209.38998"/>
+<point y="-213.44527"/>
+<point y="-217.50745"/>
+<point y="-221.57645"/>
+<point y="-225.65222"/>
+<point y="-229.7347"/>
+<point y="-233.82384"/>
+<point y="-237.91957"/>
 </arrayProgression>
 <arrayProgression identifier="1879052689" nbPoints="60" type="INTEGER">
 <point y="-29"/>
@@ -13659,6 +13783,130 @@
 <point y="75.558"/>
 <point count="11" y="77.952"/>
 </arrayProgression>
+<arrayProgression identifier="1879057838" nbPoints="60">
+<point y="-0.8438146"/>
+<point y="-1.1808375"/>
+<point y="-1.5476748"/>
+<point y="-1.9709489"/>
+<point y="-2.464024"/>
+<point y="-3.0448604"/>
+<point y="-3.738217"/>
+<point y="-4.579208"/>
+<point y="-5.6193333"/>
+<point y="-6.9372897"/>
+<point y="-8.659638"/>
+<point y="-9.331133"/>
+<point y="-10.006135"/>
+<point y="-10.684546"/>
+<point y="-11.366277"/>
+<point y="-12.051244"/>
+<point y="-12.73937"/>
+<point y="-13.430585"/>
+<point y="-14.124822"/>
+<point y="-14.822019"/>
+<point y="-15.522116"/>
+<point y="-16.22506"/>
+<point y="-16.930798"/>
+<point y="-17.63928"/>
+<point y="-18.35046"/>
+<point y="-19.064295"/>
+<point y="-19.780743"/>
+<point y="-20.499762"/>
+<point y="-21.221313"/>
+<point y="-21.945362"/>
+<point y="-23.110981"/>
+<point y="-23.854038"/>
+<point y="-24.599539"/>
+<point y="-25.901924"/>
+<point y="-27.236046"/>
+<point y="-28.63068"/>
+<point y="-30.089828"/>
+<point y="-31.617863"/>
+<point y="-33.21956"/>
+<point y="-33.850075"/>
+<point y="-34.476234"/>
+<point y="-36.209385"/>
+<point y="-37.082664"/>
+<point y="-37.95796"/>
+<point y="-38.835243"/>
+<point y="-39.714497"/>
+<point y="-40.595703"/>
+<point y="-41.478844"/>
+<point y="-42.363895"/>
+<point y="-43.250843"/>
+<point y="-39.78198"/>
+<point y="-40.580643"/>
+<point y="-41.380695"/>
+<point y="-42.18212"/>
+<point y="-42.98491"/>
+<point y="-43.789043"/>
+<point y="-44.59452"/>
+<point y="-45.40132"/>
+<point y="-46.209435"/>
+<point y="-47.018856"/>
+</arrayProgression>
+<arrayProgression identifier="1879057839" nbPoints="60">
+<point y="-1.593872"/>
+<point y="-2.230471"/>
+<point y="-2.9233859"/>
+<point y="-3.7229037"/>
+<point y="-4.654268"/>
+<point y="-5.751403"/>
+<point y="-7.0610766"/>
+<point y="-8.649615"/>
+<point y="-10.614296"/>
+<point y="-13.10377"/>
+<point y="-16.357094"/>
+<point y="-17.625473"/>
+<point y="-18.900476"/>
+<point y="-20.181921"/>
+<point y="-21.469633"/>
+<point y="-22.76346"/>
+<point y="-24.063255"/>
+<point y="-25.368883"/>
+<point y="-26.68022"/>
+<point y="-27.997147"/>
+<point y="-29.319553"/>
+<point y="-30.647335"/>
+<point y="-31.980394"/>
+<point y="-33.318638"/>
+<point y="-34.66198"/>
+<point y="-36.010334"/>
+<point y="-37.363625"/>
+<point y="-38.72177"/>
+<point y="-40.0847"/>
+<point y="-41.45235"/>
+<point y="-43.654076"/>
+<point y="-45.05763"/>
+<point y="-46.465794"/>
+<point y="-48.925858"/>
+<point y="-51.445866"/>
+<point y="-54.080173"/>
+<point y="-56.836346"/>
+<point y="-59.72263"/>
+<point y="-62.748055"/>
+<point y="-63.939026"/>
+<point y="-65.12178"/>
+<point y="-68.39551"/>
+<point y="-70.04504"/>
+<point y="-71.698364"/>
+<point y="-73.35546"/>
+<point y="-75.01627"/>
+<point y="-76.68078"/>
+<point y="-78.34892"/>
+<point y="-80.02069"/>
+<point y="-81.69604"/>
+<point y="-75.14374"/>
+<point y="-76.65233"/>
+<point y="-78.163536"/>
+<point y="-79.67734"/>
+<point y="-81.19372"/>
+<point y="-82.71264"/>
+<point y="-84.23409"/>
+<point y="-85.75805"/>
+<point y="-87.284485"/>
+<point y="-88.81339"/>
+</arrayProgression>
 <arrayProgression identifier="1879058883" nbPoints="60">
 <point y="-1.4055243"/>
 <point y="-2.0533056"/>
@@ -14866,6 +15114,118 @@
 <point count="2" y="45"/>
 <point count="10" y="0"/>
 </arrayProgression>
+<arrayProgression identifier="1879060264" nbPoints="60">
+<point y="0.44444445"/>
+<point y="0.53333336"/>
+<point y="0.62222224"/>
+<point y="0.7111111"/>
+<point y="0.8"/>
+<point y="0.8888889"/>
+<point y="0.9777778"/>
+<point y="1.0666667"/>
+<point y="1.1555556"/>
+<point y="1.2444445"/>
+<point y="1.3333334"/>
+<point y="1.4222223"/>
+<point y="1.5111111"/>
+<point y="1.6"/>
+<point y="1.6888889"/>
+<point y="1.7777778"/>
+<point y="1.8666667"/>
+<point y="1.9555556"/>
+<point y="2.0444446"/>
+<point y="2.1333334"/>
+<point y="2.2222223"/>
+<point y="2.3111112"/>
+<point y="2.4"/>
+<point y="2.488889"/>
+<point y="2.5777779"/>
+<point y="2.6666667"/>
+<point y="2.7555556"/>
+<point y="2.8444445"/>
+<point y="2.9333334"/>
+<point y="3.0222223"/>
+<point y="3.1111112"/>
+<point y="3.2"/>
+<point y="3.288889"/>
+<point y="3.3777778"/>
+<point y="3.4666667"/>
+<point y="3.5555556"/>
+<point y="3.6444445"/>
+<point y="3.7333333"/>
+<point y="3.8222222"/>
+<point y="3.911111"/>
+<point y="4.0"/>
+<point y="4.088889"/>
+<point y="4.177778"/>
+<point y="4.266667"/>
+<point y="4.3555555"/>
+<point y="4.4444447"/>
+<point y="4.5333333"/>
+<point y="4.6222224"/>
+<point y="4.711111"/>
+<point y="4.8"/>
+<point count="3" y="0.0"/>
+<point y="0.8888889"/>
+<point y="1.0666667"/>
+<point y="1.2444445"/>
+<point y="1.4222223"/>
+<point y="1.6"/>
+<point y="1.7777778"/>
+<point y="1.9555556"/>
+</arrayProgression>
+<arrayProgression identifier="1879060265" nbPoints="60">
+<point y="17.6"/>
+<point count="2" y="18.7"/>
+<point y="20.9"/>
+<point y="22.0"/>
+<point y="24.2"/>
+<point y="25.3"/>
+<point y="27.5"/>
+<point y="30.8"/>
+<point y="33.0"/>
+<point y="36.3"/>
+<point y="38.5"/>
+<point y="41.8"/>
+<point y="46.2"/>
+<point y="49.5"/>
+<point y="53.9"/>
+<point y="57.2"/>
+<point y="61.6"/>
+<point y="67.1"/>
+<point y="71.5"/>
+<point y="77.0"/>
+<point y="82.5"/>
+<point y="88.0"/>
+<point y="93.5"/>
+<point y="99.0"/>
+<point y="105.6"/>
+<point y="112.2"/>
+<point y="118.8"/>
+<point y="125.4"/>
+<point y="133.1"/>
+<point y="139.7"/>
+<point y="147.4"/>
+<point y="155.1"/>
+<point y="163.9"/>
+<point y="171.6"/>
+<point y="180.4"/>
+<point y="189.2"/>
+<point y="198.0"/>
+<point y="206.8"/>
+<point y="216.7"/>
+<point y="225.5"/>
+<point y="235.4"/>
+<point y="245.3"/>
+<point y="256.3"/>
+<point y="266.2"/>
+<point y="277.2"/>
+<point y="288.2"/>
+<point y="299.2"/>
+<point y="310.2"/>
+<point y="322.3"/>
+<point count="10" y="0.0"/>
+</arrayProgression>
 <arrayProgression identifier="1879060275" nbPoints="60">
 <point y="30.345"/>
 <point y="36.8475"/>
@@ -14927,6 +15287,118 @@
 <point y="348.9675"/>
 <point y="351.135"/>
 <point y="353.3025"/>
+</arrayProgression>
+<arrayProgression identifier="1879060290" nbPoints="60">
+<point y="0.31111112"/>
+<point y="0.37777779"/>
+<point y="0.43333334"/>
+<point y="0.5"/>
+<point y="0.5555556"/>
+<point y="0.62222224"/>
+<point y="0.6888889"/>
+<point y="0.74444443"/>
+<point y="0.8111111"/>
+<point y="0.8666667"/>
+<point y="0.93333334"/>
+<point y="1.0"/>
+<point y="1.0555556"/>
+<point y="1.1222222"/>
+<point y="1.1777778"/>
+<point y="1.2444445"/>
+<point y="1.3111111"/>
+<point y="1.3666667"/>
+<point y="1.4333333"/>
+<point y="1.4888889"/>
+<point y="1.5555556"/>
+<point y="1.6222222"/>
+<point y="1.6777778"/>
+<point y="1.7444445"/>
+<point y="1.8"/>
+<point y="1.8666667"/>
+<point y="1.9333333"/>
+<point y="1.9888889"/>
+<point y="2.0555556"/>
+<point y="2.1111112"/>
+<point y="2.1777778"/>
+<point y="2.2444444"/>
+<point y="2.3"/>
+<point y="2.3666666"/>
+<point y="2.4222221"/>
+<point y="2.488889"/>
+<point y="2.5555556"/>
+<point y="2.6111112"/>
+<point y="2.6777778"/>
+<point y="2.7333333"/>
+<point y="2.8"/>
+<point y="2.8666666"/>
+<point y="2.9222221"/>
+<point y="2.988889"/>
+<point y="3.0444446"/>
+<point y="3.1111112"/>
+<point y="3.1777778"/>
+<point y="3.2333333"/>
+<point y="3.3"/>
+<point y="3.3555555"/>
+<point count="3" y="0.0"/>
+<point y="0.62222224"/>
+<point y="0.75555557"/>
+<point y="0.8666667"/>
+<point y="1.0"/>
+<point y="1.1111112"/>
+<point y="1.2444445"/>
+<point y="1.3777778"/>
+</arrayProgression>
+<arrayProgression identifier="1879060291" nbPoints="60">
+<point y="12.0"/>
+<point count="2" y="12.75"/>
+<point y="14.25"/>
+<point y="15.0"/>
+<point y="16.5"/>
+<point y="17.25"/>
+<point y="18.75"/>
+<point y="21.0"/>
+<point y="22.5"/>
+<point y="24.75"/>
+<point y="26.25"/>
+<point y="28.5"/>
+<point y="31.5"/>
+<point y="33.75"/>
+<point y="36.75"/>
+<point y="39.0"/>
+<point y="42.0"/>
+<point y="45.75"/>
+<point y="48.75"/>
+<point y="52.5"/>
+<point y="56.25"/>
+<point y="60.0"/>
+<point y="63.75"/>
+<point y="67.5"/>
+<point y="72.0"/>
+<point y="76.5"/>
+<point y="81.0"/>
+<point y="85.5"/>
+<point y="90.75"/>
+<point y="95.25"/>
+<point y="100.5"/>
+<point y="105.75"/>
+<point y="111.75"/>
+<point y="117.0"/>
+<point y="123.0"/>
+<point y="129.0"/>
+<point y="135.0"/>
+<point y="141.0"/>
+<point y="147.75"/>
+<point y="153.75"/>
+<point y="160.5"/>
+<point y="167.25"/>
+<point y="174.75"/>
+<point y="181.5"/>
+<point y="189.0"/>
+<point y="196.5"/>
+<point y="204.0"/>
+<point y="211.5"/>
+<point y="219.75"/>
+<point count="10" y="0.0"/>
 </arrayProgression>
 <arrayProgression identifier="1879060298" nbPoints="60">
 <point y="18.4"/>
@@ -15784,6 +16256,112 @@
 <point y="135"/>
 <point count="10" y="0"/>
 </arrayProgression>
+<arrayProgression identifier="1879060356" nbPoints="60" type="INTEGER">
+<point y="1"/>
+<point y="2"/>
+<point y="4"/>
+<point y="5"/>
+<point y="6"/>
+<point y="7"/>
+<point y="8"/>
+<point y="10"/>
+<point y="11"/>
+<point y="12"/>
+<point y="13"/>
+<point y="14"/>
+<point y="16"/>
+<point y="17"/>
+<point y="18"/>
+<point y="19"/>
+<point y="20"/>
+<point y="22"/>
+<point y="23"/>
+<point y="24"/>
+<point y="25"/>
+<point y="26"/>
+<point y="28"/>
+<point y="29"/>
+<point y="30"/>
+<point y="31"/>
+<point y="32"/>
+<point y="34"/>
+<point y="35"/>
+<point y="36"/>
+<point y="37"/>
+<point y="38"/>
+<point y="40"/>
+<point y="41"/>
+<point y="42"/>
+<point y="43"/>
+<point y="44"/>
+<point y="46"/>
+<point y="47"/>
+<point y="48"/>
+<point y="49"/>
+<point y="50"/>
+<point y="52"/>
+<point y="53"/>
+<point y="54"/>
+<point y="55"/>
+<point y="56"/>
+<point y="58"/>
+<point y="59"/>
+<point y="60"/>
+<point count="10" y="0"/>
+</arrayProgression>
+<arrayProgression identifier="1879060357" nbPoints="60" type="INTEGER">
+<point y="1"/>
+<point y="2"/>
+<point y="4"/>
+<point y="5"/>
+<point y="6"/>
+<point y="7"/>
+<point y="8"/>
+<point y="10"/>
+<point y="11"/>
+<point y="12"/>
+<point y="13"/>
+<point y="14"/>
+<point y="16"/>
+<point y="17"/>
+<point y="18"/>
+<point y="19"/>
+<point y="20"/>
+<point y="22"/>
+<point y="23"/>
+<point y="24"/>
+<point y="25"/>
+<point y="26"/>
+<point y="28"/>
+<point y="29"/>
+<point y="30"/>
+<point y="31"/>
+<point y="32"/>
+<point y="34"/>
+<point y="35"/>
+<point y="36"/>
+<point y="37"/>
+<point y="38"/>
+<point y="40"/>
+<point y="41"/>
+<point y="42"/>
+<point y="43"/>
+<point y="44"/>
+<point y="46"/>
+<point y="47"/>
+<point y="48"/>
+<point y="49"/>
+<point y="50"/>
+<point y="52"/>
+<point y="53"/>
+<point y="54"/>
+<point y="55"/>
+<point y="56"/>
+<point y="58"/>
+<point y="59"/>
+<point y="60"/>
+<point count="10" y="0"/>
+</arrayProgression>
 <arrayProgression identifier="1879060381" nbPoints="60">
 <point y="16.1"/>
 <point y="22.4"/>
@@ -15910,6 +16488,126 @@
 </arrayProgression>
 <arrayProgression identifier="1879060383" nbPoints="60">
 <point count="50" y="20.0"/>
+<point count="10" y="0.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879060410" nbPoints="60">
+<point count="2" y="1.25"/>
+<point count="5" y="1.5"/>
+<point count="18" y="1.75"/>
+<point count="25" y="2.0"/>
+<point count="10" y="0.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879060411" nbPoints="60">
+<point y="30.0"/>
+<point y="42.0"/>
+<point y="54.0"/>
+<point y="66.0"/>
+<point y="78.0"/>
+<point y="90.0"/>
+<point y="102.0"/>
+<point y="114.0"/>
+<point y="126.0"/>
+<point y="138.0"/>
+<point y="150.0"/>
+<point y="162.0"/>
+<point y="174.0"/>
+<point y="186.0"/>
+<point y="198.0"/>
+<point y="210.0"/>
+<point y="222.0"/>
+<point y="234.0"/>
+<point y="246.0"/>
+<point y="258.0"/>
+<point y="270.0"/>
+<point y="282.0"/>
+<point y="294.0"/>
+<point y="306.0"/>
+<point y="318.0"/>
+<point y="330.0"/>
+<point y="342.0"/>
+<point y="354.0"/>
+<point y="366.0"/>
+<point y="378.0"/>
+<point y="390.0"/>
+<point y="402.0"/>
+<point y="414.0"/>
+<point y="426.0"/>
+<point y="438.0"/>
+<point y="450.0"/>
+<point y="462.0"/>
+<point y="474.0"/>
+<point y="486.0"/>
+<point y="498.0"/>
+<point y="510.0"/>
+<point y="522.0"/>
+<point y="534.0"/>
+<point y="546.0"/>
+<point y="558.0"/>
+<point y="570.0"/>
+<point y="582.0"/>
+<point y="594.0"/>
+<point y="606.0"/>
+<point y="618.0"/>
+<point count="10" y="0.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879060428" nbPoints="60">
+<point count="2" y="0.8125"/>
+<point count="5" y="0.975"/>
+<point count="18" y="1.1375"/>
+<point count="25" y="1.3"/>
+<point count="10" y="0.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879060429" nbPoints="60">
+<point y="19.5"/>
+<point y="27.3"/>
+<point y="35.1"/>
+<point y="42.9"/>
+<point y="50.7"/>
+<point y="58.5"/>
+<point y="66.3"/>
+<point y="74.1"/>
+<point y="81.9"/>
+<point y="89.7"/>
+<point y="97.5"/>
+<point y="105.3"/>
+<point y="113.1"/>
+<point y="120.9"/>
+<point y="128.7"/>
+<point y="136.5"/>
+<point y="144.3"/>
+<point y="152.1"/>
+<point y="159.9"/>
+<point y="167.7"/>
+<point y="175.5"/>
+<point y="183.3"/>
+<point y="191.1"/>
+<point y="198.9"/>
+<point y="206.7"/>
+<point y="214.5"/>
+<point y="222.3"/>
+<point y="230.1"/>
+<point y="237.9"/>
+<point y="245.7"/>
+<point y="253.5"/>
+<point y="261.3"/>
+<point y="269.1"/>
+<point y="276.9"/>
+<point y="284.7"/>
+<point y="292.5"/>
+<point y="300.3"/>
+<point y="308.1"/>
+<point y="315.9"/>
+<point y="323.7"/>
+<point y="331.5"/>
+<point y="339.3"/>
+<point y="347.1"/>
+<point y="354.9"/>
+<point y="362.7"/>
+<point y="370.5"/>
+<point y="378.3"/>
+<point y="386.1"/>
+<point y="393.9"/>
+<point y="401.7"/>
 <point count="10" y="0.0"/>
 </arrayProgression>
 <arrayProgression identifier="1879060434" nbPoints="60">
@@ -33788,6 +34486,68 @@
 <point y="104.907"/>
 <point y="105.70175"/>
 </arrayProgression>
+<arrayProgression identifier="1879078468" nbPoints="60">
+<point y="-21.0"/>
+<point y="-24.0"/>
+<point y="-28.5"/>
+<point y="-31.5"/>
+<point y="-36.0"/>
+<point y="-39.75"/>
+<point y="-44.25"/>
+<point y="-47.25"/>
+<point y="-51.75"/>
+<point y="-54.75"/>
+<point y="-59.25"/>
+<point y="-62.25"/>
+<point y="-66.75"/>
+<point y="-69.75"/>
+<point y="-74.25"/>
+<point y="-77.25"/>
+<point y="-81.75"/>
+<point y="-84.75"/>
+<point y="-89.25"/>
+<point y="-93.0"/>
+<point y="-97.5"/>
+<point y="-100.5"/>
+<point y="-105.0"/>
+<point y="-108.0"/>
+<point y="-112.5"/>
+<point y="-115.5"/>
+<point y="-120.0"/>
+<point y="-123.0"/>
+<point y="-127.5"/>
+<point y="-130.5"/>
+<point y="-135.0"/>
+<point y="-138.0"/>
+<point y="-142.5"/>
+<point y="-145.5"/>
+<point y="-150.0"/>
+<point y="-153.0"/>
+<point y="-157.5"/>
+<point y="-160.5"/>
+<point y="-165.0"/>
+<point y="-168.0"/>
+<point y="-172.5"/>
+<point y="-175.5"/>
+<point y="-180.0"/>
+<point y="-183.0"/>
+<point y="-187.5"/>
+<point y="-190.5"/>
+<point y="-195.0"/>
+<point y="-198.0"/>
+<point y="-202.5"/>
+<point y="-205.5"/>
+<point y="-208.5"/>
+<point y="-211.5"/>
+<point y="-214.5"/>
+<point y="-217.5"/>
+<point y="-220.5"/>
+<point y="-223.5"/>
+<point y="-226.5"/>
+<point y="-229.5"/>
+<point y="-232.5"/>
+<point y="-235.5"/>
+</arrayProgression>
 <arrayProgression identifier="1879081144" nbPoints="60">
 <point y="7.0"/>
 <point y="8.0"/>
@@ -45197,6 +45957,130 @@
 <point y="88.825"/>
 <point y="89.6325"/>
 <point y="90.44"/>
+</arrayProgression>
+<arrayProgression identifier="1879098373" nbPoints="60">
+<point y="-21.961317"/>
+<point y="-32.1329"/>
+<point y="-43.158043"/>
+<point y="-55.18441"/>
+<point y="-68.292496"/>
+<point y="-82.65242"/>
+<point y="-98.47412"/>
+<point y="-115.91353"/>
+<point y="-135.2991"/>
+<point y="-156.88094"/>
+<point y="-181.093"/>
+<point y="-195.97809"/>
+<point y="-210.85477"/>
+<point y="-225.8174"/>
+<point y="-240.76602"/>
+<point y="-255.74817"/>
+<point y="-270.81714"/>
+<point y="-285.86478"/>
+<point y="-301.0001"/>
+<point y="-316.1098"/>
+<point y="-331.24878"/>
+<point y="-346.47696"/>
+<point y="-361.67374"/>
+<point y="-376.96082"/>
+<point y="-392.21295"/>
+<point y="-407.49136"/>
+<point y="-422.86194"/>
+<point y="-438.19263"/>
+<point y="-453.61673"/>
+<point y="-468.9979"/>
+<point y="-484.4031"/>
+<point y="-499.9037"/>
+<point y="-515.357"/>
+<point y="-530.9069"/>
+<point y="-546.4069"/>
+<point y="-561.92926"/>
+<point y="-577.5502"/>
+<point y="-593.11725"/>
+<point y="-608.78424"/>
+<point y="-624.3949"/>
+<point y="-640.02655"/>
+<point y="-655.76"/>
+<point y="-671.4337"/>
+<point y="-687.2105"/>
+<point y="-702.9253"/>
+<point y="-718.6598"/>
+<point y="-734.49945"/>
+<point y="-750.27374"/>
+<point y="-766.1544"/>
+<point y="-781.96765"/>
+<point y="-797.7809"/>
+<point y="-813.5942"/>
+<point y="-829.4074"/>
+<point y="-845.22064"/>
+<point y="-861.0339"/>
+<point y="-876.84717"/>
+<point y="-892.6604"/>
+<point y="-908.47363"/>
+<point y="-924.28687"/>
+<point y="-940.10016"/>
+</arrayProgression>
+<arrayProgression identifier="1879098375" nbPoints="60">
+<point y="-21.961317"/>
+<point y="-32.1329"/>
+<point y="-43.158043"/>
+<point y="-55.18441"/>
+<point y="-68.292496"/>
+<point y="-82.65242"/>
+<point y="-98.47412"/>
+<point y="-115.91353"/>
+<point y="-135.2991"/>
+<point y="-156.88094"/>
+<point y="-181.093"/>
+<point y="-195.97809"/>
+<point y="-210.85477"/>
+<point y="-225.8174"/>
+<point y="-240.76602"/>
+<point y="-255.74817"/>
+<point y="-270.81714"/>
+<point y="-285.86478"/>
+<point y="-301.0001"/>
+<point y="-316.1098"/>
+<point y="-331.24878"/>
+<point y="-346.47696"/>
+<point y="-361.67374"/>
+<point y="-376.96082"/>
+<point y="-392.21295"/>
+<point y="-407.49136"/>
+<point y="-422.86194"/>
+<point y="-438.19263"/>
+<point y="-453.61673"/>
+<point y="-468.9979"/>
+<point y="-484.4031"/>
+<point y="-499.9037"/>
+<point y="-515.357"/>
+<point y="-530.9069"/>
+<point y="-546.4069"/>
+<point y="-561.92926"/>
+<point y="-577.5502"/>
+<point y="-593.11725"/>
+<point y="-608.78424"/>
+<point y="-624.3949"/>
+<point y="-640.02655"/>
+<point y="-655.76"/>
+<point y="-671.4337"/>
+<point y="-687.2105"/>
+<point y="-702.9253"/>
+<point y="-718.6598"/>
+<point y="-734.49945"/>
+<point y="-750.27374"/>
+<point y="-766.1544"/>
+<point y="-781.96765"/>
+<point y="-797.7809"/>
+<point y="-813.5942"/>
+<point y="-829.4074"/>
+<point y="-845.22064"/>
+<point y="-861.0339"/>
+<point y="-876.84717"/>
+<point y="-892.6604"/>
+<point y="-908.47363"/>
+<point y="-924.28687"/>
+<point y="-940.10016"/>
 </arrayProgression>
 <arrayProgression identifier="1879099279" nbPoints="60">
 <point y="-11.885715"/>
