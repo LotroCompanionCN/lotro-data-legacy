@@ -21,6 +21,7 @@
 <stat id="268438635" index="22" name="Ranged Damage" key="Combat_DamageQualifier_Ranged_Offense" legacyKey="RANGED_DAMAGE_PERCENTAGE" isPercentage="true"/>
 <stat id="268439611" index="24" name="Tactical Damage" key="Combat_DamageQualifier_Magic_Offense" legacyKey="TACTICAL_DAMAGE_PERCENTAGE" isPercentage="true"/>
 <stat id="-1007" index="28" name="Resistance (%)" key="RESISTANCE_PERCENTAGE" legacyKey="RESISTANCE_PERCENTAGE" isPercentage="true"/>
+<stat id="268436524" index="38" name="Incoming Healing" key="Mood_Healing_Modifier" legacyKey="INCOMING_HEALING_PERCENTAGE" legacyName="Incoming Healing (%)" isPercentage="true"/>
 <stat id="268436092" index="40" name="Block Chance" key="Combat_BlockChanceModifier" legacyKey="BLOCK_PERCENTAGE" isPercentage="true"/>
 <stat id="268436351" index="44" name="Parry Chance" key="Combat_ParryChanceModifier" legacyKey="PARRY_PERCENTAGE" isPercentage="true"/>
 <stat id="268440595" index="48" name="Evade Chance" key="Combat_EvadeChanceModifier" legacyKey="EVADE_PERCENTAGE" isPercentage="true"/>
@@ -126,7 +127,6 @@
 <stat id="268436397" name="Quick Shot Critical Chance" key="Skill_ChanceCriticalHit_Hunter_Stance_Precision" isPercentage="true"/>
 <stat id="268436435" name="Threat Input Modifier for Damage" key="ThreatInputModifier_Damage" isPercentage="true"/>
 <stat id="268436447" name="Movement Freeze" key="ForwardSource_ScriptSystem_ActiveMovementBlocked" type="BOOLEAN"/>
-<stat id="268436524" name="Incoming Healing" key="Mood_Healing_Modifier" isPercentage="true"/>
 <stat id="268436578" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo4" type="ENUM"/>
 <stat id="268436581" name="Light Mitigation" key="Combat_MitigationPercentage_Light" isPercentage="true"/>
 <stat id="268436583" name="Can Parry" key="Combat_CanParry" type="BOOLEAN"/>

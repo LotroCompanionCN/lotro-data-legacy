@@ -488,6 +488,7 @@
 <label key="legacy:268435993" value="Cook Critical Chance"/>
 <label key="legacy:268436396" value="Forester Chopping Duration (s)"/>
 <label key="legacy:268436462" value="Weaponsmith Critical Chance"/>
+<label key="legacy:268436524" value="Incoming Healing (%)"/>
 <label key="legacy:268436582" value="Shadow Mitigation (%)"/>
 <label key="legacy:268436709" value="Woodworker Critical Chance"/>
 <label key="legacy:268437186" value="Jeweller Critical Chance"/>

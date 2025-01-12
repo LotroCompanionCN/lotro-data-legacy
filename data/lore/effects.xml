@@ -1915,7 +1915,7 @@
 </propertyModEffect>
 <effect id="1879073091" name="Kneel!" appliedDescription="key:620774944:54354734" baseFlags="4124"/>
 <propertyModEffect id="1879073093" name="Herald Strike Healing Boon" iconId="1090553789" duration="20.0" baseFlags="4540">
-<stat name="Mood_Healing_Modifier" constant="10.0"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
 <comboEffect id="1879073097" name="Noble Cause Chain Down Combo" baseFlags="4124">
 <present id="1879073100" name="Noble Cause (3 left)"/>
@@ -3616,7 +3616,7 @@
 <stat name="Combat_BaseEvadeRate_Ranged" constant="25.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879092478" name="Suppressed Spirit" appliedDescription="key:620793033:54354734" iconId="1091400594" duration="10.0" baseFlags="4542">
-<stat name="Mood_Healing_Modifier" operator="SUBSTRACT" constant="25.0"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" operator="SUBSTRACT" constant="25.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879092479" name="Weakening Miasma" appliedDescription="key:620793029:54354734" iconId="1091400587" duration="10.0" baseFlags="4542">
 <stat name="Combat_AttackerCriticalHitChanceAddMod" constant="10.0"/>
@@ -3781,7 +3781,7 @@
 <stat name="Trait_Captain_ImprovedStandardofWar" operator="SET" descriptionOverride="-" value="[{'Skill_Effect':1879093341}]"/>
 </propertyModEffect>
 <propertyModEffect id="1879093395" name="Strength of Will" appliedDescription="key:620793551:54354734" iconId="1091387469" duration="120.0" baseFlags="4540">
-<stat name="Mood_Healing_Modifier" descriptionOverride="-" constant="5.0"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" descriptionOverride="-" constant="5.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879093488" name="Burning Blades" iconId="1090519170" baseFlags="6284">
 <stat name="Skill_DamageTypeOverride_AllSkillsOverride" operator="SET" value="e587202600:16"/>
@@ -3970,7 +3970,7 @@
 <stat name="MELEE_DAMAGE_PERCENTAGE" operator="MULTIPLY" constant="4.0"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="50.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" operator="MULTIPLY" constant="4.0"/>
-<stat name="Mood_Healing_Modifier" operator="MULTIPLY" constant="4.0"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" operator="MULTIPLY" constant="4.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879094786" name="Paranoia" appliedDescription="key:620794612:54354734" iconId="1091399128" duration="60.0" baseFlags="4540">
 <stat name="Stealth_StealthDetectionLevelModifier" descriptionOverride="-" constant="49.0"/>

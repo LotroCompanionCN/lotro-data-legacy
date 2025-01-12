@@ -1776,7 +1776,7 @@
 <stat name="WILL" constant="-8.0"/>
 </trait>
 <trait identifier="1879073504" name="Easily Inspired" iconId="1090554003" category="45" nature="1" tooltip="key:620775296:191029568" description="key:620775296:54354734">
-<stat name="Mood_Healing_Modifier" descriptionOverride="key:620775296:106251889" constant="5.0"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" descriptionOverride="key:620775296:106251889" constant="5.0"/>
 </trait>
 <trait identifier="1879073505" name="Strong Men" iconId="1090554004" category="45" nature="1" tooltip="key:620775297:191029568" description="key:620775297:54354734">
 <stat name="MIGHT" constant="15.0"/>

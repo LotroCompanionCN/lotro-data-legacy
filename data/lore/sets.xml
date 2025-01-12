@@ -47,7 +47,7 @@
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 </bonus>
 </set>
 <set id="1879087808" name="Armour of the Dwarf-hoard" level="30" description="key:620790398:54354734">
@@ -81,7 +81,7 @@
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 </bonus>
 </set>
 <set id="1879087810" name="Armour of the Sun-lands" level="50" description="key:620790401:54354734">
@@ -382,7 +382,7 @@
 <item id="1879092155" name="Warden's Necklace"/>
 <item id="1879092163" name="Warden's Shield"/>
 <bonus nbItems="2">
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 </bonus>
 <bonus nbItems="4">
 <stat name="Combat_Agent_Armor_Value" constant="125.0"/>

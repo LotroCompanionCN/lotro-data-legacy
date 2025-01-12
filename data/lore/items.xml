@@ -4283,7 +4283,7 @@
 </item>
 <item key="1879051014" name="Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -4308,13 +4308,13 @@
 </item>
 <item key="1879051018" name="Elven Steel Gloves of Rallying" icon="1090527666-1090519042-1090527668-1090527667" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879051019" name="Elven Steel Gloves of Rallying" icon="1090527666-1090519042-1090527668-1090527667" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -4326,7 +4326,7 @@
 </item>
 <item key="1879051021" name="Elven Steel Gauntlets of Rallying" icon="1090527780-1090519042-1090527782-1090527781" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -4344,13 +4344,13 @@
 </item>
 <item key="1879051024" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879051025" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -4374,7 +4374,7 @@
 </item>
 <item key="1879051029" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -4386,7 +4386,7 @@
 </item>
 <item key="1879051031" name="Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -4477,7 +4477,7 @@
 </item>
 <item key="1879051046" name="Elven Leather Gloves of Rallying" icon="1090525160-1090519042-1090525162-1090525161" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -4495,7 +4495,7 @@
 </item>
 <item key="1879051049" name="Elven Leather Gauntlets of Rallying" icon="1090525127-1090519042-1090525129-1090525128" level="33" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -4717,13 +4717,13 @@
 </item>
 <item key="1879051086" name="Silver Necklace of Rallying" icon="1090524205-1090519042-1090524762-1090528044" level="32" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="32" description="key:620758469:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
 <item key="1879051087" name="Silver Necklace of Rallying" icon="1090524205-1090519042-1090524762-1090528044" level="33" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="33" description="key:620758471:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
@@ -4897,7 +4897,7 @@
 <item key="1879051183" name="Necklace of the Rising Sun" icon="1090523202-1090519043-1090523203-1090528575" level="33" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="33" description="key:620758586:54354734" valueTableId="1879050115">
 <stats>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 </item>
 <item key="1879051184" name="Shoulders of Khazad-dûm" icon="1090527325-1090519043-1090527327-1090527326" level="33" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="RARE" minLevel="33" description="key:620758587:54354734" valueTableId="1879049947" armourType="LIGHT">
@@ -6304,7 +6304,7 @@
 <stats>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="VITALITY" scaling="1879049943"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -9104,7 +9104,7 @@
 </item>
 <item key="1879053457" name="Brimmed Hat of Rallying" icon="1090641909-1090519042-1090641920-1090641919" level="48" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="48" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
@@ -10598,7 +10598,7 @@
 </item>
 <item key="1879053689" name="Enduring Scale Gauntlets of Rallying" icon="1090527761-1090519042-1090527763-1090527762" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="48" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -10635,7 +10635,7 @@
 </item>
 <item key="1879053695" name="Enduring Dwarf Steel Gauntlets of Rallying" icon="1090526114-1090519042-1090526116-1090526115" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="48" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -10699,7 +10699,7 @@
 </item>
 <item key="1879053705" name="Enduring Elven Steel Gauntlets of Rallying" icon="1090527780-1090519042-1090527782-1090527781" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="48" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -10711,19 +10711,19 @@
 </item>
 <item key="1879053707" name="Enduring Westernesse Steel Gloves of Rallying" icon="1090533969-1090519042-1090533971-1090533970" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="48" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879053708" name="Enduring Westernesse Steel Gloves of Rallying" icon="1090533969-1090519042-1090533971-1090533970" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="48" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879053709" name="Enduring Westernesse Steel Gloves of Rallying" icon="1090533969-1090519042-1090533971-1090533970" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="48" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -10785,7 +10785,7 @@
 </item>
 <item key="1879053719" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="48" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -10815,7 +10815,7 @@
 </item>
 <item key="1879053724" name="Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="48" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="48" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -11536,7 +11536,7 @@
 </item>
 <item key="1879053837" name="Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
@@ -11556,14 +11556,14 @@
 </item>
 <item key="1879053840" name="Dwarf Steel Gauntlets of Rallying" icon="1090526114-1090519042-1090526116-1090526115" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879053841" name="Gleaming Dwarf Steel Gauntlets" icon="1090526114-1090519042-1090526116-1090526115" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -11649,7 +11649,7 @@
 </item>
 <item key="1879053854" name="Westernesse Steel Gloves of Rallying" icon="1090533969-1090519042-1090533971-1090533970" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -11687,7 +11687,7 @@
 </item>
 <item key="1879053860" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -11741,7 +11741,7 @@
 </item>
 <item key="1879053869" name="Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -11759,7 +11759,7 @@
 </item>
 <item key="1879053872" name="Westernesse Padded Gloves of Rallying" icon="1090534000-1090519042-1090534002-1090534001" level="49" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="49" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -12187,7 +12187,7 @@
 </item>
 <item key="1879053939" name="Jeweled Necklace of Rallying" icon="1090523202-1090519042-1090523203-1090528575" level="48" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="48" description="key:620760137:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
@@ -13627,7 +13627,7 @@
 <stats>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="OCMR" scaling="1879050276"/>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879050275"/>
 </stats>
 </item>
@@ -15424,7 +15424,7 @@
 </item>
 <item key="1879055166" name="Thick Bronze Helm" icon="1090524911-1090519042-1090524913-1090524912" level="18" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="15" valueTableId="1879050486" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051123"/>
 </stats>
 </item>
@@ -16552,7 +16552,7 @@
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="POWER" scaling="1879051152"/>
 <stat name="AGILITY" scaling="1879049909"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055471"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055471"/>
 <stat name="ARMOUR" scaling="1879055470"/>
 </stats>
 </item>
@@ -16572,7 +16572,7 @@
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="POWER" scaling="1879051152"/>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055471"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055471"/>
 <stat name="ARMOUR" scaling="1879055475"/>
 </stats>
 </item>
@@ -16588,7 +16588,7 @@
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="WILL" scaling="1879049917"/>
 <stat name="MORALE" scaling="1879051225"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879055484"/>
 </stats>
 </item>
@@ -16835,7 +16835,7 @@
 </item>
 <item key="1879055629" name="Thick Quilted Gloves" icon="1090520031-1090519042-1090520032-1090526862" level="13" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="10" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -17441,7 +17441,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879051225"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
@@ -19300,14 +19300,14 @@
 </item>
 <item key="1879056273" name="Scholar's Cap of Rallying" icon="1090641904-1090519042-1090641911-1090641910" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
 <item key="1879056274" name="Gleaming Feathered Hat" icon="1090641906-1090519042-1090641916-1090641915" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050068" armourType="LIGHT">
 <stats>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -20860,7 +20860,7 @@
 </item>
 <item key="1879056518" name="Scale Gloves of Rallying" icon="1090525063-1090519042-1090525065-1090525064" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -20873,7 +20873,7 @@
 </item>
 <item key="1879056520" name="Scale Gauntlets of Rallying" icon="1090527761-1090519042-1090527763-1090527762" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -20886,19 +20886,19 @@
 </item>
 <item key="1879056522" name="Reinforced Chainmail Gauntlets of Rallying" icon="1090527761-1090519042-1090527763-1090527762" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879053963"/>
 </stats>
 </item>
 <item key="1879056523" name="Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879056524" name="Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -20944,7 +20944,7 @@
 </item>
 <item key="1879056531" name="Elven Steel Gloves of Rallying" icon="1090527666-1090519042-1090527668-1090527667" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
@@ -20958,7 +20958,7 @@
 </item>
 <item key="1879056533" name="Elven Steel Gauntlets of Rallying" icon="1090527780-1090519042-1090527782-1090527781" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -21010,7 +21010,7 @@
 </item>
 <item key="1879056541" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -21052,7 +21052,7 @@
 </item>
 <item key="1879056548" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ICMR" scaling="1879051155"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
@@ -21078,13 +21078,13 @@
 </item>
 <item key="1879056552" name="Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879056553" name="Westernesse Padded Gloves of Rallying" icon="1090534000-1090519042-1090534002-1090534001" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -21110,7 +21110,7 @@
 </item>
 <item key="1879056557" name="Leather Gloves of Rallying" icon="1090526244-1090519042-1090526246-1090526245" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
@@ -21188,7 +21188,7 @@
 </item>
 <item key="1879056569" name="Dwarf Leather Gauntlets of Rallying" icon="1090526572-1090519042-1090526574-1090526573" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -21214,7 +21214,7 @@
 </item>
 <item key="1879056573" name="Elven Leather Gloves of Rallying" icon="1090525160-1090519042-1090525162-1090525161" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -21258,13 +21258,13 @@
 </item>
 <item key="1879056580" name="Reinforced Elven Leather Gauntlets of Rallying" icon="1090525160-1090519042-1090525162-1090525161" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879055675"/>
 </stats>
 </item>
 <item key="1879056581" name="Westernesse Leather Gloves of Rallying" icon="1090537284-1090519042-1090537286-1090537285" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -21282,7 +21282,7 @@
 </item>
 <item key="1879056584" name="Westernesse Leather Gloves of Rallying" icon="1090537284-1090519042-1090537286-1090537285" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -21307,7 +21307,7 @@
 </item>
 <item key="1879056588" name="Reinforced Westernesse Leather Gauntlets of Rallying" icon="1090537284-1090519042-1090537286-1090537285" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="ARMOUR" scaling="1879055675"/>
 </stats>
@@ -22081,13 +22081,13 @@
 </item>
 <item key="1879056709" name="Gold Necklace of Rallying" icon="1090531418-1090519042-1090531420-1090531419" level="50" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" description="key:620762327:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
 <item key="1879056710" name="Dwarf Shield of Rallying" icon="1090523247-1090519042-1090523248-1090523249" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="POWER" scaling="1879049946"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051163"/>
@@ -22095,7 +22095,7 @@
 </item>
 <item key="1879056711" name="Small Kite Shield of Rallying" icon="1090524765-1090519042-1090524766-1090524767" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="50" valueTableId="1879050591" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879049984"/>
 </stats>
@@ -22282,7 +22282,7 @@
 <item key="1879056744" name="Necklace of Khazad-dûm" icon="1090523202-1090519043-1090523203-1090528575" level="48" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="48" description="key:620762664:54354734" valueTableId="1879050115">
 <stats>
 <stat name="EVADE_PERCENTAGE" scaling="1879052970"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 </item>
 <item key="1879056745" name="Lomrandir" icon="1090533898-1090519043-1090533900-1090533899" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="50" description="key:620762666:54354734" valueTableId="1879049799" armourType="MEDIUM">
@@ -23019,7 +23019,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="MORALE" scaling="1879051225"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -28671,13 +28671,13 @@
 </item>
 <item key="1879058234" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="42" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="42" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879058235" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="42" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="42" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -28689,7 +28689,7 @@
 </item>
 <item key="1879058237" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="42" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="42" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -28905,7 +28905,7 @@
 </item>
 <item key="1879058272" name="Chainmail Gloves of Rallying" icon="1090525063-1090519042-1090525065-1090525064" level="43" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="43" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -28917,7 +28917,7 @@
 </item>
 <item key="1879058274" name="Chainmail Gauntlets of Rallying" icon="1090527761-1090519042-1090527763-1090527762" level="43" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="43" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -28936,7 +28936,7 @@
 </item>
 <item key="1879058277" name="Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="43" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="43" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -29010,7 +29010,7 @@
 </item>
 <item key="1879058289" name="Leather Gloves of Rallying" icon="1090526244-1090519042-1090526246-1090526245" level="43" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="43" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -29041,7 +29041,7 @@
 </item>
 <item key="1879058294" name="Dwarf Leather Gloves of Rallying" icon="1090526588-1090519042-1090526590-1090526589" level="43" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="43" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -29078,7 +29078,7 @@
 </item>
 <item key="1879058300" name="Elven Leather Gloves of Rallying" icon="1090525160-1090519042-1090525162-1090525161" level="43" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="43" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -29284,14 +29284,14 @@
 </item>
 <item key="1879058333" name="Silver Necklace of Rallying" icon="1090524205-1090519042-1090524762-1090528044" level="42" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="42" description="key:620763449:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
 <item key="1879058334" name="Kite Shield of Rallying" icon="1090523245-1090519042-1090523246-1090523330" level="41" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="41" valueTableId="1879049939" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="ARMOUR" scaling="1879051163"/>
 </stats>
@@ -30399,7 +30399,7 @@
 </item>
 <item key="1879058558" name="Enduring Pointed Hat of Rallying" icon="1090641906-1090519042-1090641916-1090641915" level="40" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="TOUGH" quality="UNCOMMON" minLevel="40" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -31420,7 +31420,7 @@
 </item>
 <item key="1879058735" name="Chainmail Gloves of Rallying" icon="1090525063-1090519042-1090525065-1090525064" level="39" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="39" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -31633,7 +31633,7 @@
 </item>
 <item key="1879058770" name="Dwarf Leather Gauntlets of Rallying" icon="1090526572-1090519042-1090526574-1090526573" level="39" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="39" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -31657,7 +31657,7 @@
 </item>
 <item key="1879058774" name="Elven Leather Gloves of Rallying" icon="1090525160-1090519042-1090525162-1090525161" level="39" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="39" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -31851,7 +31851,7 @@
 </item>
 <item key="1879058806" name="Beaded Necklace of Rallying" icon="1090528465-1090519042-1090528467-1090528466" level="38" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="38" description="key:620764004:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
@@ -33764,7 +33764,7 @@
 </item>
 <item key="1879059196" name="Pointed Hat of Rallying" icon="1090641906-1090519042-1090641916-1090641915" level="36" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="36" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -35226,7 +35226,7 @@
 </item>
 <item key="1879059456" name="Dwarf Steel Gauntlets of Rallying" icon="1090526114-1090519042-1090526116-1090526115" level="36" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="36" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -35323,13 +35323,13 @@
 </item>
 <item key="1879059472" name="Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="36" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="36" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879059473" name="Enduring Leather Gloves of Rallying" icon="1090526244-1090519042-1090526246-1090526245" level="36" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="TOUGH" quality="UNCOMMON" minLevel="36" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -35419,7 +35419,7 @@
 </item>
 <item key="1879059488" name="Enduring Elven Leather Gauntlets of Rallying" icon="1090525127-1090519042-1090525129-1090525128" level="36" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="TOUGH" quality="UNCOMMON" minLevel="36" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -35671,19 +35671,19 @@
 </item>
 <item key="1879059530" name="Gold Necklace of Rallying" icon="1090531418-1090519042-1090531420-1090531419" level="36" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="36" description="key:620764556:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
 <item key="1879059531" name="Metal Round Shield" icon="1090523493-1090519042-1090523494-1090523495" level="35" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879051163"/>
 </stats>
 </item>
 <item key="1879059532" name="Light Kite Shield of Rallying" icon="1090524765-1090519042-1090524766-1090524767" level="35" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879050589" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="ARMOUR" scaling="1879049984"/>
 </stats>
@@ -36010,7 +36010,7 @@
 <item key="1879059749" name="Arzhur's Helmet" icon="1090525875-1090519042-1090525877-1090525876" level="41" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" valueTableId="1879050493" armourType="MEDIUM">
 <stats>
 <stat name="OCMR" scaling="1879052862"/>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879051125"/>
 </stats>
 </item>
@@ -36359,7 +36359,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="FATE" scaling="1879049801"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
 </item>
@@ -38630,7 +38630,7 @@
 </item>
 <item key="1879061623" name="Cloth Hat of Rallying" icon="1090641908-1090519042-1090641922-1090641921" level="30" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="30" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -39542,7 +39542,7 @@
 </item>
 <item key="1879061790" name="Enduring Chainmail Gauntlets of Rallying" icon="1090527761-1090519042-1090527763-1090527762" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="30" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -39560,7 +39560,7 @@
 </item>
 <item key="1879061793" name="Enduring Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="30" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -39596,7 +39596,7 @@
 </item>
 <item key="1879061799" name="Enduring Elven Steel Gauntlets of Rallying" icon="1090527780-1090519042-1090527782-1090527781" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="30" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -39620,7 +39620,7 @@
 </item>
 <item key="1879061803" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="30" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -39638,7 +39638,7 @@
 </item>
 <item key="1879061806" name="Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="30" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -39674,7 +39674,7 @@
 </item>
 <item key="1879061812" name="Reinforced Leather Gauntlets of Rallying" icon="1090526211-1090519042-1090526213-1090526212" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="30" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055675"/>
 </stats>
 </item>
@@ -39729,7 +39729,7 @@
 </item>
 <item key="1879061821" name="Elven Leather Gloves of Rallying" icon="1090525160-1090519042-1090525162-1090525161" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="30" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -39961,7 +39961,7 @@
 </item>
 <item key="1879061859" name="Gold Necklace of Rallying" icon="1090531418-1090519042-1090531420-1090531419" level="30" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="30" description="key:620766747:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
@@ -39973,7 +39973,7 @@
 </item>
 <item key="1879061861" name="Small Kite Shield of Rallying" icon="1090523245-1090519042-1090523246-1090523330" level="29" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="29" valueTableId="1879050591" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879049984"/>
 </stats>
 </item>
@@ -40141,7 +40141,7 @@
 </item>
 <item key="1879061893" name="Necklace of the Fallen" icon="1090523202-1090519043-1090523203-1090528575" level="30" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="30" description="key:620766864:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="AGILITY" scaling="1879085573"/>
 </stats>
 </item>
@@ -40705,14 +40705,14 @@
 </item>
 <item key="1879062083" name="Crafted Gloves" icon="1090524908-1090519042-1090524910-1090524909" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="21" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879062084" name="Well-Crafted Gloves" icon="1090524908-1090519043-1090524910-1090524909" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="21" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -40837,14 +40837,14 @@
 </item>
 <item key="1879062115" name="Gondorian Gloves" icon="1090524908-1090519042-1090524910-1090524909" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879062116" name="Sturdy Gondorian Gloves" icon="1090524908-1090519043-1090524910-1090524909" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -40999,7 +40999,7 @@
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="WILL" scaling="1879049917"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051224"/>
 </stats>
 </item>
@@ -41044,14 +41044,14 @@
 <item key="1879062190" name="Westernesse Gloves" icon="1090533969-1090519042-1090533971-1090533970" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
 <item key="1879062191" name="Sturdy Westernesse Gloves" icon="1090533969-1090519043-1090533971-1090533970" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="35" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -41137,14 +41137,14 @@
 </item>
 <item key="1879062211" name="Elf Ancient Helm" icon="1090530018-1090519042-1090530020-1090530019" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="TOUGH" quality="UNCOMMON" minLevel="47" valueTableId="1879050486" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051123"/>
 </stats>
 </item>
 <item key="1879062212" name="Elf Burnished Ancient Helm" icon="1090530018-1090519043-1090530020-1090530019" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="90" sturdiness="TOUGH" quality="RARE" minLevel="47" valueTableId="1879050486" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="ARMOUR" scaling="1879053129"/>
 </stats>
@@ -41475,7 +41475,7 @@
 <item key="1879062375" name="Old Mugwort's Gauntlets" icon="1090529611-1090519042-1090529613-1090529612" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_ACQUIRE" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" description="key:620767323:54354734" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
 <stat name="WILL" scaling="1879049503"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -42101,13 +42101,13 @@
 </item>
 <item key="1879062713" name="Tough Leather Gloves" icon="1090526465-1090519042-1090526467-1090526466" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="TOUGH" quality="UNCOMMON" minLevel="16" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
 <item key="1879062714" name="Fine Leather Gloves" icon="1090526465-1090519043-1090526467-1090526466" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="TOUGH" quality="RARE" minLevel="16" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -42185,13 +42185,13 @@
 </item>
 <item key="1879062734" name="Linen Gloves" icon="1090520031-1090519042-1090520032-1090526862" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="16" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879062735" name="Fine Linen Gloves" icon="1090520031-1090519043-1090520032-1090526862" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="16" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
 </item>
@@ -42296,14 +42296,14 @@
 </item>
 <item key="1879062762" name="Outriders' Gloves" icon="1090526465-1090519042-1090526467-1090526466" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
 <item key="1879062763" name="Fine Outriders' Gloves" icon="1090526465-1090519043-1090526467-1090526466" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -42372,7 +42372,7 @@
 </item>
 <item key="1879062781" name="Traveller's Gloves" icon="1090520031-1090519042-1090520032-1090526862" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -42415,13 +42415,13 @@
 </item>
 <item key="1879062799" name="Deft Gauntlets" icon="1090520031-1090519042-1090520032-1090526862" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="UNCOMMON" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879062801" name="Peerless Gloves" icon="1090520031-1090519043-1090520032-1090526862" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="RARE" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
 </item>
@@ -46961,7 +46961,7 @@
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879055441"/>
 </stats>
 </item>
@@ -46996,7 +46996,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879055441"/>
 </stats>
 </item>
@@ -52651,7 +52651,7 @@
 </item>
 <item key="1879067716" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="17" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="17" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -55443,7 +55443,7 @@
 </item>
 <item key="1879068380" name="Cloth Hat of Rallying" icon="1090641908-1090519042-1090641922-1090641921" level="20" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="20" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -56378,7 +56378,7 @@
 </item>
 <item key="1879068571" name="Leather Gloves of Rallying" icon="1090526244-1090519042-1090526246-1090526245" level="20" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="20" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -56690,7 +56690,7 @@
 </item>
 <item key="1879068623" name="Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="21" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="21" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -56990,7 +56990,7 @@
 </item>
 <item key="1879068673" name="Gold Necklace of Rallying" icon="1090531418-1090519042-1090531420-1090531419" level="23" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="23" description="key:620770373:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
@@ -57014,7 +57014,7 @@
 </item>
 <item key="1879068677" name="Light Wood Buckler of Rallying" icon="1090523493-1090519042-1090523494-1090523495" level="22" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="22" valueTableId="1879050591" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879049984"/>
 </stats>
 </item>
@@ -57892,7 +57892,7 @@
 </item>
 <item key="1879068857" name="Cloth Hat of Rallying" icon="1090641908-1090519042-1090641922-1090641921" level="25" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="25" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -58229,7 +58229,7 @@
 </item>
 <item key="1879068922" name="Reinforced Chainmail Gloves of Rallying" icon="1090525063-1090519042-1090525065-1090525064" level="23" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="23" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879053963"/>
 </stats>
 </item>
@@ -58289,7 +58289,7 @@
 </item>
 <item key="1879068932" name="Dwarf Leather Gauntlets of Rallying" icon="1090526572-1090519042-1090526574-1090526573" level="23" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="23" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -58679,7 +58679,7 @@
 </item>
 <item key="1879068997" name="Leather Gloves of Rallying" icon="1090526244-1090519042-1090526246-1090526245" level="25" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="25" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -58697,7 +58697,7 @@
 </item>
 <item key="1879069000" name="Dwarf Leather Gloves of Rallying" icon="1090526588-1090519042-1090526590-1090526589" level="25" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="25" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -58781,13 +58781,13 @@
 </item>
 <item key="1879069014" name="Jeweled Necklace of Rallying" icon="1090523202-1090519042-1090523203-1090528575" level="25" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="25" description="key:620770626:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
 <item key="1879069015" name="Kite Shield of Rallying" icon="1090523245-1090519042-1090523246-1090523330" level="25" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="25" valueTableId="1879049939" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879051163"/>
 </stats>
 </item>
@@ -62111,7 +62111,7 @@
 </item>
 <item key="1879069756" name="Chainmail Gauntlets of Rallying" icon="1090527761-1090519042-1090527763-1090527762" level="26" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="26" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -62351,7 +62351,7 @@
 </item>
 <item key="1879069796" name="Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="27" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -62659,7 +62659,7 @@
 </item>
 <item key="1879069847" name="Silver Necklace of Rallying" icon="1090524205-1090519042-1090524762-1090528044" level="28" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="28" description="key:620771338:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
@@ -66437,7 +66437,7 @@
 </item>
 <item key="1879070808" name="Cloth Hat of Rallying" icon="1090641908-1090519042-1090641922-1090641921" level="46" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051124"/>
 </stats>
 </item>
@@ -67879,7 +67879,7 @@
 </item>
 <item key="1879071049" name="Scale Gloves of Rallying" icon="1090525063-1090519042-1090525065-1090525064" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="45" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -67892,7 +67892,7 @@
 </item>
 <item key="1879071051" name="Chainmail Gloves of Rallying" icon="1090525063-1090519042-1090525065-1090525064" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="45" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
@@ -67949,7 +67949,7 @@
 </item>
 <item key="1879071060" name="Dwarf Steel Gloves of Rallying" icon="1090526117-1090519042-1090526119-1090526118" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="45" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
@@ -67994,7 +67994,7 @@
 </item>
 <item key="1879071067" name="Elven Steel Gloves of Rallying" icon="1090527666-1090519042-1090527668-1090527667" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="45" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -68081,7 +68081,7 @@
 </item>
 <item key="1879071081" name="Enduring Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="UNCOMMON" minLevel="45" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -68099,7 +68099,7 @@
 </item>
 <item key="1879071084" name="Enduring Padded Gloves of Rallying" icon="1090520031-1090519042-1090520032-1090526862" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="UNCOMMON" minLevel="45" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -68123,13 +68123,13 @@
 </item>
 <item key="1879071088" name="Enduring Dwarf Padded Gloves of Rallying" icon="1090527094-1090519042-1090527096-1090527095" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="UNCOMMON" minLevel="45" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
 <item key="1879071089" name="Enduring Elven Padded Gloves of Rallying" icon="1090527371-1090519042-1090527373-1090527372" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="UNCOMMON" minLevel="45" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -68153,7 +68153,7 @@
 </item>
 <item key="1879071093" name="Enduring Westernesse Padded Gloves of Rallying" icon="1090534000-1090519042-1090534002-1090534001" level="45" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="TOUGH" quality="UNCOMMON" minLevel="45" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -68607,7 +68607,7 @@
 </item>
 <item key="1879071165" name="Leather Gauntlets of Rallying" icon="1090526211-1090519042-1090526213-1090526212" level="46" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -68707,7 +68707,7 @@
 </item>
 <item key="1879071181" name="Elven Leather Gauntlets of Rallying" icon="1090525127-1090519042-1090525129-1090525128" level="46" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -68719,7 +68719,7 @@
 </item>
 <item key="1879071183" name="Elven Leather Gauntlets of Rallying" icon="1090525127-1090519042-1090525129-1090525128" level="46" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -68731,7 +68731,7 @@
 </item>
 <item key="1879071185" name="Westernesse Leather Gloves of Rallying" icon="1090537284-1090519042-1090537286-1090537285" level="46" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -69063,21 +69063,21 @@
 </item>
 <item key="1879071238" name="Gold Necklace of Rallying" icon="1090531418-1090519042-1090531420-1090531419" level="46" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" description="key:620772396:54354734" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
 <item key="1879071239" name="Dwarf Shield of Rallying" icon="1090523245-1090519042-1090523246-1090523330" level="44" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="44" valueTableId="1879049939" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="ARMOUR" scaling="1879051163"/>
 </stats>
 </item>
 <item key="1879071240" name="Wood Buckler of Rallying" icon="1090523493-1090519042-1090523494-1090523495" level="44" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="44" valueTableId="1879050591" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="ICPR" scaling="1879053130"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="ARMOUR" scaling="1879049984"/>
@@ -69092,7 +69092,7 @@
 </item>
 <item key="1879071242" name="Light Steel Buckler of Rallying" icon="1090523493-1090519042-1090523494-1090523495" level="46" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="46" valueTableId="1879050591" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="MORALE" scaling="1879049941"/>
 <stat name="ARMOUR" scaling="1879049984"/>
 </stats>
@@ -72563,7 +72563,7 @@
 <stats>
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055446"/>
 </stats>
 </item>
@@ -72762,7 +72762,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055446"/>
 </stats>
 </item>
@@ -73698,7 +73698,7 @@
 <stats>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -74617,7 +74617,7 @@
 <stat name="WILL" scaling="1879049917"/>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879051220"/>
 <stat name="FATE" scaling="1879049801"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879055484"/>
 </stats>
 </item>
@@ -74778,7 +74778,7 @@
 <stats>
 <stat name="WILL" scaling="1879049917"/>
 <stat name="VITALITY" scaling="1879049943"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879052969"/>
 </stats>
 </item>
@@ -76685,7 +76685,7 @@
 <stats>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="EVADE_PERCENTAGE" scaling="1879086448"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 </stats>
 </item>
 <item key="1879075315" name="Black Stoned Ring" icon="1090524763-1090519043-1090524764-1090527704" level="35" slot="FINGER" category="ITEM" class="49" equipmentCategory="19" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="35" valueTableId="1879050476">
@@ -76898,13 +76898,13 @@
 </item>
 <item key="1879075349" name="Enduring Gilded Kite Shield" icon="1090523245-1090519042-1090523246-1090523330" level="30" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="100" sturdiness="TOUGH" quality="UNCOMMON" minLevel="30" description="key:620776823:54354734" valueTableId="1879049983" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879049984"/>
 </stats>
 </item>
 <item key="1879075350" name="Small Shield of the Barrows" icon="1090523493-1090519043-1090523494-1090523495" level="25" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="RARE" minLevel="25" valueTableId="1879050589" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051215"/>
 </stats>
@@ -76935,7 +76935,7 @@
 <stats>
 <stat name="AGILITY" scaling="1879075356"/>
 <stat name="ICPR" scaling="1879051135"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879051215"/>
 </stats>
 </item>
@@ -76970,7 +76970,7 @@
 <stats>
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="POWER" scaling="1879049946"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="ARMOUR" scaling="1879051215"/>
 </stats>
 </item>
@@ -77480,7 +77480,7 @@
 <item key="1879075469" name="Faervaib" icon="1090525047-1090519043-1090525049-1090525048" level="40" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="0" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="FATE" scaling="1879049801"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -77756,7 +77756,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ICMR" scaling="1879051155"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
 </item>
@@ -78109,7 +78109,7 @@
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="AGILITY" scaling="1879085573"/>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879051123"/>
 </stats>
 </item>
@@ -78252,7 +78252,7 @@
 <stats>
 <stat name="FATE" scaling="1879085574"/>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -78572,7 +78572,7 @@
 <stats>
 <stat name="MIGHT" scaling="1879085570"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051123"/>
 </stats>
 </item>
@@ -78649,7 +78649,7 @@
 </item>
 <item key="1879075657" name="Fjor-hálm" icon="1090526120-1090519042-1090526122-1090526121" level="31" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_ACQUIRE" durability="90" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" valueTableId="1879050486" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879051123"/>
 </stats>
 </item>
@@ -79588,7 +79588,7 @@
 <item key="1879075851" name="Hunter's Helm" icon="1090524578-1090519042-1090524580-1090524579" level="38" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879050493" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879085571"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051125"/>
 </stats>
 </item>
@@ -79597,7 +79597,7 @@
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055760"/>
 </stats>
 </item>
@@ -79619,7 +79619,7 @@
 </item>
 <item key="1879075855" name="Scholar's Gloves" icon="1090520031-1090519042-1090520032-1090526862" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
@@ -79649,14 +79649,14 @@
 <item key="1879075859" name="Fine Radiant Gloves" icon="1090520031-1090519044-1090520032-1090526862" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="47" valueTableId="1879049295" armourType="LIGHT">
 <stats>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
 <item key="1879075860" name="Fine Scholar's Gloves" icon="1090520031-1090519043-1090520032-1090526862" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="35" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
@@ -79724,7 +79724,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879049909"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -79758,7 +79758,7 @@
 </item>
 <item key="1879075874" name="Fine Traveller's Gloves" icon="1090520031-1090519043-1090520032-1090526862" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
@@ -79876,14 +79876,14 @@
 <item key="1879075890" name="Fine Hunter's Helm" icon="1090524578-1090519043-1090524580-1090524579" level="38" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="35" valueTableId="1879050493" armourType="MEDIUM">
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="ARMOUR" scaling="1879051224"/>
 </stats>
 </item>
 <item key="1879075891" name="Radiant Hat" icon="1090527040-1090519043-1090527042-1090527041" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="RARE" minLevel="47" valueTableId="1879050068" armourType="LIGHT">
 <stats>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879051220"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="ARMOUR" scaling="1879050275"/>
 </stats>
@@ -79934,7 +79934,7 @@
 <item key="1879075898" name="Fine Radiant Hat" icon="1090527040-1090519044-1090527042-1090527041" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="47" valueTableId="1879050068" armourType="LIGHT">
 <stats>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879051220"/>
-<stat name="Mood_Healing_Modifier" scaling="1879062213"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="ARMOUR" scaling="1879055484"/>
 </stats>
@@ -79970,7 +79970,7 @@
 </item>
 <item key="1879075903" name="Ancient Shield" icon="1090523245-1090519043-1090523246-1090523330" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="RARE" minLevel="47" valueTableId="1879050497" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="POWER" scaling="1879049946"/>
 <stat name="ARMOUR" scaling="1879051215"/>
@@ -79978,7 +79978,7 @@
 </item>
 <item key="1879075904" name="Ornate Ancient Shield" icon="1090523245-1090519044-1090523246-1090523330" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="47" valueTableId="1879050497" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="POWER" scaling="1879051152"/>
 <stat name="ARMOUR" scaling="1879055470"/>
@@ -83646,7 +83646,7 @@
 <item key="1879083216" name="Necklace of Remedies" icon="1090523202-1090519043-1090523203-1090528575" level="45" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_ACQUIRE" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="45" valueTableId="1879050115">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879054052"/>
 </stats>
 </item>
@@ -87854,7 +87854,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="OCMR" scaling="1879050276"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879051224"/>
 </stats>
 </item>
@@ -88039,7 +88039,7 @@
 </item>
 <item key="1879089612" name="Wisdán's Shield" icon="1090523245-1090519043-1090523246-1090523330" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="50" valueTableId="1879050589" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="POWER" scaling="1879049946"/>
@@ -88184,7 +88184,7 @@
 </item>
 <item key="1879089657" name="Soft Cap of Ambition" icon="1090641904-1090519043-1090641911-1090641910" level="49" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="35" sturdiness="NORMAL" quality="RARE" minLevel="49" valueTableId="1879050068" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="OCMR" scaling="1879052862"/>
 <stat name="AGILITY" scaling="1879049909"/>
@@ -88370,7 +88370,7 @@
 <item key="1879089714" name="Erchiel's Gloves" icon="1090524908-1090519042-1090524910-1090524909" level="35" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="FATE" scaling="1879049801"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -88528,7 +88528,7 @@
 <item key="1879089735" name="Standish's Gloves" icon="1090526117-1090519042-1090526119-1090526118" level="32" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="WILL" scaling="1879049503"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -89630,7 +89630,7 @@
 <item key="1879090249" name="Necklace of the Green Leaf" icon="1090531418-1090519043-1090531420-1090531419" level="32" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="32" valueTableId="1879050115">
 <stats>
 <stat name="OCPR" scaling="1879051438"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 </item>
 <item key="1879090250" name="Bracelet of the Red-pass" icon="1090524758-1090519043-1090524759-1090528040" level="31" slot="WRIST" category="ITEM" class="49" equipmentCategory="30" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="31" valueTableId="1879049907">
@@ -89995,7 +89995,7 @@
 </item>
 <item key="1879090947" name="Mirhigil" icon="1090523202-1090519044-1090523203-1090528575" level="50" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="VITALITY" scaling="1879085571"/>
@@ -90114,7 +90114,7 @@
 <stats>
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 <cooldown duration="3600.0" channelID="110"/>
@@ -91143,7 +91143,7 @@
 <stats>
 <stat name="MIGHT" scaling="1879085570"/>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -91394,7 +91394,7 @@
 <item key="1879092155" name="Warden's Necklace" icon="1090528041-1091398977-1090528043-1090528042" level="40" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="UNCOMMON" minLevel="40" requiredFaction="1879091343;5" description="key:620792773:54354734" valueTableId="1879094316">
 <stats>
 <stat name="VITALITY" scaling="1879085571"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="ARMOUR" scaling="1879051143"/>
 </stats>
 </item>
@@ -91447,7 +91447,7 @@
 <stats>
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="MELEE_DEFENCE_PERCENTAGE" scaling="1879086048"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="ARMOUR" scaling="1879049940"/>
 </stats>
 </item>
@@ -91766,7 +91766,7 @@
 <item key="1879092273" name="Tirithgaim" icon="1090526211-1090519042-1090526213-1090526212" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" durability="65" sturdiness="TOUGH" quality="UNCOMMON" minLevel="0" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -94492,7 +94492,7 @@
 </item>
 <item key="1879094755" name="Shield of the Forsaken Land" icon="1090523245-1091398975-1090523246-1090523330" level="48" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="45" valueTableId="1879050591" armourType="SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="POWER" scaling="1879093527"/>
@@ -94511,7 +94511,7 @@
 <item key="1879094757" name="Harthathan" icon="1090523245-1091398975-1090523246-1090523330" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_EQUIP" durability="90" sturdiness="NORMAL" quality="RARE" minLevel="48" valueTableId="1879050589" armourType="SHIELD">
 <stats>
 <stat name="ICPR" scaling="1879051135"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="ARMOUR" scaling="1879051215"/>
@@ -94549,7 +94549,7 @@
 </item>
 <item key="1879094762" name="Shield of Soothing" icon="1090523245-1091398975-1090523246-1090523330" level="43" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="TOUGH" quality="RARE" minLevel="40" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="ICPR" scaling="1879053130"/>
 <stat name="AGILITY" scaling="1879049909"/>
@@ -94586,7 +94586,7 @@
 <item key="1879094766" name="Strangweord" icon="1090524765-1091398973-1090524766-1090524767" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="TOUGH" quality="RARE" minLevel="48" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
 <stat name="BLOCK_PERCENTAGE" scaling="1879086449"/>
-<stat name="Mood_Healing_Modifier" scaling="1879056725"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056725"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="ICPR" scaling="1879093534"/>
 <stat name="POWER" scaling="1879093527"/>
@@ -97619,7 +97619,7 @@
 </item>
 <item key="1879097339" name="Vorthrand" icon="1090524765-1090519044-1090524766-1090524767" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056726"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056726"/>
 <stat name="ICPR" scaling="1879051135"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="VITALITY" scaling="1879049943"/>
@@ -97730,7 +97730,7 @@
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="WILL" scaling="1879049917"/>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879055169"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
 <stat name="ARMOUR" scaling="1879055441"/>
 </stats>
 </item>
@@ -97823,7 +97823,7 @@
 <stat name="EVADE_PERCENTAGE" scaling="1879086448"/>
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 </item>
 <item key="1879097581" name="Rose Cut Diamond Ring" icon="1091401405-1090519044-1091401406-1091401407" level="50" slot="FINGER" category="ITEM" class="49" equipmentCategory="19" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" description="key:620796237:54354734" valueTableId="1879050476">
@@ -98331,14 +98331,14 @@
 </item>
 <item key="1879098138" name="Strong Amulet of the Spotted Lynx" icon="1090523202-1090519043-1090523203-1090528575" level="30" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="30" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="AGILITY" scaling="1879085573"/>
 </stats>
 <effect type="ON_EQUIP" id="1879097494" name="Lynx Appearance 3"/>
 </item>
 <item key="1879098139" name="Strong Amulet of the Polar Bear" icon="1090523202-1090519043-1090523203-1090528575" level="30" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="30" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="AGILITY" scaling="1879085573"/>
 </stats>
 <effect type="ON_EQUIP" id="1879097489" name="Bear Appearance 2"/>
@@ -98346,14 +98346,14 @@
 <item key="1879098140" name="Advanced Amulet of the Frost-lynx" icon="1090523202-1090519043-1090523203-1090528575" level="33" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="33" valueTableId="1879050115">
 <stats>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 <effect type="ON_EQUIP" id="1879097493" name="Lynx Appearance 2"/>
 </item>
 <item key="1879098141" name="Advanced Amulet of the Frost-lynx" icon="1090523202-1090519043-1090523203-1090528575" level="33" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="33" valueTableId="1879050115">
 <stats>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 <effect type="ON_EQUIP" id="1879097493" name="Lynx Appearance 2"/>
 </item>
@@ -98398,7 +98398,7 @@
 <item key="1879098147" name="Exalted Amulet of the Ashen Eagle" icon="1090523202-1090519043-1090523203-1090528575" level="48" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="48" valueTableId="1879050115">
 <stats>
 <stat name="EVADE_PERCENTAGE" scaling="1879052970"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 <effect type="ON_EQUIP" id="1879097492" name="Giant Eagle Appearance 3"/>
 </item>
@@ -98467,7 +98467,7 @@
 </item>
 <item key="1879098194" name="Strong Amulet of the Wildpaw-bear" icon="1090523202-1090519043-1090523203-1090528575" level="30" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="30" valueTableId="1879050115">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879056724"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
 <stat name="AGILITY" scaling="1879085573"/>
 </stats>
 <effect type="ON_EQUIP" id="1879098185" name="Bear Appearance 4"/>
@@ -98475,7 +98475,7 @@
 <item key="1879098195" name="Advanced Amulet of the Black Lynx" icon="1090523202-1090519043-1090523203-1090528575" level="33" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="33" valueTableId="1879050115">
 <stats>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051162"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
 </stats>
 <effect type="ON_EQUIP" id="1879098187" name="Lynx Appearance 4"/>
 </item>
@@ -99415,7 +99415,7 @@
 </item>
 <item key="1879099391" name="Dwarf Scholar's Gloves" icon="1090520031-1090519042-1090520032-1090526862" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
@@ -99804,7 +99804,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879051225"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
@@ -100067,7 +100067,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879049909"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -100326,7 +100326,7 @@
 </item>
 <item key="1879099601" name="Elf Scholar's Gloves" icon="1090520031-1090519042-1090520032-1090526862" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="35" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
@@ -100556,7 +100556,7 @@
 <item key="1879099647" name="Westernesse Fine Radiant Gloves" icon="1090534000-1090519044-1090534002-1090534001" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="47" valueTableId="1879049295" armourType="LIGHT">
 <stats>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
@@ -100720,7 +100720,7 @@
 </item>
 <item key="1879099684" name="Dwarf Outriders' Gloves" icon="1090526850-1090519042-1090526852-1090526851" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -100739,7 +100739,7 @@
 <item key="1879099687" name="Dwarf Fine Radiant Gloves" icon="1090527094-1090519044-1090527096-1090527095" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="47" valueTableId="1879049295" armourType="LIGHT">
 <stats>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
@@ -100913,7 +100913,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879049909"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -100966,7 +100966,7 @@
 </item>
 <item key="1879099742" name="Dwarf Fine Leather Gloves" icon="1090526850-1090519043-1090526852-1090526851" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="TOUGH" quality="RARE" minLevel="16" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -101726,7 +101726,7 @@
 </item>
 <item key="1879099924" name="Dwarf Linen Gloves" icon="1090527094-1090519042-1090527096-1090527095" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="16" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -102169,7 +102169,7 @@
 <item key="1879100021" name="Elf Fine Outriders' Gloves" icon="1090525437-1090519043-1090525439-1090525438" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -102184,7 +102184,7 @@
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055760"/>
 </stats>
 </item>
@@ -102294,7 +102294,7 @@
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879049909"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -102449,7 +102449,7 @@
 <item key="1879100082" name="Dwarf Sturdy Gondorian Gloves" icon="1090525872-1090519043-1090525874-1090525873" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -102940,7 +102940,7 @@
 </item>
 <item key="1879100196" name="Elf Fine Traveller's Gloves" icon="1090527371-1090519043-1090527373-1090527372" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
@@ -103058,7 +103058,7 @@
 <item key="1879100223" name="Elf Well-Crafted Gloves" icon="1090539015-1090519043-1090539017-1090539016" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="21" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -103099,7 +103099,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879051225"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
@@ -103447,7 +103447,7 @@
 </item>
 <item key="1879100316" name="Dwarf Fine Linen Gloves" icon="1090527094-1090519043-1090527096-1090527095" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="16" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
 </item>
@@ -103535,7 +103535,7 @@
 <item key="1879100338" name="Elf Fine Radiant Gloves" icon="1090527371-1090519044-1090527373-1090527372" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="47" valueTableId="1879049295" armourType="LIGHT">
 <stats>
 <stat name="ICMR" scaling="1879051157"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
@@ -103615,7 +103615,7 @@
 </item>
 <item key="1879100360" name="Dwarf Traveller's Gloves" icon="1090527094-1090519042-1090527096-1090527095" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -104201,7 +104201,7 @@
 <item key="1879100486" name="Dwarf Fine Outriders' Gloves" icon="1090526850-1090519043-1090526852-1090526851" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051212"/>
 </stats>
 </item>
@@ -104267,7 +104267,7 @@
 </item>
 <item key="1879100503" name="Dwarf Tough Leather Gloves" icon="1090526850-1090519042-1090526852-1090526851" level="19" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="TOUGH" quality="UNCOMMON" minLevel="16" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -104443,7 +104443,7 @@
 </item>
 <item key="1879100544" name="Dwarf Gondorian Gloves" icon="1090525872-1090519042-1090525874-1090525873" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -104481,7 +104481,7 @@
 </item>
 <item key="1879100552" name="Elf Gondorian Gloves" icon="1090539015-1090519042-1090539017-1090539016" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -104580,7 +104580,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879051225"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
@@ -104613,7 +104613,7 @@
 </item>
 <item key="1879100581" name="Elf Crafted Gloves" icon="1090539015-1090519042-1090539017-1090539016" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="21" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
@@ -104793,7 +104793,7 @@
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055760"/>
 </stats>
 </item>
@@ -105424,7 +105424,7 @@
 </item>
 <item key="1879100761" name="Elf Traveller's Gloves" icon="1090527371-1090519042-1090527373-1090527372" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051115"/>
 </stats>
 </item>
@@ -105690,7 +105690,7 @@
 <item key="1879100814" name="Elf Sturdy Gondorian Gloves" icon="1090539015-1090519043-1090539017-1090539016" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -105897,7 +105897,7 @@
 </item>
 <item key="1879100854" name="Dwarf Fine Scholar's Gloves" icon="1090520031-1090519043-1090520032-1090526862" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="35" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
@@ -105921,7 +105921,7 @@
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="AGILITY" scaling="1879050221"/>
 <stat name="MORALE" scaling="1879049941"/>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879055760"/>
 </stats>
 </item>
@@ -105948,7 +105948,7 @@
 </item>
 <item key="1879100867" name="Dwarf Fine Traveller's Gloves" icon="1090527094-1090519043-1090527096-1090527095" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="27" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
@@ -105979,7 +105979,7 @@
 <item key="1879100873" name="Dwarf Well-Crafted Gloves" icon="1090525872-1090519043-1090525874-1090525873" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="RARE" minLevel="21" valueTableId="1879050484" armourType="HEAVY">
 <stats>
 <stat name="MORALE" scaling="1879093525"/>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="ARMOUR" scaling="1879054054"/>
 </stats>
 </item>
@@ -106037,7 +106037,7 @@
 </item>
 <item key="1879100887" name="Elf Outriders' Gloves" icon="1090525437-1090519042-1090525439-1090525438" level="30" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="50" sturdiness="NORMAL" quality="UNCOMMON" minLevel="27" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051116"/>
 </stats>
 </item>
@@ -106372,7 +106372,7 @@
 </item>
 <item key="1879100963" name="Elf Fine Scholar's Gloves" icon="1090520031-1090519043-1090520032-1090526862" level="38" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_EQUIP" durability="30" sturdiness="NORMAL" quality="RARE" minLevel="35" valueTableId="1879049295" armourType="LIGHT">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879053964"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879053964"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="ARMOUR" scaling="1879051208"/>
 </stats>
@@ -106424,7 +106424,7 @@
 </item>
 <item key="1879100974" name="Dwarf Crafted Gloves" icon="1090525872-1090519042-1090525874-1090525873" level="24" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_EQUIP" durability="65" sturdiness="NORMAL" quality="UNCOMMON" minLevel="21" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="Mood_Healing_Modifier" scaling="1879051156"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
 <stat name="ARMOUR" scaling="1879051114"/>
 </stats>
 </item>
