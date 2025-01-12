@@ -1100,13 +1100,9 @@
 <instantVitalEffect id="1879060609" name="Improved Catch a Breath Morale Heal" baseFlags="4124" stat="Health_MaxLevel">
 <vitalChange progressionID="1879060611" variance="5.0"/>
 </instantVitalEffect>
-<dispelEffect id="1879060612" name="Dispel Evade" baseFlags="4126" dispelCasters="true">
-<effect id="1879060616" name="Evade Response"/>
-</dispelEffect>
 <instantVitalEffect id="1879060614" name="Catch a Breath Morale Heal" baseFlags="4124" stat="Health_MaxLevel">
 <vitalChange progressionID="1879060615" variance="5.0"/>
 </instantVitalEffect>
-<flagEffect id="1879060616" name="Evade Response" appliedDescription="key:620765664:54354734" iconId="1090541169" duration="6.0" baseFlags="4540"/>
 <propertyModEffect id="1879060637" name="Protection" iconId="1090541176" baseFlags="6588">
 <stat name="EVADE_PERCENTAGE" scaling="1879060640"/>
 <stat name="PARRY_PERCENTAGE" scaling="1879060641"/>
@@ -2005,7 +2001,7 @@
 <propertyModEffect id="1879073164" name="Ballad of Flame" iconId="1090553815" duration="30.0" durationMods="268436150" baseFlags="4540">
 <stat name="FIRE_MITIGATION_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
-<propertyModEffect id="1879073167" name="Song of Distraction" iconId="1090553816" baseFlags="6206">
+<propertyModEffect id="1879073167" name="Song of Distraction" iconId="1090553816" baseFlags="6590">
 <stat name="AI_CallForHelp_CanRespond" operator="SET" descriptionOverride="-" value="false"/>
 <stat name="AI_PerceptionRadius" operator="MULTIPLY" constant="0.25"/>
 </propertyModEffect>

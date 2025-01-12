@@ -378,9 +378,7 @@
 <label key="1879060607" value="Improved Branching Attack"/>
 <label key="1879060608" value="Catch a Breath Power Heal"/>
 <label key="1879060609" value="Improved Catch a Breath Morale Heal"/>
-<label key="1879060612" value="Dispel Evade"/>
 <label key="1879060614" value="Catch a Breath Morale Heal"/>
-<label key="1879060616" value="Evade Response"/>
 <label key="1879060637" value="Protection"/>
 <label key="1879060639" value="Protection"/>
 <label key="1879060646" value="Guardian's Pledge"/>
@@ -1856,7 +1854,6 @@
 <label key="key:620765422:54354734" value="Battle Cry's use has initiated the Battle-readied State."/>
 <label key="key:620765623:54354734" value="Damages attackers."/>
 <label key="key:620765638:54354734" value="Shield Swipe's use has opened new combat opportunities."/>
-<label key="key:620765664:54354734" value="Any Skills that are based on a successful evade response may now be played."/>
 <label key="key:620765710:181298206" value="Roots for up to 30s"/>
 <label key="key:620765792:54354734" value="Power is being drained."/>
 <label key="key:620765795:54354734" value="Power is being drained."/>

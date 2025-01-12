@@ -378,9 +378,7 @@
 <label key="1879060607" value="Verbesserte Angriffsverteilung"/>
 <label key="1879060608" value="Luft holen (Heilung der Kraft)"/>
 <label key="1879060609" value="Verbessertes Luft holen (Heilung der Moral)"/>
-<label key="1879060612" value="\qAusweichen\q neutralisieren"/>
 <label key="1879060614" value="Luft holen (Heilung der Moral)"/>
-<label key="1879060616" value="Erwiderung \qAusweichen\q"/>
 <label key="1879060637" value="Schutz"/>
 <label key="1879060639" value="Schutz"/>
 <label key="1879060646" value="Gelöbnis des Wächters"/>
@@ -1856,7 +1854,6 @@
 <label key="key:620765422:54354734" value="Verwendung des Kampfschreis hat den kampfbereiten Zustand herbeigeführt."/>
 <label key="key:620765623:54354734" value="Fügt Angreifern Schaden zu"/>
 <label key="key:620765638:54354734" value="Die Verwendung von 'Schildstreich' hat neue Möglichkeiten für den Kampf eröffnet."/>
-<label key="key:620765664:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qAusweichen\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620765710:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
 <label key="key:620765792:54354734" value="Kraft wird entzogen."/>
 <label key="key:620765795:54354734" value="Kraft wird entzogen."/>

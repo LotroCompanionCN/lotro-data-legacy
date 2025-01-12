@@ -3405,7 +3405,7 @@
 <requiredEffect id="1879049269" name="Block Response"/>
 <details actionDurationContribution="2.5" cooldown="60.0" resistCategory="5">
 <effectsMgr type="USER">
-<effect id="1879060612" name="Dispel Evade"/>
+<effect id="1879060575" name="Dispel Block"/>
 </effectsMgr>
 <powerCost pointsProgression="1879076111" mods="268442022,268436867"/>
 <attack>

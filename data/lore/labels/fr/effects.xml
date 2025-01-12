@@ -378,9 +378,7 @@
 <label key="1879060607" value="Attaque de branche améliorée"/>
 <label key="1879060608" value="Guérison de Puissance sur reprise de souffle"/>
 <label key="1879060609" value="Hausse de Moral sur reprise de souffle améliorée"/>
-<label key="1879060612" value="Dispel Evade"/>
 <label key="1879060614" value="Guérison de Moral sur reprise de souffle"/>
-<label key="1879060616" value="Evade Response"/>
 <label key="1879060637" value="Protection"/>
 <label key="1879060639" value="Protection"/>
 <label key="1879060646" value="Serment de gardien"/>
@@ -1856,7 +1854,6 @@
 <label key="key:620765422:54354734" value="L'utilisation du Cri de bataille a lancé l'état Prêt à la bataille."/>
 <label key="key:620765623:54354734" value="Inflige des dégâts aux assaillants."/>
 <label key="key:620765638:54354734" value="L'utilisation de Balayage au bouclier a ouvert de nouvelles occasions de combat."/>
-<label key="key:620765664:54354734" value="Toutes les compétences basées sur une esquive réussie peuvent désormais être utilisées."/>
 <label key="key:620765710:181298206" value="Enracine pendant 30 s max."/>
 <label key="key:620765792:54354734" value="La Puissance est absorbée."/>
 <label key="key:620765795:54354734" value="La Puissance est absorbée."/>

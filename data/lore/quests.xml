@@ -4497,7 +4497,7 @@
 </objectives>
 <rewards/>
 </quest>
-<quest id="1879048414" name="Level Up: 20" rawName="key:620759045:228870261" category="15" level="20" maxLevel="9" requiredClass="Burglar">
+<quest id="1879048414" name="Level Up: 20" rawName="key:620759045:228870261" category="15" level="20" maxLevel="49" requiredClass="Burglar">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759045:218649169"/>
 <objectives>
 <failureConditions>
@@ -4602,7 +4602,7 @@
 <object id="1879060861" name="Copper Necklace of Determination"/>
 </rewards>
 </quest>
-<quest id="1879048415" name="Level Up: 20" rawName="key:620759048:228870261" category="15" level="20" maxLevel="9" requiredClass="Captain">
+<quest id="1879048415" name="Level Up: 20" rawName="key:620759048:228870261" category="15" level="20" maxLevel="49" requiredClass="Captain">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759048:218649169"/>
 <objectives>
 <failureConditions>
@@ -4707,7 +4707,7 @@
 <object id="1879060477" name="Woven Necklace of Endurance"/>
 </rewards>
 </quest>
-<quest id="1879048416" name="Level Up: 20" rawName="key:620759051:228870261" category="15" level="20" maxLevel="9" requiredClass="Champion">
+<quest id="1879048416" name="Level Up: 20" rawName="key:620759051:228870261" category="15" level="20" maxLevel="49" requiredClass="Champion">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759051:218649169"/>
 <objectives>
 <failureConditions>
@@ -4812,7 +4812,7 @@
 <object id="1879060489" name="Copper Necklace of Might"/>
 </rewards>
 </quest>
-<quest id="1879048417" name="Level Up: 20" rawName="key:620759054:228870261" category="15" level="20" maxLevel="9" requiredClass="Guardian">
+<quest id="1879048417" name="Level Up: 20" rawName="key:620759054:228870261" category="15" level="20" maxLevel="49" requiredClass="Guardian">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759054:218649169"/>
 <objectives>
 <failureConditions>
@@ -4916,7 +4916,7 @@
 <object id="1879060566" name="Gold Necklace of Vigour"/>
 </rewards>
 </quest>
-<quest id="1879048418" name="Level Up: 20" rawName="key:620759057:228870261" category="15" level="20" maxLevel="9" requiredClass="Hunter">
+<quest id="1879048418" name="Level Up: 20" rawName="key:620759057:228870261" category="15" level="20" maxLevel="49" requiredClass="Hunter">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759057:218649169"/>
 <objectives>
 <failureConditions>
@@ -5021,7 +5021,7 @@
 <object id="1879060566" name="Gold Necklace of Vigour"/>
 </rewards>
 </quest>
-<quest id="1879048419" name="Level Up: 20" rawName="key:620759060:228870261" category="15" level="20" maxLevel="9" requiredClass="Lore-master">
+<quest id="1879048419" name="Level Up: 20" rawName="key:620759060:228870261" category="15" level="20" maxLevel="49" requiredClass="Lore-master">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759060:218649169"/>
 <objectives>
 <failureConditions>
@@ -5124,7 +5124,7 @@
 <object id="1879060861" name="Copper Necklace of Determination"/>
 </rewards>
 </quest>
-<quest id="1879048420" name="Level Up: 20" rawName="key:620759063:228870261" category="15" level="20" maxLevel="9" requiredClass="Minstrel">
+<quest id="1879048420" name="Level Up: 20" rawName="key:620759063:228870261" category="15" level="20" maxLevel="49" requiredClass="Minstrel">
 <bestower npcId="1879087499" npcName="Maid of Lions" text="key:620759063:218649169"/>
 <objectives>
 <failureConditions>
@@ -5229,7 +5229,7 @@
 <object id="1879060477" name="Woven Necklace of Endurance"/>
 </rewards>
 </quest>
-<quest id="1879048421" name="Level Up: 30" rawName="key:620759046:228870261" category="15" level="30" maxLevel="9" requiredClass="Burglar">
+<quest id="1879048421" name="Level Up: 30" rawName="key:620759046:228870261" category="15" level="30" maxLevel="49" requiredClass="Burglar">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759046:218649169"/>
 <objectives>
 <failureConditions>
@@ -5349,7 +5349,7 @@
 <object id="1879060603" name="Silver Necklace of Determination"/>
 </rewards>
 </quest>
-<quest id="1879048422" name="Level Up: 30" rawName="key:620759049:228870261" category="15" level="30" maxLevel="9" requiredClass="Captain">
+<quest id="1879048422" name="Level Up: 30" rawName="key:620759049:228870261" category="15" level="30" maxLevel="49" requiredClass="Captain">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759049:218649169"/>
 <objectives>
 <failureConditions>
@@ -5470,7 +5470,7 @@
 <object id="1879060461" name="Silver Necklace of Fate"/>
 </rewards>
 </quest>
-<quest id="1879048423" name="Level Up: 30" rawName="key:620759052:228870261" category="15" level="30" maxLevel="9" requiredClass="Champion">
+<quest id="1879048423" name="Level Up: 30" rawName="key:620759052:228870261" category="15" level="30" maxLevel="49" requiredClass="Champion">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759052:218649169"/>
 <objectives>
 <failureConditions>
@@ -5592,7 +5592,7 @@
 <object id="1879060461" name="Silver Necklace of Fate"/>
 </rewards>
 </quest>
-<quest id="1879048424" name="Level Up: 30" rawName="key:620759055:228870261" category="15" level="30" maxLevel="9" requiredClass="Guardian">
+<quest id="1879048424" name="Level Up: 30" rawName="key:620759055:228870261" category="15" level="30" maxLevel="49" requiredClass="Guardian">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759055:218649169"/>
 <objectives>
 <failureConditions>
@@ -5713,7 +5713,7 @@
 <object id="1879060603" name="Silver Necklace of Determination"/>
 </rewards>
 </quest>
-<quest id="1879048425" name="Level Up: 30" rawName="key:620759058:228870261" category="15" level="30" maxLevel="9" requiredClass="Hunter">
+<quest id="1879048425" name="Level Up: 30" rawName="key:620759058:228870261" category="15" level="30" maxLevel="49" requiredClass="Hunter">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759058:218649169"/>
 <objectives>
 <failureConditions>
@@ -5834,7 +5834,7 @@
 <object id="1879060737" name="Copper Necklace of Endurance"/>
 </rewards>
 </quest>
-<quest id="1879048426" name="Level Up: 30" rawName="key:620759061:228870261" category="15" level="30" maxLevel="9" requiredClass="Lore-master">
+<quest id="1879048426" name="Level Up: 30" rawName="key:620759061:228870261" category="15" level="30" maxLevel="49" requiredClass="Lore-master">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759061:218649169"/>
 <objectives>
 <failureConditions>
@@ -5953,7 +5953,7 @@
 <object id="1879060737" name="Copper Necklace of Endurance"/>
 </rewards>
 </quest>
-<quest id="1879048427" name="Level Up: 30" rawName="key:620759064:228870261" category="15" level="30" maxLevel="9" requiredClass="Minstrel">
+<quest id="1879048427" name="Level Up: 30" rawName="key:620759064:228870261" category="15" level="30" maxLevel="49" requiredClass="Minstrel">
 <bestower npcId="1879087500" npcName="Constant Gardener" text="key:620759064:218649169"/>
 <objectives>
 <failureConditions>
@@ -6079,7 +6079,7 @@
 <object id="1879054364" name="Dolg-klath"/>
 </rewards>
 </quest>
-<quest id="1879048428" name="Level Up: 50" rawName="key:620759047:228870261" category="15" level="50" maxLevel="9" requiredClass="Burglar">
+<quest id="1879048428" name="Level Up: 50" rawName="key:620759047:228870261" category="15" level="50" maxLevel="49" requiredClass="Burglar">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759047:218649169"/>
 <objectives>
 <failureConditions>
@@ -6257,7 +6257,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048429" name="Level Up: 50" rawName="key:620759050:228870261" category="15" level="50" maxLevel="9" requiredClass="Captain">
+<quest id="1879048429" name="Level Up: 50" rawName="key:620759050:228870261" category="15" level="50" maxLevel="49" requiredClass="Captain">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759050:218649169"/>
 <objectives>
 <failureConditions>
@@ -6434,7 +6434,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048430" name="Level Up: 50" rawName="key:620759053:228870261" category="15" level="50" maxLevel="9" requiredClass="Champion">
+<quest id="1879048430" name="Level Up: 50" rawName="key:620759053:228870261" category="15" level="50" maxLevel="49" requiredClass="Champion">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759053:218649169"/>
 <objectives>
 <failureConditions>
@@ -6613,7 +6613,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048431" name="Level Up: 50" rawName="key:620759056:228870261" category="15" level="50" maxLevel="9" requiredClass="Guardian">
+<quest id="1879048431" name="Level Up: 50" rawName="key:620759056:228870261" category="15" level="50" maxLevel="49" requiredClass="Guardian">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759056:218649169"/>
 <objectives>
 <failureConditions>
@@ -6791,7 +6791,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048432" name="Level Up: 50" rawName="key:620759059:228870261" category="15" level="50" maxLevel="9" requiredClass="Hunter">
+<quest id="1879048432" name="Level Up: 50" rawName="key:620759059:228870261" category="15" level="50" maxLevel="49" requiredClass="Hunter">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759059:218649169"/>
 <objectives>
 <failureConditions>
@@ -6969,7 +6969,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048433" name="Level Up: 50" rawName="key:620759062:228870261" category="15" level="50" maxLevel="9" requiredClass="Lore-master">
+<quest id="1879048433" name="Level Up: 50" rawName="key:620759062:228870261" category="15" level="50" maxLevel="49" requiredClass="Lore-master">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759062:218649169"/>
 <objectives>
 <failureConditions>
@@ -7147,7 +7147,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048434" name="Level Up: 50" rawName="key:620759065:228870261" category="15" level="50" maxLevel="9" requiredClass="Minstrel">
+<quest id="1879048434" name="Level Up: 50" rawName="key:620759065:228870261" category="15" level="50" maxLevel="49" requiredClass="Minstrel">
 <bestower npcId="1879087502" npcName="Keth" text="key:620759065:218649169"/>
 <objectives>
 <failureConditions>
@@ -35859,7 +35859,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087554" name="Level Up: 40" rawName="key:620790179:228870261" category="15" level="40" maxLevel="9" requiredClass="Burglar">
+<quest id="1879087554" name="Level Up: 40" rawName="key:620790179:228870261" category="15" level="40" maxLevel="49" requiredClass="Burglar">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790179:218649169"/>
 <objectives>
 <failureConditions>
@@ -36020,7 +36020,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087555" name="Level Up: 40" rawName="key:620790180:228870261" category="15" level="40" maxLevel="9" requiredClass="Captain">
+<quest id="1879087555" name="Level Up: 40" rawName="key:620790180:228870261" category="15" level="40" maxLevel="49" requiredClass="Captain">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790180:218649169"/>
 <objectives>
 <failureConditions>
@@ -36181,7 +36181,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087556" name="Level Up: 40" rawName="key:620790181:228870261" category="15" level="40" maxLevel="9" requiredClass="Champion">
+<quest id="1879087556" name="Level Up: 40" rawName="key:620790181:228870261" category="15" level="40" maxLevel="49" requiredClass="Champion">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790181:218649169"/>
 <objectives>
 <failureConditions>
@@ -36342,7 +36342,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087557" name="Level Up: 40" rawName="key:620790176:228870261" category="15" level="40" maxLevel="9" requiredClass="Guardian">
+<quest id="1879087557" name="Level Up: 40" rawName="key:620790176:228870261" category="15" level="40" maxLevel="49" requiredClass="Guardian">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790176:218649169"/>
 <objectives>
 <failureConditions>
@@ -36504,7 +36504,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087558" name="Level Up: 40" rawName="key:620790177:228870261" category="15" level="40" maxLevel="9" requiredClass="Hunter">
+<quest id="1879087558" name="Level Up: 40" rawName="key:620790177:228870261" category="15" level="40" maxLevel="49" requiredClass="Hunter">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790177:218649169"/>
 <objectives>
 <failureConditions>
@@ -36666,7 +36666,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087559" name="Level Up: 40" rawName="key:620790178:228870261" category="15" level="40" maxLevel="9" requiredClass="Lore-master">
+<quest id="1879087559" name="Level Up: 40" rawName="key:620790178:228870261" category="15" level="40" maxLevel="49" requiredClass="Lore-master">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790178:218649169"/>
 <objectives>
 <failureConditions>
@@ -36827,7 +36827,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879087560" name="Level Up: 40" rawName="key:620790175:228870261" category="15" level="40" maxLevel="9" requiredClass="Minstrel">
+<quest id="1879087560" name="Level Up: 40" rawName="key:620790175:228870261" category="15" level="40" maxLevel="49" requiredClass="Minstrel">
 <bestower npcId="1879087501" npcName="Amlug" text="key:620790175:218649169"/>
 <objectives>
 <failureConditions>
@@ -43085,7 +43085,7 @@
 <money gold="0" silver="24" copper="85"/>
 </rewards>
 </quest>
-<quest id="1879092825" name="Isendeep Reinforcements" rawName="key:620793359:228870261" category="20" level="1" repeatable="-1" description="key:620793359:54354734">
+<quest id="1879092825" name="Isendeep Reinforcements" rawName="key:620793359:228870261" category="20" level="50" repeatable="-1" description="key:620793359:54354734">
 <bestower npcId="1879091710" npcName="Sergeant-at-Arms Herecyne" text="key:620793359:218649169"/>
 <objectives>
 <failureConditions>

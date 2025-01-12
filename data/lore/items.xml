@@ -12893,7 +12893,7 @@
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879052102"/>
 </stats>
-<effect type="ON_EQUIP" id="1879056858" name="Damage Reflection" spellcraft="0.1"/>
+<effect type="ON_EQUIP" id="1879056858" name="Damage Reflection"/>
 </item>
 <item key="1879054121" name="Corunir's Axe" icon="1090528326-1090519042-1090528327-1090528328" level="50" slot="MAIN_HAND" category="WEAPON" class="42" equipmentCategory="24" binding="BIND_ON_ACQUIRE" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" valueTableId="1879049944" dps="23.161001" dpsTableId="1879049778" minDamage="49" maxDamage="67" damageType="COMMON" weaponType="ONE_HANDED_AXE" speed="2">
 <stats>
@@ -35877,7 +35877,7 @@
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="MORALE" scaling="1879049941"/>
 </stats>
-<effect type="ON_EQUIP" id="1879053969" name="Damage Reflection" spellcraft="0.1"/>
+<effect type="ON_EQUIP" id="1879053969" name="Damage Reflection"/>
 </item>
 <item key="1879059677" name="Estelphadanir" icon="1090524978-1090519042-1090524980-1090524979" level="39" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="18" binding="BIND_ON_ACQUIRE" durability="40" sturdiness="NORMAL" quality="UNCOMMON" minLevel="0" valueTableId="1879050117" armourType="LIGHT">
 <stats>
@@ -36493,7 +36493,7 @@
 <stat name="PARRY_PERCENTAGE" scaling="1879051217"/>
 <stat name="BLOCK_PERCENTAGE" scaling="1879052643"/>
 </stats>
-<effect type="ON_EQUIP" id="1879056858" name="Damage Reflection" spellcraft="0.1"/>
+<effect type="ON_EQUIP" id="1879056858" name="Damage Reflection"/>
 </item>
 <item key="1879060140" name="Wáli's Instructions" icon="1090523749-1090519041" level="1" category="ITEM" class="57" description="key:620757516:54354734">
 <stats/>
@@ -37008,7 +37008,7 @@
 <stat name="VITALITY" scaling="1879085571"/>
 <stat name="WILL" scaling="1879085572"/>
 </stats>
-<effect type="ON_EQUIP" id="1879056858" name="Damage Reflection" spellcraft="0.1"/>
+<effect type="ON_EQUIP" id="1879056858" name="Damage Reflection"/>
 </item>
 <item key="1879060560" name="Battle Axe of Might" icon="1090523872-1090519042-1090523873-1090523874" level="19" slot="MAIN_HAND" category="WEAPON" class="12" equipmentCategory="6" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="UNCOMMON" minLevel="19" valueTableId="1879049505" dps="10.95996" dpsTableId="1879049506" minDamage="29" maxDamage="39" damageType="COMMON" weaponType="TWO_HANDED_AXE" speed="1">
 <stats>
@@ -86221,7 +86221,7 @@
 </stats>
 <cooldown duration="1800.0" channelID="86"/>
 <skill id="1879087692" name="Great Persistence" level="50"/>
-<effect type="ON_EQUIP" id="1879053969" name="Damage Reflection" spellcraft="0.1"/>
+<effect type="ON_EQUIP" id="1879053969" name="Damage Reflection"/>
 </item>
 <item key="1879087897" name="Dragon-bone Splinter" icon="1090648280-1090519044-1090648282-1090648281" level="50" slot="POCKET" category="ITEM" class="49" equipmentCategory="2" binding="BIND_ON_ACQUIRE" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="0" description="key:620790473:54354734" valueTableId="1879052641">
 <stats>
