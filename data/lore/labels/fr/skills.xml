@@ -649,7 +649,7 @@
 <label key="1879073701" value="Coupure"/>
 <label key="1879073702" value="Cible en mouvement"/>
 <label key="1879073703" value="Attaque arme à une main"/>
-<label key="1879073710" value="Cri d'intimidation"/>
+<label key="1879073710" value="Intimidating Shout"/>
 <label key="1879073711" value="Tranchoir"/>
 <label key="1879073712" value="C'est de la comédie !"/>
 <label key="1879073713" value="Debout !"/>
@@ -1750,7 +1750,7 @@
 <label key="key:620775401:228830419" value="Grand coup tranchant circulaire qui peut infliger des dégâts à plusieurs cibles se trouvant devant vous."/>
 <label key="key:620775402:228830419" value="Vous esquivez mieux les attaques de vos ennemis pendant quelques instants."/>
 <label key="key:620775404:228830419" value="Attaque automatique déclenchée lorsque vous ne portez qu'une arme à une main."/>
-<label key="key:620775406:228830419" value="Cri de bataille féroce et terrifiant, ayant pour objectif de miner la détermination et le moral de votre ennemi."/>
+<label key="key:620775406:228830419" value="A ferocious and terrifying battle roar to weaken the certainty and morale of your foe."/>
 <label key="key:620775407:228830419" value="Vous agitez votre arme devant votre ennemi."/>
 <label key="key:620775408:228830419" value="Votre sarcasme fait mouche et votre cible récupère de la santé."/>
 <label key="key:620775409:228830419" value="Vous hurlez un ordre qui permet à un maximum de 5 alliés vaincus ou à proximité de se relever, mais avec un niveau de santé très bas."/>

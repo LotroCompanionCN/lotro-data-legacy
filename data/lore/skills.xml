@@ -7408,7 +7408,7 @@
 <attack damageQualifier="1" damageType="1" maxDamageProgression="1879073691" damageModifier="0.75"/>
 </details>
 </skill>
-<skill identifier="1879073710" name="Initimdating Shout" category="15" iconId="1090555716" description="key:620775406:228830419">
+<skill identifier="1879073710" name="Intimidating Shout" category="15" iconId="1090555716" description="key:620775406:228830419">
 <details actionDurationContribution="2.0" cooldown="20.0" flags="64">
 <geometry maxRange="20.0"/>
 <powerCost pointsProgression="1879073707"/>

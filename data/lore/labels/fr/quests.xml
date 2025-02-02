@@ -1311,7 +1311,7 @@
 <label key="1879088765" value="Les ruines d'Ost Ringdyr"/>
 <label key="1879088766" value="Présents de Sacregris"/>
 <label key="1879088768" value="L'aide des ours dorés"/>
-<label key="1879088773" value="Golloval, des Aigles dorés"/>
+<label key="1879088773" value="Golloval of the Golden Eagles"/>
 <label key="1879088815" value="Instance : Une protestation officielle"/>
 <label key="1879088828" value="Chapitre 4 : Combe"/>
 <label key="1879088829" value="Chapitre 4 : Gondamon"/>
@@ -1464,7 +1464,7 @@
 <label key="1879092384" value="Etudes de l'inconnu - Introduction"/>
 <label key="1879092385" value="Etudes de l'inconnu"/>
 <label key="1879092386" value="Des Mystères les plus profonds - Introduction"/>
-<label key="1879092387" value="Des Mystères les plus profonds - Introduction"/>
+<label key="1879092387" value="Of Mysteries Most Profound"/>
 <label key="1879092388" value="Les reliques elfiques - Introduction"/>
 <label key="1879092389" value="Les reliques elfiques"/>
 <label key="1879092439" value="Les écharpes des pilleurs de tombes - Introduction"/>
@@ -17262,15 +17262,15 @@
 <label key="key:620790922:228870261" value="L'aide des ours dorés"/>
 <label key="key:620790922:54354734" value="Tirith Rhaw est tombé sous le joug de l'armée d'Angmar. Têtedor, seigneur des ours de Gelmatin, vous a offert son aide en échange d'une preuve de votre fidélité envers les ours et la cause des Peuples Libres."/>
 <label key="key:620790922:94621393" value="Têtedor est dans son repaire, au nord-est de Tirith Rhaw.&#10;&#10;Têtedor vous a demandé de lui rapporter une preuve de votre engagement pour la cause des Peuples Libres des Landes d'Etten. Récupérez vos Signes de bravoure et retournez le voir."/>
-<label key="key:620790926:136263297" value="Signes de bravoure récupérés (${NUMBER}/${TOTAL})"/>
-<label key="key:620790926:218649169" value="'Je suis venu sur ce champ de bataille pour aider les Peuples Libres et mes frères aigles. Cela fait longtemps que nous combattons les araignées de Gorgoris, et nous sommes ravis d'aider les Peuples Libres à lutter contre les forces angmarim. &#10;&#10;'La mine du Gouffre d'Isen est tombée entre leurs mains... Je vous aiderai à attaquer l'ennemi dans la mine si vous me rapportez des preuves de votre bravoure sur ces terres.'"/>
-<label key="key:620790926:218649170" value="'Vous avez prouvé votre bravoure, ${RACE}, à moi de vous montrer celle des aigles !&#10;&#10;'Je vais entrer dans la mine par le trou dans le mur. Retrouvez-moi à l'intérieur et nous pourrons lancer notre attaque contre le tyran qui a pris le contrôle de la mine !"/>
-<label key="key:620790926:218649171" value="'Revenez me voir lorsque vous aurez une preuve de votre détermination. Ce n'est qu'à cette condition que je vous aiderai à attaquer l’Ennemi dans la mine.'"/>
-<label key="key:620790926:22075073" value="Allez parler à Golloval"/>
-<label key="key:620790926:22075074" value="Récupérez des signes de bravoure (${NUMBER}/${TOTAL})"/>
-<label key="key:620790926:228870261" value="Golloval, des Aigles dorés"/>
-<label key="key:620790926:54354734" value="Golloval, des Aigles dorés, viendra en aide aux Peuples Libres à condition que ceux-ci acceptent de prouver leurs intentions et leur courage."/>
-<label key="key:620790926:94621393" value="Golloval se cache à l'ouest, dans les collines bordant l'entrée principale de la mine du Gouffre d'Isen. Là, il est sous la protection des aigles dorés.&#10;&#10;Golloval a juré qu'il vous aiderait à reprendre la mine du Gouffre d'Isen si vous lui rapportiez une preuve de votre bravoure dans les Landes d'Etten."/>
+<label key="key:620790926:136263297" value="Collected Token of Valour (${NUMBER}/${TOTAL})"/>
+<label key="key:620790926:218649169" value="'I have come to this field of battle to support the Free Peoples and my brethren among the Eagles. Long have we battled the spiders of Gorgoris' brood, and we are pleased to help the Free Peoples against the foes out of Angmar. &#10;&#10;'I see that the Isendeep has fallen to the Enemy. I pledge to join you in an assault against the enemy within the mine if you bring me the tokens proving your valour in these lands.'"/>
+<label key="key:620790926:218649170" value="'You have proven your valour, ${RACE}. Now I shall show you the valour of the Eagles!&#10;&#10;'I will make my way into the mine through the hole in the wall. Meet me within, and we shall begin our assault on the tyrant who claims control within."/>
+<label key="key:620790926:218649171" value="'Return to me when you have the proof of your resolve. Only then will I join your assault against the Enemy within the mine.'"/>
+<label key="key:620790926:22075073" value="Talk to Golloval"/>
+<label key="key:620790926:22075074" value="Collect Tokens of Valour (${NUMBER}/${TOTAL})"/>
+<label key="key:620790926:228870261" value="Golloval of the Golden Eagles"/>
+<label key="key:620790926:54354734" value="Golloval of the Golden Eagles will come to the aid of the Free Peoples provided that the Free Peoples are willing to prove their intention and valour."/>
+<label key="key:620790926:94621393" value="Golloval is hidden to the west amongst the hills near the central entrance to the Isendeep Mine. He hides in the hills protected by other golden eagles.&#10;&#10;Golloval pledged to assist you in retaking the Isendeep mine if you return to him with proof of your valour within the Ettenmoors."/>
 <label key="key:620790950:136263297" value="La protestation a été résolue"/>
 <label key="key:620790950:22075073" value="Apportez la protestation officielle"/>
 <label key="key:620790950:228870261" value="Instance : Une protestation officielle"/>
@@ -18858,14 +18858,14 @@
 <label key="key:620792944:228870261" value="Des Mystères les plus profonds - Introduction"/>
 <label key="key:620792944:54354734" value="Cachunir a exprimé son souhait d'emporter avec lui autant d'histoire et de savoir de la Terre du Milieu que possible quand les Elfes de Fondcombe lèveront l'ancre pour l'Ouest."/>
 <label key="key:620792944:94621393" value="Cachunir se trouve à Fondcombe, dans la Trouée des Trolls.&#10;&#10;Cachunir vous a demandé de mettre par écrit un essai intitulé 'Des mystères les plus profonds'  et de le lui apporter."/>
-<label key="key:620792945:218649169" value="'La connaissance nous offre parfois des joyaux dont la valeur dépasse largement celle de la plus éclatante des pierres précieuses. C'est l'un d'eux que je souhaiterais vous voir compiler pour nous, afin que nous puissions l'apporter à nos frères du Lointain Ouest, pour qu'ils puissent encore apprendre de cette terre qui était autrefois la leur.&#10;&#10;'Rédigez pour moi un autre exemplaire de l’essai intitulé 'Des Mystères les plus profonds' et votre nom sera chanté avec révérence et gratitude dans la Dernière Maison Simple.'"/>
-<label key="key:620792945:218649170" value="'Ah, voyons voir...&#10;&#10;'Des Mystères les plus profonds'. Voilà un titre excellemment choisi pour l'une des plus grandes énigmes de la Terre du Milieu.&#10;&#10;'Si seulement nous pouvions avoir cent érudits tels que vous, ${PLAYER} ! Et pourtant, même ainsi, je pense qu'un nombre incalculable de mystères resteraient sans réponse.'"/>
-<label key="key:620792945:218649171" value="'Prenez votre temps pour rédiger ce papier, ${PLAYER}. Des recherches exhaustives sont nécessaires pour bien le réussir. Voyager dans les contrées sauvages vous aiderait peut-être en vous permettant de penser à autre chose, non ?'"/>
-<label key="key:620792945:22075073" value="Allez présenter 'Des Mystères les plus profonds' à Cachunir, qui vous attend à Fondcombe"/>
-<label key="key:620792945:22075074" value="Ecrire 'Des Mystères les plus profonds'  (${NUMBER}/${TOTAL})"/>
-<label key="key:620792945:228870261" value="Des Mystères les plus profonds - Introduction"/>
-<label key="key:620792945:54354734" value="Cachunir a exprimé son souhait d'emporter avec lui autant d'histoire et de savoir de la Terre du Milieu que possible quand les Elfes de Fondcombe lèveront l'ancre pour l'Ouest."/>
-<label key="key:620792945:94621393" value="Cachunir se trouve à Fondcombe, dans la Trouée des Trolls.&#10;&#10;Cachunir vous a demandé de mettre par écrit une autre copie de votre essai intitulé 'Des mystères les plus profonds'  et de la lui apporter."/>
+<label key="key:620792945:218649169" value="'There are some jewels of knowledge that surpass even the most brilliant gem or bauble. It is one such that I would have you compile for us here at Rivendell, that we might bring it before our bretheren in the Uttermost West, that they might gain once more from the lands that they once called home.&#10;&#10;'Pen for me another copy of the essay 'Of Mysteries Most Profound,' and your name shall be sung in the Last Homely House with reverence and gratitude.'"/>
+<label key="key:620792945:218649170" value="'Ah, let us see....&#10;&#10;'Of Mysteries Most Profound' -- a title fitting for a study of one of the grand riddles of Middle-earth.&#10;&#10;'Would that we had a hundred scholars such as yourself, ${PLAYER}, though even then it seems that countelss enigmas would remain before us.'"/>
+<label key="key:620792945:218649171" value="'Take your time with that paper, ${PLAYER}. A great deal of research and study must go into such a craft. Perhaps some travel in the wilds would help you clear your head?'"/>
+<label key="key:620792945:22075073" value="Present 'Of Mysteries Most Profound' to Cachúnir in Rivendell"/>
+<label key="key:620792945:22075074" value="Craft 'Of Mysteries Most Profound' (${NUMBER}/${TOTAL})"/>
+<label key="key:620792945:228870261" value="Of Mysteries Most Profound"/>
+<label key="key:620792945:54354734" value="Cachúnir has expressed a desire to take as much history and lore of Middle-earth as possible when the Elves of Rivendell sail into the West."/>
+<label key="key:620792945:94621393" value="Cachúnir is at Rivendell, in the Trollshaws.&#10;&#10;Cahchúnir has asked you to pen another copy of your essay 'Of Mysteries Most Profound' and bring it to him."/>
 <label key="key:620792947:136263297" value="Relique elfique récupérée (${NUMBER}/${TOTAL})"/>
 <label key="key:620792947:218649169" value="'Par le passé, nous faisions souvent commerce avec les Hommes du royaume autrefois connu sous le nom de Rhudaur, avant qu'ils ne tombent sous le contrôle de l'Angmar et ne se tournent contre les royaumes du nord. Par conséquent, il est quelquefois possible de trouver des reliques elfiques dans les ruines de ce royaume, là où les Montagnards et les Angmarim essaient désormais de récupérer ces objets pour les rapporter à leurs maîtres d'Angmar. Il est également arrivé que les gobelins des Monts Brumeux nous volent de tels objets au cours de leurs raids.&#10;&#10;'Nous ne pouvons tolérer que de tels objets tombent entre les mains de nos ennemis, alors, si vous en découvrez au cours de vos combats contre eux, nous vous serions reconnaissants si vous pouviez nous les rapporter ici, à Fondcombe.'"/>
 <label key="key:620792947:218649170" value="'Ah, vous avez retrouvé une relique du temps où nous étions en paix avec les Hommes du Rhudaur, il y a bien longtemps.&#10;&#10;'Je me demande bien qui a fabriqué cet objet. Je vais devoir me renseigner pour savoir à qui je dois la rapporter, bien que je ne reconnaisse pas sa fabrication. Il est tout à fait possible que son fabriquant ait voyagé vers l'ouest, comme l'ont déjà fait bon nombre de nos meilleurs forgerons et artisans.'"/>
