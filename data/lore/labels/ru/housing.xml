@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="ru">
+<label key="1879093270" value="Поселения Бри"/>
+<label key="1879093273" value="Поселения Шира"/>
+<label key="1879093276" value="Поселения Чертогов Торина"/>
+<label key="1879094318" value="Стаффолд"/>
+<label key="1879094319" value="Дарстед"/>
+<label key="1879094320" value="Меллинч"/>
+<label key="1879094321" value="Силкрест"/>
+<label key="1879094322" value="Этфилд"/>
+<label key="1879094323" value="Аксбридж"/>
+<label key="1879094324" value="Криквент"/>
+<label key="1879094325" value="Райсмид"/>
+<label key="1879094326" value="Хайдор"/>
+<label key="1879094327" value="Уилстед"/>
+<label key="1879094328" value="Бромбург"/>
+<label key="1879094329" value="Рэмсвард"/>
+<label key="1879094330" value="Сэшем"/>
+<label key="1879094331" value="Рейвенмер"/>
+<label key="1879094332" value="Лайтгард"/>
+<label key="1879094333" value="Броннинг"/>
+<label key="1879094334" value="Морглан"/>
+<label key="1879094335" value="Вудмид"/>
+<label key="1879094336" value="Мермир"/>
+<label key="1879094337" value="Гирброук"/>
+<label key="1879094338" value="Фенуотер"/>
+<label key="1879094339" value="Коргроув"/>
+<label key="1879094340" value="Холброук"/>
+<label key="1879094341" value="Гренглин"/>
+<label key="1879094342" value="Нэпгроув"/>
+<label key="1879094343" value="Бронворт"/>
+<label key="1879094344" value="Суэрбри"/>
+<label key="1879094345" value="Фэнтор"/>
+<label key="1879094346" value="Кодкрест"/>
+<label key="1879094347" value="Пемберт"/>
+<label key="1879094348" value="Хайдхирст"/>
+<label key="1879094349" value="Истор"/>
+<label key="1879094350" value="Дарроу"/>
+<label key="1879094351" value="Блэнмид"/>
+<label key="1879094352" value="Родстед"/>
+<label key="1879094353" value="Графшоу"/>
+<label key="1879094354" value="Содворт"/>
+<label key="1879094355" value="Бейнбург"/>
+<label key="1879094356" value="Блэкволл"/>
+<label key="1879094357" value="Гримстейбл"/>
+<label key="1879094358" value="Флиттон"/>
+<label key="1879094359" value="Весткомб"/>
+<label key="1879094360" value="Бедбурн"/>
+<label key="1879094361" value="Хирфолд"/>
+<label key="1879094362" value="Нокхаус"/>
+<label key="1879094363" value="Флитхарст"/>
+<label key="1879094364" value="Барстоу"/>
+<label key="1879094365" value="Хэмлин"/>
+<label key="1879094366" value="Мэлкот"/>
+<label key="1879094367" value="Бардаун"/>
+<label key="1879094368" value="Итон"/>
+<label key="1879094369" value="Баринг"/>
+<label key="1879094370" value="Старкглен"/>
+<label key="1879094371" value="Хиршоу"/>
+<label key="1879094372" value="Фолкбурн"/>
+<label key="1879094373" value="Брамберт"/>
+<label key="1879094374" value="Гвинхэвен"/>
+<label key="1879094375" value="Харкрест"/>
+<label key="1879094376" value="Торклифф"/>
+<label key="1879094377" value="Уорголл"/>
+<label key="1879094378" value="Фаркомб"/>
+<label key="1879094379" value="Кренбридж"/>
+<label key="1879094380" value="Шактон"/>
+<label key="1879094381" value="Бранви"/>
+<label key="1879094382" value="Гренрилл"/>
+<label key="1879094383" value="Редстейбл"/>
+<label key="1879094384" value="Бленсдейл"/>
+<label key="1879094385" value="Кейдейл"/>
+<label key="1879094386" value="Данстоу"/>
+<label key="1879094387" value="Шелхаус"/>
+<label key="1879094388" value="Рентри"/>
+<label key="1879094389" value="Беркрест"/>
+<label key="1879094390" value="Уодхорст"/>
+<label key="1879094391" value="Атволд"/>
+<label key="1879094392" value="Морстоук"/>
+<label key="1879094393" value="Вудкрег"/>
+<label key="1879094394" value="Лонгвич"/>
+<label key="1879094395" value="Саутхолт"/>
+<label key="1879094396" value="Тингдейл"/>
+<label key="1879094397" value="Броунинг"/>
+<label key="1879094398" value="Оксбери"/>
+<label key="1879094399" value="Танволд"/>
+<label key="1879094400" value="Блейнмид"/>
+<label key="1879094401" value="Стагсдейл"/>
+<label key="1879094402" value="Гелдейл"/>
+<label key="1879094403" value="Ваддин"/>
+<label key="1879094404" value="Дартделл"/>
+<label key="1879094405" value="Бидволл"/>
+<label key="1879094406" value="Клэдкот"/>
+<label key="1879094407" value="Голдвейл"/>
+<label key="1879094408" value="Рестоук"/>
+<label key="1879094409" value="Мередин"/>
+<label key="1879094410" value="Кроудейл"/>
+<label key="1879094411" value="Лислоу"/>
+<label key="1879094412" value="Таммер"/>
+<label key="1879094413" value="Харроухэм"/>
+<label key="1879094414" value="Бронхевен"/>
+<label key="1879094415" value="Финкрег"/>
+<label key="1879094416" value="Нормер"/>
+<label key="1879094417" value="Карвуд"/>
+<label key="1879094418" value="Атлин"/>
+<label key="1879094419" value="Хартхолт"/>
+<label key="1879094420" value="Арроуфолд"/>
+<label key="1879094421" value="Уитбург"/>
+<label key="1879094422" value="Пимблдор"/>
+<label key="1879094423" value="Нотвуд"/>
+<label key="1879094424" value="Хэмглен"/>
+<label key="1879094425" value="Гревентри"/>
+<label key="1879094426" value="Уолхолд"/>
+<label key="1879094427" value="Арвик"/>
+<label key="1879094428" value="Милшоу"/>
+<label key="1879094429" value="Гудстоук"/>
+<label key="1879094430" value="Мэнвей"/>
+<label key="1879094431" value="Астинг"/>
+<label key="1879094432" value="Хэмпдин"/>
+<label key="1879094433" value="Фармборо"/>
+<label key="1879094434" value="Пенстейбл"/>
+<label key="1879094435" value="Гудхауз"/>
+<label key="1879094436" value="Фамбург"/>
+<label key="1879094437" value="Ветволл"/>
+<label key="1879094438" value="Дарнор"/>
+<label key="1879094439" value="Бентборо"/>
+<label key="1879094440" value="Фокслин"/>
+<label key="1879094441" value="Элмли"/>
+<label key="1879094442" value="Дардор"/>
+<label key="1879094443" value="Хейндон"/>
+<label key="1879094444" value="Ньюхэрроу"/>
+<label key="1879094445" value="Селделл"/>
+<label key="1879094446" value="Бренсворд"/>
+<label key="1879094447" value="Сноуфлуд"/>
+<label key="1879094448" value="Карфельд"/>
+<label key="1879094449" value="Брогхэм"/>
+<label key="1879094450" value="Амроу"/>
+<label key="1879094451" value="Уотфлад"/>
+<label key="1879094452" value="Даффли"/>
+<label key="1879094453" value="Мидстейбл"/>
+<label key="1879094454" value="Рокнор"/>
+<label key="1879094455" value="Иберри"/>
+<label key="1879094456" value="Броглоу"/>
+<label key="1879094457" value="Грейфилд"/>
+<label key="1879094458" value="Вуднор"/>
+<label key="1879094459" value="Корстед"/>
+<label key="1879094460" value="Дафволл"/>
+<label key="1879094461" value="Вулфхевен"/>
+<label key="1879094462" value="Аспфолд"/>
+<label key="1879094463" value="Ленгделл"/>
+<label key="1879094464" value="Ветхарроу"/>
+<label key="1879094465" value="Россволд"/>
+<label key="1879094466" value="Гримлоу"/>
+<label key="1879094467" value="Истглен"/>
+<label key="1879094468" value="Уоддикотт"/>
+<label key="1879094469" value="Иволл"/>
+<label key="1879094470" value="Вальстов"/>
+<label key="1879094471" value="Брендин"/>
+<label key="1879094472" value="Норттор"/>
+<label key="1879094473" value="Реддон"/>
+<label key="1879094474" value="Уилдор"/>
+<label key="1879094475" value="Стэншоу"/>
+<label key="1879094476" value="Харпоул"/>
+<label key="1879094477" value="Гелтри"/>
+<label key="1879094478" value="Листейбл"/>
+<label key="1879094479" value="Риджборо"/>
+<label key="1879094480" value="Незерворт"/>
+<label key="1879094481" value="Ренчетт"/>
+<label key="1879094482" value="Блунор"/>
+<label key="1879094483" value="Кренворт"/>
+<label key="1879094484" value="Старквелл"/>
+<label key="1879094485" value="Уитхаус"/>
+<label key="1879094486" value="Бринхолд"/>
+<label key="1879094487" value="Исборо"/>
+<label key="1879094488" value="Эддин"/>
+<label key="1879094489" value="Рукшоу"/>
+<label key="1879094490" value="Акскот"/>
+<label key="1879094491" value="Эллхэм"/>
+<label key="1879094492" value="Хисбурн"/>
+<label key="1879094493" value="Бейнгроув"/>
+<label key="1879094494" value="Эджинг"/>
+<label key="1879094495" value="Блюделл"/>
+<label key="1879094496" value="Пикгроув"/>
+<label key="1879094497" value="Броншоу"/>
+<label key="1879094498" value="Гримброк"/>
+<label key="1879094499" value="Вирмлин"/>
+<label key="1879094500" value="Холкрик"/>
+<label key="1879094501" value="Боуинг"/>
+<label key="1879094502" value="Тауэрфолд"/>
+<label key="1879094503" value="Фулбург"/>
+<label key="1879094504" value="Шервич"/>
+<label key="1879094505" value="Тэлволд"/>
+<label key="1879094506" value="Стакпоул"/>
+<label key="1879094507" value="Хевенхолд"/>
+<label key="1879094508" value="Копхирст"/>
+<label key="1879094509" value="Стэнлинч"/>
+<label key="1879094510" value="Тегвент"/>
+<label key="1879094511" value="Спарбри"/>
+<label key="1879094512" value="Локберт"/>
+<label key="1879094513" value="Рэглан"/>
+<label key="1879094514" value="Эрсвард"/>
+<label key="1879094515" value="Грейвент"/>
+<label key="1879094516" value="Руттон"/>
+<label key="1879094517" value="Шотволл"/>
+<label key="1879094518" value="Кледлинч"/>
+<label key="1879094519" value="Фасбридж"/>
+<label key="1879094520" value="Локтри"/>
+<label key="1879094521" value="Бидснейд"/>
+<label key="1879094522" value="Хадпоул"/>
+<label key="1879094523" value="Акрест"/>
+<label key="1879094524" value="Барстед"/>
+<label key="1879094525" value="Лиголл"/>
+<label key="1879094526" value="Карлвей"/>
+<label key="1879094527" value="Хеветри"/>
+<label key="1879094528" value="Бринвелл"/>
+<label key="1879094529" value="Рутвуд"/>
+<label key="1879094530" value="Экстоу"/>
+<label key="1879094531" value="Дандор"/>
+<label key="1879094532" value="Хенстед"/>
+<label key="1879094533" value="Ремброук"/>
+<label key="1879094534" value="Илмдор"/>
+<label key="1879094535" value="Шептри"/>
+<label key="1879094536" value="Хайбург"/>
+<label key="1879094537" value="Флинтдаун"/>
+<label key="1879094538" value="Лэдворт"/>
+<label key="1879094539" value="Данберт"/>
+<label key="1879094540" value="Бембридж"/>
+<label key="1879094541" value="Коднор"/>
+<label key="1879094542" value="Стонбери"/>
+<label key="1879094543" value="Фаснейд"/>
+<label key="1879094544" value="Конлин"/>
+<label key="1879094545" value="Стокрест"/>
+<label key="1879094546" value="Хисдор"/>
+<label key="1879094547" value="Мидлхем"/>
+<label key="1879094548" value="Фолчет"/>
+<label key="1879094549" value="Карлоу"/>
+<label key="1879094550" value="Графгроув"/>
+<label key="1879094551" value="Ладворт"/>
+<label key="1879094552" value="Доллоу"/>
+<label key="1879094553" value="Стетчет"/>
+<label key="1879094554" value="Хетброук"/>
+<label key="1879094555" value="Ислин"/>
+<label key="1879094556" value="Калдхем"/>
+<label key="1879094557" value="Боухаус"/>
+<label key="1879094558" value="Хукворт"/>
+<label key="1879094559" value="Клэпуотер"/>
+<label key="1879094560" value="Биндроу"/>
+<label key="1879094561" value="Линглен"/>
+<label key="1879094562" value="Хейсвард"/>
+<label key="1879094563" value="Эверслейд"/>
+<label key="1879094564" value="Спирволл"/>
+<label key="1879094565" value="Фарнволд"/>
+<label key="1879094566" value="Гластон"/>
+<label key="1879094567" value="Фэшем"/>
+<label key="1879094568" value="Долгая улица, дом 1"/>
+<label key="1879094569" value="Долгая улица, дом 2"/>
+<label key="1879094570" value="Долгая улица, дом 3"/>
+<label key="1879094571" value="Долгая улица, дом 4"/>
+<label key="1879094572" value="Долгая улица, дом 5"/>
+<label key="1879094573" value="Долгая улица, дом 6"/>
+<label key="1879094574" value="Долгая улица, дом 7"/>
+<label key="1879094575" value="Долгая улица, дом 8"/>
+<label key="1879094576" value="Садовая улица, дом 1"/>
+<label key="1879094577" value="Садовая улица, дом 2"/>
+<label key="1879094578" value="Садовая улица, дом 3"/>
+<label key="1879094579" value="Садовая улица, дом 4"/>
+<label key="1879094580" value="Фонтанная улица, дом 1"/>
+<label key="1879094581" value="Фонтанная улица, дом 2"/>
+<label key="1879094582" value="Фонтанная улица, дом 3"/>
+<label key="1879094583" value="Фонтанная улица, дом 4"/>
+<label key="1879094584" value="Главная дорога, дом 1"/>
+<label key="1879094585" value="Главная дорога, дом 2"/>
+<label key="1879094586" value="Главная дорога, дом 3"/>
+<label key="1879094587" value="Запрудная улица, дом 1"/>
+<label key="1879094588" value="Запрудная улица, дом 2"/>
+<label key="1879094589" value="Каштановая улица, дом 1"/>
+<label key="1879094590" value="Каштановая улица, дом 2"/>
+<label key="1879094591" value="Каштановая улица, дом 3"/>
+<label key="1879094592" value="Каштановая улица, дом 4"/>
+<label key="1879094593" value="Каштановая улица, дом 5"/>
+<label key="1879094594" value="Каштановая улица, дом 6"/>
+<label key="1879094595" value="Каштановая улица, дом 7"/>
+<label key="1879094596" value="Каштановая улица, дом 8"/>
+<label key="1879094597" value="Каштановая улица, дом 9"/>
+<label key="1879097390" value="Миртовый двор, дом 2"/>
+<label key="1879097391" value="Ручейная улица, дом 4"/>
+<label key="1879097392" value="Ручейная улица, дом 6"/>
+<label key="1879097393" value="Пахотная улица, дом 4"/>
+<label key="1879097394" value="Меловая улица, дом 6"/>
+<label key="1879097395" value="Пахотная улица, дом 6"/>
+<label key="1879097396" value="Миртовый двор, дом 4"/>
+<label key="1879097397" value="Веселая улица, дом 2"/>
+<label key="1879097398" value="Меловая улица, дом 4"/>
+<label key="1879097399" value="Пахотная улица, дом 2"/>
+<label key="1879097400" value="Ручейная улица, дом 5"/>
+<label key="1879097401" value="Миртовый двор, дом 5"/>
+<label key="1879097402" value="Улица Путешеств., д. 3"/>
+<label key="1879097403" value="Улица Путешеств., д. 1"/>
+<label key="1879097404" value="Ручейная улица, дом 1"/>
+<label key="1879097405" value="Ручейная улица, дом 2"/>
+<label key="1879097406" value="Миртовый двор, дом 6"/>
+<label key="1879097407" value="Миртовый двор, дом 1"/>
+<label key="1879097408" value="Меловая улица, дом 3"/>
+<label key="1879097409" value="Пахотная улица, дом 5"/>
+<label key="1879097410" value="Улица Путешеств., д. 4"/>
+<label key="1879097411" value="Меловая улица, дом 5"/>
+<label key="1879097412" value="Пахотная улица, дом 3"/>
+<label key="1879097413" value="Пахотная улица, дом 1"/>
+<label key="1879097414" value="Веселая улица, дом 1"/>
+<label key="1879097415" value="Меловая улица, дом 2"/>
+<label key="1879097416" value="Меловая улица, дом 1"/>
+<label key="1879097417" value="Улица Путешеств., д. 2"/>
+<label key="1879097418" value="Ручейная улица, дом 3"/>
+<label key="1879097419" value="Миртовый двор, дом 3"/>
+<label key="1879098378" value="Тихая аллея, дом 1"/>
+<label key="1879098379" value="Тихая аллея, дом 10"/>
+<label key="1879098380" value="Тихая аллея, дом 11"/>
+<label key="1879098381" value="Тихая аллея, дом 12"/>
+<label key="1879098382" value="Тихая аллея, дом 2"/>
+<label key="1879098383" value="Тихая аллея, дом 3"/>
+<label key="1879098384" value="Тихая аллея, дом 4"/>
+<label key="1879098385" value="Тихая аллея, дом 5"/>
+<label key="1879098386" value="Тихая аллея, дом 6"/>
+<label key="1879098387" value="Тихая аллея, дом 7"/>
+<label key="1879098388" value="Тихая аллея, дом 8"/>
+<label key="1879098389" value="Тихая аллея, дом 9"/>
+<label key="1879098390" value="Зеркальная аллея, дом 1"/>
+<label key="1879098391" value="Зеркальная аллея, дом 2"/>
+<label key="1879098392" value="Зеркальная аллея, дом 3"/>
+<label key="1879098393" value="Зеркальная аллея, дом 4"/>
+<label key="1879098394" value="Лесная аллея, дом 1"/>
+<label key="1879098395" value="Лесная аллея, дом 2"/>
+<label key="1879098396" value="Лесная аллея, дом 3"/>
+<label key="1879098397" value="Лесная аллея, дом 4"/>
+<label key="1879098398" value="Лесная аллея, дом 5"/>
+<label key="1879098399" value="Лесная аллея, дом 6"/>
+<label key="1879098400" value="Лесная аллея, дом 7"/>
+<label key="1879098401" value="Береговая дорога, дом 1"/>
+<label key="1879098402" value="Береговая дорога, дом 2"/>
+<label key="1879098403" value="Береговая дорога, дом 3"/>
+<label key="1879098404" value="Береговая дорога, дом 4"/>
+<label key="1879098405" value="Береговая дорога, дом 5"/>
+<label key="1879098406" value="Береговая дорога, дом 6"/>
+<label key="1879098407" value="Береговая дорога, дом 7"/>
+<label key="1879098410" value="Мильбарт"/>
+<label key="1879098411" value="Фаротаэль"/>
+<label key="1879098412" value="Имлот лумрен"/>
+<label key="1879098413" value="Мерендор"/>
+<label key="1879098414" value="Нарадрис"/>
+<label key="1879098415" value="Таур Ламуи"/>
+<label key="1879098416" value="Халнен"/>
+<label key="1879098417" value="Имлад-ин-Глир"/>
+<label key="1879098418" value="Анорланс"/>
+<label key="1879098419" value="Атрад Амдир"/>
+<label key="1879098420" value="Бар-э-Гурон"/>
+<label key="1879098421" value="Керин Аэвин"/>
+<label key="1879098422" value="Бруниак"/>
+<label key="1879098423" value="Кордофант"/>
+<label key="1879098424" value="Эль-эн-Гвелу"/>
+<label key="1879098425" value="Нарадор"/>
+<label key="1879098426" value="Келон Вэр"/>
+<label key="1879098427" value="Нан Агор"/>
+<label key="1879098428" value="Лореллонд"/>
+<label key="1879098429" value="Муилнен"/>
+<label key="1879098430" value="Сирит Хим"/>
+<label key="1879098431" value="Хаэрониах"/>
+<label key="1879098432" value="Эрин Лельрин"/>
+<label key="1879098433" value="Гундалаф"/>
+<label key="1879098434" value="Тум Велег"/>
+<label key="1879098435" value="Лорендор"/>
+<label key="1879098436" value="Дол-и-Нерин"/>
+<label key="1879098437" value="Тунд Фарот"/>
+<label key="1879098438" value="Глад Аннун"/>
+<label key="1879098439" value="Норрант"/>
+<label key="1879098440" value="Талаф Эйльф"/>
+<label key="1879098441" value="Келос-эн-Наут"/>
+<label key="1879098442" value="Лант Глемир"/>
+<label key="1879098443" value="Амон-э-Гиль"/>
+<label key="1879098444" value="Тум Раэн"/>
+<label key="1879098445" value="Гурдор"/>
+<label key="1879098446" value="Керин Пит"/>
+<label key="1879098447" value="Лорн Вилуи"/>
+<label key="1879098448" value="Лад-и-Мегир"/>
+<label key="1879098449" value="Имрат Айт"/>
+<label key="1879098450" value="Амон Горн"/>
+<label key="1879098451" value="Сирит-и-Хеледир"/>
+<label key="1879098452" value="Сарниант"/>
+<label key="1879098453" value="Имлад Мелет"/>
+<label key="1879098454" value="Дол-эн-Анор"/>
+<label key="1879098455" value="Маленхир"/>
+<label key="1879098456" value="Талаф Аэвин"/>
+<label key="1879098457" value="Лотреллант"/>
+<label key="1879098458" value="Артлонд"/>
+<label key="1879098459" value="Пенгдор"/>
+<label key="1879098460" value="Имлот Эрид"/>
+<label key="1879098461" value="Келос Эктель"/>
+<label key="1879098462" value="Адландор"/>
+<label key="1879098463" value="Сант Реммен"/>
+<label key="1879098464" value="Гвиндор"/>
+<label key="1879098465" value="Луитант"/>
+<label key="1879098466" value="Доленхир"/>
+<label key="1879098467" value="Талаф Нинглир"/>
+<label key="1879098468" value="Мирлонд"/>
+<label key="1879098469" value="Нан Глоруи"/>
+<label key="1879098470" value="Келет Врун"/>
+<label key="1879098471" value="Ганнельхад"/>
+<label key="1879098472" value="Тулусион"/>
+<label key="1879098473" value="Иатлонд"/>
+<label key="1879098474" value="Керин Даер"/>
+<label key="1879098475" value="Талад-э-Бауд"/>
+<label key="1879098476" value="Фирдор"/>
+<label key="1879098477" value="Парт Нельдир"/>
+<label key="1879098478" value="Лант Торон"/>
+<label key="1879098479" value="Муиннор"/>
+<label key="1879098480" value="Торн-эн-Адуиал"/>
+<label key="1879098481" value="Силитмар"/>
+<label key="1879098482" value="Мерилхир"/>
+<label key="1879098483" value="Иах Норуи"/>
+<label key="1879098484" value="Гарт Нолл"/>
+<label key="1879098485" value="Эльрис"/>
+<label key="1879098486" value="Таур Митруи"/>
+<label key="1879098487" value="Сирит-э-Тиль"/>
+<label key="1879098488" value="Гилитлин"/>
+<label key="1879098489" value="Иант-э-Главар"/>
+<label key="1879098490" value="Глиргар"/>
+<label key="1879098491" value="Нан-э-Фаэр"/>
+<label key="1879098492" value="Таур Хетир"/>
+<label key="1879098493" value="Эйтель Курон"/>
+<label key="1879098494" value="Лорн Неллад"/>
+<label key="1879098495" value="Дорхирит"/>
+<label key="1879098496" value="Аэрдор"/>
+<label key="1879098497" value="Сарнгарт"/>
+<label key="1879098498" value="Ровалхант"/>
+<label key="1879098499" value="Ланглин"/>
+<label key="1879098500" value="Каир Эктель"/>
+<label key="1879098501" value="Эйтель Левайн"/>
+<label key="1879098502" value="Амон Луин"/>
+<label key="1879098503" value="Нан Хартад"/>
+<label key="1879098504" value="Имрат Иврин"/>
+<label key="1879098505" value="Келефир"/>
+<label key="1879098506" value="Ольфарт"/>
+<label key="1879098507" value="Эйтель-э-Хун"/>
+<label key="1879098508" value="Мидуилин"/>
+<label key="1879098509" value="Ланк Нур"/>
+<label key="1879098510" value="Пель Бериад"/>
+<label key="1879098511" value="Иах-э-Грист"/>
+<label key="1879098512" value="Атрад Геллам"/>
+<label key="1879098513" value="Агориак"/>
+<label key="1879098514" value="Келон Тонион"/>
+<label key="1879098515" value="Сигильдор"/>
+<label key="1879098516" value="Фануидор"/>
+<label key="1879098517" value="Маиднор"/>
+<label key="1879098518" value="Лаэродрис"/>
+<label key="1879098519" value="Тум-эн-Этуил"/>
+<label key="1879098520" value="Нен Вуин"/>
+<label key="1879098521" value="Келос Глоруи"/>
+<label key="1879098522" value="Лант Верен"/>
+<label key="1879098523" value="Бритондол"/>
+<label key="1879098524" value="Татреллонд"/>
+<label key="1879098525" value="Рунеллин"/>
+<label key="1879098526" value="Куилиант"/>
+<label key="1879098527" value="Лин-эн-Амар"/>
+<label key="1879098528" value="Нен Хитуи"/>
+<label key="1879098529" value="Парт Тенин"/>
+<label key="1879098530" value="Тунд Тиль"/>
+<label key="1879098531" value="Сидарт"/>
+<label key="1879098532" value="Митуирант"/>
+<label key="1879098533" value="Парт Аур"/>
+<label key="1879098534" value="Гондлонд"/>
+<label key="1879098535" value="Дор Агларен"/>
+<label key="1879098536" value="Амон Голас"/>
+<label key="1879098537" value="Келет Гильдин"/>
+<label key="1879098538" value="Лин Адертад"/>
+<label key="1879098539" value="Лонд Арод"/>
+<label key="1879098540" value="Келон Рил"/>
+<label key="1879098541" value="Дор-и-Мередир"/>
+<label key="1879098542" value="Тум Ладен"/>
+<label key="1879098543" value="Лотренхир"/>
+<label key="1879098544" value="Нолдалад"/>
+<label key="1879098545" value="Эйтель Нир"/>
+<label key="1879098546" value="Эрин Геллам"/>
+<label key="1879098547" value="Нелладрант"/>
+<label key="1879098548" value="Каир Гвинд"/>
+<label key="1879098549" value="Маэрбар"/>
+<label key="1879098550" value="Тунд-эн-Эраис"/>
+<label key="1879098551" value="Тум-э-Манад"/>
+<label key="1879098552" value="Лад-э-Бауд"/>
+<label key="1879098553" value="Келет Хун"/>
+<label key="1879098554" value="Аэль Реммен"/>
+<label key="1879098555" value="Глассарт"/>
+<label key="1879098556" value="Амон Гонуи"/>
+<label key="1879098557" value="Фаэндор"/>
+<label key="1879098558" value="Атрад Галад"/>
+<label key="1879098559" value="Талад-э-Гонд"/>
+<label key="1879098560" value="Имлад Лалаит"/>
+<label key="1879098561" value="Росгелон"/>
+<label key="1879098562" value="Аладуирис"/>
+<label key="1879098563" value="Маэрхад"/>
+<label key="1879098564" value="Туд Ондрен"/>
+<label key="1879098565" value="Рильдир"/>
+<label key="1879098566" value="Даэрдор"/>
+<label key="1879098567" value="Тум Лаэг"/>
+<label key="1879098568" value="Лонд-эн-Аур"/>
+<label key="1879098569" value="Имлот Митрен"/>
+<label key="1879098570" value="Талад-и-Филиг"/>
+<label key="1879098571" value="Лослад"/>
+<label key="1879098572" value="Сирит Келебрен"/>
+<label key="1879098573" value="Гарлин"/>
+<label key="1879098574" value="Келет Рауд"/>
+<label key="1879098575" value="Дол Торен"/>
+<label key="1879098576" value="Кар-э-Хид"/>
+<label key="1879098577" value="Рослад"/>
+<label key="1879098578" value="Имлот Нир"/>
+<label key="1879098579" value="Парт Крист"/>
+<label key="1879098580" value="Глад Орхалл"/>
+<label key="1879098581" value="Гвелухад"/>
+<label key="1879098582" value="Амон Тханк"/>
+<label key="1879098583" value="Гунлад"/>
+<label key="1879098584" value="Эктельхад"/>
+<label key="1879098585" value="Имлад Линд"/>
+<label key="1879098586" value="Тореллант"/>
+<label key="1879098587" value="Дол Луит"/>
+<label key="1879098588" value="Кумбар"/>
+<label key="1879098589" value="Ланк Тренарм"/>
+<label key="1879098590" value="Дол Тент"/>
+<label key="1879098591" value="Имлад Конат"/>
+<label key="1879098592" value="Талад Ринг"/>
+<label key="1879098593" value="Лантир-э-Наут"/>
+<label key="1879098594" value="Менеллант"/>
+<label key="1879098595" value="Иавасант"/>
+<label key="1879098596" value="Митрембар"/>
+<label key="1879098597" value="Гуриант"/>
+<label key="1879098598" value="Эрин Вритон"/>
+<label key="1879098599" value="Нан-и-Мегиль"/>
+<label key="1879098600" value="Тум Эскаль"/>
+<label key="1879098601" value="Талаф Тилион"/>
+<label key="1879098602" value="Эйтель Ирвин"/>
+<label key="1879098603" value="Нан Эллуи"/>
+<label key="1879098604" value="Дол-э-Гуиль"/>
+<label key="1879098605" value="Глоруйхир"/>
+<label key="1879098606" value="Тиннудор"/>
+<label key="1879098607" value="Лотреллин"/>
+<label key="1879098608" value="Мериллант"/>
+<label key="1879098609" value="Каир-э-Фарас"/>
+<label key="1879098610" value="Лорн-эн-Ивор"/>
+<label key="1879098611" value="Луингиль"/>
+<label key="1879098612" value="Имрат Райн"/>
+<label key="1879098613" value="Аэргар"/>
+<label key="1879098614" value="Келон-и-Тинд"/>
+<label key="1879098615" value="Муллиах"/>
+<label key="1879098616" value="Ладенаэль"/>
+<label key="1879098617" value="Гарт-э-Горн"/>
+<label key="1879098618" value="Тум Фаин"/>
+<label key="1879098619" value="Маидланк"/>
+<label key="1879098620" value="Эрин Ваэрен"/>
+<label key="1879098621" value="Гвендрис"/>
+<label key="1879098622" value="Лад Ламмад"/>
+<label key="1879098623" value="Кугубель"/>
+<label key="1879098624" value="Имлад Анор"/>
+<label key="1879098625" value="Лимбель"/>
+<label key="1879098626" value="Эрин-э-Мот"/>
+<label key="1879098627" value="Тунд Лориель"/>
+<label key="1879098628" value="Горнгиль"/>
+<label key="1879098629" value="Келет Гелаис"/>
+<label key="1879098630" value="Фаэллонд"/>
+<label key="1879098631" value="Келос Ротуи"/>
+<label key="1879098632" value="Райнгиль"/>
+<label key="1879098633" value="Им Уиреб"/>
+<label key="1879098634" value="Нен Эллуи"/>
+<label key="1879098635" value="Сант Вритон"/>
+<label key="1879098636" value="Атрад Вален"/>
+<label key="1879098637" value="Эль Хаэрон"/>
+<label key="1879098638" value="Орнен"/>
+<label key="1879098639" value="Керин-э-Тон"/>
+<label key="1879098640" value="Эль-и-Гилит"/>
+<label key="1879098641" value="Раундор"/>
+<label key="1879098642" value="Логатрад"/>
+<label key="1879098643" value="Раэнгар"/>
+<label key="1879098644" value="Кенедион"/>
+<label key="1879098645" value="Лорн-и-Хирх"/>
+<label key="1879098646" value="Тунд Нир"/>
+<label key="1879098647" value="Рованарт"/>
+<label key="1879098648" value="Дол Эглериад"/>
+<label key="1879098649" value="Пель-э-Маэнас"/>
+<label key="1879098650" value="Имрат-э-Менель"/>
+<label key="1879098651" value="Амон Рован"/>
+<label key="1879098652" value="Барадант"/>
+<label key="1879098653" value="Атрад Видуи"/>
+<label key="1879098654" value="Митуинан"/>
+<label key="1879098655" value="Дор Минуиал"/>
+<label key="1879098656" value="Амон Раск"/>
+<label key="1879098657" value="Сирит Нинглир"/>
+<label key="1879098658" value="Хардониант"/>
+<label key="1879098659" value="Каир-э-Бретиль"/>
+<label key="1879098660" value="Поселения Фалатлорна"/>
+<label key="1879099284" value="Ул. Высоких скал, дом 1"/>
+<label key="1879099285" value="Ул. Высоких скал, дом 2"/>
+<label key="1879099286" value="Ул. Мрачных скал, дом 1"/>
+<label key="1879099287" value="Ул. Мрачных скал, дом 2"/>
+<label key="1879099288" value="Ул. Мрачных скал, дом 3"/>
+<label key="1879099289" value="Ул. Мрачных скал, дом 4"/>
+<label key="1879099290" value="Ул. Мрачных скал, дом 5"/>
+<label key="1879099291" value="Пенная улица, дом 1"/>
+<label key="1879099292" value="Пенная улица, дом 2"/>
+<label key="1879099293" value="Пенная улица, дом 3"/>
+<label key="1879099294" value="Пенная улица, дом 4"/>
+<label key="1879099295" value="Пенная улица, дом 5"/>
+<label key="1879099296" value="Ломаная излучина, д. 1"/>
+<label key="1879099297" value="Ломаная излучина, д. 2"/>
+<label key="1879099298" value="Ломаная излучина, д. 3"/>
+<label key="1879099299" value="Рубежная улица, дом 1"/>
+<label key="1879099300" value="Рубежная улица, дом 2"/>
+<label key="1879099301" value="Рубежная улица, дом 3"/>
+<label key="1879099302" value="Рубежная улица, дом 4"/>
+<label key="1879099303" value="Кузнечная дорога, дом 1"/>
+<label key="1879099304" value="Кузнечная дорога, дом 2"/>
+<label key="1879099305" value="Нижняя улица, дом 1"/>
+<label key="1879099306" value="Нижняя улица, дом 2"/>
+<label key="1879099307" value="Нижняя улица, дом 3"/>
+<label key="1879099308" value="Гремящая улица, дом 1"/>
+<label key="1879099309" value="Гремящая улица, дом 2"/>
+<label key="1879099310" value="Гремящая улица, дом 3"/>
+<label key="1879099311" value="Гремящая улица, дом 4"/>
+<label key="1879099312" value="Гремящая улица, дом 5"/>
+<label key="1879099313" value="Гремящая улица, дом 6"/>
+<label key="1879100980" value="Граргорт"/>
+<label key="1879100981" value="Лейкгарт"/>
+<label key="1879100982" value="Скольдроф"/>
+<label key="1879100983" value="Ларинстром"/>
+<label key="1879100984" value="Гроринсби"/>
+<label key="1879100985" value="Акафтинг"/>
+<label key="1879100986" value="Димсбарг"/>
+<label key="1879100987" value="Эймфлот"/>
+<label key="1879100988" value="Хорскрум"/>
+<label key="1879100989" value="Эльдингграф"/>
+<label key="1879100990" value="Хальмбрак"/>
+<label key="1879100991" value="Ветбрак"/>
+<label key="1879100992" value="Норттун"/>
+<label key="1879100993" value="Битинг"/>
+<label key="1879100994" value="Ворнвирк"/>
+<label key="1879100995" value="Финнсбарг"/>
+<label key="1879100996" value="Свертгарт"/>
+<label key="1879100997" value="Йальфсхолд"/>
+<label key="1879100998" value="Оксгарт"/>
+<label key="1879100999" value="Дренгтун"/>
+<label key="1879101000" value="Оруглак"/>
+<label key="1879101001" value="Тругорт"/>
+<label key="1879101002" value="Бларнхат"/>
+<label key="1879101003" value="Баринсгарт"/>
+<label key="1879101004" value="Дварсфлот"/>
+<label key="1879101005" value="Стинволл"/>
+<label key="1879101006" value="Нотхейм"/>
+<label key="1879101007" value="Фангрум"/>
+<label key="1879101008" value="Хальфсхирт"/>
+<label key="1879101009" value="Дирхам"/>
+<label key="1879101010" value="Рейтгарт"/>
+<label key="1879101011" value="Квельдхейм"/>
+<label key="1879101012" value="Миркил"/>
+<label key="1879101013" value="Кольстат"/>
+<label key="1879101014" value="Варинсот"/>
+<label key="1879101015" value="Скимсби"/>
+<label key="1879101016" value="Моттун"/>
+<label key="1879101017" value="Гринсгрун"/>
+<label key="1879101018" value="Флейнстром"/>
+<label key="1879101019" value="Нидисхол"/>
+<label key="1879101020" value="Витстром"/>
+<label key="1879101021" value="Дарратби"/>
+<label key="1879101022" value="Лифкельд"/>
+<label key="1879101023" value="Имтал"/>
+<label key="1879101024" value="Талагроф"/>
+<label key="1879101025" value="Катамар"/>
+<label key="1879101026" value="Митвирк"/>
+<label key="1879101027" value="Тройнсбарг"/>
+<label key="1879101028" value="Мартрум"/>
+<label key="1879101029" value="Кальдгрун"/>
+<label key="1879101030" value="Гиптабар"/>
+<label key="1879101031" value="Меркия"/>
+<label key="1879101032" value="Орборг"/>
+<label key="1879101033" value="Фрамитинг"/>
+<label key="1879101034" value="Стеркхейм"/>
+<label key="1879101035" value="Гептисрум"/>
+<label key="1879101036" value="Брандфелл"/>
+<label key="1879101037" value="Больдом"/>
+<label key="1879101038" value="Дуплак"/>
+<label key="1879101039" value="Баргсот"/>
+<label key="1879101040" value="Ретлак"/>
+<label key="1879101041" value="Харшам"/>
+<label key="1879101042" value="Нетарстат"/>
+<label key="1879101043" value="Аншус"/>
+<label key="1879101044" value="Фрагвирк"/>
+<label key="1879101045" value="Таргрен"/>
+<label key="1879101046" value="Гамалби"/>
+<label key="1879101047" value="Капхейм"/>
+<label key="1879101048" value="Бекксхирт"/>
+<label key="1879101049" value="Скердом"/>
+<label key="1879101050" value="Форнбрак"/>
+<label key="1879101051" value="Галфстром"/>
+<label key="1879101052" value="Глитнибар"/>
+<label key="1879101053" value="Скурсбарг"/>
+<label key="1879101054" value="Гилдал"/>
+<label key="1879101055" value="Билдшамар"/>
+<label key="1879101056" value="Гиллифлот"/>
+<label key="1879101057" value="Форлогби"/>
+<label key="1879101058" value="Гейрскали"/>
+<label key="1879101059" value="Хейтиртун"/>
+<label key="1879101060" value="Флейнгорт"/>
+<label key="1879101061" value="Датбрак"/>
+<label key="1879101062" value="Тиггрен"/>
+<label key="1879101063" value="Рондбрак"/>
+<label key="1879101064" value="Фельдхам"/>
+<label key="1879101065" value="Веркрум"/>
+<label key="1879101066" value="Унгфлот"/>
+<label key="1879101067" value="Сторбри"/>
+<label key="1879101068" value="Двальфстун"/>
+<label key="1879101069" value="Квисгрен"/>
+<label key="1879101070" value="Скоринса"/>
+<label key="1879101071" value="Нурсдал"/>
+<label key="1879101072" value="Лосстат"/>
+<label key="1879101073" value="Манисот"/>
+<label key="1879101074" value="Йарисборг"/>
+<label key="1879101075" value="Меотборг"/>
+<label key="1879101076" value="Ноткельд"/>
+<label key="1879101077" value="Вестамар"/>
+<label key="1879101078" value="Агата"/>
+<label key="1879101079" value="Аскхат"/>
+<label key="1879101080" value="Линдгарт"/>
+<label key="1879101081" value="Фолькдал"/>
+<label key="1879101082" value="Стетиволл"/>
+<label key="1879101083" value="Эфрисал"/>
+<label key="1879101084" value="Стальгил"/>
+<label key="1879101085" value="Аустгарт"/>
+<label key="1879101086" value="Фурсгрун"/>
+<label key="1879101087" value="Ногрум"/>
+<label key="1879101088" value="Офборг"/>
+<label key="1879101089" value="Йатарборг"/>
+<label key="1879101090" value="Милисбри"/>
+<label key="1879101091" value="Фритдал"/>
+<label key="1879101092" value="Айсгарт"/>
+<label key="1879101093" value="Боринсхат"/>
+<label key="1879101094" value="Мольдборг"/>
+<label key="1879101095" value="Бурсби"/>
+<label key="1879101096" value="Орнгил"/>
+<label key="1879101097" value="Богбрак"/>
+<label key="1879101098" value="Ольдунггил"/>
+<label key="1879101099" value="Грестигроф"/>
+<label key="1879101100" value="Бальхат"/>
+<label key="1879101101" value="Рейкбрак"/>
+<label key="1879101102" value="Оствирк"/>
+<label key="1879101103" value="Долгроф"/>
+<label key="1879101104" value="Хвитол"/>
+<label key="1879101105" value="Ботха"/>
+<label key="1879101106" value="Гергил"/>
+<label key="1879101107" value="Некксфлот"/>
+<label key="1879101108" value="Йарнхал"/>
+<label key="1879101109" value="Хритгарт"/>
+<label key="1879101110" value="Фольдроф"/>
+<label key="1879101111" value="Тоткельд"/>
+<label key="1879101112" value="Скотгрун"/>
+<label key="1879101113" value="Альмхус"/>
+<label key="1879101114" value="Местроф"/>
+<label key="1879101115" value="Биннсбар"/>
+<label key="1879101116" value="Гаршал"/>
+<label key="1879101117" value="Ратгроф"/>
+<label key="1879101118" value="Васкволл"/>
+<label key="1879101119" value="Эллригун"/>
+<label key="1879101120" value="Барсгроф"/>
+<label key="1879101121" value="Гиркельд"/>
+<label key="1879101122" value="Тургорт"/>
+<label key="1879101123" value="Хаптун"/>
+<label key="1879101124" value="Виндал"/>
+<label key="1879101125" value="Логхейм"/>
+<label key="1879101126" value="Мегинсот"/>
+<label key="1879101127" value="Хольтамар"/>
+<label key="1879101128" value="Гилисгроф"/>
+<label key="1879101129" value="Свейтволл"/>
+<label key="1879101130" value="Токхамар"/>
+<label key="1879101131" value="Хармфелл"/>
+<label key="1879101132" value="Микилрум"/>
+<label key="1879101133" value="Гростат"/>
+<label key="1879101134" value="Анарстром"/>
+<label key="1879101135" value="Харгарт"/>
+<label key="1879101136" value="Брейтфелл"/>
+<label key="1879101137" value="Рикифелл"/>
+<label key="1879101138" value="Лофстат"/>
+<label key="1879101139" value="Сигроф"/>
+<label key="1879101140" value="Фрорсдал"/>
+<label key="1879101141" value="Креллхейм"/>
+<label key="1879101142" value="Фастамар"/>
+<label key="1879101143" value="Старфлот"/>
+<label key="1879101144" value="Гатлак"/>
+<label key="1879101145" value="Марфлот"/>
+<label key="1879101146" value="Триггарт"/>
+<label key="1879101147" value="Гримхат"/>
+<label key="1879101148" value="Моргунтун"/>
+<label key="1879101149" value="Вендом"/>
+<label key="1879101150" value="Харвирк"/>
+<label key="1879101151" value="Нирадсби"/>
+<label key="1879101152" value="Стрита"/>
+<label key="1879101153" value="Кенгсал"/>
+<label key="1879101154" value="Блитинг"/>
+<label key="1879101155" value="Мекирхил"/>
+<label key="1879101156" value="Гларинсдал"/>
+<label key="1879101157" value="Текксгроф"/>
+<label key="1879101158" value="Сегдал"/>
+<label key="1879101159" value="Прутграф"/>
+<label key="1879101160" value="Глатфлот"/>
+<label key="1879101161" value="Фротол"/>
+<label key="1879101162" value="Тромхейм"/>
+<label key="1879101163" value="Хугирт"/>
+<label key="1879101164" value="Хосстром"/>
+<label key="1879101165" value="Фегинстат"/>
+<label key="1879101166" value="Сагскали"/>
+<label key="1879101167" value="Хаскигрун"/>
+<label key="1879101168" value="Эйтгрун"/>
+<label key="1879101169" value="Вигирт"/>
+<label key="1879101170" value="Брунисбрак"/>
+<label key="1879101171" value="Ханарсгорт"/>
+<label key="1879101172" value="Витуршамар"/>
+<label key="1879101173" value="Гуллгил"/>
+<label key="1879101174" value="Домхил"/>
+<label key="1879101175" value="Тонбри"/>
+<label key="1879101176" value="Мербри"/>
+<label key="1879101177" value="Ольшал"/>
+<label key="1879101178" value="Фуринсгрен"/>
+<label key="1879101179" value="Сокбарг"/>
+<label key="1879101180" value="Ульфхирт"/>
+<label key="1879101181" value="Скеггроф"/>
+<label key="1879101182" value="Гритгарт"/>
+<label key="1879101183" value="Холда"/>
+<label key="1879101184" value="Эйрбар"/>
+<label key="1879101185" value="Тагалрум"/>
+<label key="1879101186" value="Тунголборг"/>
+<label key="1879101187" value="Диртдал"/>
+<label key="1879101188" value="Офолхат"/>
+<label key="1879101189" value="Гуфроф"/>
+<label key="1879101190" value="Хекксгрун"/>
+<label key="1879101191" value="Мальволл"/>
+<label key="1879101192" value="Трутгрун"/>
+<label key="1879101193" value="Ормтинг"/>
+<label key="1879101194" value="Туринсграф"/>
+<label key="1879101195" value="Мимшол"/>
+<label key="1879101196" value="Хеорхейм"/>
+<label key="1879101197" value="Грорсволл"/>
+<label key="1879101198" value="Форнбарг"/>
+<label key="1879101199" value="Сильфура"/>
+<label key="1879101200" value="Менбри"/>
+<label key="1879101201" value="Бройнскельд"/>
+<label key="1879101202" value="Найншат"/>
+<label key="1879101203" value="Аптанхейм"/>
+<label key="1879101204" value="Рикбарг"/>
+<label key="1879101205" value="Спотал"/>
+<label key="1879101206" value="Брунигроф"/>
+<label key="1879101207" value="Оттигрен"/>
+<label key="1879101208" value="Сутхейм"/>
+<label key="1879101209" value="Готбар"/>
+<label key="1879101210" value="Дрорсхейм"/>
+<label key="1879101211" value="Гримдом"/>
+<label key="1879101212" value="Фростат"/>
+<label key="1879101213" value="Сворсволл"/>
+<label key="1879101214" value="Гуфкельд"/>
+<label key="1879101215" value="Хильмирум"/>
+<label key="1879101216" value="Гротдал"/>
+<label key="1879101217" value="Лекксгил"/>
+<label key="1879101218" value="Хлифлак"/>
+<label key="1879101219" value="Меторта"/>
+<label key="1879101220" value="Троттигам"/>
+<label key="1879101221" value="Рекстром"/>
+<label key="1879101222" value="Вилисфелл"/>
+<label key="1879101223" value="Хильдширт"/>
+<label key="1879101224" value="Биллингсфлот"/>
+<label key="1879101225" value="Йортрум"/>
+<label key="1879101226" value="Статтам"/>
+<label key="1879101227" value="Лангвирк"/>
+<label key="1879101228" value="Вегхейм"/>
+<label key="1879101229" value="Фралшол"/>
+<label key="1879101230" value="Белые норы"/>
+<label key="1879101231" value="Травянистая лощина"/>
+<label key="1879101232" value="Пивной ручей"/>
+<label key="1879101233" value="Совиные норы"/>
+<label key="1879101234" value="Серригарова глушь"/>
+<label key="1879101235" value="Веселые поля"/>
+<label key="1879101236" value="Старая обитель"/>
+<label key="1879101237" value="Лорбов угол"/>
+<label key="1879101238" value="Воронья долина"/>
+<label key="1879101239" value="Сухой карьер"/>
+<label key="1879101240" value="Березовые норы"/>
+<label key="1879101241" value="Расщелина"/>
+<label key="1879101242" value="Черепашьи норы"/>
+<label key="1879101243" value="Корольковая роща"/>
+<label key="1879101244" value="Тупичок Андо"/>
+<label key="1879101245" value="Кукурузные поля"/>
+<label key="1879101246" value="Пышная роща"/>
+<label key="1879101247" value="Сосновый бор"/>
+<label key="1879101248" value="Клеверные поля"/>
+<label key="1879101249" value="Воловьи луга"/>
+<label key="1879101250" value="Лисьи норы"/>
+<label key="1879101251" value="Гусиные пастбища"/>
+<label key="1879101252" value="Хмелевые поля"/>
+<label key="1879101253" value="Улыбчивый дол"/>
+<label key="1879101254" value="Хмелевые заросли"/>
+<label key="1879101255" value="Узелки"/>
+<label key="1879101256" value="Медуничные луга"/>
+<label key="1879101257" value="Фальгов луг"/>
+<label key="1879101258" value="Кряжи"/>
+<label key="1879101259" value="Заливные луга"/>
+<label key="1879101260" value="Подлески"/>
+<label key="1879101261" value="Старые дворы"/>
+<label key="1879101262" value="Цветущие холмы"/>
+<label key="1879101263" value="Сосновая роща"/>
+<label key="1879101264" value="Заливы"/>
+<label key="1879101265" value="Мелконорье"/>
+<label key="1879101266" value="Сказочные поля"/>
+<label key="1879101267" value="Глинистые холмы"/>
+<label key="1879101268" value="Трубочная канавка"/>
+<label key="1879101269" value="Раскопы"/>
+<label key="1879101270" value="Срединье"/>
+<label key="1879101271" value="Лужистые поля"/>
+<label key="1879101272" value="Утренние росы"/>
+<label key="1879101273" value="Корешки"/>
+<label key="1879101274" value="Выселки"/>
+<label key="1879101275" value="Медовые луга"/>
+<label key="1879101276" value="Лесистые холмы"/>
+<label key="1879101277" value="Браговый лес"/>
+<label key="1879101278" value="Воробьиный ручей"/>
+<label key="1879101279" value="Усадьбы"/>
+<label key="1879101280" value="Дроздовая роща"/>
+<label key="1879101281" value="Паклевые дворы"/>
+<label key="1879101282" value="Липовая роща"/>
+<label key="1879101283" value="Барановы холмы"/>
+<label key="1879101284" value="Вязанки"/>
+<label key="1879101285" value="Осенние пруды"/>
+<label key="1879101286" value="Снопы"/>
+<label key="1879101287" value="Щепки"/>
+<label key="1879101288" value="Посадки"/>
+<label key="1879101289" value="Орешники"/>
+<label key="1879101290" value="Кобылий ручей"/>
+<label key="1879101291" value="Куцая балка"/>
+<label key="1879101292" value="Вершки"/>
+<label key="1879101293" value="Крепкие холмы"/>
+<label key="1879101294" value="Липовый лес"/>
+<label key="1879101295" value="Терновники"/>
+<label key="1879101296" value="Кустарники"/>
+<label key="1879101297" value="Камешки"/>
+<label key="1879101298" value="Утиный брод"/>
+<label key="1879101299" value="Уздечные холмы"/>
+<label key="1879101300" value="Ольховая балка"/>
+<label key="1879101301" value="Буковая гряда"/>
+<label key="1879101302" value="Летние сады"/>
+<label key="1879101303" value="Глинистые овраги"/>
+<label key="1879101304" value="Острые пики"/>
+<label key="1879101305" value="Вертлявый дол"/>
+<label key="1879101306" value="Покатые склоны"/>
+<label key="1879101307" value="Папоротниковая балка"/>
+<label key="1879101308" value="Землистый дол"/>
+<label key="1879101309" value="Медовая роща"/>
+<label key="1879101310" value="Соломки"/>
+<label key="1879101311" value="Тростники"/>
+<label key="1879101312" value="Западная глушь"/>
+<label key="1879101313" value="Изрытые склоны"/>
+<label key="1879101314" value="Овсянки"/>
+<label key="1879101315" value="Скирды"/>
+<label key="1879101316" value="Мягкие травы"/>
+<label key="1879101317" value="Вересковые дворы"/>
+<label key="1879101318" value="Ручьи"/>
+<label key="1879101319" value="Камыши"/>
+<label key="1879101320" value="Ракитная заводь"/>
+<label key="1879101321" value="Тисовая лощина"/>
+<label key="1879101322" value="Блестящие ручьи"/>
+<label key="1879101323" value="Вересковые холмы"/>
+<label key="1879101324" value="Колодцы"/>
+<label key="1879101325" value="Илистые ручьи"/>
+<label key="1879101326" value="Гороховые поля"/>
+<label key="1879101327" value="Угодья"/>
+<label key="1879101328" value="Луга"/>
+<label key="1879101329" value="Сливовые сады"/>
+<label key="1879101330" value="Пахотные поля"/>
+<label key="1879101331" value="Свистящий лес"/>
+<label key="1879101332" value="Терновый дол"/>
+<label key="1879101333" value="Колодезные дворы"/>
+<label key="1879101334" value="Горбатые холмы"/>
+<label key="1879101335" value="Донышки"/>
+<label key="1879101336" value="Стрекочущие холмы"/>
+<label key="1879101337" value="Броды"/>
+<label key="1879101338" value="Чертополоховые ручьи"/>
+<label key="1879101339" value="Околотки"/>
+<label key="1879101340" value="Дальнее ущелье"/>
+<label key="1879101341" value="Тысячелистниковая балка"/>
+<label key="1879101342" value="Серединная долина"/>
+<label key="1879101343" value="Стежки"/>
+<label key="1879101344" value="Шустрая заводь"/>
+<label key="1879101345" value="Ржаная падь"/>
+<label key="1879101346" value="Паровые земли"/>
+<label key="1879101347" value="Малиновкин лес"/>
+<label key="1879101348" value="Туманная балка"/>
+<label key="1879101349" value="Посевные луга"/>
+<label key="1879101350" value="Кленовая роща"/>
+<label key="1879101351" value="Извивистый ручей"/>
+<label key="1879101352" value="Мостки"/>
+<label key="1879101353" value="Заячьи поля"/>
+<label key="1879101354" value="Воронья роща"/>
+<label key="1879101355" value="Пашни"/>
+<label key="1879101356" value="Чистые поля"/>
+<label key="1879101357" value="Охотничьи угодья"/>
+<label key="1879101358" value="Меловые холмы"/>
+<label key="1879101359" value="Картофельная делянка"/>
+<label key="1879101360" value="Плавники"/>
+<label key="1879101361" value="Гулкая долина"/>
+<label key="1879101362" value="Мохнатые поля"/>
+<label key="1879101363" value="Песчаная балка"/>
+<label key="1879101364" value="Льняные луга"/>
+<label key="1879101365" value="Осенние ручьи"/>
+<label key="1879101366" value="Розовые сады"/>
+<label key="1879101367" value="Свиные горки"/>
+<label key="1879101368" value="Торфянники"/>
+<label key="1879101369" value="Пивная лощина"/>
+<label key="1879101370" value="Амбары"/>
+<label key="1879101371" value="Папоротники"/>
+<label key="1879101372" value="Галечный ручей"/>
+<label key="1879101373" value="Вересковые сады"/>
+<label key="1879101374" value="Пшеничные амбары"/>
+<label key="1879101375" value="Козья лощина"/>
+<label key="1879101376" value="Бобовый дол"/>
+<label key="1879101377" value="Мшистая гряда"/>
+<label key="1879101378" value="Узкая лощина"/>
+<label key="1879101379" value="Зеленая долина"/>
+<label key="1879101380" value="Бережки"/>
+<label key="1879101381" value="Низины"/>
+<label key="1879101382" value="Канавки"/>
+<label key="1879101383" value="Тритонья заводь"/>
+<label key="1879101384" value="Оллов лес"/>
+<label key="1879101385" value="Резвая долина"/>
+<label key="1879101386" value="Песенная лощина"/>
+<label key="1879101387" value="Ясеневая роща"/>
+<label key="1879101388" value="Топкие низины"/>
+<label key="1879101389" value="Драконьи колодцы"/>
+<label key="1879101390" value="Красная лощина"/>
+<label key="1879101391" value="Дымные норки"/>
+<label key="1879101392" value="Веселая долина"/>
+<label key="1879101393" value="Дремотная падь"/>
+<label key="1879101394" value="Дальняя делянка"/>
+<label key="1879101395" value="Рябиновые чертоги"/>
+<label key="1879101396" value="Брошеные пашни"/>
+<label key="1879101397" value="Глыбистая котловина"/>
+<label key="1879101398" value="Кабаньи норы"/>
+<label key="1879101399" value="Мышиные горки"/>
+<label key="1879101400" value="Ягодный мост"/>
+<label key="1879101401" value="Урожайные поля"/>
+<label key="1879101402" value="Яблочная балка"/>
+<label key="1879101403" value="Бычьи кряжи"/>
+<label key="1879101404" value="Дальние чертоги"/>
+<label key="1879101405" value="Лиственичная лощина"/>
+<label key="1879101406" value="Винные чертоги"/>
+<label key="1879101407" value="Громкие холмы"/>
+<label key="1879101408" value="Крутые склоны"/>
+<label key="1879101409" value="Соленая долина"/>
+<label key="1879101410" value="Обманные холмы"/>
+<label key="1879101411" value="Веселые ручьи"/>
+<label key="1879101412" value="Овечьи поля"/>
+<label key="1879101413" value="Жабья долина"/>
+<label key="1879101414" value="Змеиные норы"/>
+<label key="1879101415" value="Барсуки"/>
+<label key="1879101416" value="Крапивники"/>
+<label key="1879101417" value="Заячий лес"/>
+<label key="1879101418" value="Придворье"/>
+<label key="1879101419" value="Вьюны"/>
+<label key="1879101420" value="Оленья лощина"/>
+<label key="1879101421" value="Соломенная балка"/>
+<label key="1879101422" value="Форелья заводь"/>
+<label key="1879101423" value="Узкая балка"/>
+<label key="1879101424" value="Масляные дворы"/>
+<label key="1879101425" value="Дождливая балка"/>
+<label key="1879101426" value="Глубокая балка"/>
+<label key="1879101427" value="Сырая долина"/>
+<label key="1879101428" value="Ячменный угол"/>
+<label key="1879101429" value="Травянистые луга"/>
+<label key="1879101430" value="Падубова расщелина"/>
+<label key="1879101431" value="Звездопады"/>
+<label key="1879101432" value="Кролова балка"/>
+<label key="1879101433" value="Дубы"/>
+<label key="1879101434" value="Илистые колодцы"/>
+<label key="1879101435" value="Пристань"/>
+<label key="1879101436" value="Вязовая роща"/>
+<label key="1879101437" value="Лягушачий омут"/>
+<label key="1879101438" value="Сажистая гряда"/>
+<label key="1879101439" value="Папоротниковые дворы"/>
+<label key="1879101440" value="Деревянные колодцы"/>
+<label key="1879101441" value="Маргаритковая долина"/>
+<label key="1879101442" value="Укромные норы"/>
+<label key="1879101443" value="Узкая долина"/>
+<label key="1879101444" value="Серые дали"/>
+<label key="1879101445" value="Ежевичники"/>
+<label key="1879101446" value="Приречная гряда"/>
+<label key="1879101447" value="Слабинки"/>
+<label key="1879101448" value="Свиной брод"/>
+<label key="1879101449" value="Свиной ручей"/>
+<label key="1879101450" value="Ельники"/>
+<label key="1879101451" value="Шумные мостки"/>
+<label key="1879101452" value="Ближняя балка"/>
+<label key="1879101453" value="Рытвинки"/>
+<label key="1879101454" value="Яркие низины"/>
+<label key="1879101455" value="Ветвистая балка"/>
+<label key="1879101456" value="Винные пруды"/>
+<label key="1879101457" value="Хмелистые дворы"/>
+<label key="1879101458" value="Серые выси"/>
+<label key="1879101459" value="Куриные дворы"/>
+<label key="1879101460" value="Дальние луга"/>
+<label key="1879101461" value="Ближние дворы"/>
+<label key="1879101462" value="Гусиная долина"/>
+<label key="1879101463" value="Норки"/>
+<label key="1879101464" value="Солнечные холмы"/>
+<label key="1879101465" value="Ближние норы"/>
+<label key="1879101466" value="Желтые сады"/>
+<label key="1879101467" value="Тормов хмель"/>
+<label key="1879101468" value="Зарубки"/>
+<label key="1879101469" value="Нижние дворы"/>
+<label key="1879101470" value="Пивной затон"/>
+<label key="1879101471" value="Хомутовые дворы"/>
+<label key="1879101472" value="Сенокосная долина"/>
+<label key="1879101473" value="Глинистые ручьи"/>
+<label key="1879101474" value="Большая падь"/>
+<label key="1879101475" value="Раскопки"/>
+<label key="1879101476" value="Глинистые берега"/>
+<label key="1879101477" value="Свиное копытце"/>
+<label key="1879101478" value="Малые колодцы"/>
+<label key="1879101479" value="Кирпичные норки"/>
+<label key="key:620794211:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794212:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794213:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794214:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794215:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620794216:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794217:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794218:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620794219:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794220:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794221:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794222:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794223:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794224:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794225:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794226:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794227:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620794228:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794229:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794230:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794231:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794232:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794233:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794234:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794235:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794236:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794237:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620794238:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794239:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620794240:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796077:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796078:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796079:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796080:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796081:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796082:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796083:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796084:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796085:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796086:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796087:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796088:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796089:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796090:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796091:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796092:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796093:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796094:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796095:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796096:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796097:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796098:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796099:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796100:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796101:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796102:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796103:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796104:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796105:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796106:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796894:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796895:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796896:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796897:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796898:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796899:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796900:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796901:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796902:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796903:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796904:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796905:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796906:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796907:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796908:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796909:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796910:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796911:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796912:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796913:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796914:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796915:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796916:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796917:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796918:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796919:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796920:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620796921:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620796922:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620796923:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797614:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797615:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620797616:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797617:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797618:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797619:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797620:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620797621:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797622:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620797623:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797624:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797625:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797626:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797627:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797628:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797629:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797630:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797631:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797632:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797633:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797634:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797635:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797636:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797637:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797638:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797639:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797640:54354734" value="В этом доме 19 внутренних и 4 внешних крюков для утвари. Можно приобрести не более 1 сундука."/>
+<label key="key:620797641:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+<label key="key:620797642:54354734" value="В этом доме 71 внутренний и 13 внешних крюков для утвари. Можно приобрести не более 3 сундуков."/>
+<label key="key:620797643:54354734" value="В этом доме 45 внутренних и 8 внешних крюков для утвари. Можно приобрести не более 2 сундуков."/>
+</labels>
