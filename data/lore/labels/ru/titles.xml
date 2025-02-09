@@ -405,16 +405,16 @@
 <label key="1879101836" value="Погибель Транга"/>
 <label key="1879101837" value="Опора Эльдгангов"/>
 <label key="1879101993" value="Свет Надежды"/>
-<label key="1894514704" value="the Explorer"/>
-<label key="1894514705" value="Spear of Oromë"/>
-<label key="1894514706" value="the Learned"/>
-<label key="1894514707" value="Defender of Middle-Earth"/>
-<label key="1894514708" value="Liberator of Norbury"/>
-<label key="1894514709" value="Saviour of the Lady"/>
-<label key="1894514710" value="Sambrog's Bane"/>
-<label key="1894514711" value="Calantar"/>
-<label key="1894514712" value="the Legend"/>
-<label key="1894514713" value="the Insane"/>
+<label key="1894514704" value="Следопыт"/>
+<label key="1894514705" value="Копье Оромэ"/>
+<label key="1894514706" value="Воплощение мудрости"/>
+<label key="1894514707" value="Защитник / Защитница Средиземья"/>
+<label key="1894514708" value="Щит Северна"/>
+<label key="1894514709" value="спаситель / спасительница Госпожи"/>
+<label key="1894514710" value="Бич Самброга"/>
+<label key="1894514711" value="Калантар"/>
+<label key="1894514712" value="Легенда"/>
+<label key="1894514713" value="Само Безумие"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, почетный ширриф"/>
 <label key="key:620758793:175532558" value="Вы оказали неоценимую помощь стражам границ, и за это вас произвели в почетные ширрифы Шира."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, начинающий ученый"/>
@@ -1229,24 +1229,24 @@
 <label key="key:620799641:175532558" value="Ваши подвиги в глубине Разлома спасли от гибели великанов эльдгангов, которые ведут войну против Тьмы в этом страшном месте."/>
 <label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Свет Надежды"/>
 <label key="key:620799777:175532558" value="Вы завершили вторую часть первого тома \qТеней Ангмара\q."/>
-<label key="key:636223488:133344739" value="Hardcore challenge reward for completing quests in all zones."/>
-<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Insane"/>
-<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Saviour of the Lady"/>
-<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sambrog's Bane"/>
-<label key="key:636223488:159719968" value="Hardcore challenge reward for reaching level 50 without dying."/>
-<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Liberator of Norbury"/>
-<label key="key:636223488:18718558" value="Hardcore challenge reward for exploring all zones."/>
-<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Spear of Oromë"/>
-<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Legend"/>
-<label key="key:636223488:221492867" value="Hardcore challenge reward for completing all three leveling dungeons."/>
-<label key="key:636223488:236725557" value="Hardcore challenge reward for hunting rare monsters."/>
-<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Explorer"/>
-<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Middle-Earth"/>
-<label key="key:636223488:36742548" value="Hardcore challenge reward for completing Fornost."/>
-<label key="key:636223488:40850518" value="Hardcore challenge reward for completing Epic Volume I Books 1 through 6."/>
-<label key="key:636223488:66200070" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Calantar"/>
-<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Learned"/>
-<label key="key:636223488:75314017" value="Hardcore challenge reward for completing Garth Agarwen."/>
-<label key="key:636223488:75314018" value="Hardcore challenge reward for completing The Great Barrow."/>
-<label key="key:636223488:96594722" value="Hardcore challenge reward for completing all the availalble challenges."/>
+<label key="key:636223488:133344739" value="Вы помогли всем обитателям Эриадора, не потерпев ни единого поражения."/>
+<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Само Безумие"/>
+<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: спаситель[m]| спасительница[f]} Госпожи"/>
+<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Бич Самброга"/>
+<label key="key:636223488:159719968" value="Вы достигли 50-ого уровня, не потерпев ни единого поражения."/>
+<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Щит Северна"/>
+<label key="key:636223488:18718558" value="Вы исследовали все значимые места Эриадора, не потерпев ни единого поражения."/>
+<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Копье Оромэ"/>
+<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Легенда"/>
+<label key="key:636223488:221492867" value="Вы помогли очистить от присутствия зла все три оплота темных сил на вашем пути, не потерпев ни единого поражения."/>
+<label key="key:636223488:236725557" value="Вы успешно завершили охоту на редких служителей тьмы Эриадора, не потерпев ни единого поражения."/>
+<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Следопыт"/>
+<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME: Защитник[m]| Защитница[f]} Средиземья"/>
+<label key="key:636223488:36742548" value="Вы помогли очистить руины Форноста от присутствия зла, не потерпев ни единого поражения."/>
+<label key="key:636223488:40850518" value="Вы встали на путь света и успешно завершили задания Книг 1-6 эпоса первого тома, не потерпев ни единого поражения."/>
+<label key="key:636223488:66200070" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Калантар"/>
+<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Воплощение мудрости"/>
+<label key="key:636223488:75314017" value="Вы помогли очистить Гарт Агарвен, руины древней рудаурской крепости, от присутствия зла, не потерпев ни единого поражения."/>
+<label key="key:636223488:75314018" value="Вы помогли очистить подземелья Великого Могильника от присутствия зла, не потерпев ни единого поражения."/>
+<label key="key:636223488:96594722" value="Вы успешно преодолели все испытания на своем пути, не потерпев ни единого поражения."/>
 </labels>
