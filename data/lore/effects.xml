@@ -32,7 +32,9 @@
 </propertyModEffect>
 <flagEffect id="1879049336" name="Suppression Vulnerability" iconId="1090522263" baseFlags="6204"/>
 <effect id="1879049339" name="Directed Attack" appliedDescription="key:620757552:54354734" baseFlags="4126"/>
-<effect id="1879049342" name="Summon Brigand Wolf Pet" baseFlags="4124"/>
+<aiPetEffect id="1879049342" name="Summon Brigand Wolf Pet" baseFlags="4124">
+<summoned id="1879049343" name="Wolfhound"/>
+</aiPetEffect>
 <effect id="1879049427" name="Force Attack" appliedDescription="key:620757557:54354734" iconId="1090522264" duration="10.0" baseFlags="4382"/>
 <propertyModEffect id="1879049460" name="Crippled" appliedDescription="key:620757563:54354734" iconId="1090522393" baseFlags="4542">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="0.75"/>
@@ -182,7 +184,9 @@
 <propertyModEffect id="1879050235" name="Dread" appliedDescription="key:620757924:54354734" iconId="1090524461" baseFlags="6590">
 <stat name="Mood_Intended_Dread_Level" descriptionOverride="key:620757924:106251891" constant="3.0"/>
 </propertyModEffect>
-<effect id="1879050240" name="Summon Splitwight" description="key:620757926:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879050240" name="Summon Splitwight" description="key:620757926:181298206" baseFlags="4124">
+<summoned id="1879050241" name="Summoned Servant"/>
+</aiPetEffect>
 <induceCombatState id="1879050245" name="Induce Knockeddown" description="key:620757930:181298206" baseFlags="4126"/>
 <applyOverTimeEffect id="1879050246" name="Steal from the Dead" appliedDescription="key:620757932:54354734" iconId="1090524570" duration="3.0" pulseCount="10" baseFlags="4540">
 <initiallyApplied id="1879050247" name="Steal from the Dead"/>
@@ -298,7 +302,9 @@
 <onExpire id="1879050258" name="Power Damage" spellcraft="10000.0"/>
 <onExpire id="1879049541" name="Induce Knockeddown"/>
 </countdownEffect>
-<effect id="1879051481" name="Summon Wight" description="key:620758777:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879051481" name="Summon Wight" description="key:620758777:181298206" baseFlags="4124">
+<summoned id="1879051482" name="Summoned Wight"/>
+</aiPetEffect>
 <auraEffect id="1879051483" name="Shadow Aura" iconId="1090519170" baseFlags="6204" type="1">
 <effect id="1879051495" name="Shadow Aura"/>
 </auraEffect>
@@ -356,7 +362,9 @@
 </propertyModEffect>
 <induceCombatState id="1879052163" name="Induce Fellowship Manoeuvre Stunned" probability="0.2" baseFlags="4126"/>
 <induceCombatState id="1879052204" name="Induce Stunned" description="key:620759244:181298206" baseFlags="4126"/>
-<effect id="1879052213" name="Lesser Giant Eagle" baseFlags="4124"/>
+<aiPetEffect id="1879052213" name="Lesser Giant Eagle" baseFlags="4124">
+<summoned id="1879052214" name="Lesser Giant Eagle"/>
+</aiPetEffect>
 <auraEffect id="1879052279" name="Aura of Nobility" iconId="1090531778" baseFlags="6204" type="1">
 <effect id="1879052283" name="Nobility"/>
 </auraEffect>
@@ -440,7 +448,9 @@
 <propertyModEffect id="1879052671" name="Shadow Vulnerability" appliedDescription="key:620759511:54354734" iconId="1090528810" duration="15.0" pulseCount="3" baseFlags="4606">
 <stat name="SHADOW_MITIGATION_PERCENTAGE" operator="SUBSTRACT" constant="10.0"/>
 </propertyModEffect>
-<effect id="1879052672" name="Summoned Fell Spirit" baseFlags="4124"/>
+<aiPetEffect id="1879052672" name="Summoned Fell Spirit" baseFlags="4124">
+<summoned id="1879052673" name="Desecrated Spirit"/>
+</aiPetEffect>
 <induceCombatState id="1879052685" name="Induce MonsterInvulnerability" baseFlags="4124"/>
 <effect id="1879052686" name="Exit MonsterInvulnerability" description="key:620759524:181298206" baseFlags="4124"/>
 <propertyModEffect id="1879052688" name="Major Dread" appliedDescription="key:620759529:54354734" iconId="1090528810" duration="15.0" pulseCount="16" baseFlags="4606">
@@ -489,7 +499,9 @@
 <instantVitalEffect id="1879052968" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
 <vitalChange min="220.0" max="220.0"/>
 </instantVitalEffect>
-<effect id="1879052982" name="Summoned Angmarim Spider" baseFlags="4126"/>
+<aiPetEffect id="1879052982" name="Summoned Angmarim Spider" baseFlags="4126">
+<summoned id="1879052983" name="Wood Ambusher"/>
+</aiPetEffect>
 <propertyModEffect id="1879052986" name="Entangled" appliedDescription="key:620759727:54354734" iconId="1090533025" duration="10.0" baseFlags="4542">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="25.0"/>
 </propertyModEffect>
@@ -860,7 +872,9 @@
 <propertyModEffect id="1879059813" name="Improved Stealth" iconId="1090519170" baseFlags="6332">
 <stat name="STEALTH_LEVEL" constant="10.0"/>
 </propertyModEffect>
-<effect id="1879059814" name="Summon Morroval Minion" description="key:620764853:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879059814" name="Summon Morroval Minion" description="key:620764853:181298206" baseFlags="4124">
+<summoned id="1879059815" name="Morroval Minion"/>
+</aiPetEffect>
 <effect id="1879059816" name="Stealth Breaker" appliedDescription="This breaks stealth" baseFlags="4124"/>
 <induceCombatState id="1879059825" name="Induce Stunned" probability="0.25" baseFlags="4126"/>
 <effect id="1879059870" name="Fight on" iconId="1090519170" baseFlags="4126"/>
@@ -923,7 +937,10 @@
 <propertyModEffect id="1879060238" name="Well Fed" iconId="1090640715" duration="1200.0" baseFlags="4540">
 <stat name="AGILITY" scaling="1879060239"/>
 </propertyModEffect>
-<effect id="1879060253" name="Call to Arms: Improved Herald of Victory" baseFlags="4124"/>
+<aiPetEffect id="1879060253" name="Call to Arms: Improved Herald of Victory" baseFlags="4124">
+<summoned id="1879060259" name="Commoner Herald"/>
+<effect id="1879060261" name="Improved Banner of Victory"/>
+</aiPetEffect>
 <auraEffect id="1879060261" name="Improved Banner of Victory" iconId="1090541018" baseFlags="6204" type="1">
 <effect id="1879060263" name="Improved Banner of Victory"/>
 </auraEffect>
@@ -931,10 +948,19 @@
 <stat name="ICPR" scaling="1879060264"/>
 <stat name="POWER" scaling="1879060265"/>
 </propertyModEffect>
-<effect id="1879060280" name="Call to Arms: Herald of Victory" baseFlags="4124"/>
-<effect id="1879060282" name="Call to Arms: Herald of Victory" baseFlags="4124"/>
-<effect id="1879060284" name="Call to Arms: Herald of Victory" baseFlags="4124"/>
-<effect id="1879060286" name="Call to Arms: Herald of Victory" baseFlags="4124"/>
+<aiPetEffect id="1879060280" name="Call to Arms: Herald of Victory" baseFlags="4124">
+<summoned id="1879060281" name="Commoner Herald"/>
+<effect id="1879060288" name="Banner of Victory"/>
+</aiPetEffect>
+<aiPetEffect id="1879060282" name="Call to Arms: Herald of Victory" baseFlags="4124">
+<summoned id="1879060283" name="Herald of Victory"/>
+</aiPetEffect>
+<aiPetEffect id="1879060284" name="Call to Arms: Herald of Victory" baseFlags="4124">
+<summoned id="1879060285" name="Herald of Victory"/>
+</aiPetEffect>
+<aiPetEffect id="1879060286" name="Call to Arms: Herald of Victory" baseFlags="4124">
+<summoned id="1879060287" name="Herald of Victory"/>
+</aiPetEffect>
 <auraEffect id="1879060288" name="Banner of Victory" iconId="1090541018" baseFlags="6204" type="1">
 <effect id="1879060289" name="Banner of Victory"/>
 </auraEffect>
@@ -992,7 +1018,10 @@
 <propertyModEffect id="1879060341" name="Defending" iconId="1090642768" duration="10.0" baseFlags="4540">
 <stat name="Combat_Agent_Armor_Value" scaling="1879060344"/>
 </propertyModEffect>
-<effect id="1879060349" name="Call to Arms: Improved Herald of War" baseFlags="4124"/>
+<aiPetEffect id="1879060349" name="Call to Arms: Improved Herald of War" baseFlags="4124">
+<summoned id="1879060353" name="Commoner Herald"/>
+<effect id="1879060354" name="Improved Banner of War"/>
+</aiPetEffect>
 <auraEffect id="1879060354" name="Improved Banner of War" iconId="1090541080" baseFlags="6204" type="1">
 <effect id="1879060355" name="Improved Banner of War"/>
 </auraEffect>
@@ -1000,10 +1029,26 @@
 <stat name="MIGHT" scaling="1879060356"/>
 <stat name="AGILITY" scaling="1879060357"/>
 </propertyModEffect>
-<effect id="1879060364" name="Call to Arms: Herald of War" baseFlags="4124"/>
-<effect id="1879060366" name="Call to Arms: Herald of War" baseFlags="4124"/>
-<effect id="1879060368" name="Call to Arms: Herald of War" baseFlags="4124"/>
-<effect id="1879060370" name="Call to Arms: Herald of War" baseFlags="4124"/>
+<aiPetEffect id="1879060364" name="Call to Arms: Herald of War" baseFlags="4124">
+<summoned id="1879060365" name="Commoner Herald"/>
+<effect id="1879060372" name="Banner of War"/>
+</aiPetEffect>
+<aiPetEffect id="1879060366" name="Call to Arms: Herald of War" baseFlags="4124">
+<summoned id="1879060367" name="Squire Herald"/>
+</aiPetEffect>
+<aiPetEffect id="1879060368" name="Call to Arms: Herald of War" baseFlags="4124">
+<summoned id="1879060369" name="Pilgrim Herald"/>
+</aiPetEffect>
+<aiPetEffect id="1879060370" name="Call to Arms: Herald of War" baseFlags="4124">
+<summoned id="1879060371" name="Man-at-arms Herald"/>
+</aiPetEffect>
+<auraEffect id="1879060372" name="Banner of War" iconId="1090541080" baseFlags="6204" type="1">
+<effect id="1879060373" name="Banner of War"/>
+</auraEffect>
+<propertyModEffect id="1879060373" name="Banner of War" iconId="1090541080" baseFlags="6588">
+<stat name="MIGHT" scaling="1879060374"/>
+<stat name="AGILITY" scaling="1879060375"/>
+</propertyModEffect>
 <propertyModEffect id="1879060379" name="Improved Words of Courage" iconId="1090519170" baseFlags="6284">
 <stat name="Trait_Captain_ImprovedWordsofCourage" operator="SET" descriptionOverride="-" value="[{'Skill_Effect':1879060380}]"/>
 </propertyModEffect>
@@ -1014,7 +1059,10 @@
 <propertyModEffect id="1879060384" name="Courage" iconId="1090541084" duration="30.0" baseFlags="4540">
 <stat name="Resist_Additional_Resistance_Fear" constant="20.0"/>
 </propertyModEffect>
-<effect id="1879060402" name="Call to Arms: Improved Herald of Hope" baseFlags="4124"/>
+<aiPetEffect id="1879060402" name="Call to Arms: Improved Herald of Hope" baseFlags="4124">
+<summoned id="1879060406" name="Commoner Herald"/>
+<effect id="1879060407" name="Improved Banner of Hope"/>
+</aiPetEffect>
 <auraEffect id="1879060407" name="Improved Banner of Hope" iconId="1090541115" baseFlags="6204" type="1">
 <effect id="1879060408" name="Improved Banner of Hope"/>
 <effect id="1879060409" name="Banner's Hope"/>
@@ -1026,10 +1074,19 @@
 <propertyModEffect id="1879060409" name="Banner's Hope" iconId="1090541115" baseFlags="6588">
 <stat name="HOPE" constant="1.0"/>
 </propertyModEffect>
-<effect id="1879060418" name="Call to Arms: Herald of Hope" baseFlags="4124"/>
-<effect id="1879060420" name="Call to Arms: Herald of Hope" baseFlags="4124"/>
-<effect id="1879060422" name="Call to Arms: Herald of Hope" baseFlags="4124"/>
-<effect id="1879060424" name="Call to Arms: Herald of Hope" baseFlags="4124"/>
+<aiPetEffect id="1879060418" name="Call to Arms: Herald of Hope" baseFlags="4124">
+<summoned id="1879060419" name="Commoner Herald"/>
+<effect id="1879060426" name="Banner of Hope"/>
+</aiPetEffect>
+<aiPetEffect id="1879060420" name="Call to Arms: Herald of Hope" baseFlags="4124">
+<summoned id="1879060421" name="Herald of Hope"/>
+</aiPetEffect>
+<aiPetEffect id="1879060422" name="Call to Arms: Herald of Hope" baseFlags="4124">
+<summoned id="1879060423" name="Pilgrim Herald"/>
+</aiPetEffect>
+<aiPetEffect id="1879060424" name="Call to Arms: Herald of Hope" baseFlags="4124">
+<summoned id="1879060425" name="Herald of Hope"/>
+</aiPetEffect>
 <auraEffect id="1879060426" name="Banner of Hope" iconId="1090541115" baseFlags="6204" type="1">
 <effect id="1879060427" name="Banner of Hope"/>
 </auraEffect>
@@ -1472,7 +1529,9 @@
 <onExpire id="1879049474" name="Sprain"/>
 <onExpire id="1879049475" name="Dislocation"/>
 </countdownEffect>
-<effect id="1879064557" name="Noble Cry" baseFlags="4124"/>
+<aiPetEffect id="1879064557" name="Noble Cry" baseFlags="4124">
+<summoned id="1879064558" name="Noble Spirit"/>
+</aiPetEffect>
 <vitalOverTimeEffect id="1879064560" name="Heroic Conviction" iconId="1090541083" duration="2.0" pulseCount="8" baseFlags="4540" stat="Health_MaxLevel">
 <initialChange progressionID="1879064546"/>
 <overTimeChange progressionID="1879064546" modifiers="268438449"/>
@@ -2017,7 +2076,9 @@
 <vitalOverTimeEffect id="1879073180" name="Burning Embers" iconId="1090553820" duration="5.0" pulseCount="2" baseFlags="4542" stat="Health_MaxLevel" damageType="16">
 <overTimeChange progressionID="1879073181" modifiers="268437114"/>
 </vitalOverTimeEffect>
-<effect id="1879073183" name="Raven" baseFlags="4124"/>
+<aiPetEffect id="1879073183" name="Raven" baseFlags="4124">
+<summoned id="1879073184" name="Raven"/>
+</aiPetEffect>
 <auraEffect id="1879073186" name="Shield of the Raven's Wing" iconId="1090553822" baseFlags="6204" type="1">
 <effect id="1879073190" name="Shield of the Raven's Wing"/>
 </auraEffect>
@@ -2042,8 +2103,12 @@
 <propertyModEffect id="1879073207" name="Gust of Wind" iconId="1090553874" duration="120.0" baseFlags="4542">
 <stat name="Combat_BaseMissRate" constant="7.0"/>
 </propertyModEffect>
-<effect id="1879073209" name="Bear" baseFlags="4124"/>
-<effect id="1879073211" name="Bear" baseFlags="4124"/>
+<aiPetEffect id="1879073209" name="Bear" baseFlags="4124">
+<summoned id="1879073210" name="Bear"/>
+</aiPetEffect>
+<aiPetEffect id="1879073211" name="Bear" baseFlags="4124">
+<summoned id="1879073210" name="Bear"/>
+</aiPetEffect>
 <propertyModEffect id="1879073222" name="Shatter Arms" iconId="1090541019" duration="30.0" baseFlags="4542">
 <stat name="MELEE_DEFENCE_PERCENTAGE" constant="10.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="10.0"/>
@@ -2335,21 +2400,51 @@
 <effect id="1879074122" name="Stealth Blocker" appliedDescription="key:620775797:54354734" iconId="1090556063" duration="10.0" baseFlags="4510"/>
 <effect id="1879074123" name="Stealth Breaker" appliedDescription="This breaks stealth" baseFlags="4126"/>
 <effect id="1879074130" name="Fly Away" appliedDescription="Away you go!" baseFlags="4124"/>
-<effect id="1879074134" name="Cat" baseFlags="4124"/>
-<effect id="1879074138" name="Fox" baseFlags="4124"/>
-<effect id="1879074141" name="Shrew" baseFlags="4124"/>
-<effect id="1879074144" name="Frog" baseFlags="4124"/>
-<effect id="1879074147" name="Bird" baseFlags="4124"/>
-<effect id="1879074150" name="Badger" baseFlags="4124"/>
-<effect id="1879074153" name="Squirrel" baseFlags="4124"/>
-<effect id="1879074156" name="Dog" baseFlags="4124"/>
-<effect id="1879074159" name="Puppy" baseFlags="4124"/>
-<effect id="1879074162" name="Snake" baseFlags="4124"/>
-<effect id="1879074165" name="Rat" baseFlags="4124"/>
-<effect id="1879074168" name="Rabbit" baseFlags="4124"/>
-<effect id="1879074171" name="Chicken" baseFlags="4124"/>
-<effect id="1879074174" name="Chicken" baseFlags="4124"/>
-<effect id="1879074177" name="Chicken" baseFlags="4124"/>
+<aiPetEffect id="1879074134" name="Cat" baseFlags="4124">
+<summoned id="1879074135" name="Cat"/>
+</aiPetEffect>
+<aiPetEffect id="1879074138" name="Fox" baseFlags="4124">
+<summoned id="1879074139" name="Fox"/>
+</aiPetEffect>
+<aiPetEffect id="1879074141" name="Shrew" baseFlags="4124">
+<summoned id="1879074142" name="Shrew"/>
+</aiPetEffect>
+<aiPetEffect id="1879074144" name="Frog" baseFlags="4124">
+<summoned id="1879074145" name="Frog"/>
+</aiPetEffect>
+<aiPetEffect id="1879074147" name="Bird" baseFlags="4124">
+<summoned id="1879074148" name="Sparrow"/>
+</aiPetEffect>
+<aiPetEffect id="1879074150" name="Badger" baseFlags="4124">
+<summoned id="1879074151" name="Badger"/>
+</aiPetEffect>
+<aiPetEffect id="1879074153" name="Squirrel" baseFlags="4124">
+<summoned id="1879074154" name="Squirrel"/>
+</aiPetEffect>
+<aiPetEffect id="1879074156" name="Dog" baseFlags="4124">
+<summoned id="1879074157" name="Dog"/>
+</aiPetEffect>
+<aiPetEffect id="1879074159" name="Puppy" baseFlags="4124">
+<summoned id="1879074160" name="Puppy"/>
+</aiPetEffect>
+<aiPetEffect id="1879074162" name="Snake" baseFlags="4124">
+<summoned id="1879074163" name="Snake"/>
+</aiPetEffect>
+<aiPetEffect id="1879074165" name="Rat" baseFlags="4124">
+<summoned id="1879074166" name="Rat"/>
+</aiPetEffect>
+<aiPetEffect id="1879074168" name="Rabbit" baseFlags="4124">
+<summoned id="1879074169" name="Hare"/>
+</aiPetEffect>
+<aiPetEffect id="1879074171" name="Chicken" baseFlags="4124">
+<summoned id="1879074172" name="Chicken"/>
+</aiPetEffect>
+<aiPetEffect id="1879074174" name="Chicken" baseFlags="4124">
+<summoned id="1879074175" name="Chicken"/>
+</aiPetEffect>
+<aiPetEffect id="1879074177" name="Chicken" baseFlags="4124">
+<summoned id="1879074178" name="Chicken"/>
+</aiPetEffect>
 <auraEffect id="1879076046" name="Hope Aura" appliedDescription="key:620777573:54354734" iconId="1090519170" baseFlags="6204" type="1">
 <effect id="1879052926" name="Hope"/>
 </auraEffect>
@@ -2494,7 +2589,9 @@
 <stat name="Combat_Agent_Armor_Value" constant="113.0"/>
 </propertyModEffect>
 <instantVitalEffect id="1879077346" name="Healing" baseFlags="4124" stat="Health_MaxLevel" multiplicative="true"/>
-<effect id="1879077598" name="Summon Crawler Pet" description="key:620778383:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879077598" name="Summon Crawler Pet" description="key:620778383:181298206" baseFlags="4124">
+<summoned id="1879077600" name="Foul Wriggler"/>
+</aiPetEffect>
 <instantVitalEffect id="1879077599" name="Percent Morale Damage To Self" baseFlags="4124" stat="Health_MaxLevel" multiplicative="true"/>
 <effect id="1879077658" name="Test InvokeTutorial Effect." appliedDescription="key:620778426:54354734" baseFlags="4124"/>
 <auraEffect id="1879077707" name="Swarm of Insects" appliedDescription="key:620778472:54354734" iconId="1090519170" baseFlags="6204" type="1">
@@ -2535,7 +2632,9 @@
 <stat name="Movement_ActiveMovementFrozen_ByEffect" operator="SET" descriptionOverride="key:620779038:106251889" value="true"/>
 <stat name="AI_Hints" descriptionOverride="-" value="(27)"/>
 </propertyModEffect>
-<effect id="1879078721" name="Summoned Neeker Broodling" description="key:620779149:181298206" baseFlags="4126"/>
+<aiPetEffect id="1879078721" name="Summoned Neeker Broodling" description="key:620779149:181298206" baseFlags="4126">
+<summoned id="1879078722" name="Broodling"/>
+</aiPetEffect>
 <effect id="1879078987" name="Test InvokeTutorial Effect." appliedDescription="key:620779361:54354734" baseFlags="4124"/>
 <effect id="1879079095" name="Test InvokeTutorial Effect." appliedDescription="key:620779454:54354734" baseFlags="4124"/>
 <propertyModEffect id="1879079106" name="Cowering" iconId="1090552381" baseFlags="6590">
@@ -2551,7 +2650,9 @@
 </vitalOverTimeEffect>
 <effect id="1879079637" name="Smite Player" appliedDescription="Smites a player" baseFlags="4126"/>
 <effect id="1879079668" name="Exit Torch Carrying" appliedDescription="key:620779832:54354734" baseFlags="4124"/>
-<effect id="1879079859" name="Summon Root" description="key:620779954:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879079859" name="Summon Root" description="key:620779954:181298206" baseFlags="4124">
+<summoned id="1879079860" name="Summoned Root"/>
+</aiPetEffect>
 <propertyModEffect id="1879079961" name="Choking Vines" appliedDescription="key:620779995:54354734" iconId="1090536144" duration="15.0" baseFlags="4542">
 <stat name="Movement_ActiveMovementFrozen_ByEffect" operator="SET" descriptionOverride="key:620779995:106251889" value="true"/>
 <stat name="AI_Hints" descriptionOverride="-" value="(27)"/>
@@ -2560,7 +2661,9 @@
 <stat name="Movement_ActiveMovementFrozen_ByEffect" operator="SET" descriptionOverride="key:620779997:106251889" value="true"/>
 <stat name="AI_Hints" descriptionOverride="-" value="(27)"/>
 </propertyModEffect>
-<effect id="1879079963" name="Summon Root" description="key:620779999:181298206" baseFlags="4126"/>
+<aiPetEffect id="1879079963" name="Summon Root" description="key:620779999:181298206" baseFlags="4126">
+<summoned id="1879079860" name="Summoned Root"/>
+</aiPetEffect>
 <propertyModEffect id="1879079988" name="Watery Prison" iconId="1090552381" baseFlags="6590">
 <stat name="Movement_ActiveMovementFrozen_ByEffect" operator="SET" descriptionOverride="key:620780016:106251890" value="true"/>
 </propertyModEffect>
@@ -2633,9 +2736,15 @@
 <initialChange progressionID="1879056994" modifiers="268440271"/>
 <overTimeChange progressionID="1879056994" modifiers="268440271"/>
 </vitalOverTimeEffect>
-<effect id="1879082061" name="Summon Orc" description="key:620781331:181298206" baseFlags="4124"/>
-<effect id="1879082062" name="Summon Orc" description="key:620781332:181298206" probability="0.05" baseFlags="4124"/>
-<effect id="1879082063" name="Summon Orc" description="key:620781333:181298206" probability="0.05" baseFlags="4124"/>
+<aiPetEffect id="1879082061" name="Summon Orc" description="key:620781331:181298206" baseFlags="4124">
+<summoned id="1879082064" name="Alerted Orc Berserker"/>
+</aiPetEffect>
+<aiPetEffect id="1879082062" name="Summon Orc" description="key:620781332:181298206" probability="0.05" baseFlags="4124">
+<summoned id="1879082064" name="Alerted Orc Berserker"/>
+</aiPetEffect>
+<aiPetEffect id="1879082063" name="Summon Orc" description="key:620781333:181298206" probability="0.05" baseFlags="4124">
+<summoned id="1879082065" name="Alerted Orc Archer"/>
+</aiPetEffect>
 <instantVitalEffect id="1879082137" name="Startup health set" baseFlags="4124" stat="Health_MaxLevel" multiplicative="true"/>
 <auraEffect id="1879082144" name="Dread Aura" appliedDescription="key:620781403:54354734" iconId="1090519170" baseFlags="6204" type="1">
 <effect id="1879082165" name="Dread"/>
@@ -2647,16 +2756,30 @@
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="5.0"/>
 <stat name="AI_CombatMovementInterruptable" operator="SET" descriptionOverride="-" value="false"/>
 </propertyModEffect>
-<effect id="1879082156" name="Summon Elite Uruk" description="key:620781395:181298206" probability="0.1" baseFlags="4124"/>
-<effect id="1879082157" name="Summon Elite Uruk" description="key:620781393:181298206" baseFlags="4124"/>
-<effect id="1879082158" name="Summon Elite Uruk" description="key:620781394:181298206" probability="0.1" baseFlags="4124"/>
-<effect id="1879082163" name="Summon Illusory Reflection" description="key:620781400:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879082156" name="Summon Elite Uruk" description="key:620781395:181298206" probability="0.1" baseFlags="4124">
+<summoned id="1879082160" name="Alerted Archer"/>
+</aiPetEffect>
+<aiPetEffect id="1879082157" name="Summon Elite Uruk" description="key:620781393:181298206" baseFlags="4124">
+<summoned id="1879082159" name="Alerted Warrior"/>
+</aiPetEffect>
+<aiPetEffect id="1879082158" name="Summon Elite Uruk" description="key:620781394:181298206" probability="0.1" baseFlags="4124">
+<summoned id="1879082159" name="Alerted Warrior"/>
+</aiPetEffect>
+<aiPetEffect id="1879082163" name="Summon Illusory Reflection" description="key:620781400:181298206" baseFlags="4124">
+<summoned id="1879082110" name="Mordirith"/>
+</aiPetEffect>
 <propertyModEffect id="1879082165" name="Dread" appliedDescription="key:620781404:54354734" iconId="1090524461" baseFlags="6590">
 <stat name="Mood_Intended_Dread_Level" descriptionOverride="key:620781404:106251891" constant="7.0"/>
 </propertyModEffect>
-<effect id="1879082541" name="Summon Elite Angmarim" description="key:620781633:181298206" probability="0.1" baseFlags="4124"/>
-<effect id="1879082542" name="Summon Elite Angmarim" description="key:620781631:181298206" baseFlags="4124"/>
-<effect id="1879082543" name="Summon Elite Angmarim" description="key:620781632:181298206" probability="0.1" baseFlags="4124"/>
+<aiPetEffect id="1879082541" name="Summon Elite Angmarim" description="key:620781633:181298206" probability="0.1" baseFlags="4124">
+<summoned id="1879082546" name="Angmarim Crossbowman"/>
+</aiPetEffect>
+<aiPetEffect id="1879082542" name="Summon Elite Angmarim" description="key:620781631:181298206" baseFlags="4124">
+<summoned id="1879082544" name="Angmarim Warrior"/>
+</aiPetEffect>
+<aiPetEffect id="1879082543" name="Summon Elite Angmarim" description="key:620781632:181298206" probability="0.1" baseFlags="4124">
+<summoned id="1879082545" name="Angmarim High-Priest"/>
+</aiPetEffect>
 <genesis id="1879082588" name=".." appliedDescription="key:620781654:54354734" baseFlags="4124" permanent="true">
 <summoned id="1879082589" name="Bogbereth Broodling[m]"/>
 </genesis>
@@ -2674,7 +2797,9 @@
 <auraEffect id="1879083327" name="Dragon's Shadow Aura" iconId="1090519170" baseFlags="6204" type="1">
 <effect id="1879084793" name="Chill Air"/>
 </auraEffect>
-<effect id="1879083332" name="Summon Giant Polar Bear Pet" description="key:620782228:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879083332" name="Summon Giant Polar Bear Pet" description="key:620782228:181298206" baseFlags="4124">
+<summoned id="1879080508" name="Giant Snow-bear"/>
+</aiPetEffect>
 <propertyModEffect id="1879083341" name="Baleful Eye" appliedDescription="key:620782236:54354734" iconId="1090616965" duration="15.0" baseFlags="4542">
 <stat name="AI_Hints" descriptionOverride="-" value="(5)"/>
 </propertyModEffect>
@@ -2691,16 +2816,33 @@
 <propertyModEffect id="1879083704" name="Protected" appliedDescription="key:620782578:54354734" iconId="1090599071" baseFlags="6300">
 <stat name="AI_Hints" value="(17)"/>
 </propertyModEffect>
-<effect id="1879083713" name="Summoned Goblin Spear-thrower" description="key:620782588:181298206" baseFlags="4124"/>
-<effect id="1879083714" name="Summoned Orc Leader" description="key:620782586:181298206" baseFlags="4124"/>
-<effect id="1879083715" name="Summoned Orc Shaman" description="key:620782587:181298206" baseFlags="4124"/>
-<effect id="1879083725" name="Summon Raven" description="key:620782596:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879083713" name="Summoned Goblin Spear-thrower" description="key:620782588:181298206" baseFlags="4124">
+<summoned id="1879083270" name="Krahjarn Spearmaster"/>
+</aiPetEffect>
+<aiPetEffect id="1879083714" name="Summoned Orc Leader" description="key:620782586:181298206" baseFlags="4124">
+<summoned id="1879083273" name="Krahjarn Scourger"/>
+</aiPetEffect>
+<aiPetEffect id="1879083715" name="Summoned Orc Shaman" description="key:620782587:181298206" baseFlags="4124">
+<summoned id="1879083716" name="Krahjarn Healer"/>
+</aiPetEffect>
+<aiPetEffect id="1879083725" name="Summon Raven" description="key:620782596:181298206" baseFlags="4124">
+<summoned id="1879073184" name="Raven"/>
+</aiPetEffect>
 <instantVitalEffect id="1879083726" name="Restore Power" baseFlags="4124" stat="Power_MaxLevel">
 <vitalChange progressionID="1879060845"/>
 </instantVitalEffect>
-<effect id="1879083840" name="Banner of Hope" description="key:620782693:181298206" baseFlags="4124"/>
-<effect id="1879083846" name="Banner of Defence" description="key:620782699:181298206" baseFlags="4124"/>
-<effect id="1879083849" name="Banner of War" description="key:620782702:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879083840" name="Banner of Hope" description="key:620782693:181298206" baseFlags="4124">
+<summoned id="1879083841" name="Banner of Hope"/>
+<effect id="1879060426" name="Banner of Hope"/>
+</aiPetEffect>
+<aiPetEffect id="1879083846" name="Banner of Defence" description="key:620782699:181298206" baseFlags="4124">
+<summoned id="1879083847" name="Banner of Victory"/>
+<effect id="1879060288" name="Banner of Victory"/>
+</aiPetEffect>
+<aiPetEffect id="1879083849" name="Banner of War" description="key:620782702:181298206" baseFlags="4124">
+<summoned id="1879083850" name="Banner of War"/>
+<effect id="1879060372" name="Banner of War"/>
+</aiPetEffect>
 <propertyModEffect id="1879083897" name="Lightly Reinforced Armour" iconId="1090519170" baseFlags="6284">
 <stat name="Trait_Loremaster_PetModStat_Slot2" operator="SET" descriptionOverride="-" value="1879083898L"/>
 </propertyModEffect>
@@ -2744,7 +2886,9 @@
 <vitalOverTimeEffect id="1879084227" name="Food Bonus" iconId="1090641237" duration="30.0" pulseCount="10" baseFlags="4540" stat="Power_MaxLevel">
 <overTimeChange progressionID="1879084208"/>
 </vitalOverTimeEffect>
-<effect id="1879084248" name="Summon Giant Polar Bear Pet" description="key:620789028:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879084248" name="Summon Giant Polar Bear Pet" description="key:620789028:181298206" baseFlags="4124">
+<summoned id="1879080508" name="Giant Snow-bear"/>
+</aiPetEffect>
 <instantVitalEffect id="1879084259" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
 <vitalChange min="320.0" max="320.0"/>
 </instantVitalEffect>
@@ -2891,8 +3035,12 @@
 <stat name="EVADE_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="-" constant="2.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="-10.0"/>
 </propertyModEffect>
-<effect id="1879085064" name="Summoned Orc Archer" description="key:620784471:181298206" baseFlags="4124"/>
-<effect id="1879085067" name="Summoned Hunter" description="key:620784435:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879085064" name="Summoned Orc Archer" description="key:620784471:181298206" baseFlags="4124">
+<summoned id="1879082800" name="Ongbúrz Archer"/>
+</aiPetEffect>
+<aiPetEffect id="1879085067" name="Summoned Hunter" description="key:620784435:181298206" baseFlags="4124">
+<summoned id="1879083019" name="Coldfells Hunter"/>
+</aiPetEffect>
 <effect id="1879085068" name="Force Attack" appliedDescription="key:620757557:54354734" iconId="1090522264" duration="10.0" baseFlags="4382"/>
 <effect id="1879085070" name="Taunt" appliedDescription="key:620788978:54354734" iconId="1090553905" baseFlags="4126"/>
 <propertyModEffect id="1879085115" name="Berserk" iconId="1090528807" duration="30.0" baseFlags="4540">
@@ -2905,7 +3053,9 @@
 <stat name="Conjunction_CheckPercentChance" operator="SET" descriptionOverride="-" constant="0.0"/>
 </propertyModEffect>
 <effect id="1879085206" name="Stolen Breath" iconId="1090519170" baseFlags="4126"/>
-<effect id="1879085209" name="Noble Cry" baseFlags="4124"/>
+<aiPetEffect id="1879085209" name="Noble Cry" baseFlags="4124">
+<summoned id="1879085210" name="Greater Noble Spirit"/>
+</aiPetEffect>
 <auraEffect id="1879085250" name="Fire DOT Aura" iconId="1090519170" baseFlags="6204" type="1">
 <effect id="1879085251" name="Burning Flames"/>
 </auraEffect>
@@ -2949,7 +3099,9 @@
 <initialChange progressionID="1879052010" modifiers="268437688"/>
 <overTimeChange progressionID="1879052011" modifiers="268437688"/>
 </vitalOverTimeEffect>
-<effect id="1879085539" name="Summon Root" description="key:620789252:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879085539" name="Summon Root" description="key:620789252:181298206" baseFlags="4124">
+<summoned id="1879079860" name="Summoned Root"/>
+</aiPetEffect>
 <recallEffect id="1879085667" name="Secret Paths: Grimwood Location Two" appliedDescription="key:620789279:54354734" baseFlags="4124"/>
 <recallEffect id="1879085668" name="Secret Paths: Grimwood Location Three" appliedDescription="key:620789280:54354734" baseFlags="4124"/>
 <recallEffect id="1879085669" name="Secret Paths: Grothum Location Two" appliedDescription="key:620789281:54354734" baseFlags="4124"/>
@@ -3046,8 +3198,12 @@
 <stat name="FATE" descriptionOverride="key:620789957:106251889" scaling="1879051158"/>
 </propertyModEffect>
 <pipEffect id="1879087291" name="Red Haze Pip Gain" baseFlags="4124" type="2" amount="0"/>
-<effect id="1879087328" name="Summoned Angmarim Spider" baseFlags="4126"/>
-<effect id="1879087329" name="Summoned Angmarim Spider" baseFlags="4126"/>
+<aiPetEffect id="1879087328" name="Summoned Angmarim Spider" baseFlags="4126">
+<summoned id="1879087287" name="Summoned Spinner"/>
+</aiPetEffect>
+<aiPetEffect id="1879087329" name="Summoned Angmarim Spider" baseFlags="4126">
+<summoned id="1879087288" name="Summoned Lurker"/>
+</aiPetEffect>
 <propertyModEffect id="1879087332" name="Lesser Morale" iconId="1090648228" duration="600.0" baseFlags="4540">
 <stat name="MORALE" descriptionOverride="key:620789990:106251889" scaling="1879049941"/>
 </propertyModEffect>
@@ -3057,8 +3213,12 @@
 <propertyModEffect id="1879087335" name="Greater Power" iconId="1090648231" duration="600.0" baseFlags="4540">
 <stat name="POWER" descriptionOverride="key:620789992:106251889" scaling="1879051152"/>
 </propertyModEffect>
-<effect id="1879087381" name="Summoned Angmarim Spider" baseFlags="4126"/>
-<effect id="1879087382" name="Summoned Angmarim Spider" baseFlags="4126"/>
+<aiPetEffect id="1879087381" name="Summoned Angmarim Spider" baseFlags="4126">
+<summoned id="1879087288" name="Summoned Lurker"/>
+</aiPetEffect>
+<aiPetEffect id="1879087382" name="Summoned Angmarim Spider" baseFlags="4126">
+<summoned id="1879087287" name="Summoned Spinner"/>
+</aiPetEffect>
 <propertyModEffect id="1879087397" name="Blocking Blades" iconId="1090644839" baseFlags="7100">
 <stat name="PARRY_PERCENTAGE" constant="2.0"/>
 </propertyModEffect>
@@ -3076,9 +3236,15 @@
 <onExpire id="1879087462" name="Summoned Caveclaw"/>
 <onExpire id="1879087462" name="Summoned Caveclaw"/>
 </countdownEffect>
-<effect id="1879087462" name="Summoned Caveclaw" probability="0.5" baseFlags="4126"/>
-<effect id="1879087464" name="Summoned Caveclaw" baseFlags="4124"/>
-<effect id="1879087465" name="Summoned Caveclaw" baseFlags="4124"/>
+<aiPetEffect id="1879087462" name="Summoned Caveclaw" probability="0.5" baseFlags="4126">
+<summoned id="1879087463" name="Crypt Digger"/>
+</aiPetEffect>
+<aiPetEffect id="1879087464" name="Summoned Caveclaw" baseFlags="4124">
+<summoned id="1879087463" name="Crypt Digger"/>
+</aiPetEffect>
+<aiPetEffect id="1879087465" name="Summoned Caveclaw" baseFlags="4124">
+<summoned id="1879087463" name="Crypt Digger"/>
+</aiPetEffect>
 <auraEffect id="1879087472" name="Diseased Frailty" iconId="1090522616" baseFlags="6332" type="1">
 <effect id="1879087477" name="Sick Air"/>
 </auraEffect>
@@ -3150,9 +3316,15 @@
 </propertyModEffect>
 <recallEffect id="1879087580" name="Travel to the Eyes and Guard Tavern" baseFlags="4124"/>
 <effect id="1879087641" name="Call to Pack" appliedDescription="key:620790233:54354734" baseFlags="4126"/>
-<effect id="1879087643" name="Summon Wolf" baseFlags="4124"/>
-<effect id="1879087644" name="Summon Wolf" baseFlags="4124"/>
-<effect id="1879087645" name="Summon Risen Wolf" baseFlags="4124"/>
+<aiPetEffect id="1879087643" name="Summon Wolf" baseFlags="4124">
+<summoned id="1879087612" name="Fierce Wolf"/>
+</aiPetEffect>
+<aiPetEffect id="1879087644" name="Summon Wolf" baseFlags="4124">
+<summoned id="1879087612" name="Fierce Wolf"/>
+</aiPetEffect>
+<aiPetEffect id="1879087645" name="Summon Risen Wolf" baseFlags="4124">
+<summoned id="1879087613" name="Risen Wolf"/>
+</aiPetEffect>
 <effect id="1879087646" name="Direct Pack" appliedDescription="key:620790238:54354734" baseFlags="4126"/>
 <propertyModEffect id="1879087648" name="Gift of the Risen" appliedDescription="key:620790243:54354734" iconId="1090623589" duration="60.0" baseFlags="4540">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="5.0"/>
@@ -3205,7 +3377,9 @@
 <propertyModEffect id="1879087908" name="Fire Group Resistance" iconId="1090648289" duration="600.0" baseFlags="4540">
 <stat name="FIRE_MITIGATION_PERCENTAGE" scaling="1879087942"/>
 </propertyModEffect>
-<effect id="1879087967" name="Summoned Boggart" description="key:620790514:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879087967" name="Summoned Boggart" description="key:620790514:181298206" baseFlags="4124">
+<summoned id="1879087961" name="Cowardly Boggart"/>
+</aiPetEffect>
 <propertyModEffect id="1879087968" name="Scholar Lore[E]" iconId="1090648232" duration="60.0" baseFlags="4540">
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" scaling="1879087969"/>
 </propertyModEffect>
@@ -3379,7 +3553,9 @@
 <propertyModEffect id="1879089202" name="Breached Armour" appliedDescription="key:620791203:54354734" iconId="1090531635" duration="30.0" baseFlags="4542">
 <stat name="Combat_Agent_Armor_Value" scaling="1879085473"/>
 </propertyModEffect>
-<effect id="1879089292" name="Summon Fell Healer" description="key:620791283:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879089292" name="Summon Fell Healer" description="key:620791283:181298206" baseFlags="4124">
+<summoned id="1879089280" name="Forvengwath's Pledge"/>
+</aiPetEffect>
 <propertyModEffect id="1879089296" name="Monster Speed Modifier" iconId="1090519170" baseFlags="6156">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="0.25"/>
 </propertyModEffect>
@@ -3403,7 +3579,9 @@
 </propertyModEffect>
 <flagEffect id="1879089320" name="Bear Flag" iconId="1090531784" baseFlags="6284"/>
 <effect id="1879089377" name="Ebb of Life" iconId="1090519170" baseFlags="4126"/>
-<effect id="1879089378" name="Summon Fell Spirits" description="key:620791351:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879089378" name="Summon Fell Spirits" description="key:620791351:181298206" baseFlags="4124">
+<summoned id="1879087050" name="Tormented Horror"/>
+</aiPetEffect>
 <propertyModEffect id="1879089379" name="Shadow's Touch" appliedDescription="key:620791358:54354734" iconId="1090528810" duration="30.0" pulseCount="3" baseFlags="4606">
 <stat name="SHADOW_MITIGATION_PERCENTAGE" operator="MULTIPLY" constant="0.75"/>
 </propertyModEffect>
@@ -3491,7 +3669,9 @@
 <genesis id="1879090265" name="Create Repair Anvil" baseFlags="4124" summonDuration="300.0">
 <summoned id="1879090263" name="Repair Anvil[e]"/>
 </genesis>
-<effect id="1879090792" name="Lure" baseFlags="4124"/>
+<aiPetEffect id="1879090792" name="Lure" baseFlags="4124">
+<summoned id="1879090791" name="Lure Trap"/>
+</aiPetEffect>
 <propertyModEffect id="1879090803" name="Snaring Trap" iconId="1091388957" duration="20.0" pulseCount="1" baseFlags="4542">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620792056:106251889" constant="0.7"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.7"/>
@@ -3764,9 +3944,18 @@
 <present id="1879089627" name="Shield-brother"/>
 <toAddIfPresent id="1879093395" name="Strength of Will"/>
 </comboEffect>
-<effect id="1879093341" name="Improved Banner of War" baseFlags="4124"/>
-<effect id="1879093344" name="Improved Banner of Defence" baseFlags="4124"/>
-<effect id="1879093345" name="Improved Banner of Hope" baseFlags="4124"/>
+<aiPetEffect id="1879093341" name="Improved Banner of War" baseFlags="4124">
+<summoned id="1879083850" name="Banner of War"/>
+<effect id="1879060354" name="Improved Banner of War"/>
+</aiPetEffect>
+<aiPetEffect id="1879093344" name="Improved Banner of Defence" baseFlags="4124">
+<summoned id="1879083847" name="Banner of Victory"/>
+<effect id="1879060261" name="Improved Banner of Victory"/>
+</aiPetEffect>
+<aiPetEffect id="1879093345" name="Improved Banner of Hope" baseFlags="4124">
+<summoned id="1879083841" name="Banner of Hope"/>
+<effect id="1879060407" name="Improved Banner of Hope"/>
+</aiPetEffect>
 <propertyModEffect id="1879093389" name="Improved Standard of Victory" iconId="1090519170" baseFlags="6284">
 <stat name="Trait_Captain_ImprovedStandardofDefense" operator="SET" descriptionOverride="-" value="[{'Skill_Effect':1879093344}]"/>
 </propertyModEffect>
@@ -3826,8 +4015,12 @@
 <initialChange progressionID="1879081263"/>
 <overTimeChange progressionID="1879081264"/>
 </vitalOverTimeEffect>
-<effect id="1879093798" name="Summon Orc" description="key:620793797:181298206" baseFlags="4124"/>
-<effect id="1879093799" name="Summon Orc" description="key:620793795:181298206" probability="0.05" baseFlags="4124"/>
+<aiPetEffect id="1879093798" name="Summon Orc" description="key:620793797:181298206" baseFlags="4124">
+<summoned id="1879093279" name="Fallen Hero"/>
+</aiPetEffect>
+<aiPetEffect id="1879093799" name="Summon Orc" description="key:620793795:181298206" probability="0.05" baseFlags="4124">
+<summoned id="1879093279" name="Fallen Hero"/>
+</aiPetEffect>
 <vitalOverTimeEffect id="1879093801" name="Inspired" iconId="1090541083" duration="3.0" pulseCount="5" baseFlags="4540" stat="Health_MaxLevel">
 <initialChange progressionID="1879092141" modifiers="268441250"/>
 <overTimeChange progressionID="1879092141" modifiers="268441250"/>
@@ -3839,8 +4032,12 @@
 <stat name="PERCEIVED_THREAT" constant="10.0"/>
 </propertyModEffect>
 <instantVitalEffect id="1879093822" name="Percent Power Damage To Target" baseFlags="4126" stat="Power_MaxLevel" multiplicative="true"/>
-<effect id="1879093829" name="Summoned Spectral Warrior" baseFlags="4124"/>
-<effect id="1879093830" name="Summoned Spectral Warrior" baseFlags="4124"/>
+<aiPetEffect id="1879093829" name="Summoned Spectral Warrior" baseFlags="4124">
+<summoned id="1879093840" name="Spectral Champion"/>
+</aiPetEffect>
+<aiPetEffect id="1879093830" name="Summoned Spectral Warrior" baseFlags="4124">
+<summoned id="1879093839" name="Spectral Warrior"/>
+</aiPetEffect>
 <reactiveVitalEffect id="1879093831" name="Seeking Flame" appliedDescription="key:620793818:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16">
 <attacker>
 <reactiveVital constant="1.0" probability="1.0" multiplicative="true"/>
@@ -3939,8 +4136,12 @@
 <overTimeChange progressionID="1879094300" modifiers="268440271"/>
 </vitalOverTimeEffect>
 <flagEffect id="1879094317" name="Corrupt Cheese" description="key:620794210:181298206" appliedDescription="key:620794210:54354734" iconId="1090541681" duration="1200.0" baseFlags="4540"/>
-<effect id="1879094623" name="Summon Blue Troll-keeper" baseFlags="4124"/>
-<effect id="1879094624" name="Summon Red Troll-keeper" baseFlags="4124"/>
+<aiPetEffect id="1879094623" name="Summon Blue Troll-keeper" baseFlags="4124">
+<summoned id="1879094611" name="Blogmal Troll-keeper"/>
+</aiPetEffect>
+<aiPetEffect id="1879094624" name="Summon Red Troll-keeper" baseFlags="4124">
+<summoned id="1879094612" name="Tarkrîp Troll-keeper"/>
+</aiPetEffect>
 <propertyModEffect id="1879094625" name="Master's Command" appliedDescription="key:620794511:54354734" iconId="1090642114" baseFlags="6588">
 <stat name="AI_Hints" descriptionOverride="-" value="(28)"/>
 <stat name="AI_Threat_Suppress" operator="SET" descriptionOverride="-" value="true"/>
@@ -4144,12 +4345,18 @@
 <fellowshipEffect id="1879095499" name="Call of the Fellowship" baseFlags="4124" applyToTarget="true" range="25.0">
 <effect id="1879095494" name="The Call of the Fellowship"/>
 </fellowshipEffect>
-<effect id="1879095500" name="Noble Cry" baseFlags="4124"/>
-<effect id="1879095501" name="Noble Cry" baseFlags="4124"/>
+<aiPetEffect id="1879095500" name="Noble Cry" baseFlags="4124">
+<summoned id="1879095497" name="Rift-crawler Creeper"/>
+</aiPetEffect>
+<aiPetEffect id="1879095501" name="Noble Cry" baseFlags="4124">
+<summoned id="1879095496" name="Rift-crawler Creeper"/>
+</aiPetEffect>
 <propertyModEffect id="1879095502" name="Hope[e]" iconId="1090537016" duration="600.0" baseFlags="4540">
 <stat name="HOPE" constant="1.0"/>
 </propertyModEffect>
-<effect id="1879095512" name="Lynx" baseFlags="4124"/>
+<aiPetEffect id="1879095512" name="Lynx" baseFlags="4124">
+<summoned id="1879095508" name="Lynx"/>
+</aiPetEffect>
 <propertyModEffect id="1879095597" name="Crippled" iconId="1090555733" duration="15.0" pulseCount="8" baseFlags="4606">
 <stat name="MIGHT" scaling="1879096832"/>
 </propertyModEffect>
@@ -4223,7 +4430,9 @@
 <initialChange progressionID="1879081263" modifiers="268437688,268441090"/>
 <overTimeChange progressionID="1879081264" modifiers="268437688,268441090"/>
 </vitalOverTimeEffect>
-<effect id="1879095833" name="Summoned Minion" baseFlags="4124"/>
+<aiPetEffect id="1879095833" name="Summoned Minion" baseFlags="4124">
+<summoned id="1879096485" name="Summoned World-eater"/>
+</aiPetEffect>
 <applyOverTimeEffect id="1879095834" name="Draining Void" iconId="1091402348" duration="2.0" baseFlags="6590">
 <initiallyApplied id="1879095836" name="Morale Drain"/>
 <initiallyApplied id="1879095837" name="Power Drain"/>
@@ -4263,7 +4472,9 @@
 <initialChange progressionID="1879096325"/>
 <overTimeChange progressionID="1879096325"/>
 </vitalOverTimeEffect>
-<effect id="1879096327" name="Summon Bat" description="key:620795683:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879096327" name="Summon Bat" description="key:620795683:181298206" baseFlags="4124">
+<summoned id="1879095539" name="Felwing Screecher"/>
+</aiPetEffect>
 <effect id="1879096509" name="Drain Life" iconId="1090519170" baseFlags="4126"/>
 <effect id="1879096511" name="Drain Power" iconId="1090519170" baseFlags="4126"/>
 <effect id="1879096512" name="Drain Power" iconId="1090519170" baseFlags="4126"/>
@@ -4409,7 +4620,9 @@
 <propertyModEffect id="1879097229" name="Give Hope[e]" description="key:620795951:181298206" iconId="1090537016" duration="300.0" baseFlags="4540">
 <stat name="HOPE" descriptionOverride="-" constant="1.0"/>
 </propertyModEffect>
-<effect id="1879097234" name="Turtle" baseFlags="4124"/>
+<aiPetEffect id="1879097234" name="Turtle" baseFlags="4124">
+<summoned id="1879097233" name="Turtle"/>
+</aiPetEffect>
 <propertyModEffect id="1879097235" name="Back from the Brink" iconId="1091401112" duration="60.0" baseFlags="4492">
 <stat name="RANGED_DAMAGE_PERCENTAGE" operator="MULTIPLY" constant="0.3"/>
 <stat name="TACTICAL_DAMAGE_PERCENTAGE" operator="MULTIPLY" constant="0.3"/>
@@ -4446,8 +4659,12 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="0.75"/>
 <onExpire id="1879079637" name="Smite Player"/>
 </countdownEffect>
-<effect id="1879097484" name="Summon Toad Pet on Left" description="key:620796162:181298206" baseFlags="4124"/>
-<effect id="1879097485" name="Summon Toad Pet on Right" description="key:620796163:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879097484" name="Summon Toad Pet on Left" description="key:620796162:181298206" baseFlags="4124">
+<summoned id="1879097482" name="Red River-toad"/>
+</aiPetEffect>
+<aiPetEffect id="1879097485" name="Summon Toad Pet on Right" description="key:620796163:181298206" baseFlags="4124">
+<summoned id="1879097482" name="Red River-toad"/>
+</aiPetEffect>
 <propertyModEffect id="1879097489" name="Bear Appearance 2" iconId="1091401112" baseFlags="6284">
 <stat name="AI_PetEffect_LoremasterBearWC_Override" operator="SET" descriptionOverride="key:620796198:106251889" value="1879097524L"/>
 </propertyModEffect>
@@ -4542,7 +4759,9 @@
 <auraEffect id="1879097782" name="Blood Gift" iconId="1090519170" baseFlags="6332" type="1">
 <effect id="1879097087" name="Blood Gift"/>
 </auraEffect>
-<effect id="1879097786" name="Summoned Orc Worm Pet" description="key:620796392:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879097786" name="Summoned Orc Worm Pet" description="key:620796392:181298206" baseFlags="4124">
+<summoned id="1879097444" name="Fire-worm"/>
+</aiPetEffect>
 <auraEffect id="1879097792" name="Bone Grind" iconId="1090519170" baseFlags="6332" type="1" shouldAffectCaster="false">
 <effect id="1879097086" name="Bone Grind"/>
 </auraEffect>
@@ -4576,7 +4795,9 @@
 <effect id="1879097902" name="Heavy Webbing"/>
 </hotspot>
 </genesis>
-<effect id="1879097901" name="Hatchlings" baseFlags="4124"/>
+<aiPetEffect id="1879097901" name="Hatchlings" baseFlags="4124">
+<summoned id="1879097825" name="Hatchling"/>
+</aiPetEffect>
 <propertyModEffect id="1879097902" name="Heavy Webbing" appliedDescription="key:620796491:54354734" iconId="1090555726" duration="6.0" baseFlags="4542">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620796491:106251889" constant="0.6"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.6"/>
@@ -4674,7 +4895,9 @@
 </countdownEffect>
 <flagEffect id="1879098802" name="Flashback" iconId="1090523647" baseFlags="6332"/>
 <instantVitalEffect id="1879098808" name="Percent Morale Damage" baseFlags="4126" stat="Health_MaxLevel" damageType="32" multiplicative="true"/>
-<effect id="1879098828" name="Summoned Fire-wisp" baseFlags="4124"/>
+<aiPetEffect id="1879098828" name="Summoned Fire-wisp" baseFlags="4124">
+<summoned id="1879098827" name="Searing Úrfon"/>
+</aiPetEffect>
 <propertyModEffect id="1879098829" name="Improved Gift of the Hammerhand" appliedDescription="key:620797275:54354734" iconId="1091400697" duration="10.0" baseFlags="4540"/>
 <propertyModEffect id="1879098830" name="Improved Gift of the Hammerhand" appliedDescription="key:620797275:54354734" iconId="1090519170" baseFlags="6284">
 <stat name="Skill_GiftHammerhand_Minstrel_ShadowProtect" operator="SET" descriptionOverride="key:620797275:209988549" value="[{'Skill_Effect':1879098829}]"/>
@@ -4684,9 +4907,15 @@
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" descriptionOverride="-" constant="5.0"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SET" descriptionOverride="-" constant="5.0"/>
 </propertyModEffect>
-<effect id="1879098901" name="Bird Call" baseFlags="4124"/>
-<effect id="1879098902" name="Rabbit Call" baseFlags="4124"/>
-<effect id="1879098903" name="Turtle Call" baseFlags="4124"/>
+<aiPetEffect id="1879098901" name="Bird Call" baseFlags="4124">
+<summoned id="1879098898" name="Sparrow"/>
+</aiPetEffect>
+<aiPetEffect id="1879098902" name="Rabbit Call" baseFlags="4124">
+<summoned id="1879098899" name="Hare"/>
+</aiPetEffect>
+<aiPetEffect id="1879098903" name="Turtle Call" baseFlags="4124">
+<summoned id="1879098900" name="Turtle"/>
+</aiPetEffect>
 <flagEffect id="1879098925" name="Geode Hunting" appliedDescription="key:620797334:54354734" iconId="1090523647" duration="3600.0" baseFlags="4492"/>
 <flagEffect id="1879098926" name="Scroll Searching" appliedDescription="key:620797335:54354734" iconId="1090523647" duration="3600.0" baseFlags="4492"/>
 <flagEffect id="1879098927" name="Apple Bobbing" appliedDescription="key:620797336:54354734" iconId="1090523647" duration="3600.0" baseFlags="4492"/>
@@ -4773,7 +5002,9 @@
 <propertyModEffect id="1879099376" name="Marked Prey" appliedDescription="key:620797667:54354734" iconId="1091404060" duration="15.0" baseFlags="4542">
 <stat name="AI_Hints" descriptionOverride="-" value="(5)"/>
 </propertyModEffect>
-<effect id="1879099379" name="Raised Minion" baseFlags="4124"/>
+<aiPetEffect id="1879099379" name="Raised Minion" baseFlags="4124">
+<summoned id="1879096485" name="Summoned World-eater"/>
+</aiPetEffect>
 <recallEffect id="1879101508" name="Travel to Kinship House" description="key:620799394:181298206" baseFlags="4124"/>
 <recallEffect id="1879101509" name="Travel to House" description="key:620799392:181298206" baseFlags="4124"/>
 <propertyModEffect id="1879101629" name="Protected" iconId="1090607905" baseFlags="6332">
@@ -4786,8 +5017,12 @@
 <stat name="POWER" scaling="1879086303"/>
 <onExpire id="1879097901" name="Hatchlings"/>
 </countdownEffect>
-<effect id="1879101733" name="Banner of Terror" description="key:620799557:181298206" baseFlags="4124"/>
-<effect id="1879101734" name="Command Post" description="key:620799559:181298206" baseFlags="4124"/>
+<aiPetEffect id="1879101733" name="Banner of Terror" description="key:620799557:181298206" baseFlags="4124">
+<summoned id="1879101731" name="Banner of Terror"/>
+</aiPetEffect>
+<aiPetEffect id="1879101734" name="Command Post" description="key:620799559:181298206" baseFlags="4124">
+<summoned id="1879101730" name="Command Post"/>
+</aiPetEffect>
 <effect id="1879101761" name="Exit Horse State" appliedDescription="key:620799586:54354734" baseFlags="4124"/>
 <effect id="1879101762" name="Exit Horse State" appliedDescription="key:620799587:54354734" baseFlags="4124"/>
 <vitalOverTimeEffect id="1879101801" name="Nature's Bounty" description="key:620799608:181298206" iconId="1090539151" duration="4.0" pulseCount="15" baseFlags="4540" stat="Health_MaxLevel">
