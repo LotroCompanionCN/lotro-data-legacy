@@ -606,6 +606,16 @@
 <label key="1879072553" value="Mobilité"/>
 <label key="1879072564" value="Discrétion améliorée"/>
 <label key="1879072566" value="Discrétion simple"/>
+<label key="1879072970" value="FX espoir 10"/>
+<label key="1879072971" value="FX espoir 9"/>
+<label key="1879072972" value="FX espoir 8"/>
+<label key="1879072973" value="FX espoir 7"/>
+<label key="1879072974" value="FX espoir 6"/>
+<label key="1879072975" value="FX espoir 5"/>
+<label key="1879072976" value="FX espoir 4"/>
+<label key="1879072977" value="FX espoir 3"/>
+<label key="1879072978" value="FX espoir 2"/>
+<label key="1879072979" value="FX espoir 1"/>
 <label key="1879072994" value="Déclencher Peur panique"/>
 <label key="1879073001" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879073012" value="Ferveur du champion"/>
