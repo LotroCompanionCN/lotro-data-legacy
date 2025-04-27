@@ -226,12 +226,12 @@
 <dispelByResist id="1879050499" name="Remove Poison" baseFlags="4124" maxDispelCount="3" resistCategories="8" useStrengthRestriction="true" strengthOffset="5"/>
 <dispelByResist id="1879050500" name="Remove Disease" baseFlags="4124" maxDispelCount="3" resistCategories="2" useStrengthRestriction="true" strengthOffset="5"/>
 <dispelByResist id="1879050501" name="Remove Fear" baseFlags="4124" maxDispelCount="3" resistCategories="7" useStrengthRestriction="true" strengthOffset="5"/>
-<reactiveVitalEffect id="1879051117" name="Damage Reflection" description="key:620758168:181298206" appliedDescription="key:620758168:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879051117" name="Damage Reflection" description="key:620758168:181298206" appliedDescription="key:620758168:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085942" probability="0.1"/>
 </attacker>
 </reactiveVitalEffect>
-<reactiveVitalEffect id="1879051120" name="Damage Absorption" description="key:620758172:181298206" appliedDescription="key:620758172:54354734" iconId="1090527705" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879051120" name="Damage Absorption" description="key:620758172:181298206" appliedDescription="key:620758172:54354734" iconId="1090527705" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <defender>
 <reactiveVital progressionID="1879051121" probability="0.75"/>
 </defender>
@@ -435,7 +435,7 @@
 <applied id="1879052658" name="Shadow Grip"/>
 </applyOverTimeEffect>
 <effect id="1879052658" name="Shadow Grip" iconId="1090519170" baseFlags="4126"/>
-<reactiveVitalEffect id="1879052660" name="Terrible Retribution" appliedDescription="key:620759505:54354734" iconId="1090532174" duration="300.0" baseFlags="4540" damageTypes="1,16,4,2" damageTypeOverride="32">
+<reactiveVitalEffect id="1879052660" name="Terrible Retribution" appliedDescription="key:620759505:54354734" iconId="1090532174" duration="300.0" baseFlags="4540" damageTypes="1,16,4,2" damageTypeOverride="32" vitalTypes="1">
 <attacker>
 <reactiveVital constant="0.25" probability="1.0" multiplicative="true"/>
 <effect id="1879051294" name="Induce Rooted" probability="0.05"/>
@@ -558,7 +558,7 @@
 <instantVitalEffect id="1879053192" name="Power Damage Med" baseFlags="4126" stat="Power_MaxLevel">
 <vitalChange progressionID="1879051428" variance="5.0" modifiers="268437688"/>
 </instantVitalEffect>
-<reactiveVitalEffect id="1879053969" name="Damage Reflection" description="key:620760554:181298206" appliedDescription="key:620760554:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879053969" name="Damage Reflection" description="key:620760554:181298206" appliedDescription="key:620760554:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085944" probability="0.1"/>
 </attacker>
@@ -716,12 +716,12 @@
 <propertyModEffect id="1879056134" name="Light Oil" description="key:620761958:181298206" appliedDescription="key:620761958:54354734" iconId="1090537235" duration="900.0" baseFlags="4540">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" descriptionOverride="-" value="e587202641:1"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879056858" name="Damage Reflection" description="key:620762574:181298206" appliedDescription="key:620762574:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879056858" name="Damage Reflection" description="key:620762574:181298206" appliedDescription="key:620762574:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085943" probability="0.1"/>
 </attacker>
 </reactiveVitalEffect>
-<reactiveVitalEffect id="1879056861" name="Damage Absorption" description="key:620762630:181298206" appliedDescription="key:620762630:54354734" iconId="1090527705" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879056861" name="Damage Absorption" description="key:620762630:181298206" appliedDescription="key:620762630:54354734" iconId="1090527705" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <defender>
 <reactiveVital progressionID="1879056862" probability="0.75"/>
 </defender>
@@ -750,7 +750,7 @@
 <propertyModEffect id="1879056982" name="Fellowship Manoeuvre" appliedDescription="key:620762783:54354734" iconId="1090523647" duration="15.0" baseFlags="4542">
 <stat name="AI_Hints" descriptionOverride="-" value="(26)"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879056987" name="Piercing Talons" appliedDescription="key:620762785:54354734" iconId="1090538246" duration="60.0" baseFlags="4540" damageTypes="127">
+<reactiveVitalEffect id="1879056987" name="Piercing Talons" appliedDescription="key:620762785:54354734" iconId="1090538246" duration="60.0" baseFlags="4540" damageTypes="127" vitalTypes="1">
 <attacker>
 <reactiveVital constant="0.15" probability="1.0" multiplicative="true"/>
 </attacker>
@@ -781,7 +781,7 @@
 <dispelEffect id="1879056995" name="Dispel Conjunction" baseFlags="4126" dispelCasters="true">
 <effect id="1879056982" name="Fellowship Manoeuvre"/>
 </dispelEffect>
-<reactiveVitalEffect id="1879057006" name="Damage Reflection" description="key:620762799:181298206" appliedDescription="key:620762799:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879057006" name="Damage Reflection" description="key:620762799:181298206" appliedDescription="key:620762799:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085941" probability="0.1"/>
 </attacker>
@@ -1131,7 +1131,7 @@
 <propertyModEffect id="1879060557" name="Patience" iconId="1090519170" baseFlags="6284">
 <stat name="Trait_Champion_Patience" operator="SET" descriptionOverride="-" value="[{'Skill_Effect':1879060558}]"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879060558" name="Improved Exchange of Blows" appliedDescription="key:620765623:54354734" iconId="1090527705" duration="30.0" baseFlags="4540" damageTypes="1,16,32">
+<reactiveVitalEffect id="1879060558" name="Improved Exchange of Blows" appliedDescription="key:620765623:54354734" iconId="1090527705" duration="30.0" baseFlags="4540" damageTypes="1,16,32" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879060559" probability="0.75"/>
 </attacker>
@@ -1285,7 +1285,7 @@
 <instantVitalEffect id="1879060813" name="Wisdom of the Council" baseFlags="4124" stat="Health_MaxLevel">
 <vitalChange progressionID="1879060815" variance="5.0" modifiers="268441250"/>
 </instantVitalEffect>
-<reactiveVitalEffect id="1879060814" name="Wisdom of the Council" appliedDescription="key:620795342:54354734" iconId="1090541220" duration="60.0" baseFlags="4540" damageTypes="1,16,32" damageTypeOverride="64">
+<reactiveVitalEffect id="1879060814" name="Wisdom of the Council" appliedDescription="key:620795342:54354734" iconId="1090541220" duration="60.0" baseFlags="4540" damageTypes="1,16,32" damageTypeOverride="64" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879060816" probability="1.0"/>
 <effect id="1879051312" name="Induce Stunned" probability="0.25"/>
@@ -1597,12 +1597,12 @@
 <propertyModEffect id="1879068344" name="Sigil - Dúnedain" iconId="1090519170" baseFlags="6284">
 <stat name="Skill_VitalCost_Book_SigilDunedainMod" constant="-3.0"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879068678" name="Damage Reflection" description="key:620770443:181298206" appliedDescription="key:620770443:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879068678" name="Damage Reflection" description="key:620770443:181298206" appliedDescription="key:620770443:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085940" probability="0.1"/>
 </attacker>
 </reactiveVitalEffect>
-<reactiveVitalEffect id="1879068709" name="Damage Reflection" description="key:620770604:181298206" appliedDescription="key:620770604:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879068709" name="Damage Reflection" description="key:620770604:181298206" appliedDescription="key:620770604:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085939" probability="0.1"/>
 </attacker>
@@ -1892,7 +1892,7 @@
 <propertyModEffect id="1879073017" name="Flurry" iconId="1090541123" duration="20.0" baseFlags="4540">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="-15.000001"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879073021" name="Exchange of Blows" appliedDescription="key:620774882:54354734" iconId="1090527705" duration="30.0" baseFlags="4540" damageTypes="1">
+<reactiveVitalEffect id="1879073021" name="Exchange of Blows" appliedDescription="key:620774882:54354734" iconId="1090527705" duration="30.0" baseFlags="4540" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879060559" probability="0.5"/>
 </attacker>
@@ -1943,7 +1943,7 @@
 <stat name="CRITICAL_RANGED_PERCENTAGE" constant="3.0"/>
 <stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="3.0"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879073076" name="Coordinate Attack" appliedDescription="key:620774933:54354734" iconId="1090553777" baseFlags="6590" damageTypes="127">
+<reactiveVitalEffect id="1879073076" name="Coordinate Attack" appliedDescription="key:620774933:54354734" iconId="1090553777" baseFlags="6590" damageTypes="127" vitalTypes="1">
 <attacker>
 <reactiveVital constant="-0.15" probability="1.0" multiplicative="true"/>
 </attacker>
@@ -3503,7 +3503,7 @@
 </propertyModEffect>
 <effect id="1879088733" name="Transfer From Caster" appliedDescription="key:620790898:54354734" baseFlags="4124"/>
 <effect id="1879088734" name="Transfer To Caster" appliedDescription="key:620790899:54354734" baseFlags="4124"/>
-<reactiveVitalEffect id="1879088735" name="Shield of Stone" description="key:620790930:181298206" appliedDescription="key:620790930:54354734" iconId="1090527705" duration="16.0" baseFlags="4540" damageTypes="1">
+<reactiveVitalEffect id="1879088735" name="Shield of Stone" description="key:620790930:181298206" appliedDescription="key:620790930:54354734" iconId="1090527705" duration="16.0" baseFlags="4540" damageTypes="1" vitalTypes="1">
 <defender>
 <reactiveVital constant="1.0" probability="1.0" multiplicative="true"/>
 </defender>
@@ -3980,13 +3980,13 @@
 <propertyModEffect id="1879093703" name="Marked" appliedDescription="key:620793722:54354734" iconId="1090531784" baseFlags="6334">
 <stat name="AI_Hints" descriptionOverride="-" value="(44)"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879093754" name="Wigskold's Revenge" description="key:620793768:181298206" appliedDescription="key:620793768:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" damageTypeOverride="4">
+<reactiveVitalEffect id="1879093754" name="Wigskold's Revenge" description="key:620793768:181298206" appliedDescription="key:620793768:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" damageTypeOverride="4" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085943" probability="0.1"/>
 </attacker>
 </reactiveVitalEffect>
 <effect id="1879093768" name="Exit Palantir Channel" appliedDescription="key:620793771:54354734" baseFlags="4124"/>
-<reactiveVitalEffect id="1879093769" name="Wigskold's Protection" description="key:620793773:181298206" appliedDescription="key:620793773:54354734" iconId="1090527705" baseFlags="6284" damageTypes="16">
+<reactiveVitalEffect id="1879093769" name="Wigskold's Protection" description="key:620793773:181298206" appliedDescription="key:620793773:54354734" iconId="1090527705" baseFlags="6284" damageTypes="16" vitalTypes="1">
 <defender>
 <reactiveVital progressionID="1879056862" probability="0.75"/>
 </defender>
@@ -4038,7 +4038,7 @@
 <aiPetEffect id="1879093830" name="Summoned Spectral Warrior" baseFlags="4124">
 <summoned id="1879093839" name="Spectral Warrior"/>
 </aiPetEffect>
-<reactiveVitalEffect id="1879093831" name="Seeking Flame" appliedDescription="key:620793818:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16">
+<reactiveVitalEffect id="1879093831" name="Seeking Flame" appliedDescription="key:620793818:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16" vitalTypes="1">
 <attacker>
 <reactiveVital constant="1.0" probability="1.0" multiplicative="true"/>
 <effect id="1879051309" name="Seared" probability="0.05"/>
@@ -4172,7 +4172,7 @@
 <propertyModEffect id="1879094786" name="Paranoia" appliedDescription="key:620794612:54354734" iconId="1091399128" duration="60.0" baseFlags="4540">
 <stat name="Stealth_StealthDetectionLevelModifier" descriptionOverride="-" constant="49.0"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879094803" name="Disperse Fire" description="key:620794617:181298206" appliedDescription="key:620794617:54354734" iconId="1091399282" duration="900.0" baseFlags="4524" damageTypes="16">
+<reactiveVitalEffect id="1879094803" name="Disperse Fire" description="key:620794617:181298206" appliedDescription="key:620794617:54354734" iconId="1091399282" duration="900.0" baseFlags="4524" damageTypes="16" vitalTypes="1">
 <defender>
 <reactiveVital constant="0.5" probability="0.01" multiplicative="true"/>
 </defender>
@@ -4321,7 +4321,7 @@
 <effect id="1879095452" name="Drain Power" iconId="1090519170" baseFlags="4126"/>
 <effect id="1879095453" name="Drain Life" iconId="1090519170" baseFlags="4126"/>
 <effect id="1879095454" name="Drain Life" iconId="1090519170" baseFlags="4126"/>
-<reactiveVitalEffect id="1879095469" name="Charged Air" appliedDescription="key:620765833:54354734" iconId="1091400661" duration="60.0" baseFlags="4540" damageTypes="1">
+<reactiveVitalEffect id="1879095469" name="Charged Air" appliedDescription="key:620765833:54354734" iconId="1091400661" duration="60.0" baseFlags="4540" damageTypes="1" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879102454" probability="1.0"/>
 </attacker>
@@ -4574,7 +4574,7 @@
 <stat name="Combat_MitigationPercentage_Beleriand" descriptionOverride="-" constant="50.0"/>
 <stat name="Combat_MitigationPercentage_AncientDwarf" descriptionOverride="-" constant="50.0"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879096880" name="Flame Gout" appliedDescription="key:620795862:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16">
+<reactiveVitalEffect id="1879096880" name="Flame Gout" appliedDescription="key:620795862:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16" vitalTypes="1">
 <attacker>
 <reactiveVital constant="0.5" probability="1.0" multiplicative="true"/>
 <effect id="1879051309" name="Seared" probability="0.05"/>
@@ -4639,7 +4639,7 @@
 <propertyModEffect id="1879097344" name="Speedy" iconId="1090553824" baseFlags="6332">
 <stat name="Movement_OutOfCombat_Speed_AddMod" constant="10.0"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879097387" name="Stun Proc" description="key:620796285:181298206" appliedDescription="key:620796285:54354734" iconId="1090607905" baseFlags="6284" damageTypes="1">
+<reactiveVitalEffect id="1879097387" name="Stun Proc" description="key:620796285:181298206" appliedDescription="key:620796285:54354734" iconId="1090607905" baseFlags="6284" damageTypes="1" vitalTypes="1">
 <attacker>
 <effect id="1879051312" name="Induce Stunned" probability="0.05"/>
 </attacker>
@@ -4748,7 +4748,7 @@
 <stat name="STEALTH_LEVEL" constant="2.0"/>
 <stat name="ForwardSource_Combat_CurrentCombo" operator="SET" descriptionOverride="-" value="e587202641:34"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879097692" name="Balrog's Retribution" appliedDescription="key:620796343:54354734" iconId="1091401433" baseFlags="6588" damageTypes="127" damageTypeOverride="32">
+<reactiveVitalEffect id="1879097692" name="Balrog's Retribution" appliedDescription="key:620796343:54354734" iconId="1091401433" baseFlags="6588" damageTypes="127" damageTypeOverride="32" vitalTypes="1">
 <attacker>
 <reactiveVital constant="0.33" probability="1.0" multiplicative="true"/>
 <effect id="1879085383" name="Induce Cowering" probability="0.05"/>
@@ -4769,7 +4769,7 @@
 <propertyModEffect id="1879097795" name="Weakness to Fire" appliedDescription="key:620796400:54354734" iconId="1090623585" duration="25.0" baseFlags="4542">
 <stat name="FIRE_MITIGATION_PERCENTAGE" operator="SUBSTRACT" constant="5.0"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879097796" name="Protective Flame" appliedDescription="key:620796401:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16">
+<reactiveVitalEffect id="1879097796" name="Protective Flame" appliedDescription="key:620796401:54354734" iconId="1090538926" baseFlags="6588" damageTypes="127" damageTypeOverride="16" vitalTypes="1">
 <attacker>
 <reactiveVital constant="2.0" probability="1.0" multiplicative="true"/>
 <effect id="1879056918" name="Immolated" probability="0.05"/>
@@ -4802,12 +4802,12 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620796491:106251889" constant="0.6"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.6"/>
 </propertyModEffect>
-<reactiveVitalEffect id="1879098038" name="Disperse Shadow" description="key:620796679:181298206" appliedDescription="key:620796679:54354734" iconId="1091399282" duration="900.0" baseFlags="4524" damageTypes="32">
+<reactiveVitalEffect id="1879098038" name="Disperse Shadow" description="key:620796679:181298206" appliedDescription="key:620796679:54354734" iconId="1091399282" duration="900.0" baseFlags="4524" damageTypes="32" vitalTypes="1">
 <defender>
 <reactiveVital constant="0.5" probability="0.01" multiplicative="true"/>
 </defender>
 </reactiveVitalEffect>
-<reactiveVitalEffect id="1879098101" name="Fire Lash" description="key:620796685:181298206" appliedDescription="key:620796685:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" damageTypeOverride="16">
+<reactiveVitalEffect id="1879098101" name="Fire Lash" description="key:620796685:181298206" appliedDescription="key:620796685:54354734" iconId="1090527700" baseFlags="6284" damageTypes="1" damageTypeOverride="16" vitalTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085943" probability="0.5"/>
 </attacker>
