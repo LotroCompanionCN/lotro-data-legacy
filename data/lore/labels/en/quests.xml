@@ -1119,7 +1119,7 @@
 <label key="1879083044" value="Patching the Holes"/>
 <label key="1879083066" value="Gorgoris the Gorger"/>
 <label key="1879083071" value="Storming the Castle"/>
-<label key="1879083090" value="Carving OutHearts"/>
+<label key="1879083090" value="Carving Out Hearts"/>
 <label key="1879083091" value="Lashing the Walls"/>
 <label key="1879083092" value="Weapons of War"/>
 <label key="1879083093" value="Big Stuff"/>
@@ -5615,16 +5615,16 @@
 <label key="key:620759536:54354734" value="A trained falcon arrived at Rivendell, bearing a troubling message from the hidden Ranger-camp at Esteldín for Aragorn, Chieftain of the Rangers."/>
 <label key="key:620759536:63183937" value="'Why do you tarry here? Go to Esteldín in the North Downs and confer with my kinsman Daervunn.'"/>
 <label key="key:620759536:94621393" value="Esteldín lies in the North Downs, far to the north and west of Rivendell.&#10;&#10;Aragorn has asked you to travel to Esteldín in his stead to speak with Daervunn, whom he hopes can shed light on the troubling message."/>
-<label key="key:620759537:218649169" value="'This victory is an important one, though not as complete as I had at first hoped. However, even this victory will give us a brief reprieve from the onslaught of the Enemy. I would ask that news of our success be brought to my chieftain, Aragorn son of Arathorn.&#10;&#10;'You have met him then? He is at Rivendell? Go, then, and speak with my Lord Aragorn and tell him of our deeds here.'"/>
-<label key="key:620759537:218649170" value="'So Golodir did not perish, and the Shadow of Angmar is, for the moment at least, weakened. I am of a mind that even if Mordirith does finally fall, he may someday return or another Shadow of the Enemy will take his place.&#10;&#10;'Still, your efforts were valiant and deserving of praise, ${PLAYER}. Your name will not be forgotten by the Dúnedain of the North.'"/>
+<label key="key:620759537:218649169" value="'This victory is an important one, though I believe it is but a reprieve from the onslaught of the Enemy. Nevertheless, news of our victory must be brought to my chieftain, Aragorn.&#10;&#10;'You have met him then? He is at Rivendell? Go, then, and speak with my Lord Aragorn and tell him of the False King's defeat.'"/>
+<label key="key:620759537:218649170" value="'So Golodir did not perish, and the Shadow of Angmar is, for the moment, vanquished. I am of a mind with Golodir -- if Mordirith does not himself return, and in greater power, I deem another Shadow of the Enemy will take his place.&#10;&#10;'Still, your efforts were valiant and deserving of praise, ${PLAYER}. Your name will not be forgotten by the Dúnedain of the North.'"/>
 <label key="key:620759537:228870261" value="Chapter 6: A Watchful Eye"/>
-<label key="key:620759537:54354734" value="With Golodir's aid, you have greatly weakened Mordirith, the Steward of Angmar, and the death of Lorniel has been avenged."/>
+<label key="key:620759537:54354734" value="With Golodir's aid, you defeated Mordirith, the Steward of Angmar, and Lorniel was avenged. Golodir, though, is not hopeful that Mordirith will remain lost."/>
 <label key="key:620759537:63183937" value="'Aragorn must learn of our victory againt the False King. Go to Rivendell and speak with him.'"/>
 <label key="key:620759537:63183938" value="'Thank you for bringing me back to the realm of the living, ${PLAYER}. My grief is not now so terrible.'"/>
 <label key="key:620759537:63183939" value="'Mordirith has been defeated, but only for a time. Still, it is a reprieve.'"/>
 <label key="key:620759537:63183940" value="'Angmar has been hindered for the moment, thanks to you.'"/>
 <label key="key:620759537:63183941" value="'Thank you for returning Golodir to us, my friend.'"/>
-<label key="key:620759537:94621393" value="Aragorn is at Rivendell in the Trollshaws.&#10;&#10;Golodir instructed you to take word of Mordirith's fall to his chieftain, Aragorn."/>
+<label key="key:620759537:94621393" value="Aragorn is at Rivendell in the Trollshaws.&#10;&#10;Golodir instructed you to take word of Mordirith's defeat to his chieftain, Aragorn."/>
 <label key="key:620759539:218649169" value="Wiping a way a bit of the grime covering the bracelet, you discover an engraving that reads, \qDírdrë.\q It may be that someone in Gath Forthnír will recognize the bracelet or the name engraved upon it."/>
 <label key="key:620759539:218649170" value="'This is not of dwarf-make, I can tell you that much. Nor is it of Elf-craft. It's a bit primitive, I think. I can't say I know from whence it comes.'"/>
 <label key="key:620759539:218649171" value="'\qDírdrë\q sounds like a Hillman name to me, but I can't tell you much else.'"/>
@@ -5703,29 +5703,29 @@
 <label key="key:620759543:94621393" value="Laerdan is at Gath Forthnír.&#10;&#10;Golodir, crushed by his daughter's death, told you to leave him be and to go speak with the Elf Laerdan."/>
 <label key="key:620759543:94621394" value="Golodir's gear might be carried on the creatures that make their home in Carn Dûm.&#10;&#10;As a first step in his plan to renew Golodir's spirit, Laerdan has asked you to retrieve the Ranger's weapons and gear from the capital of Angmar, Carn Dûm."/>
 <label key="key:620759546:136263298" value="You have defeated Mordirith"/>
-<label key="key:620759546:205636720" value="'To face so great an enemy and defeat him. Such strength does not dwell within me...we are honoured to have one such as you aid us.'"/>
+<label key="key:620759546:205636720" value="'To face so great an enemy and defeat him. Such strength does not dwell within me... We are honoured to have one such as you aid us.'"/>
 <label key="key:620759546:205636721" value="'The victory was bought at a great cost, yet no price is too high to pay if it results in the downfall of the Iron Crown!'"/>
-<label key="key:620759546:205636722" value="'Mordirith's defeat is but the first blow in our war against Angmar! Soon the Iron Crown will be toppled, and my kin will be free of them!'"/>
-<label key="key:620759546:205636723" value="'${PLAYER}! Thank you. Thank you for avenging Lorniel's death. She was a fine girl...you've done well by her name!'"/>
-<label key="key:620759546:205636724" value="'${PLAYER}! The bane of Mordirith! Your victory shall never be forgotten! Never!'"/>
-<label key="key:620759546:218649169" value="'The time for vengeance is at hand. Despite the strength you have seen within Angmar's bosom, it is a strength which may falter quickly. Mordirith, the False King, is a creature of great power, but I believe he may be hindered, if not destroyed altogether.&#10;&#10;'I will return to Carn Dûm and face Mordirith. It is time to cut the Iron Crown from the head of this serpent. I would ask that you stand with me!&#10;&#10;'Together, we will pass into that vile city and face Mordirith in the throne room of Carn Dûm. Gather what companions and supplies you need, for the fight ahead will be terrible.'"/>
-<label key="key:620759546:218649170" value="'Mordirith has been weakened, though not destroyed. The way though is open for others to finally throw down this False King. I wish that it had been I who had driven that foul creature back into Shadow, but it is enough to have done what I have.&#10;&#10;'I ask that if you do return to Carn Dûm, finish the work that we started, strike down Mordirith. Although a creature such as he cannot be entirely destroyed -- for he can simply recloak -- such a loss for him will be a great victory for the Free Peoples of Eriador.&#10;&#10;'Still, there is more I would ask of you....'"/>
+<label key="key:620759546:205636722" value="'Mordirith's defeat is but the first blow in our war against Angmar! Soon the Iron Crown will be topped and my kin will be free of them!'"/>
+<label key="key:620759546:205636723" value="'${PLAYER}! Thank you. Thank you for avenging Lorniel's death. She was such a fine girl... You've done well by her name!'"/>
+<label key="key:620759546:205636724" value="'${PLAYER}! The slayer of Mordirith! Your victory shall never be forgotten! Never!'"/>
+<label key="key:620759546:218649169" value="'The time for vengeance is at hand. Despite the strength you have seen within Angmar's bosom, it is a strength which may falter quickly. Mordirith, the False King, is a creature of great power, but I believe he may be hindered, if not destroyed altogether.&#10;&#10;'I will return to Carn Dûm and face Mordirith. It is time to cut Iron Crown from the head of this serpent. Will you stand with me?&#10;&#10;'We can use your key to pass through into that vile city once more and face Mordirith in the throne room of Carn Dûm. I will go on ahead...if your courage does not fail you, I will meet you there.'"/>
+<label key="key:620759546:218649170" value="'The False King has perished, though I dare not hope that such a creature will remain unseen. Like as not, he will simply recloak himself and return in greater power.&#10;&#10;'Nevertheless, it is a moral victory for the Free Peoples of Eriador. Still, we are not finished here....'"/>
 <label key="key:620759546:218649171" value="'Good, you have arrived! Now is the time to face Mordirith and make him pay for all that he has done. Here we shall strike a blow against Angmar, or die in the attempt!&#10;&#10;'Are you ready?'"/>
-<label key="key:620759546:22075073" value="Speak to Golodir"/>
+<label key="key:620759546:22075073" value="Meet Golodir in throne room of Carn Dûm"/>
 <label key="key:620759546:22075075" value="Talk to Golodir in Gath Forthnír"/>
 <label key="key:620759546:228870261" value="Chapter 5: Mordirith's Fall"/>
 <label key="key:620759546:54354734" value="Laerdan's hopes of using the sword and armour of Golodir to renew the Ranger's spirit was not in vain. The sight of the shining shield of Gondor and of his bright-burning sword, Dúnachar, kindled within Golodir a new fire...perhaps a dangerous one."/>
-<label key="key:620759546:63183937" value="'The journey into Carn Dûm will be a difficult one, but Mordirith must be thrown down. Are you ready to travel?'"/>
+<label key="key:620759546:63183937" value="'If your courage does not fail you, I will meet you within Carn Dûm.'"/>
 <label key="key:620759546:63183938" value="'The debt of gratitude I owe you, ${PLAYER}, is not one that can be easily repaid. But be assured, I shall not forget all that you have done for me.'"/>
 <label key="key:620759546:63183939" value="'Mordirith's defeat is a great victory, but do not be mistaken: the war against Angmar is not yet won.'"/>
 <label key="key:620759546:63183940" value="'You have done well in restoring Golodir's hope and avenging Lorniel's death. Thank you.'"/>
-<label key="key:620759546:63183941" value="'I never thought the day would come! The False King has fallen!'"/>
+<label key="key:620759546:63183941" value="'I never thought the day would come! Mordirith has fallen!'"/>
 <label key="key:620759546:63183942" value="'The factions of Angmar will fall into infighting now that the Witch-king's Steward has been defeated!'"/>
 <label key="key:620759546:63183943" value="'Through the long years here, hiding, I had about given up hope of us ever striking such a blow against the Iron Crown. Yet, Mordirith has fallen!'"/>
-<label key="key:620759546:63183944" value="'Hope has returned. The spirit of Lorniel's father has been restored. I think Lorniel would be happy...yes, I know she would!'"/>
-<label key="key:620759546:63183945" value="'Although the False King was but a link in the shackles that bind my people, I know now that one day the shackles of slavery shall be utterly broken, forever!'"/>
+<label key="key:620759546:63183944" value="'Hope has returned, her father's spirit has been restored. I think Lorniel would be happy... yes, I know she would!'"/>
+<label key="key:620759546:63183945" value="'Although Mordirith was but a link in the shackles that bind my people, I know now that one day the shackles of slavery shall be utterly broken, forever!'"/>
 <label key="key:620759546:94621393" value="Mordirith can be found within the throne room of Carn Dûm.&#10;&#10;Golodir has asked you to join him as he returns to Carn Dûm to face Mordirith, the False King, Steward of Angmar."/>
-<label key="key:620759546:94621394" value="Golodir is at Gath Forthnír.&#10;&#10;After defeating Mordirith and encountering the mysterious Sara Oakheart, you and Golodir travelled back to Gath Forthnír. You should speak with Golodir again."/>
+<label key="key:620759546:94621394" value="Meet with Golodir back in Gath Forthnír.&#10;&#10;Golodir is waiting to speak with you."/>
 <label key="key:620759548:218649169" value="'What hope remains to Golodir must lie with his own people. It may be that they can repair this gear or somehow draw from it, something that may renew Golodir.&#10;&#10;'Take this equipment to the hidden Ranger encampment of Esteldín in the North Downs -- I am sure you have been there before. Tell them Laerdan of Eregion sent you.&#10;&#10;'Time is wasting for Golodir!'"/>
 <label key="key:620759548:218649170" value="'Well, the shield was not a problem, although I have never seen one quite like it. This was not Golodir's shield, it is much older and bears the markings of the South Kingdom. Very interesting...whatever the case, it will serve him well.&#10;&#10;'The sword though, well that is another matter. It was forged by the Elves long ago and is beyond my ability to repair. I am sorry, but I have done what I can.&#10;&#10;'Perhaps Daervunn will have another thought on how to repair Golodir's sword.'"/>
 <label key="key:620759548:218649171" value="'Golodir's equipment? I will help however I can.&#10;&#10;'Hmm, yes. I believe I can repair the damage to his mail shirt, but repairing the shield and the sword is beyond my ability. I think though one of the armoursmiths here in Esteldín will be able to help. Go and take the sword and shield to Toram. While you do this, I will set to work on the shirt.'"/>
@@ -14645,7 +14645,7 @@
 <label key="key:620781593:218649170" value="'You have done well to this point, but there is one great challenge left.'"/>
 <label key="key:620781593:218649171" value="'Where is the Sword of Twilight?'"/>
 <label key="key:620781593:22075073" value="Search for the Sword of Twilight"/>
-<label key="key:620781593:22075074" value="Bring the Sword of Twilight back Nethraw"/>
+<label key="key:620781593:22075074" value="Bring the Sword of Twilight back to Nethraw"/>
 <label key="key:620781593:228870261" value="The Sword of Twilight"/>
 <label key="key:620781593:54354734" value="Five of the seven swords have been recovered, leaving only two."/>
 <label key="key:620781593:63183937" value="'I hope you will be able to retrieve the Sword of Twilight.'"/>
@@ -15033,7 +15033,7 @@
 <label key="key:620782020:218649171" value="'What are you waiting for, a spoon? Go carve out those trees' hearts!'"/>
 <label key="key:620782020:22075073" value="Return to Chieftain Torbok at the Grimwood Lumber-yamp"/>
 <label key="key:620782020:22075074" value="Collect Grimwood-heartwood (${NUMBER}/${TOTAL})"/>
-<label key="key:620782020:228870261" value="Carving OutHearts"/>
+<label key="key:620782020:228870261" value="Carving Out Hearts"/>
 <label key="key:620782020:54354734" value="The Angmarim within the city of Carn Dûm have a desire for the heartwood cut from the centre of the Leafcull-trees within the Grimwood. He has offered you a reward for collecting the heartwood."/>
 <label key="key:620782020:94621393" value="Grimwood-heartwood can be found on the Leafcull-trees, though you may possibly find it in the fallen logs as well.&#10;&#10;Chieftain Torbok directed you to recover and return Grimwood-heartwood to him."/>
 <label key="key:620782021:136263297" value="Collected Grimwood-roots (${NUMBER}/${TOTAL})"/>
@@ -19781,7 +19781,7 @@
 <label key="key:620793765:218649169" value="'I've little time for words if I am to organize a defence with such a withered force. &#10;&#10;'Return to Gramsfoot and deliver the War-tyrant the message that we have recovered the mine. He will send troops if he hopes to see us defend this massive space.&#10;&#10;'Go now and do not fail me!'"/>
 <label key="key:620793765:218649170" value="'More forces for the front, eh? You maggots might yet make me proud! For Angmar! For Lugbûrz!'"/>
 <label key="key:620793765:22075073" value="Inform War-tyrant Akúlhun that more forces are needed at the Isendeep Mine"/>
-<label key="key:620793765:22075074" value="Support must not arrive at Lugazag"/>
+<label key="key:620793765:22075074" value="Support must not arrive at the Isendeep"/>
 <label key="key:620793765:22075075" value="You must not be defeated before delivering the message"/>
 <label key="key:620793765:22075076" value="The Free People must not control the Isendeep Mine!"/>
 <label key="key:620793765:228870261" value="Get the Troops to the Isendeep"/>

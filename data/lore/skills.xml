@@ -1415,25 +1415,25 @@
 <details actionDurationContribution="2.4" flags="64">
 <geometry positionalHeading="180" positionalSpread="130" maxRange="3.0"/>
 <powerCost pointsProgression="1879049735"/>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049329">
+<attack damageQualifier="1" damageType="32" maxDamageProgression="1879049329">
 <effectsMgr type="ATTACK_POSITIONAL">
 <effect id="1879049330" name="Hounding Fear"/>
 </effectsMgr>
 </attack>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049329"/>
+<attack damageQualifier="1" damageType="32" maxDamageProgression="1879049329"/>
 </details>
 </skill>
 <skill identifier="1879052664" name="Melee Shadow Triple" iconId="1090522259">
 <details actionDurationContribution="3.0" flags="64">
 <geometry positionalHeading="180" positionalSpread="130" maxRange="3.0"/>
 <powerCost pointsProgression="1879049737"/>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049738">
+<attack damageQualifier="1" damageType="32" maxDamageProgression="1879049738">
 <effectsMgr type="ATTACK_POSITIONAL">
 <effect id="1879049330" name="Hounding Fear"/>
 </effectsMgr>
 </attack>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049738"/>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049738"/>
+<attack damageQualifier="1" damageType="32" maxDamageProgression="1879049738"/>
+<attack damageQualifier="1" damageType="32" maxDamageProgression="1879049738"/>
 </details>
 </skill>
 <skill identifier="1879052665" name="Vulnerability to Shadow" iconId="1090522259">
@@ -2042,7 +2042,7 @@
 <details actionDurationContribution="3.0" flags="64">
 <geometry positionalHeading="180" positionalSpread="130" maxRange="3.0"/>
 <powerCost pointsProgression="1879049737"/>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049738">
+<attack damageQualifier="1" damageType="16" maxDamageProgression="1879049738">
 <effectsMgr type="ATTACK_POSITIONAL">
 <effect id="1879049330" name="Hounding Fear"/>
 </effectsMgr>
@@ -2050,12 +2050,12 @@
 <effect id="1879051308" name="Ignite flammable target"/>
 </effectsMgr>
 </attack>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049738">
+<attack damageQualifier="1" damageType="16" maxDamageProgression="1879049738">
 <effectsMgr>
 <effect id="1879051308" name="Ignite flammable target"/>
 </effectsMgr>
 </attack>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049738">
+<attack damageQualifier="1" damageType="16" maxDamageProgression="1879049738">
 <effectsMgr>
 <effect id="1879051308" name="Ignite flammable target"/>
 </effectsMgr>
@@ -7482,7 +7482,7 @@
 </attack>
 </details>
 </skill>
-<skill identifier="1879073738" name="Tainted Kiss" category="8" iconId="1090555724" description="key:620775418:228830419">
+<skill identifier="1879073738" name="Tainted Kiss" category="15" iconId="1090555724" description="key:620775418:228830419">
 <details actionDurationContribution="2.0" cooldown="6.0" flags="64">
 <geometry maxRange="30.0"/>
 <powerCost pointsProgression="1879072546"/>
@@ -7755,7 +7755,7 @@
 <details actionDurationContribution="2.4" flags="64">
 <geometry positionalHeading="180" positionalSpread="130" maxRange="3.0"/>
 <powerCost pointsProgression="1879049735"/>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049329">
+<attack damageQualifier="1" damageType="16" maxDamageProgression="1879049329">
 <effectsMgr type="ATTACK_POSITIONAL">
 <effect id="1879049330" name="Hounding Fear"/>
 </effectsMgr>
@@ -7763,7 +7763,7 @@
 <effect id="1879051308" name="Ignite flammable target"/>
 </effectsMgr>
 </attack>
-<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049329">
+<attack damageQualifier="1" damageType="16" maxDamageProgression="1879049329">
 <effectsMgr>
 <effect id="1879051308" name="Ignite flammable target"/>
 </effectsMgr>

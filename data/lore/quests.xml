@@ -32636,7 +32636,7 @@
 </objectives>
 <rewards/>
 </quest>
-<quest id="1879082934" name="Poisoning the Hoardale" rawName="key:620781922:228870261" category="27" level="50" repeatable="-1" monsterPlay="true" description="key:620781922:54354734">
+<quest id="1879082934" name="Poisoning the Hoardale" rawName="key:620781922:228870261" category="26" level="50" repeatable="-1" monsterPlay="true" description="key:620781922:54354734">
 <bestower npcId="1879080651" npcName="War-tyrant Akúlhun" text="key:620781922:218649169"/>
 <objectives>
 <objective index="1" text="key:620781922:94621393">
@@ -32800,7 +32800,7 @@
 </objectives>
 <rewards/>
 </quest>
-<quest id="1879083090" name="Carving OutHearts" rawName="key:620782020:228870261" category="42" level="50" size="FELLOWSHIP" repeatable="-1" monsterPlay="true" description="key:620782020:54354734">
+<quest id="1879083090" name="Carving Out Hearts" rawName="key:620782020:228870261" category="42" level="50" size="FELLOWSHIP" repeatable="-1" monsterPlay="true" description="key:620782020:54354734">
 <bestower npcId="1879083087" npcName="Chieftain Torbok" text="key:620782020:218649169"/>
 <objectives>
 <objective index="1" text="key:620782020:94621393">

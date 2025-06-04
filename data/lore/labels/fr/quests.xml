@@ -236,8 +236,8 @@
 <label key="1879048602" value="Livre VII, chapitre 1 : Tapis dans l'Ombre"/>
 <label key="1879048603" value="Chapitre 2 : la traversée de l'Ombre"/>
 <label key="1879048604" value="Chapitre 8 : Les portes de Carn Dûm"/>
-<label key="1879048606" value="Chapitre 5 : La chute de Mordirith"/>
-<label key="1879048607" value="Chapitre 6 : Sous un oeil vigilant"/>
+<label key="1879048606" value="Chapter 5: Mordirith's Fall"/>
+<label key="1879048607" value="Chapter 6: A Watchful Eye"/>
 <label key="1879048609" value="La couvée de la reine"/>
 <label key="1879048611" value="La reine des morrovals"/>
 <label key="1879048612" value="L'armée ailée"/>
@@ -1078,7 +1078,7 @@
 <label key="1879082472" value="L’Epée du Massacre"/>
 <label key="1879082473" value="L’Epée des Sanglots"/>
 <label key="1879082474" value="L’Epée du Guetteur"/>
-<label key="1879082475" value="L’Epée du Crépuscule"/>
+<label key="1879082475" value="The Sword of Twilight"/>
 <label key="1879082592" value="Chasseur de pierres"/>
 <label key="1879082593" value="Pierres précieuses cachées"/>
 <label key="1879082594" value="Prospection en Angmar"/>
@@ -1119,7 +1119,7 @@
 <label key="1879083044" value="Rapiécer les armures"/>
 <label key="1879083066" value="Gorgoris la goulue"/>
 <label key="1879083071" value="Un château assailli"/>
-<label key="1879083090" value="Au coeur du bois"/>
+<label key="1879083090" value="Carving Out Hearts"/>
 <label key="1879083091" value="Des murs solides"/>
 <label key="1879083092" value="Armes de guerre"/>
 <label key="1879083093" value="Des gros trucs"/>
@@ -1551,7 +1551,7 @@
 <label key="1879093514" value="Trolls dans les Landes d'Etten"/>
 <label key="1879093515" value="Trolls dans les Landes d'Etten"/>
 <label key="1879093761" value="Amener les troupes au Bois Funeste"/>
-<label key="1879093762" value="Amener les troupes au Gouffre d'Isen"/>
+<label key="1879093762" value="Get the Troops to the Isendeep"/>
 <label key="1879093763" value="Amener les troupes à Lugazag"/>
 <label key="1879093764" value="Amener les troupes à Tirith Rhaw"/>
 <label key="1879093837" value="Instance : Les chasseurs de primes"/>
@@ -5615,16 +5615,16 @@
 <label key="key:620759536:54354734" value="Un faucon apprivoisé est arrivé à Fondcombe pour livrer à Aragorn, chef des rôdeurs, un message inquiétant de la part des rôdeurs du camp d'Esteldin."/>
 <label key="key:620759536:63183937" value="'Qu'est-ce que vous attendez ? Allez à Esteldin, dans les Hauts du Nord, et entretenez-vous avec mon compagnon Daervunn.'"/>
 <label key="key:620759536:94621393" value="Esteldin se trouve dans les Hauts du Nord, loin au nord et à l'ouest de Fondcombe.&#10;&#10;Aragorn vous a demandé de vous rendre à Esteldin à sa place pour vous entretenir avec Daervunn, qui, il l'espère, pourra éclaircir le message inquiétant."/>
-<label key="key:620759537:218649169" value="'Cette victoire est importante, mais elle n’est pas aussi retentissante que je l’aurais souhaité. Elle nous offrira néanmoins un bref sursis dans notre lutte contre l'Ennemi. Quoi qu’il en soit, Aragorn, mon chef, le fils d’Arathorn, doit être informé de notre victoire.&#10;&#10;'Vous l'avez déjà rencontré ? Il est à Fondcombe ? Alors, allez informer mon seigneur Aragorn de la chute du Faux Roi.'"/>
-<label key="key:620759537:218649170" value="'Golodir n'était donc pas mort et l'Ombre de l'Angmar est affaiblie, du moins pour le moment. Je suis d'avis que même si Mordirith finissait par tomber, il pourrait réapparaître un jour et, si ce n’est pas le cas, nul doute qu’une nouvelle Ombre de l'Ennemi prendra sa place.&#10;&#10;'Mais votre vaillance est digne des plus grandes louanges, ${PLAYER}. Les Dunedain du Nord n'oublieront pas votre nom.'"/>
-<label key="key:620759537:228870261" value="Chapitre 6 : Sous un oeil vigilant"/>
-<label key="key:620759537:54354734" value="Avec l'aide de Golodir, vous avez considérablement affaibli Mordirith, l'Intendant de l'Angmar, et la mort de Lorniel a été vengée."/>
-<label key="key:620759537:63183937" value="'Aragorn doit apprendre la nouvelle de notre victoire face au Faux Roi. Allez à Fondcombe et parlez-lui.'"/>
-<label key="key:620759537:63183938" value="Merci de m'avoir ramené dans le royaume des vivants, ${PLAYER}. Mon chagrin n'est plus aussi accablant maintenant.'"/>
-<label key="key:620759537:63183939" value="'Mordirith a été vaincu, mais temporairement seulement. Le sursis est quand même bon à prendre.'"/>
-<label key="key:620759537:63183940" value="'Les desseins de l'Angmar ont temporairement été contrecarrés grâce à vous.'"/>
-<label key="key:620759537:63183941" value="'Merci de nous avoir rendu Golodir.'"/>
-<label key="key:620759537:94621393" value="Aragorn est à Fondcombe, dans la Trouée des Trolls.&#10;&#10;Golodir vous a chargé d'informer son chef, Aragorn, de votre victoire sur Mordirith."/>
+<label key="key:620759537:218649169" value="'This victory is an important one, though I believe it is but a reprieve from the onslaught of the Enemy. Nevertheless, news of our victory must be brought to my chieftain, Aragorn.&#10;&#10;'You have met him then? He is at Rivendell? Go, then, and speak with my Lord Aragorn and tell him of the False King's defeat.'"/>
+<label key="key:620759537:218649170" value="'So Golodir did not perish, and the Shadow of Angmar is, for the moment, vanquished. I am of a mind with Golodir -- if Mordirith does not himself return, and in greater power, I deem another Shadow of the Enemy will take his place.&#10;&#10;'Still, your efforts were valiant and deserving of praise, ${PLAYER}. Your name will not be forgotten by the Dúnedain of the North.'"/>
+<label key="key:620759537:228870261" value="Chapter 6: A Watchful Eye"/>
+<label key="key:620759537:54354734" value="With Golodir's aid, you defeated Mordirith, the Steward of Angmar, and Lorniel was avenged. Golodir, though, is not hopeful that Mordirith will remain lost."/>
+<label key="key:620759537:63183937" value="'Aragorn must learn of our victory againt the False King. Go to Rivendell and speak with him.'"/>
+<label key="key:620759537:63183938" value="'Thank you for bringing me back to the realm of the living, ${PLAYER}. My grief is not now so terrible.'"/>
+<label key="key:620759537:63183939" value="'Mordirith has been defeated, but only for a time. Still, it is a reprieve.'"/>
+<label key="key:620759537:63183940" value="'Angmar has been hindered for the moment, thanks to you.'"/>
+<label key="key:620759537:63183941" value="'Thank you for returning Golodir to us, my friend.'"/>
+<label key="key:620759537:94621393" value="Aragorn is at Rivendell in the Trollshaws.&#10;&#10;Golodir instructed you to take word of Mordirith's defeat to his chieftain, Aragorn."/>
 <label key="key:620759539:218649169" value="En frottant un peu le bracelet, vous découvrez un nom gravé dessus : \qDirdrë.\q&#10;&#10;Il est possible que quelqu'un à Gath Forthnir le reconnaisse."/>
 <label key="key:620759539:218649170" value="'Ce bracelet n'a pas été créé par les nains, ça je peux vous le dire... Ni par les Elfes... Un peu trop rudimentaire. Non, je ne sais pas qui a bien pu le fabriquer.'"/>
 <label key="key:620759539:218649171" value="'\qDirdrë\q... C'est sans doute un nom de Montagnard, mais c'est tout ce que je peux dire.'"/>
@@ -5702,30 +5702,30 @@
 <label key="key:620759543:63183938" value="'Laissez-moi tranquille ! Votre folie ne m'intéresse nullement.'"/>
 <label key="key:620759543:94621393" value="Laerdan est à Gath Forthnir.&#10;&#10;Golodir, effondré par la mort de sa fille, vous a demandé de le laisser en paix et d'aller vous entretenir avec l'Elfe Laerdan."/>
 <label key="key:620759543:94621394" value="Les créatures qui ont élu domicile à Carn Dûm ont sûrement gardé l'équipement de Golodir.&#10;&#10;La première étape du plan de Laerdan pour renouveler le courage de Golodir consiste à récupérer les armes et l'équipement du rôdeur à Carn Dûm, la capitale de l'Angmar."/>
-<label key="key:620759546:136263298" value="Vous avez vaincu Mordirith"/>
-<label key="key:620759546:205636720" value="'Affronter un ennemi aussi fort et le terrasser... Je ne suis pas capable d'une telle force... C'est un honneur de recevoir une aide aussi précieuse que la vôtre.'"/>
-<label key="key:620759546:205636721" value="'La victoire a été acquise au prix de lourdes pertes, mais aucun prix ne sera trop élevé pour triompher de la Couronne de Fer !'"/>
-<label key="key:620759546:205636722" value="'La chute de Mordirith n'est que la première bataille de notre guerre contre l'Angmar ! Bientôt la Couronne de Fer sera renversée et les miens seront libres !'"/>
-<label key="key:620759546:205636723" value="'${PLAYER} ! Merci. Merci d'avoir vengé la mort de Lorniel. Elle était si merveilleuse... Vos actes en son nom sont des plus louables !'"/>
-<label key="key:620759546:205636724" value="'${PLAYER} ! Jamais nous n'oublierons votre victoire sur Mordirith ! Jamais !'"/>
-<label key="key:620759546:218649169" value="'L'heure de ma vengeance a sonné. La force de l'Angmar est impressionnante, comme vous avez pu le constater, et pourtant elle pourrait vite décroître. Mordirith, le Faux Roi, est une créature d'une grande puissance, mais je pense qu'il est possible de le perturber, si ce n'est de l'éliminer totalement.&#10;&#10;'Je vais retourner à Carn Dûm pour affronter Mordirith. Il est temps de faire tomber la Couronne de Fer de la tête de ce serpent. M'accompagnerez-vous ?&#10;&#10;'Ensemble, nous pourrons entrer dans cette horrible ville et faire face à Mordirith dans la salle du trône. Rassemblez vos compagnons et préparez le matériel nécessaire. Le combat promet d’être terrible.'"/>
-<label key="key:620759546:218649170" value="'Mordirith est affaibli, mais pas vaincu. Désormais, la voie est libre pour ceux qui souhaitent renverser le Faux Roi pour de bon. J’aurais voulu être celui qui a renvoyé l’infâme créature dans l’Ombre, mais je saurai me contenter du rôle que j’ai joué dans sa perte.&#10;&#10;'Si vous retournez à Carn Dûm, je vous demande de terminer le travail que j’ai entrepris et de venir à bout de Mordirith. Même si un tel adversaire ne peut être éliminé totalement, car il est capable de reprendre une nouvelle forme et de revenir encore plus fort, sa défaite constituerait une précieuse victoire pour les Peuples Libres d'Eriador.&#10;&#10;'Mais j’ai autre chose à vous demander...'"/>
-<label key="key:620759546:218649171" value="'Ah, vous voilà ! L'heure est venue d'affronter Mordirith et de le faire payer pour tout ce qu'il a fait. Nous allons porter un coup sévère à l’Angmar ou bien mourir en tentant de le faire !&#10;&#10;'Je serai prêt quand vous le serez !'"/>
-<label key="key:620759546:22075073" value="Parlez à Golodir"/>
-<label key="key:620759546:22075075" value="Allez à Gath Forthnir et parlez à Golodir"/>
-<label key="key:620759546:228870261" value="Chapitre 5 : La chute de Mordirith"/>
-<label key="key:620759546:54354734" value="L'espoir de Laerdan que l'armure et l'épée de Golodir soient de nouveau utilisées n'était pas vain. La vue du bouclier éclatant du Gondor et de son épée flambant neuve, Dunachar, ont réveillé le feu qui sommeillait en Golodir... un feu qui pourrait s'avérer dangereux."/>
-<label key="key:620759546:63183937" value="'La route jusqu’à Carn Dûm sera longue et difficile, mais Mordirith doit être renversé. Etes-vous d’accord pour y aller ?'"/>
-<label key="key:620759546:63183938" value="'M'acquitter de ma dette envers vous n'est pas chose simple, ${PLAYER}. Sachez néanmoins que je n'oublierais jamais ce que vous avez fait pour moi.'"/>
-<label key="key:620759546:63183939" value="'La chute de Mordirith est une grande victoire, mais ne nous y trompons pas : la guerre contre l'Angmar n'est pas encore gagnée.'"/>
-<label key="key:620759546:63183940" value="'Je vous félicite d’avoir vengé la mort de Lorniel et rendu son courage de Golodir. Merci.'"/>
-<label key="key:620759546:63183941" value="'Jamais je n'aurais pensé que ce jour viendrait. Le Faux Roi est tombé !'"/>
-<label key="key:620759546:63183942" value="'Maintenant que l'Intendant du Roi-Sorcier a été vaincu, les factions angmarim vont certainement reprendre leurs luttes intestines !'"/>
-<label key="key:620759546:63183943" value="'Après toutes ces années passées à me cacher sur ces terres, j'avais presque abandonné tout espoir de porter un si grand coup à la Couronne de Fer. Et pourtant, Mordirith est tombé !'"/>
-<label key="key:620759546:63183944" value="'L'espoir est revenu et le père de Lorniel a retrouvé son courage. Je crois que Lorniel serait heureuse aujourd'hui... Oui, c'est certain.'"/>
-<label key="key:620759546:63183945" value="'Bien que le Faux Roi n'ait été qu'un maillon des chaînes qui asservissent mon peuple, je sais qu'un jour les chaînes de l'esclavage seront à jamais brisées.'"/>
-<label key="key:620759546:94621393" value="Mordirith se trouve dans la salle du trône de Carn Dûm.&#10;&#10;Golodir vous a demandé de vous joindre à lui alors qu'il retourne à Carn Dûm pour affronter Mordirith, le Faux Roi, Intendant d'Angmar."/>
-<label key="key:620759546:94621394" value="Golodir est à Gath Forthnir.&#10;&#10;Après avoir vaincu Mordirith et rencontré la mystérieuse Sarah Chênecoeur, vous êtes ${PLAYERNAME:rentré[m]|rentrée[f]} à Gath Forthnir avec Golodir. Retournez le voir pour lui parler."/>
+<label key="key:620759546:136263298" value="You have defeated Mordirith"/>
+<label key="key:620759546:205636720" value="'To face so great an enemy and defeat him. Such strength does not dwell within me... We are honoured to have one such as you aid us.'"/>
+<label key="key:620759546:205636721" value="'The victory was bought at a great cost, yet no price is too high to pay if it results in the downfall of the Iron Crown!'"/>
+<label key="key:620759546:205636722" value="'Mordirith's defeat is but the first blow in our war against Angmar! Soon the Iron Crown will be topped and my kin will be free of them!'"/>
+<label key="key:620759546:205636723" value="'${PLAYER}! Thank you. Thank you for avenging Lorniel's death. She was such a fine girl... You've done well by her name!'"/>
+<label key="key:620759546:205636724" value="'${PLAYER}! The slayer of Mordirith! Your victory shall never be forgotten! Never!'"/>
+<label key="key:620759546:218649169" value="'The time for vengeance is at hand. Despite the strength you have seen within Angmar's bosom, it is a strength which may falter quickly. Mordirith, the False King, is a creature of great power, but I believe he may be hindered, if not destroyed altogether.&#10;&#10;'I will return to Carn Dûm and face Mordirith. It is time to cut Iron Crown from the head of this serpent. Will you stand with me?&#10;&#10;'We can use your key to pass through into that vile city once more and face Mordirith in the throne room of Carn Dûm. I will go on ahead...if your courage does not fail you, I will meet you there.'"/>
+<label key="key:620759546:218649170" value="'The False King has perished, though I dare not hope that such a creature will remain unseen. Like as not, he will simply recloak himself and return in greater power.&#10;&#10;'Nevertheless, it is a moral victory for the Free Peoples of Eriador. Still, we are not finished here....'"/>
+<label key="key:620759546:218649171" value="'Good, you have arrived! Now is the time to face Mordirith and make him pay for all that he has done. Here we shall strike a blow against Angmar, or die in the attempt!&#10;&#10;'Are you ready?'"/>
+<label key="key:620759546:22075073" value="Meet Golodir in throne room of Carn Dûm"/>
+<label key="key:620759546:22075075" value="Talk to Golodir in Gath Forthnír"/>
+<label key="key:620759546:228870261" value="Chapter 5: Mordirith's Fall"/>
+<label key="key:620759546:54354734" value="Laerdan's hopes of using the sword and armour of Golodir to renew the Ranger's spirit was not in vain. The sight of the shining shield of Gondor and of his bright-burning sword, Dúnachar, kindled within Golodir a new fire...perhaps a dangerous one."/>
+<label key="key:620759546:63183937" value="'If your courage does not fail you, I will meet you within Carn Dûm.'"/>
+<label key="key:620759546:63183938" value="'The debt of gratitude I owe you, ${PLAYER}, is not one that can be easily repaid. But be assured, I shall not forget all that you have done for me.'"/>
+<label key="key:620759546:63183939" value="'Mordirith's defeat is a great victory, but do not be mistaken: the war against Angmar is not yet won.'"/>
+<label key="key:620759546:63183940" value="'You have done well in restoring Golodir's hope and avenging Lorniel's death. Thank you.'"/>
+<label key="key:620759546:63183941" value="'I never thought the day would come! Mordirith has fallen!'"/>
+<label key="key:620759546:63183942" value="'The factions of Angmar will fall into infighting now that the Witch-king's Steward has been defeated!'"/>
+<label key="key:620759546:63183943" value="'Through the long years here, hiding, I had about given up hope of us ever striking such a blow against the Iron Crown. Yet, Mordirith has fallen!'"/>
+<label key="key:620759546:63183944" value="'Hope has returned, her father's spirit has been restored. I think Lorniel would be happy... yes, I know she would!'"/>
+<label key="key:620759546:63183945" value="'Although Mordirith was but a link in the shackles that bind my people, I know now that one day the shackles of slavery shall be utterly broken, forever!'"/>
+<label key="key:620759546:94621393" value="Mordirith can be found within the throne room of Carn Dûm.&#10;&#10;Golodir has asked you to join him as he returns to Carn Dûm to face Mordirith, the False King, Steward of Angmar."/>
+<label key="key:620759546:94621394" value="Meet with Golodir back in Gath Forthnír.&#10;&#10;Golodir is waiting to speak with you."/>
 <label key="key:620759548:218649169" value="'L'espoir qu'il reste à Golodir doit concerner ses compagnons. Il se peut que son équipement soit réparable par eux ou qu'ils puissent en faire quelque chose qui redonnera confiance à Golodir.&#10;&#10;'Apportez cet équipement au camp secret d'Esteldin, dans les Hauts du Nord. Je suis sûr que vous connaissez déjà l'endroit. Dites que c'est Laerdan d'Eregion qui vous envoie.&#10;&#10;'Il n'y a pas de temps à perdre !'"/>
 <label key="key:620759548:218649170" value="Le bouclier ne m'a pas posé de problème, bien que je n'en aie jamais vu de semblable auparavant. Ce n'était pas le bouclier de Golodir, il est beaucoup plus ancien et porte les insignes du Royaume du Sud. Très intéressant... Quoi qu'il en soit, il lui sera très utile.&#10;&#10;'Pour ce qui est de l'épée... c'est une autre histoire. Elle a été forgée par les Elfes il y a fort longtemps et je ne suis pas capable de la réparer. Désolé, j'ai fait ce que je pouvais.&#10;&#10;'Daervunn aura peut-être une idée de la manière dont il faudra s'y prendre pour réparer l'épée de Golodir.'"/>
 <label key="key:620759548:218649171" value="'L'équipement de Golodir ? Je ferai de mon mieux.&#10;&#10;'Hum... oui. Je crois que je saurai réparer son plastron de maille, mais je ne peux rien faire pour ce qui est de son bouclier et de son épée. Je crois cependant qu'un des armuriers d'Esteldin en sera capable. Allez porter l'épée et le bouclier à Toram. Pendant ce temps, je commencerai à m’occuper du plastron.'"/>
@@ -14641,16 +14641,16 @@
 <label key="key:620781592:63183937" value="'Faites très attention ! Je ne me le pardonnerais jamais si je vous envoyais à la mort.'"/>
 <label key="key:620781592:94621393" value="L'Epée du Guetteur se trouve quelque part à Nan Gurth.&#10;&#10;Nethraw vous a expliqué que la dernière des sept épées se trouvait à Nan Gurth, un lieu mortellement dangereux. Il a ajouté que vous devrez réunir des alliés pour pouvoir la récupérer."/>
 <label key="key:620781592:94621394" value="Nethraw se trouve au Temple des Sept Sentinelles, à l’est de Gabilshathûr.&#10;&#10;Vous devriez lui apporter l’Epée du Guetteur."/>
-<label key="key:620781593:218649169" value="'L'Epée du Crépuscule appartenait au seul Elfe de la compagnie des Sept Sentinelles. Son nom vient peut-être du sentiment commun à une bonne partie des Elfes, à savoir que leur temps sur la Terre du Milieu touche à sa fin. C'est peut-être également une allusion à la direction vers laquelle ils se retirent. Qui peut le dire ?&#10;&#10;'En tout cas, on raconte que l'épée de cet Elfe se trouve loin au nord, tout près de l'endroit depuis lequel mes frères espionnent Carn Dûm. Je pense qu'elle est cachée dans l'antre de grandes et terribles araignées. Nul ne peut espérer parvenir à la récupérer sans aide. Alors, une fois encore, je vous conseille de réunir des alliés pour cette quête.'"/>
-<label key="key:620781593:218649170" value="'Vous avez fait du bon travail jusque-là, mais il reste un grand défi à relever.'"/>
-<label key="key:620781593:218649171" value="'Où est l’Epée du Crépuscule ?'"/>
-<label key="key:620781593:22075073" value="Cherchez l’Epée du Crépuscule"/>
-<label key="key:620781593:22075074" value="Apportez l’Epée du Crépuscule back Nethraw"/>
-<label key="key:620781593:228870261" value="L’Epée du Crépuscule"/>
-<label key="key:620781593:54354734" value="Cinq des sept épées ont été récupérées. Il n'en manque plus que deux."/>
-<label key="key:620781593:63183937" value="‘J'espère que vous pourrez récupérer l'Epée du Crépuscule.'"/>
-<label key="key:620781593:94621393" value="L'Epée du Crépuscule se trouve dans un antre d'araignées, loin au nord, près de Gath Forthnir.&#10;&#10;Nethraw vous envoie la récupérer. Encore une fois, vous devrez apparemment réunir des alliés pour y arriver."/>
-<label key="key:620781593:94621394" value="Nethraw se trouve au Temple des Sept Sentinelles, à l’est de Gabilshathûr.&#10;&#10;Vous devriez lui apporter l’Epée du Crépuscule."/>
+<label key="key:620781593:218649169" value="'The Sword of Twilight was carried by the lone Elf in the company of the Seven Sentinels. The name of that sword perhaps derives from the feeling amongst some of the Elves that their time in Middle-earth draws to an end, and perhaps is an allusion to the direction of their retreat. Who can say?&#10;&#10;'At any odds, the tale says the Elf's sword may be found far to the north, not all that distant from the place my kindred have made for themselves to spy upon Carn Dûm. I believe the sword's hiding place is in a lair of great and terrible spiders. No one adventurer would be able to retrieve the sword alone, so once again I must counsel you to seek allies in your quest'"/>
+<label key="key:620781593:218649170" value="'You have done well to this point, but there is one great challenge left.'"/>
+<label key="key:620781593:218649171" value="'Where is the Sword of Twilight?'"/>
+<label key="key:620781593:22075073" value="Search for the Sword of Twilight"/>
+<label key="key:620781593:22075074" value="Bring the Sword of Twilight back to Nethraw"/>
+<label key="key:620781593:228870261" value="The Sword of Twilight"/>
+<label key="key:620781593:54354734" value="Five of the seven swords have been recovered, leaving only two."/>
+<label key="key:620781593:63183937" value="'I hope you will be able to retrieve the Sword of Twilight.'"/>
+<label key="key:620781593:94621393" value="The Sword of Twilight is in a lair of spiders far to the north, near Gath Forthnír.&#10;&#10;Nethraw has sent you in search of the Sword of Twilight, It seems once again that allies will be required to obtain the Sword from its hiding-place."/>
+<label key="key:620781593:94621394" value="Nethraw is back at the Fane of the Seven Sentinels, east of Gabilshathûr.&#10;&#10;You should bring the Sword of Twilight to Nethraw."/>
 <label key="key:620781659:136263297" value="Pierres précieuses brutes récupérées (${NUMBER}/${TOTAL})"/>
 <label key="key:620781659:218649169" value="'Salut. J'ai entendu parler de ce que vous avez fait pour nous. Nous vous devons une fière chandelle, c'est sûr. Alors peut-être que, pour vous remercier, je peux vous donner un bon tuyau.&#10;&#10;'Cachés ici, nous ne pouvons plus aller prospecter ni exploiter les filons gorgés de pierres précieuses qui sont les plus éloignés. Cela dit, nous savons que certains servants de l'Ennemi, trolls, Gorthorogs et autres, ont trouvé ces vieilles mines et ont commencé à les exploiter eux-mêmes.&#10;&#10;'Si vous voulez, vous pourriez aller chasser l’Ennemi dans le Gorothlad, près de Maethad. Nombre de ces êtres maléfiques se remplissent à coup sûr les poches de toutes les pierres précieuses qu'ils trouvent. Vous devriez pouvoir en récupérer. Je vous en donnerai un bon prix si vous pouvez m’en ramener.'"/>
 <label key="key:620781659:218649170" value="'Ah, vous avez fait du bon travail en récupérant toutes ces pierres. Ne craignez rien, je vais vous en donner un bon prix !'"/>
@@ -15027,15 +15027,15 @@
 <label key="key:620782009:228870261" value="Un château assailli"/>
 <label key="key:620782009:54354734" value="Uzulthrang le tyran est ici pour se battre et uniquement pour ça. En poste à l'extérieur de Tol Ascarnen, il a juré de combattre l'ennemi si vous lui prouvez que vous méritez son attention."/>
 <label key="key:620782009:94621393" value="Uzulthrang le tyran vous a demandé de rassembler des preuves de vos faits d'armes. Alors seulement, il vous aidera à éliminer les fous qui occupent Tol Ascarnen. Néanmoins, il ne vous a pas dit quelles preuves il désirait."/>
-<label key="key:620782020:136263297" value="Duramen du Bois Funeste récupéré (${NUMBER}/${TOTAL})"/>
-<label key="key:620782020:218649169" value="'Non pas que je doive me justifier auprès de toi, misérable vermisseau, mais je t'envoie en des lieux dangereux et je crains que tu n'en reviennes point. Je préfère donc assurer mes arrières.&#10;&#10;'Dans ce bois, il y a des arbres qui marchent. Des choses terribles qui méritent plus encore de mourir que les Petites Gens à l'est d'ici... Sauf que les arbres, ça ne se mange pas. Alors, écoute bien, minable.&#10;&#10;'Il me faut du duramen de ces arbres pour l'assemblée de sorcières en Angmar. Je gagnerai ainsi leurs faveurs et toi, tu auras celles des Krahjarn. Ça fait que tout le monde y trouve son compte et que, si tu t'en sors assez bien, je penserai à toi à l'avenir. Qu'en dis-tu ?'"/>
-<label key="key:620782020:218649170" value="'Les sorcières du nord me donneront une bonne récompense pour ça, et je partagerai les bénéfices, ${PLAYER}.&#10;&#10;'Je parlerai de toi aux chefs Krahjarn. Ils te connaîtront bien.'"/>
-<label key="key:620782020:218649171" value="'Tu attends quoi ? Une cuillère ? Va donc creuser les branches de ces arbres !'"/>
-<label key="key:620782020:22075073" value="Repartez voir le chef Torbok au camp de bûcherons du Bois Funeste"/>
-<label key="key:620782020:22075074" value="Récupérez du duramen du Bois Funeste (${NUMBER}/${TOTAL})"/>
-<label key="key:620782020:228870261" value="Au coeur du bois"/>
-<label key="key:620782020:54354734" value="Les Angmarim de la cité de Carn Dûm souhaitent acquérir du duramen prélevé au coeur des coupefeuilles du Bois Funeste. Une récompense vous a été promise si vous en ramenez."/>
-<label key="key:620782020:94621393" value="Le duramen du Bois Funeste se trouve sur les coupefeuilles, mais vous pourrez aussi vous en procurer sur les branches tombées au sol.&#10;&#10;Le chef Torbok vous a donné l'ordre de récupérer du duramen du Bois Funeste et de le lui rapporter."/>
+<label key="key:620782020:136263297" value="Collected Grimwood-heartwood (${NUMBER}/${TOTAL})"/>
+<label key="key:620782020:218649169" value="'Not that I've reason to explain myself, you worthless wretch, but I'm sending you into dangerous climes that I fear you will not return from, and I'd rather cover myself first.&#10;&#10;'Within this wood are trees that walk. Terrible things that need death more than the little folk east of here...only the tree things aren't good eating. Now listen well, cur.&#10;&#10;'I've need of the heartwood from these trees for the coven of witches in Angmar. I'll earn favour from them, and you in turn will earn favour from the Krahjarn. This makes things right all around, and if you do well enough, I will look to you in the future. What do you say?'"/>
+<label key="key:620782020:218649170" value="'The witches in the north will reward me well for these, and I will share in the strength that I gain, ${PLAYER}.&#10;&#10;'I will speak your name to the Krahjarn leaders. They will know you well.'"/>
+<label key="key:620782020:218649171" value="'What are you waiting for, a spoon? Go carve out those trees' hearts!'"/>
+<label key="key:620782020:22075073" value="Return to Chieftain Torbok at the Grimwood Lumber-yamp"/>
+<label key="key:620782020:22075074" value="Collect Grimwood-heartwood (${NUMBER}/${TOTAL})"/>
+<label key="key:620782020:228870261" value="Carving Out Hearts"/>
+<label key="key:620782020:54354734" value="The Angmarim within the city of Carn Dûm have a desire for the heartwood cut from the centre of the Leafcull-trees within the Grimwood. He has offered you a reward for collecting the heartwood."/>
+<label key="key:620782020:94621393" value="Grimwood-heartwood can be found on the Leafcull-trees, though you may possibly find it in the fallen logs as well.&#10;&#10;Chieftain Torbok directed you to recover and return Grimwood-heartwood to him."/>
 <label key="key:620782021:136263297" value="Racines du Bois Funeste récupérées (${NUMBER}/${TOTAL})"/>
 <label key="key:620782021:218649169" value="'Vermine ! Ton rôle dans cette guerre est très clair. Tu fais ce que disent les Krahjarn !&#10;&#10;'Dans les bois, il y a des arbustes. Ces arbustes et certains arbres tombés au sol te fourniront peut-être de longues racines. Il nous faut des racines du Bois Funeste pour attacher les poteaux entre eux.&#10;&#10;'Cet endroit doit être en parfait état quand l'ennemi reviendra. Si tu préfères quelque chose de plus martial, tu trouveras peut-être dans les bois des créatures qui ont des racines sur elles ! Alors, vas-y !'"/>
 <label key="key:620782021:218649170" value="'Ça fera l'affaire, mais tu as mis plus de temps que je ne t'en accordais, vermisseau ! A l'avenir, déplace-toi plus vite dans ces bois ou je m'occuperai personnellement de tes racines.'"/>
@@ -19775,18 +19775,18 @@
 <label key="key:620793764:228870261" value="Amener les troupes au Bois Funeste"/>
 <label key="key:620793764:54354734" value="Le Bois Funeste est tombé entre les mains de l'Angmar et les troupes sont revenues dans la zone fortifiée. Les forces qui restent ici sont peu nombreuses et, si elles ne reçoivent pas de soutien, les Peuples Libres reprendront à coup sûr cette position. Vous devez aller annoncer la nouvelle au Pied de Gram."/>
 <label key="key:620793764:94621393" value="Traversez les Landes d'Etten et annoncez au tyran guerroyeur Akulhun que la scierie du Bois Funeste a besoin de renforts.&#10;&#10;Le soldat Kraibag vous a donné l'ordre de trouver des renforts pour le Bois Funeste. Bien que la scierie soit contrôlée par l'Angmar, elle doit encore recevoir des renforts ou elle sera bien vite perdue au profit des Peuples Libres."/>
-<label key="key:620793765:136263297" value="Tu es pathétique. Quelqu'un d'autre va connaître la gloire à ta place !"/>
-<label key="key:620793765:136263298" value="On ne peut même pas te demander d'accomplir une simple mission de livraison, misérable minus."/>
-<label key="key:620793765:136263299" value="Misérable ! Les Peuples Libres ont pris le contrôle du Gouffre d'Isen !"/>
-<label key="key:620793765:218649169" value="'Je n'ai pas le temps de discuter si je veux réussir à organiser notre défense avec une force aussi réduite. &#10;&#10;'Repars au Pied de Gram et annonce au tyran guerroyeur qu’on a repris la mine. S'il compte sur nous pour défendre cet endroit gigantesque, il enverra des troupes.&#10;&#10;'File sur le champ et ne me déçois pas !'"/>
-<label key="key:620793765:218649170" value="'Plus de troupes au front, hein? Vous allez peut-être pouvoir me rendre fier de vous, minus ! Pour Angmar ! Pour Lugbûrz !'"/>
-<label key="key:620793765:22075073" value="Indiquez au tyran guerroyeur Akulhun que des renforts sont nécessaires à la mine du Gouffre d'Isen"/>
-<label key="key:620793765:22075074" value="Les renforts ne doivent pas atteindre Lugazag"/>
-<label key="key:620793765:22075075" value="Vous ne devez pas vous faire battre avant d'avoir remis le message"/>
-<label key="key:620793765:22075076" value="Les Peuples Libres ne doivent pas prendre le contrôle du Gouffre d'Isen !"/>
-<label key="key:620793765:228870261" value="Amener les troupes au Gouffre d'Isen"/>
-<label key="key:620793765:54354734" value="La mine du Gouffre d'Isen est tombée entre les mains de l'Angmar et les troupes sont revenues dans la zone fortifiée. Les forces qui restent ici sont peu nombreuses et, si elles ne reçoivent pas de soutien, les Peuples Libres reprendront à coup sûr cette position. Vous devez annoncer cette nouvelle au Pied de Gram."/>
-<label key="key:620793765:94621393" value="Traversez les Landes d'Etten et annoncez au tyran guerroyeur Akulhun que la mine du Gouffre d'Isen a besoin de renforts.&#10;&#10;Le soldat Baush vous a donné l'ordre de trouver des renforts pour le Gouffre d'Isen. Bien que la mine soit contrôlée par l'Angmar, elle doit encore recevoir des renforts ou elle sera bien vite perdue au profit des Peuples Libres."/>
+<label key="key:620793765:136263297" value="You are pathetic. Another claimed the glory meant for you!"/>
+<label key="key:620793765:136263298" value="You cannot even be trusted with a simple delivery task, useless wretch."/>
+<label key="key:620793765:136263299" value="Whelp! Free People have taken the Isendeep!"/>
+<label key="key:620793765:218649169" value="'I've little time for words if I am to organize a defence with such a withered force. &#10;&#10;'Return to Gramsfoot and deliver the War-tyrant the message that we have recovered the mine. He will send troops if he hopes to see us defend this massive space.&#10;&#10;'Go now and do not fail me!'"/>
+<label key="key:620793765:218649170" value="'More forces for the front, eh? You maggots might yet make me proud! For Angmar! For Lugbûrz!'"/>
+<label key="key:620793765:22075073" value="Inform War-tyrant Akúlhun that more forces are needed at the Isendeep Mine"/>
+<label key="key:620793765:22075074" value="Support must not arrive at the Isendeep"/>
+<label key="key:620793765:22075075" value="You must not be defeated before delivering the message"/>
+<label key="key:620793765:22075076" value="The Free People must not control the Isendeep Mine!"/>
+<label key="key:620793765:228870261" value="Get the Troops to the Isendeep"/>
+<label key="key:620793765:54354734" value="The Isendeep Mine is fallen to the hands of Angmar, and the forces have returned to the fortified section of the area. The forces here are meager and if left unsupported the Free Peoples will surely recover the location. You must get word to Gramsfoot."/>
+<label key="key:620793765:94621393" value="Cross the Ettenmoors and deliver the message to War-tyrant Akúlhun that the Isendeep Mine is in need of reinforcement.&#10;&#10;Soldier Baush ordered you to seek reinforcements for the Isendeep. Though the mine is controlled by Angmar, it must be reinforced or it will be summarily lost to the Free People."/>
 <label key="key:620793766:136263297" value="Tu es pathétique. Quelqu'un d'autre va connaître la gloire à ta place !"/>
 <label key="key:620793766:136263298" value="On ne peut même pas te demander d'accomplir une simple mission de livraison, misérable minus."/>
 <label key="key:620793766:136263299" value="${PLAYERNAME:Bon[m]|Bonne[f]} à rien ! Les Peuples Libres se sont emparés de Lugazag !"/>

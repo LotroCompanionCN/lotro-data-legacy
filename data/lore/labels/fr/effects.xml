@@ -1242,12 +1242,12 @@
 <label key="1879089854" value="Quitter l'état Cheval"/>
 <label key="1879089855" value="Quitter l'état Cheval"/>
 <label key="1879089856" value="Quitter l'état Cheval"/>
-<label key="1879089863" value="Les chasseurs se rendent à l'ouest de l'Angmar"/>
-<label key="1879089864" value="Les chasseurs se rendent à l'est de l'Angmar"/>
+<label key="1879089863" value="Hunter Travel to West Angmar"/>
+<label key="1879089864" value="Hunter Travel to East Angmar"/>
 <label key="1879089865" value="Retour au campement"/>
-<label key="1879089866" value="Voyage de Chasseur jusqu'à Ost Guruth"/>
-<label key="1879089867" value="Voyage de Chasseur jusqu'à Grand'Cave"/>
-<label key="1879089868" value="Aller à Fondcombe (chasseur)"/>
+<label key="1879089866" value="Hunter Travel to Ost Guruth"/>
+<label key="1879089867" value="Hunter Travel to Michel Delving"/>
+<label key="1879089868" value="Hunter Travel to Evendim"/>
 <label key="1879089879" value="Force de la Terre"/>
 <label key="1879089968" value="Rôdeur enraciné"/>
 <label key="1879090229" value="Dévastation"/>

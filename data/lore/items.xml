@@ -13182,7 +13182,7 @@
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879052102"/>
 </stats>
 </item>
-<item key="1879054266" name="Heavy Iron Collar" pluralName="key:620760805:98907573" icon="1090523820-1090519721-1090523822" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620760805:54354734" valueTableId="1879049280" stackMax="5">
+<item key="1879054266" name="Heavy Iron Collar" pluralName="key:620760805:98907573" icon="1090523820-1090519721-1090523822" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" description="key:620760805:54354734" valueTableId="1879049280" stackMax="5">
 <stats/>
 </item>
 <item key="1879054268" name="Tough Boar-meat" pluralName="key:620760807:98907573" icon="1090530348-1090519721-1090530349" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620760807:54354734" valueTableId="1879049280" stackMax="10">
