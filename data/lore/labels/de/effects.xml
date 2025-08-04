@@ -1008,7 +1008,7 @@
 <label key="1879084527" value="Wiederhergestellte Lebensenergie"/>
 <label key="1879084529" value="Verbesserte Kraft"/>
 <label key="1879084530" value="Verbesserte Kraft"/>
-<label key="1879084540" value="Verpflichtet"/>
+<label key="1879084540" value="Duty Bound"/>
 <label key="1879084542" value="Mírdanants Inspiration[n]"/>
 <label key="1879084788" value="Hoffnung geben"/>
 <label key="1879084793" value="Eiskalte Luft"/>
@@ -1228,7 +1228,7 @@
 <label key="1879089501" value="Zärtliche Flammen"/>
 <label key="1879089502" value="Quälende Schatten"/>
 <label key="1879089503" value="Quälende Flammen"/>
-<label key="1879089620" value="Geringe Beharrlichkeit"/>
+<label key="1879089620" value="Lesser Persistence"/>
 <label key="1879089625" value="Inspirieren"/>
 <label key="1879089626" value="Combo Schlag des Helden/Schrei des Helden"/>
 <label key="1879089627" value="Schildbruder"/>
@@ -2148,8 +2148,8 @@
 <label key="key:620783959:181298206" value="Betäubt 3 Sek. lang"/>
 <label key="key:620783960:181298206" value="Betäubt 3 Sek. lang"/>
 <label key="key:620783961:181298206" value="Betäubt 3 Sek. lang"/>
-<label key="key:620784400:181298206" value="Gibt den Gefährten einen Moralbonus"/>
-<label key="key:620784400:54354734" value="Hebt die Moral Eurer Gefährten."/>
+<label key="key:620784400:181298206" value="Adds a bonus to your fellowship's morale."/>
+<label key="key:620784400:54354734" value="The fellowship's morale is boosted."/>
 <label key="key:620784435:181298206" value="Beschwört einen Jäger, der seinem Herren folgt."/>
 <label key="key:620784436:106251889" value="Erhöht Eure Gesamtmoral um ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="Die Ehre der Menschen erhöht die Moral."/>
@@ -2264,7 +2264,7 @@
 <label key="key:620791434:54354734" value="Die Angst umschnürt Euer Herz fester und fester. Wenn dieser Zustand nicht bald kuriert wird, ist Eure Niederlage nicht mehr abzuwenden."/>
 <label key="key:620791436:106251889" value="Ziel kann weder parieren noch blocken oder ausweichen."/>
 <label key="key:620791436:54354734" value="Ihr fühlt eine zunehmende Hitze in Eurer Brust. Wenn dieser Zustand nicht bald kuriert wird, ist Eure Niederlage nicht mehr abzuwenden."/>
-<label key="key:620791508:106251889" value="+${VALUE}"/>
+<label key="key:620791508:106251889" value="+${VALUE} Armour Increase"/>
 <label key="key:620791513:181298206" value="Euer Angriff motiviert Euren Schildbruder und erhöht seine Moral."/>
 <label key="key:620791513:54354734" value="Ihr seid inspiriert!"/>
 <label key="key:620791516:54354734" value="Ihr seid der Schildbruder eines Hauptmanns, der ihm ermöglicht, spezielle Fähigkeiten auf Euch zu lenken."/>

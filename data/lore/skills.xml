@@ -4766,7 +4766,7 @@
 </details>
 </skill>
 <skill identifier="1879064198" name="Song of Restoration" category="40" iconId="1090553802" description="key:620774990:228830419">
-<details actionDurationContribution="2.0" inductionId="1879073141" cooldown="1800.0" cooldownMods="268440643">
+<details actionDurationContribution="2.0" inductionId="1879073141" cooldown="1800.0" cooldownMods="268442488">
 <geometry maxRange="10.0"/>
 <powerCost points="300.0" mods="268435918"/>
 <attack>
@@ -4897,7 +4897,7 @@
 </details>
 </skill>
 <skill identifier="1879064209" name="Lay of the Hammerhand" category="26" iconId="1090553819" description="key:620775020:228830419">
-<details actionDurationContribution="1.5" cooldown="600.0" cooldownMods="268440643" flags="32">
+<details actionDurationContribution="1.5" cooldown="600.0" cooldownMods="268442490" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879073176" name="Lay of the Hammerhand"/>
 </effectsMgr>
@@ -7689,7 +7689,7 @@
 </skill>
 <skill identifier="1879076075" name="Fellowship's Heart" category="26" iconId="1090561250" description="key:620777560:228830419">
 <requiredTrait id="1879076074" name="Fellowship's Heart"/>
-<details actionDurationContribution="2.0" inductionId="1879076077" cooldown="1800.0" cooldownMods="268440643">
+<details actionDurationContribution="2.0" inductionId="1879076077" cooldown="1800.0" cooldownMods="268442488">
 <geometry detectionAnchor="3" shape="sphere" radius="20.0"/>
 <powerCost pointsProgression="1879076076" mods="268438244"/>
 <attack damageQualifier="2">

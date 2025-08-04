@@ -1008,7 +1008,7 @@
 <label key="1879084527" value="Santé restaurée"/>
 <label key="1879084529" value="Puissance augmentée"/>
 <label key="1879084530" value="Puissance augmentée"/>
-<label key="1879084540" value="Lié par le devoir"/>
+<label key="1879084540" value="Duty Bound"/>
 <label key="1879084542" value="Mírdanant's Inspiration[n]"/>
 <label key="1879084788" value="Don d'espoir[n]"/>
 <label key="1879084793" value="Air froid"/>
@@ -1228,7 +1228,7 @@
 <label key="1879089501" value="Caresse des flammes"/>
 <label key="1879089502" value="Affliction de l'ombre"/>
 <label key="1879089503" value="Affliction du feu"/>
-<label key="1879089620" value="Persévérance moindre"/>
+<label key="1879089620" value="Lesser Persistence"/>
 <label key="1879089625" value="Inspiration"/>
 <label key="1879089626" value="Combo Attaque héroïque/Cri héroïque"/>
 <label key="1879089627" value="Porté : confère une faible chance de renverser l'adversaire."/>
@@ -2148,8 +2148,8 @@
 <label key="key:620783959:181298206" value="Etourdit pendant 3 s"/>
 <label key="key:620783960:181298206" value="Etourdit pendant 3 s"/>
 <label key="key:620783961:181298206" value="Etourdit pendant 3 s"/>
-<label key="key:620784400:181298206" value="Ajoute un bonus au Moral de votre communauté."/>
-<label key="key:620784400:54354734" value="Le Moral de la communauté est regonflé."/>
+<label key="key:620784400:181298206" value="Adds a bonus to your fellowship's morale."/>
+<label key="key:620784400:54354734" value="The fellowship's morale is boosted."/>
 <label key="key:620784435:181298206" value="Invoque un chasseur pour qu'il suive son chef."/>
 <label key="key:620784436:106251889" value="Augmente votre Moral total de ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="L'honneur des Hommes augmente le Moral."/>
@@ -2264,7 +2264,7 @@
 <label key="key:620791434:54354734" value="La terreur étreint votre coeur. Sans soins, elle vous terrassera bientôt."/>
 <label key="key:620791436:106251889" value="La cible ne peut plus parer, bloquer ou esquiver"/>
 <label key="key:620791436:54354734" value="Une chaleur intense enfle dans votre poitrine. Sans soins, elle vous terrassera bientôt."/>
-<label key="key:620791508:106251889" value="+${VALUE}"/>
+<label key="key:620791508:106251889" value="+${VALUE} Armour Increase"/>
 <label key="key:620791513:181298206" value="Votre attaque inspire votre frère de bouclier et lui remonte le moral."/>
 <label key="key:620791513:54354734" value="Vous avez de l'inspiration !"/>
 <label key="key:620791516:54354734" value="Vous êtes un frère de bouclier du capitaine, ce qui leur permet de vous prendre pour cible pour ses aptitudes spéciales."/>

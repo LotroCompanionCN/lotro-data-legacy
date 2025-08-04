@@ -568,6 +568,8 @@
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
 <stat name="Craft_Forester_CriticalChanceAddModifier" descriptionOverride="-" constant="9.0"/>
+<stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
+<stat name="Craft_Prospector_CriticalChanceAddModifier" descriptionOverride="-" constant="9.0"/>
 </consumable>
 <consumable identifier="1879087821" name="Summer Ale">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>

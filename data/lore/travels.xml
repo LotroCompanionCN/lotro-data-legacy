@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?><travelsWeb>
+<destination id="1879072601" name="Aughaire"/>
+<destination id="1879072603" name="Esteldin"/>
+<destination id="1879072608" name="Angmar Outpost"/>
+<destination id="1879072612" name="South Bree"/>
+<destination id="1879072617" name="The Forsaken Inn"/>
+<destination id="1879072621" name="West Bree"/>
+<destination id="1879072626" name="Combe"/>
+<destination id="1879072629" name="Rivendell: Swift Travel"/>
+<destination id="1879072639" name="Buckland"/>
+<destination id="1879072651" name="Trestlebridge"/>
+<destination id="1879072654" name="Hobbiton"/>
+<destination id="1879072662" name="Thorin's Gate: Swift Travel"/>
+<destination id="1879072664" name="Esteldin: Swift Travel"/>
+<destination id="1879072666" name="Michel Delving: Swift Travel"/>
+<destination id="1879072680" name="Stock"/>
+<destination id="1879072681" name="Duillond"/>
+<destination id="1879072686" name="Needlehole"/>
+<destination id="1879072694" name="Gondamon"/>
+<destination id="1879072697" name="Thorin's Gate"/>
+<destination id="1879072699" name="Celondim"/>
+<destination id="1879072713" name="Ered Luin Outpost"/>
+<destination id="1879072718" name="Michel Delving"/>
+<destination id="1879072728" name="Celondim: Swift Travel"/>
+<destination id="1879072729" name="West Bree: Swift Travel"/>
+<destination id="1879072735" name="Ost Guruth"/>
+<destination id="1879072745" name="Thorenhad"/>
+<destination id="1879072749" name="Rivendell"/>
+<destination id="1879072752" name="Amon Raith"/>
+<destination id="1879072774" name="Othrikar"/>
+<destination id="1879072777" name="Mincham's Camp"/>
+<destination id="1879072785" name="North Downs Outpost"/>
+<destination id="1879072810" name="Brockenborings"/>
+<destination id="1879072838" name="Scary"/>
+<destination id="1879072844" name="Compromise Alley"/>
+<destination id="1879072846" name="Thorenhad"/>
+<destination id="1879072861" name="South Bree: Swift Travel"/>
+<destination id="1879072866" name="Ettenmoors: Swift Travel"/>
+<destination id="1879088157" name="Tinnudir"/>
+<destination id="1879088484" name="Oatbarton"/>
+<destination id="1879088490" name="Ost Forod"/>
+<destination id="1879102110" name="Falathlorn Homesteads"/>
+<destination id="1879102111" name="Bree-land Homesteads"/>
+<destination id="1879102355" name="Shire Homesteads"/>
+<route id="1879072602" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879072604" headName="travel_segment_from_nomadmoot_going_south"/>
+<routeAction id="1879072605" headName="travel_segment_seg_nomadmoot_to_nanamlug_east"/>
+<routeAction id="1879072606" headName="travel_segment_seg_nanamlug_east_to_esteldin"/>
+<routeAction id="1879072607" headName="travel_segment_to_esteldin_going_west"/>
+</route>
+<route id="1879072609" name="Aughaire" destinationID="1879072601" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072611" location="travel_angmar_nomadmoot"/>
+</route>
+<route id="1879072613" name="The Forsaken Inn" destinationID="1879072617" mode="HORSE">
+<routeAction id="1879072618" headName="from_bree_east_east"/>
+<routeAction id="1879072619" headName="seg_eastroad_bree_to_forsakeninn"/>
+<routeAction id="1879102106" headName="travel_segment_from_bree_housing_east"/>
+<routeAction id="1879072620" headName="to_forsakeninn_west"/>
+</route>
+<route id="1879072614" name="West Bree: Swift Travel" destinationID="1879072729" mode="HORSE">
+<routeAction id="1879072622" headName="travel_segment_from_bree_east_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072625" headName="travel_segment_to_bree_west_going_west"/>
+</route>
+<route id="1879072615" name="Combe" destinationID="1879072626" mode="HORSE">
+<routeAction id="1879072622" headName="travel_segment_from_bree_east_going_west"/>
+<routeAction id="1879072623" headName="travel_segment_seg_bree_east_to_bree_center"/>
+<routeAction id="1879072627" headName="travel_segment_seg_bree_center_to_combe"/>
+<routeAction id="1879072628" headName="travel_segment_to_combe_going_north"/>
+</route>
+<route id="1879072616" name="Rivendell: Swift Travel" destinationID="1879072629" mode="HORSE">
+<routeAction id="1879072618" headName="from_bree_east_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072631" headName="travel_segment_to_rivendell_going_north"/>
+</route>
+<route id="1879072632" name="Buckland" destinationID="1879072639" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072641" headName="travel_segment_seg_eastroad_greenway_crossing_to_adsos_wagon"/>
+<routeAction id="1879072642" headName="travel_segment_to_adsos_wagon_going_west"/>
+<routeAction id="1879072643" headName="travel_segment_from_adsos_wagon_going_west"/>
+<routeAction id="1879072644" headName="travel_segment_seg_eastroad_adsos_wagon_to_brandywine_bridge"/>
+<routeAction id="1879072645" headName="travel_segment_seg_brandywine_bridge_buckland_center"/>
+<routeAction id="1879072646" headName="travel_segment_to_buckland_center"/>
+</route>
+<route id="1879072633" name="South Bree: Swift Travel" destinationID="1879072861" mode="HORSE">
+<routeAction id="1879072647" headName="travel_segment_from_bree_west_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072650" headName="travel_segment_to_bree_east_going_east"/>
+</route>
+<route id="1879072634" name="Trestlebridge" destinationID="1879072651" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072652" headName="travel_segment_seg_greenway_crossing_to_trestlebridge"/>
+<routeAction id="1879072653" headName="travel_segment_to_trestlebridge_going_north"/>
+</route>
+<route id="1879072635" name="Hobbiton" destinationID="1879072654" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072641" headName="travel_segment_seg_eastroad_greenway_crossing_to_adsos_wagon"/>
+<routeAction id="1879072642" headName="travel_segment_to_adsos_wagon_going_west"/>
+<routeAction id="1879072643" headName="travel_segment_from_adsos_wagon_going_west"/>
+<routeAction id="1879072644" headName="travel_segment_seg_eastroad_adsos_wagon_to_brandywine_bridge"/>
+<routeAction id="1879072655" headName="travel_segment_seg_eastroad_brandywine_bridge_to_stock"/>
+<routeAction id="1879072656" headName="travel_segment_to_stock_going_west"/>
+<routeAction id="1879072657" headName="travel_segment_from_stock_going_west"/>
+<routeAction id="1879072658" headName="travel_segment_seg_eastroad_stock_to_budgeford"/>
+<routeAction id="1879072659" headName="travel_segment_seg_eastroad_budgeford_to_hobbiton_crossing"/>
+<routeAction id="1879072660" headName="travel_segment_seg_hobbiton_crossing_to_hobbiton"/>
+<routeAction id="1879072661" headName="travel_segment_to_hobbiton_going_north"/>
+</route>
+<route id="1879072636" name="Thorin's Gate: Swift Travel" destinationID="1879072662" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072663" headName="travel_segment_to_thorinsgate_going_west"/>
+</route>
+<route id="1879072637" name="Esteldin: Swift Travel" destinationID="1879072664" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
+</route>
+<route id="1879072638" name="Michel Delving: Swift Travel" destinationID="1879072666" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072667" headName="travel_segment_to_micheldelving_going_west"/>
+</route>
+<route id="1879072668" name="South Bree" destinationID="1879072612" mode="HORSE">
+<routeAction id="1879072669" headName="travel_segment_from_combe_going_south"/>
+<routeAction id="1879072670" headName="travel_segment_seg_combe_to_bree_center"/>
+<routeAction id="1879072649" headName="travel_segment_seg_bree_center_to_bree_east"/>
+<routeAction id="1879072650" headName="travel_segment_to_bree_east_going_east"/>
+</route>
+<route id="1879072671" name="West Bree" destinationID="1879072621" mode="HORSE">
+<routeAction id="1879072673" headName="travel_segment_from_buckland_center_going_north"/>
+<routeAction id="1879072674" headName="travel_segment_seg_buckland_center_to_brandywine_bridge"/>
+<routeAction id="1879072675" headName="travel_segment_seg_eastroad_brandywine_bridge_to_adsos_wagon"/>
+<routeAction id="1879072676" headName="travel_segment_to_adsos_wagon_going_east"/>
+<routeAction id="1879072677" headName="travel_segment_from_adsos_wagon_going_east"/>
+<routeAction id="1879072678" headName="travel_segment_seg_eastroad_adsos_wagon_to_greenway_crossing"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879072672" name="Stock" destinationID="1879072680" mode="HORSE">
+<routeAction id="1879072673" headName="travel_segment_from_buckland_center_going_north"/>
+<routeAction id="1879072674" headName="travel_segment_seg_buckland_center_to_brandywine_bridge"/>
+<routeAction id="1879072655" headName="travel_segment_seg_eastroad_brandywine_bridge_to_stock"/>
+<routeAction id="1879072656" headName="travel_segment_to_stock_going_west"/>
+</route>
+<route id="1879072682" name="Needlehole" destinationID="1879072686" mode="HORSE">
+<routeAction id="1879072687" headName="travel_segment_from_duilond"/>
+<routeAction id="1879072688" headName="travel_segment_seg_duilond_road_going_north"/>
+<routeAction id="1879072689" headName="travel_segment_seg_duilond_to_shire_gate"/>
+<routeAction id="1879072690" headName="travel_segment_to_shire_gate_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072691" headName="travel_segment_from_rushock_gate_going_east"/>
+<routeAction id="1879072692" headName="travel_segment_seg_rushock_gate_to_needlehole"/>
+<routeAction id="1879072693" headName="travel_segment_to_needlehole_going_east"/>
+</route>
+<route id="1879072683" name="Gondamon" destinationID="1879072694" mode="HORSE">
+<routeAction id="1879072687" headName="travel_segment_from_duilond"/>
+<routeAction id="1879072688" headName="travel_segment_seg_duilond_road_going_north"/>
+<routeAction id="1879072695" headName="travel_segment_seg_duilond_to_gondamon"/>
+<routeAction id="1879072696" headName="travel_segment_to_gondamon"/>
+</route>
+<route id="1879072684" name="Thorin's Gate" destinationID="1879072697" mode="HORSE">
+<routeAction id="1879072687" headName="travel_segment_from_duilond"/>
+<routeAction id="1879072688" headName="travel_segment_seg_duilond_road_going_north"/>
+<routeAction id="1879072695" headName="travel_segment_seg_duilond_to_gondamon"/>
+<routeAction id="1879072698" headName="travel_segment_seg_gondamon_to_thorinsgate"/>
+<routeAction id="1879072663" headName="travel_segment_to_thorinsgate_going_west"/>
+</route>
+<route id="1879072685" name="Celondim" destinationID="1879072699" mode="HORSE">
+<routeAction id="1879072687" headName="travel_segment_from_duilond"/>
+<routeAction id="1879072700" headName="travel_segment_seg_duilond_to_celondim"/>
+<routeAction id="1879072701" headName="travel_segment_to_celondim_going_south"/>
+</route>
+<route id="1879072702" name="Duillond" destinationID="1879072681" mode="HORSE">
+<routeAction id="1879072705" headName="travel_segment_from_celondim_going_north"/>
+<routeAction id="1879072706" headName="travel_segment_seg_celondim_to_duilond"/>
+<routeAction id="1879072707" headName="travel_segment_to_duilond"/>
+</route>
+<route id="1879072703" name="Thorin's Gate: Swift Travel" destinationID="1879072662" mode="HORSE">
+<routeAction id="1879072705" headName="travel_segment_from_celondim_going_north"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072663" headName="travel_segment_to_thorinsgate_going_west"/>
+</route>
+<route id="1879072704" name="Michel Delving: Swift Travel" destinationID="1879072666" mode="HORSE">
+<routeAction id="1879072705" headName="travel_segment_from_celondim_going_north"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072667" headName="travel_segment_to_micheldelving_going_west"/>
+</route>
+<route id="1879072708" name="Thorin's Gate" destinationID="1879072697" mode="HORSE">
+<routeAction id="1879072710" headName="travel_segment_from_gondamon"/>
+<routeAction id="1879072698" headName="travel_segment_seg_gondamon_to_thorinsgate"/>
+<routeAction id="1879072663" headName="travel_segment_to_thorinsgate_going_west"/>
+</route>
+<route id="1879072709" name="Duillond" destinationID="1879072681" mode="HORSE">
+<routeAction id="1879072710" headName="travel_segment_from_gondamon"/>
+<routeAction id="1879072711" headName="travel_segment_seg_gondamon_to_duilond"/>
+<routeAction id="1879072712" headName="travel_segment_seg_duilond_road_going_south"/>
+<routeAction id="1879072707" headName="travel_segment_to_duilond"/>
+</route>
+<route id="1879072714" name="Gondamon" destinationID="1879072694" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072717" location="travel_eredluin_gondamon"/>
+</route>
+<route id="1879072715" name="Michel Delving" destinationID="1879072718" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072719" location="travel_shire_micheldelving"/>
+</route>
+<route id="1879072716" name="Celondim" destinationID="1879072699" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072720" location="travel_eredluin_elfharbor"/>
+</route>
+<route id="1879072721" name="Gondamon" destinationID="1879072694" mode="HORSE">
+<routeAction id="1879072726" headName="travel_segment_from_thorinsgate_going_east"/>
+<routeAction id="1879072727" headName="travel_segment_seg_thorinsgate_to_gondamon"/>
+<routeAction id="1879072696" headName="travel_segment_to_gondamon"/>
+</route>
+<route id="1879072722" name="Duillond" destinationID="1879072681" mode="HORSE">
+<routeAction id="1879072726" headName="travel_segment_from_thorinsgate_going_east"/>
+<routeAction id="1879072727" headName="travel_segment_seg_thorinsgate_to_gondamon"/>
+<routeAction id="1879072711" headName="travel_segment_seg_gondamon_to_duilond"/>
+<routeAction id="1879072712" headName="travel_segment_seg_duilond_road_going_south"/>
+<routeAction id="1879072707" headName="travel_segment_to_duilond"/>
+</route>
+<route id="1879072723" name="Celondim: Swift Travel" destinationID="1879072728" mode="HORSE">
+<routeAction id="1879072726" headName="travel_segment_from_thorinsgate_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072701" headName="travel_segment_to_celondim_going_south"/>
+</route>
+<route id="1879072724" name="Michel Delving: Swift Travel" destinationID="1879072666" mode="HORSE">
+<routeAction id="1879072726" headName="travel_segment_from_thorinsgate_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072667" headName="travel_segment_to_micheldelving_going_west"/>
+</route>
+<route id="1879072725" name="West Bree: Swift Travel" destinationID="1879072729" mode="HORSE">
+<routeAction id="1879072726" headName="travel_segment_from_thorinsgate_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879072730" name="South Bree" destinationID="1879072612" mode="HORSE">
+<routeAction id="1879072732" headName="travel_segment_from_forsakeninn_going_west"/>
+<routeAction id="1879072733" headName="travel_segment_seg_eastroad_forsakeninn_to_bree"/>
+<routeAction id="1879072734" headName="travel_segment_to_bree_east_going_west"/>
+</route>
+<route id="1879072731" name="Ost Guruth" destinationID="1879072735" mode="HORSE">
+<routeAction id="1879072736" headName="travel_segment_from_forsakeninn_going_east"/>
+<routeAction id="1879072737" headName="travel_segment_seg_forsakeninn_to_ostguruth"/>
+<routeAction id="1879072738" headName="travel_segment_to_ostguruth"/>
+</route>
+<route id="1879072739" name="The Forsaken Inn" destinationID="1879072617" mode="HORSE">
+<routeAction id="1879072742" headName="travel_segment_from_ostguruth"/>
+<routeAction id="1879072743" headName="travel_segment_seg_ostguruth_to_forsakeninn"/>
+<routeAction id="1879072744" headName="travel_segment_to_forsakeninn_going_west"/>
+</route>
+<route id="1879072740" name="Thorenhad" destinationID="1879072745" mode="HORSE">
+<routeAction id="1879072742" headName="travel_segment_from_ostguruth"/>
+<routeAction id="1879072746" headName="travel_segment_seg_eastroad_ostguruth_to_thorenhad_crossing"/>
+<routeAction id="1879072747" headName="travel_segment_seg_thorenhad_crossing_to_thorenhad"/>
+<routeAction id="1879072748" headName="travel_segment_to_thorenhad_going_north"/>
+</route>
+<route id="1879072741" name="Rivendell" destinationID="1879072749" mode="HORSE">
+<routeAction id="1879072742" headName="travel_segment_from_ostguruth"/>
+<routeAction id="1879072746" headName="travel_segment_seg_eastroad_ostguruth_to_thorenhad_crossing"/>
+<routeAction id="1879072750" headName="travel_segment_seg_eastroad_thorenhad_crossing_to_rivendell_southpath"/>
+<routeAction id="1879072751" headName="travel_segment_seg_rivendell_southpath_to_rivendell"/>
+<routeAction id="1879072631" headName="travel_segment_to_rivendell_going_north"/>
+</route>
+<route id="1879072753" name="Trestlebridge" destinationID="1879072651" mode="HORSE">
+<routeAction id="1879072755" headName="travel_segment_from_amonraith"/>
+<routeAction id="1879088478" headName="travel_segment_seg_amon_raith_to_fornost_fields"/>
+<routeAction id="1879088479" headName="travel_segment_seg_fornost_fields_to_trestlebridge"/>
+<routeAction id="1879072757" headName="travel_segment_to_trestlebridge_going_south"/>
+</route>
+<route id="1879072754" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879072755" headName="travel_segment_from_amonraith"/>
+<routeAction id="1879072758" headName="travel_segment_seg_amonraith_to_esteldin_crossing"/>
+<routeAction id="1879072759" headName="travel_segment_seg_esteldin_crossing_to_esteldin"/>
+<routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
+</route>
+<route id="1879072760" name="Trestlebridge" destinationID="1879072651" mode="HORSE">
+<routeAction id="1879072766" headName="travel_segment_from_esteldin_going_west"/>
+<routeAction id="1879072767" headName="travel_segment_seg_esteldin_to_esteldin_crossing"/>
+<routeAction id="1879072768" headName="travel_segment_seg_esteldin_crossing_to_amonraith"/>
+<routeAction id="1879088478" headName="travel_segment_seg_amon_raith_to_fornost_fields"/>
+<routeAction id="1879088479" headName="travel_segment_seg_fornost_fields_to_trestlebridge"/>
+<routeAction id="1879072757" headName="travel_segment_to_trestlebridge_going_south"/>
+</route>
+<route id="1879072761" name="Aughaire" destinationID="1879072601" mode="HORSE">
+<routeAction id="1879072769" headName="travel_segment_from_esteldin_going_east"/>
+<routeAction id="1879072770" headName="travel_segment_seg_esteldin_to_nanamlug_east"/>
+<routeAction id="1879072771" headName="travel_segment_seg_nanamlug_east_to_nomadmoot"/>
+<routeAction id="1879072772" headName="travel_segment_to_nomadmoot_going_north"/>
+</route>
+<route id="1879072762" name="Amon Raith" destinationID="1879072752" mode="HORSE">
+<routeAction id="1879072766" headName="travel_segment_from_esteldin_going_west"/>
+<routeAction id="1879072767" headName="travel_segment_seg_esteldin_to_esteldin_crossing"/>
+<routeAction id="1879072768" headName="travel_segment_seg_esteldin_crossing_to_amonraith"/>
+<routeAction id="1879072773" headName="travel_segment_to_amonraith"/>
+</route>
+<route id="1879072763" name="Othrikar" destinationID="1879072774" mode="HORSE">
+<routeAction id="1879072766" headName="travel_segment_from_esteldin_going_west"/>
+<routeAction id="1879072767" headName="travel_segment_seg_esteldin_to_esteldin_crossing"/>
+<routeAction id="1879072775" headName="travel_segment_seg_esteldin_crossing_to_othrikar"/>
+<routeAction id="1879072776" headName="travel_segment_to_othrikar"/>
+</route>
+<route id="1879072764" name="West Bree: Swift Travel" destinationID="1879072729" mode="HORSE">
+<routeAction id="1879072766" headName="travel_segment_from_esteldin_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879072765" name="Rivendell: Swift Travel" destinationID="1879072629" mode="HORSE">
+<routeAction id="1879072766" headName="travel_segment_from_esteldin_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072631" headName="travel_segment_to_rivendell_going_north"/>
+</route>
+<route id="1879072778" name="Trestlebridge" destinationID="1879072651" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072780" location="travel_northdowns_trestlebridge"/>
+</route>
+<route id="1879072779" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072781" location="travel_northdowns_esteldin"/>
+</route>
+<route id="1879072782" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879072783" headName="travel_segment_from_othrikar"/>
+<routeAction id="1879072784" headName="travel_segment_seg_othrikar_to_esteldin_crossing"/>
+<routeAction id="1879072759" headName="travel_segment_seg_esteldin_crossing_to_esteldin"/>
+<routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
+</route>
+<route id="1879072786" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072781" location="travel_northdowns_esteldin"/>
+</route>
+<route id="1879072787" name="Ost Guruth" destinationID="1879072735" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072788" location="travel_lonelands_ruinhold"/>
+</route>
+<route id="1879072789" name="West Bree" destinationID="1879072621" mode="HORSE">
+<routeAction id="1879072792" headName="travel_segment_from_trestlebridge_going_south"/>
+<routeAction id="1879072793" headName="travel_segment_seg_trestlebridge_to_greenway_crossing"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879072790" name="Amon Raith" destinationID="1879072752" mode="HORSE">
+<routeAction id="1879072794" headName="travel_segment_from_trestlebridge_going_north"/>
+<routeAction id="1879088476" headName="travel_segment_seg_trestlebridge_to_fornost_fields"/>
+<routeAction id="1879088477" headName="travel_segment_seg_fornost_fields_to_amon_raith"/>
+<routeAction id="1879072773" headName="travel_segment_to_amonraith"/>
+</route>
+<route id="1879072791" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879072794" headName="travel_segment_from_trestlebridge_going_north"/>
+<routeAction id="1879088476" headName="travel_segment_seg_trestlebridge_to_fornost_fields"/>
+<routeAction id="1879088477" headName="travel_segment_seg_fornost_fields_to_amon_raith"/>
+<routeAction id="1879072758" headName="travel_segment_seg_amonraith_to_esteldin_crossing"/>
+<routeAction id="1879072759" headName="travel_segment_seg_esteldin_crossing_to_esteldin"/>
+<routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
+</route>
+<route id="1879072796" name="West Bree" destinationID="1879072621" mode="HORSE">
+<routeAction id="1879072801" headName="travel_segment_from_hobbiton_going_south"/>
+<routeAction id="1879072802" headName="travel_segment_seg_hobbiton_to_hobbiton_crossing"/>
+<routeAction id="1879072803" headName="travel_segment_seg_eastroad_hobbiton_crossing_to_budgeford"/>
+<routeAction id="1879072804" headName="travel_segment_seg_eastroad_budgeford_to_stock"/>
+<routeAction id="1879072805" headName="travel_segment_to_stock_going_east"/>
+<routeAction id="1879072806" headName="travel_segment_from_stock_going_east"/>
+<routeAction id="1879072807" headName="travel_segment_seg_eastroad_stock_to_brandywine_bridge"/>
+<routeAction id="1879072675" headName="travel_segment_seg_eastroad_brandywine_bridge_to_adsos_wagon"/>
+<routeAction id="1879072676" headName="travel_segment_to_adsos_wagon_going_east"/>
+<routeAction id="1879072677" headName="travel_segment_from_adsos_wagon_going_east"/>
+<routeAction id="1879072678" headName="travel_segment_seg_eastroad_adsos_wagon_to_greenway_crossing"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879072797" name="Michel Delving" destinationID="1879072718" mode="HORSE">
+<routeAction id="1879072801" headName="travel_segment_from_hobbiton_going_south"/>
+<routeAction id="1879072802" headName="travel_segment_seg_hobbiton_to_hobbiton_crossing"/>
+<routeAction id="1879072808" headName="travel_segment_seg_eastroad_hobbiton_crossing_to_waymeet"/>
+<routeAction id="1879072809" headName="travel_segment_seg_eastroad_waymeet_to_micheldelving"/>
+<routeAction id="1879072667" headName="travel_segment_to_micheldelving_going_west"/>
+</route>
+<route id="1879072798" name="Brockenborings" destinationID="1879072810" mode="HORSE">
+<routeAction id="1879072811" headName="travel_segment_from_hobbiton_going_north"/>
+<routeAction id="1879072812" headName="travel_segment_seg_hobbiton_to_brockenborings"/>
+<routeAction id="1879072813" headName="travel_segment_to_brockenborings_going_east"/>
+</route>
+<route id="1879072799" name="Needlehole" destinationID="1879072686" mode="HORSE">
+<routeAction id="1879072801" headName="travel_segment_from_hobbiton_going_south"/>
+<routeAction id="1879072802" headName="travel_segment_seg_hobbiton_to_hobbiton_crossing"/>
+<routeAction id="1879072808" headName="travel_segment_seg_eastroad_hobbiton_crossing_to_waymeet"/>
+<routeAction id="1879072814" headName="travel_segment_seg_waymeet_to_needlehole"/>
+<routeAction id="1879072815" headName="travel_segment_to_needlehole_going_north"/>
+</route>
+<route id="1879072800" name="Stock" destinationID="1879072680" mode="HORSE">
+<routeAction id="1879072801" headName="travel_segment_from_hobbiton_going_south"/>
+<routeAction id="1879072802" headName="travel_segment_seg_hobbiton_to_hobbiton_crossing"/>
+<routeAction id="1879072803" headName="travel_segment_seg_eastroad_hobbiton_crossing_to_budgeford"/>
+<routeAction id="1879072804" headName="travel_segment_seg_eastroad_budgeford_to_stock"/>
+<routeAction id="1879072805" headName="travel_segment_to_stock_going_east"/>
+</route>
+<route id="1879072816" name="Hobbiton" destinationID="1879072654" mode="HORSE">
+<routeAction id="1879072820" headName="travel_segment_from_micheldelving_going_east"/>
+<routeAction id="1879072821" headName="travel_segment_seg_eastroad_micheldelving_to_waymeet"/>
+<routeAction id="1879072822" headName="travel_segment_seg_eastroad_waymeet_to_hobbiton_crossing"/>
+<routeAction id="1879072660" headName="travel_segment_seg_hobbiton_crossing_to_hobbiton"/>
+<routeAction id="1879072661" headName="travel_segment_to_hobbiton_going_north"/>
+</route>
+<route id="1879072817" name="Celondim: Swift Travel" destinationID="1879072728" mode="HORSE">
+<routeAction id="1879072820" headName="travel_segment_from_micheldelving_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072701" headName="travel_segment_to_celondim_going_south"/>
+</route>
+<route id="1879072818" name="Thorin's Gate: Swift Travel" destinationID="1879072662" mode="HORSE">
+<routeAction id="1879072820" headName="travel_segment_from_micheldelving_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072663" headName="travel_segment_to_thorinsgate_going_west"/>
+</route>
+<route id="1879072819" name="West Bree: Swift Travel" destinationID="1879072729" mode="HORSE">
+<routeAction id="1879072820" headName="travel_segment_from_micheldelving_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879072823" name="Hobbiton" destinationID="1879072654" mode="HORSE">
+<routeAction id="1879072825" headName="travel_segment_from_needlehole_going_south"/>
+<routeAction id="1879072826" headName="travel_segment_seg_needlehole_to_waymeet"/>
+<routeAction id="1879072822" headName="travel_segment_seg_eastroad_waymeet_to_hobbiton_crossing"/>
+<routeAction id="1879072660" headName="travel_segment_seg_hobbiton_crossing_to_hobbiton"/>
+<routeAction id="1879072661" headName="travel_segment_to_hobbiton_going_north"/>
+</route>
+<route id="1879072824" name="Duillond" destinationID="1879072681" mode="HORSE">
+<routeAction id="1879072827" headName="travel_segment_from_needlehole_going_west"/>
+<routeAction id="1879072828" headName="travel_segment_seg_needlehole_to_rushock_gate"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072829" headName="travel_segment_from_shire_gate_going_west"/>
+<routeAction id="1879072830" headName="travel_segment_seg_shire_gate_to_duilond"/>
+<routeAction id="1879072712" headName="travel_segment_seg_duilond_road_going_south"/>
+<routeAction id="1879072707" headName="travel_segment_to_duilond"/>
+</route>
+<route id="1879072831" name="Hobbiton" destinationID="1879072654" mode="HORSE">
+<routeAction id="1879072833" headName="travel_segment_from_brockenborings_going_west"/>
+<routeAction id="1879072834" headName="travel_segment_seg_brockenborings_to_hobbiton"/>
+<routeAction id="1879072835" headName="travel_segment_to_hobbiton_going_south"/>
+</route>
+<route id="1879072832" name="Stock" destinationID="1879072680" mode="HORSE">
+<routeAction id="1879072836" headName="travel_segment_from_brockenborings_going_east"/>
+<routeAction id="1879072837" headName="travel_segment_seg_brockenborings_to_budgeford"/>
+<routeAction id="1879072804" headName="travel_segment_seg_eastroad_budgeford_to_stock"/>
+<routeAction id="1879072805" headName="travel_segment_to_stock_going_east"/>
+</route>
+<route id="1879072839" name="Hobbiton" destinationID="1879072654" mode="HORSE">
+<routeAction id="1879072657" headName="travel_segment_from_stock_going_west"/>
+<routeAction id="1879072658" headName="travel_segment_seg_eastroad_stock_to_budgeford"/>
+<routeAction id="1879072659" headName="travel_segment_seg_eastroad_budgeford_to_hobbiton_crossing"/>
+<routeAction id="1879072660" headName="travel_segment_seg_hobbiton_crossing_to_hobbiton"/>
+<routeAction id="1879072661" headName="travel_segment_to_hobbiton_going_north"/>
+</route>
+<route id="1879072840" name="Buckland" destinationID="1879072639" mode="HORSE">
+<routeAction id="1879072806" headName="travel_segment_from_stock_going_east"/>
+<routeAction id="1879072807" headName="travel_segment_seg_eastroad_stock_to_brandywine_bridge"/>
+<routeAction id="1879072645" headName="travel_segment_seg_brandywine_bridge_buckland_center"/>
+<routeAction id="1879072646" headName="travel_segment_to_buckland_center"/>
+</route>
+<route id="1879072841" name="Brockenborings" destinationID="1879072810" mode="HORSE">
+<routeAction id="1879072657" headName="travel_segment_from_stock_going_west"/>
+<routeAction id="1879072658" headName="travel_segment_seg_eastroad_stock_to_budgeford"/>
+<routeAction id="1879072842" headName="travel_segment_seg_budgeford_to_brockenborings"/>
+<routeAction id="1879072843" headName="travel_segment_to_brockenborings_going_west"/>
+</route>
+<route id="1879072845" name="Thorenhad" destinationID="1879072846" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072847" location="travel_lonelands_ruinhold"/>
+</route>
+<route id="1879072848" name="Compromise Alley" destinationID="1879072844" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072851" location="travel_lonelands_ruinhold"/>
+</route>
+<route id="1879072849" name="Ost Guruth" destinationID="1879072735" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072788" location="travel_lonelands_ruinhold"/>
+</route>
+<route id="1879072850" name="The Forsaken Inn" destinationID="1879072617" mode="HORSE">
+<routeAction id="1879072610" delay="60.0"/>
+<routeAction id="1879072852" location="travel_lonelands_forsakeninn"/>
+</route>
+<route id="1879072853" name="Thorenhad" destinationID="1879072745" mode="HORSE">
+<routeAction id="1879072857" headName="travel_segment_from_rivendell_going_south"/>
+<routeAction id="1879072858" headName="travel_segment_seg_rivendell_to_rivendell_southpath"/>
+<routeAction id="1879072859" headName="travel_segment_seg_eastroad_rivendell_southpath_to_thorenhad_crossing"/>
+<routeAction id="1879072747" headName="travel_segment_seg_thorenhad_crossing_to_thorenhad"/>
+<routeAction id="1879072748" headName="travel_segment_to_thorenhad_going_north"/>
+</route>
+<route id="1879072854" name="Ost Guruth" destinationID="1879072735" mode="HORSE">
+<routeAction id="1879072857" headName="travel_segment_from_rivendell_going_south"/>
+<routeAction id="1879072858" headName="travel_segment_seg_rivendell_to_rivendell_southpath"/>
+<routeAction id="1879072859" headName="travel_segment_seg_eastroad_rivendell_southpath_to_thorenhad_crossing"/>
+<routeAction id="1879072860" headName="travel_segment_seg_eastroad_thorenhad_crossing_to_ostguruth"/>
+<routeAction id="1879072738" headName="travel_segment_to_ostguruth"/>
+</route>
+<route id="1879072855" name="South Bree: Swift Travel" destinationID="1879072861" mode="HORSE">
+<routeAction id="1879072857" headName="travel_segment_from_rivendell_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072734" headName="travel_segment_to_bree_east_going_west"/>
+</route>
+<route id="1879072856" name="Esteldin: Swift Travel" destinationID="1879072664" mode="HORSE">
+<routeAction id="1879072857" headName="travel_segment_from_rivendell_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
+</route>
+<route id="1879072862" name="Ost Guruth" destinationID="1879072735" mode="HORSE">
+<routeAction id="1879072864" headName="travel_segment_from_thorenhad_going_south"/>
+<routeAction id="1879072865" headName="travel_segment_seg_thorenhad_to_thorenhad_crossing"/>
+<routeAction id="1879072860" headName="travel_segment_seg_eastroad_thorenhad_crossing_to_ostguruth"/>
+<routeAction id="1879072738" headName="travel_segment_to_ostguruth"/>
+</route>
+<route id="1879072863" name="Rivendell" destinationID="1879072749" mode="HORSE">
+<routeAction id="1879072864" headName="travel_segment_from_thorenhad_going_south"/>
+<routeAction id="1879072865" headName="travel_segment_seg_thorenhad_to_thorenhad_crossing"/>
+<routeAction id="1879072750" headName="travel_segment_seg_eastroad_thorenhad_crossing_to_rivendell_southpath"/>
+<routeAction id="1879072751" headName="travel_segment_seg_rivendell_southpath_to_rivendell"/>
+<routeAction id="1879072631" headName="travel_segment_to_rivendell_going_north"/>
+</route>
+<route id="1879072867" name="Rivendell: Swift Travel" destinationID="1879072629" mode="HORSE">
+<routeAction id="1879072868" headName="travel_segment_from_ettenmoors_base_good_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072869" headName="travel_segment_to_rivendell_going_south"/>
+</route>
+<route id="1879072870" name="Ettenmoors: Swift Travel" destinationID="1879072866" mode="HORSE">
+<routeAction id="1879072871" headName="travel_segment_from_rivendell_going_north"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072872" headName="travel_segment_to_ettenmoors_base_good_going_north"/>
+</route>
+<route id="1879085729" name="Celondim: Swift Travel" destinationID="1879072728" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072701" headName="travel_segment_to_celondim_going_south"/>
+</route>
+<route id="1879085730" name="West Bree: Swift Travel" destinationID="1879072729" mode="HORSE">
+<routeAction id="1879072705" headName="travel_segment_from_celondim_going_north"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<route id="1879085731" name="Ettenmoors: Swift Travel" destinationID="1879072866" mode="HORSE">
+<routeAction id="1879072618" headName="from_bree_east_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072872" headName="travel_segment_to_ettenmoors_base_good_going_north"/>
+</route>
+<route id="1879085732" name="Ettenmoors: Swift Travel" destinationID="1879072866" mode="HORSE">
+<routeAction id="1879072726" headName="travel_segment_from_thorinsgate_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072872" headName="travel_segment_to_ettenmoors_base_good_going_north"/>
+</route>
+<route id="1879085733" name="Ettenmoors: Swift Travel" destinationID="1879072866" mode="HORSE">
+<routeAction id="1879072820" headName="travel_segment_from_micheldelving_going_east"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072872" headName="travel_segment_to_ettenmoors_base_good_going_north"/>
+</route>
+<route id="1879085734" name="South Bree: Swift Travel" destinationID="1879072861" mode="HORSE">
+<routeAction id="1879072868" headName="travel_segment_from_ettenmoors_base_good_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072734" headName="travel_segment_to_bree_east_going_west"/>
+</route>
+<route id="1879085735" name="Michel Delving: Swift Travel" destinationID="1879072666" mode="HORSE">
+<routeAction id="1879072868" headName="travel_segment_from_ettenmoors_base_good_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072667" headName="travel_segment_to_micheldelving_going_west"/>
+</route>
+<route id="1879085736" name="Thorin's Gate: Swift Travel" destinationID="1879072662" mode="HORSE">
+<routeAction id="1879072868" headName="travel_segment_from_ettenmoors_base_good_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072663" headName="travel_segment_to_thorinsgate_going_west"/>
+</route>
+<route id="1879088155" name="Tinnudir" destinationID="1879088157" mode="HORSE">
+<routeAction id="1879072794" headName="travel_segment_from_trestlebridge_going_north"/>
+<routeAction id="1879088476" headName="travel_segment_seg_trestlebridge_to_fornost_fields"/>
+<routeAction id="1879088487" headName="travel_segment_seg_fields_of_fornost_going_north"/>
+<routeAction id="1879088488" headName="travel_segment_seg_fornost_fields_to_evendim_fields"/>
+<routeAction id="1879088489" headName="travel_segment_seg_evendim_fields_to_ranger_keep"/>
+<routeAction id="1879088160" headName="travel_segment_to_evendim_ranger_keep"/>
+</route>
+<route id="1879088156" name="Ost Forod" destinationID="1879088490" mode="HORSE">
+<routeAction id="1879072794" headName="travel_segment_from_trestlebridge_going_north"/>
+<routeAction id="1879088476" headName="travel_segment_seg_trestlebridge_to_fornost_fields"/>
+<routeAction id="1879088487" headName="travel_segment_seg_fields_of_fornost_going_north"/>
+<routeAction id="1879088488" headName="travel_segment_seg_fornost_fields_to_evendim_fields"/>
+<routeAction id="1879088509" headName="travel_segment_seg_evendim_fields_to_twilight_hills"/>
+<routeAction id="1879088158" headName="travel_segment_to_trader_outpost_going_north"/>
+</route>
+<route id="1879088159" name="Tinnudir" destinationID="1879088157" mode="HORSE">
+<routeAction id="1879072766" headName="travel_segment_from_esteldin_going_west"/>
+<routeAction id="1879072767" headName="travel_segment_seg_esteldin_to_esteldin_crossing"/>
+<routeAction id="1879072768" headName="travel_segment_seg_esteldin_crossing_to_amonraith"/>
+<routeAction id="1879088478" headName="travel_segment_seg_amon_raith_to_fornost_fields"/>
+<routeAction id="1879088487" headName="travel_segment_seg_fields_of_fornost_going_north"/>
+<routeAction id="1879088488" headName="travel_segment_seg_fornost_fields_to_evendim_fields"/>
+<routeAction id="1879088489" headName="travel_segment_seg_evendim_fields_to_ranger_keep"/>
+<routeAction id="1879088160" headName="travel_segment_to_evendim_ranger_keep"/>
+</route>
+<route id="1879088483" name="Oatbarton" destinationID="1879088484" mode="HORSE">
+<routeAction id="1879072836" headName="travel_segment_from_brockenborings_going_east"/>
+<routeAction id="1879088485" headName="travel_segment_seg_brockenborings_to_oatbarton"/>
+<routeAction id="1879088486" headName="travel_segment_to_oatbarton_going_north"/>
+</route>
+<route id="1879088511" name="Oatbarton" destinationID="1879088484" mode="HORSE">
+<routeAction id="1879088514" headName="travel_segment_from_trader_outpost_going_south"/>
+<routeAction id="1879088515" headName="travel_segment_seg_twilight_hills_to_evendim_fields"/>
+<routeAction id="1879088516" headName="travel_segment_seg_evendim_fields_to_sand_marshes"/>
+<routeAction id="1879088517" headName="travel_segment_seg_sand_marshes_going_south"/>
+<routeAction id="1879088518" headName="travel_segment_to_oatbarton_going_south"/>
+</route>
+<route id="1879088512" name="Tinnudir" destinationID="1879088157" mode="HORSE">
+<routeAction id="1879088514" headName="travel_segment_from_trader_outpost_going_south"/>
+<routeAction id="1879088515" headName="travel_segment_seg_twilight_hills_to_evendim_fields"/>
+<routeAction id="1879088489" headName="travel_segment_seg_evendim_fields_to_ranger_keep"/>
+<routeAction id="1879088160" headName="travel_segment_to_evendim_ranger_keep"/>
+</route>
+<route id="1879088513" name="Trestlebridge" destinationID="1879072651" mode="HORSE">
+<routeAction id="1879088514" headName="travel_segment_from_trader_outpost_going_south"/>
+<routeAction id="1879088515" headName="travel_segment_seg_twilight_hills_to_evendim_fields"/>
+<routeAction id="1879088519" headName="travel_segment_seg_evendim_fields_to_fornost_fields"/>
+<routeAction id="1879088520" headName="travel_segment_seg_fields_of_fornost_going_south"/>
+<routeAction id="1879088479" headName="travel_segment_seg_fornost_fields_to_trestlebridge"/>
+<routeAction id="1879072757" headName="travel_segment_to_trestlebridge_going_south"/>
+</route>
+<route id="1879088522" name="Brockenborings" destinationID="1879072810" mode="HORSE">
+<routeAction id="1879088525" headName="travel_segment_from_oatbarton_going_south"/>
+<routeAction id="1879088526" headName="travel_segment_seg_oatbarton_to_brockenborings"/>
+<routeAction id="1879072843" headName="travel_segment_to_brockenborings_going_west"/>
+</route>
+<route id="1879088523" name="Tinnudir" destinationID="1879088157" mode="HORSE">
+<routeAction id="1879088527" headName="travel_segment_from_oatbarton_going_north"/>
+<routeAction id="1879088528" headName="travel_segment_seg_sand_marshes_going_north"/>
+<routeAction id="1879088529" headName="travel_segment_seg_sand_marshes_to_evendim_fields"/>
+<routeAction id="1879088489" headName="travel_segment_seg_evendim_fields_to_ranger_keep"/>
+<routeAction id="1879088160" headName="travel_segment_to_evendim_ranger_keep"/>
+</route>
+<route id="1879088524" name="Ost Forod" destinationID="1879088490" mode="HORSE">
+<routeAction id="1879088527" headName="travel_segment_from_oatbarton_going_north"/>
+<routeAction id="1879088528" headName="travel_segment_seg_sand_marshes_going_north"/>
+<routeAction id="1879088529" headName="travel_segment_seg_sand_marshes_to_evendim_fields"/>
+<routeAction id="1879088509" headName="travel_segment_seg_evendim_fields_to_twilight_hills"/>
+<routeAction id="1879088158" headName="travel_segment_to_trader_outpost_going_north"/>
+</route>
+<route id="1879088531" name="Oatbarton" destinationID="1879088484" mode="HORSE">
+<routeAction id="1879088535" headName="travel_segment_from_evendim_ranger_keep"/>
+<routeAction id="1879088536" headName="travel_segment_seg_ranger_keep_to_evendim_fields"/>
+<routeAction id="1879088516" headName="travel_segment_seg_evendim_fields_to_sand_marshes"/>
+<routeAction id="1879088517" headName="travel_segment_seg_sand_marshes_going_south"/>
+<routeAction id="1879088518" headName="travel_segment_to_oatbarton_going_south"/>
+</route>
+<route id="1879088532" name="Ost Forod" destinationID="1879088490" mode="HORSE">
+<routeAction id="1879088535" headName="travel_segment_from_evendim_ranger_keep"/>
+<routeAction id="1879088536" headName="travel_segment_seg_ranger_keep_to_evendim_fields"/>
+<routeAction id="1879088509" headName="travel_segment_seg_evendim_fields_to_twilight_hills"/>
+<routeAction id="1879088158" headName="travel_segment_to_trader_outpost_going_north"/>
+</route>
+<route id="1879088533" name="Trestlebridge" destinationID="1879072651" mode="HORSE">
+<routeAction id="1879088535" headName="travel_segment_from_evendim_ranger_keep"/>
+<routeAction id="1879088536" headName="travel_segment_seg_ranger_keep_to_evendim_fields"/>
+<routeAction id="1879088519" headName="travel_segment_seg_evendim_fields_to_fornost_fields"/>
+<routeAction id="1879088520" headName="travel_segment_seg_fields_of_fornost_going_south"/>
+<routeAction id="1879088479" headName="travel_segment_seg_fornost_fields_to_trestlebridge"/>
+<routeAction id="1879072757" headName="travel_segment_to_trestlebridge_going_south"/>
+</route>
+<route id="1879088534" name="Esteldin" destinationID="1879072603" mode="HORSE">
+<routeAction id="1879088535" headName="travel_segment_from_evendim_ranger_keep"/>
+<routeAction id="1879088536" headName="travel_segment_seg_ranger_keep_to_evendim_fields"/>
+<routeAction id="1879088519" headName="travel_segment_seg_evendim_fields_to_fornost_fields"/>
+<routeAction id="1879088520" headName="travel_segment_seg_fields_of_fornost_going_south"/>
+<routeAction id="1879088477" headName="travel_segment_seg_fornost_fields_to_amon_raith"/>
+<routeAction id="1879072758" headName="travel_segment_seg_amonraith_to_esteldin_crossing"/>
+<routeAction id="1879072759" headName="travel_segment_seg_esteldin_crossing_to_esteldin"/>
+<routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
+</route>
+<route id="1879102094" name="Ost Forod" destinationID="1879088490" mode="HORSE">
+<routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879088158" headName="travel_segment_to_trader_outpost_going_north"/>
+</route>
+<route id="1879102105" name="Bree-land Homesteads" destinationID="1879102111" mode="HORSE">
+<routeAction id="1879072618" headName="from_bree_east_east"/>
+<routeAction id="1879072619" headName="seg_eastroad_bree_to_forsakeninn"/>
+</route>
+<route id="1879102107" name="Shire Homesteads" destinationID="1879102355" mode="HORSE">
+<routeAction id="1879072820" headName="travel_segment_from_micheldelving_going_east"/>
+<routeAction id="1879072821" headName="travel_segment_seg_eastroad_micheldelving_to_waymeet"/>
+<routeAction id="1879102108" headName="travel_segment_waymeet_to_housing"/>
+</route>
+<route id="1879102109" name="Falathlorn Homesteads" destinationID="1879102110" mode="HORSE">
+<routeAction id="1879072687" headName="travel_segment_from_duilond"/>
+<routeAction id="1879072688" headName="travel_segment_seg_duilond_road_going_north"/>
+<routeAction id="1879072689" headName="travel_segment_seg_duilond_to_shire_gate"/>
+</route>
+<route id="1879102621" name="West Bree" destinationID="1879072621" mode="HORSE">
+<routeAction id="1879088514" headName="travel_segment_from_trader_outpost_going_south"/>
+<routeAction id="1879072630" delay="0.0"/>
+<routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
+</route>
+<node id="1879072570">
+<mainLocation id="1879072601" name="Aughaire"/>
+<route id="1879072602" name="Esteldin" cost="2500"/>
+</node>
+<node id="1879072571">
+<mainLocation id="1879072608" name="Angmar Outpost"/>
+<route id="1879072609" name="Aughaire" cost="2500"/>
+</node>
+<node id="1879072572">
+<mainLocation id="1879072612" name="South Bree"/>
+<location id="1879072861" name="South Bree: Swift Travel"/>
+<location id="1879072866" name="Ettenmoors: Swift Travel"/>
+<location id="1879102111" name="Bree-land Homesteads"/>
+<route id="1879072613" name="The Forsaken Inn" cost="1500"/>
+<route id="1879072614" name="West Bree: Swift Travel" cost="500"/>
+<route id="1879072615" name="Combe" cost="500"/>
+<route id="1879072616" name="Rivendell: Swift Travel" cost="3500"/>
+<route id="1879085731" name="Ettenmoors: Swift Travel" cost="100"/>
+<route id="1879102105" name="Bree-land Homesteads" cost="1500"/>
+</node>
+<node id="1879072573">
+<mainLocation id="1879072621" name="West Bree"/>
+<location id="1879072729" name="West Bree: Swift Travel"/>
+<location id="1879072666" name="Michel Delving: Swift Travel"/>
+<location id="1879072728" name="Celondim: Swift Travel"/>
+<location id="1879072662" name="Thorin's Gate: Swift Travel"/>
+<route id="1879072632" name="Buckland" cost="500"/>
+<route id="1879072633" name="South Bree: Swift Travel" cost="500"/>
+<route id="1879072634" name="Trestlebridge" cost="1500"/>
+<route id="1879072635" name="Hobbiton" cost="1000"/>
+<route id="1879072636" name="Thorin's Gate: Swift Travel" cost="100"/>
+<route id="1879072637" name="Esteldin: Swift Travel" cost="3500"/>
+<route id="1879072638" name="Michel Delving: Swift Travel" cost="100"/>
+<route id="1879085729" name="Celondim: Swift Travel" cost="100"/>
+<route id="1879102094" name="Ost Forod" cost="3500"/>
+</node>
+<node id="1879072574">
+<mainLocation id="1879072626" name="Combe"/>
+<route id="1879072668" name="South Bree" cost="500"/>
+</node>
+<node id="1879072575">
+<mainLocation id="1879072639" name="Buckland"/>
+<route id="1879072671" name="West Bree" cost="500"/>
+<route id="1879072672" name="Stock" cost="500"/>
+</node>
+<node id="1879072576">
+<mainLocation id="1879072681" name="Duillond"/>
+<location id="1879102110" name="Falathlorn Homesteads"/>
+<route id="1879072682" name="Needlehole" cost="1000"/>
+<route id="1879072683" name="Gondamon" cost="500"/>
+<route id="1879072684" name="Thorin's Gate" cost="500"/>
+<route id="1879072685" name="Celondim" cost="500"/>
+<route id="1879102109" name="Falathlorn Homesteads" cost="1000"/>
+</node>
+<node id="1879072577">
+<mainLocation id="1879072699" name="Celondim"/>
+<location id="1879072728" name="Celondim: Swift Travel"/>
+<location id="1879072662" name="Thorin's Gate: Swift Travel"/>
+<location id="1879072666" name="Michel Delving: Swift Travel"/>
+<location id="1879072729" name="West Bree: Swift Travel"/>
+<route id="1879072702" name="Duillond" cost="500"/>
+<route id="1879072703" name="Thorin's Gate: Swift Travel" cost="100"/>
+<route id="1879072704" name="Michel Delving: Swift Travel" cost="100"/>
+<route id="1879085730" name="West Bree: Swift Travel" cost="100"/>
+</node>
+<node id="1879072578">
+<mainLocation id="1879072694" name="Gondamon"/>
+<route id="1879072708" name="Thorin's Gate" cost="500"/>
+<route id="1879072709" name="Duillond" cost="500"/>
+</node>
+<node id="1879072579">
+<mainLocation id="1879072713" name="Ered Luin Outpost"/>
+<route id="1879072714" name="Gondamon" cost="500"/>
+<route id="1879072715" name="Michel Delving" cost="1000"/>
+<route id="1879072716" name="Celondim" cost="500"/>
+</node>
+<node id="1879072580">
+<mainLocation id="1879072697" name="Thorin's Gate"/>
+<location id="1879072662" name="Thorin's Gate: Swift Travel"/>
+<location id="1879072728" name="Celondim: Swift Travel"/>
+<location id="1879072666" name="Michel Delving: Swift Travel"/>
+<location id="1879072729" name="West Bree: Swift Travel"/>
+<location id="1879072866" name="Ettenmoors: Swift Travel"/>
+<route id="1879072721" name="Gondamon" cost="500"/>
+<route id="1879072722" name="Duillond" cost="500"/>
+<route id="1879072723" name="Celondim: Swift Travel" cost="100"/>
+<route id="1879072724" name="Michel Delving: Swift Travel" cost="100"/>
+<route id="1879072725" name="West Bree: Swift Travel" cost="100"/>
+<route id="1879085732" name="Ettenmoors: Swift Travel" cost="100"/>
+</node>
+<node id="1879072581">
+<mainLocation id="1879072617" name="The Forsaken Inn"/>
+<route id="1879072730" name="South Bree" cost="1500"/>
+<route id="1879072731" name="Ost Guruth" cost="1500"/>
+</node>
+<node id="1879072582">
+<mainLocation id="1879072735" name="Ost Guruth"/>
+<route id="1879072739" name="The Forsaken Inn" cost="1500"/>
+<route id="1879072740" name="Thorenhad" cost="2500"/>
+<route id="1879072741" name="Rivendell" cost="2500"/>
+</node>
+<node id="1879072583">
+<mainLocation id="1879072752" name="Amon Raith"/>
+<route id="1879072753" name="Trestlebridge" cost="1500"/>
+<route id="1879072754" name="Esteldin" cost="1500"/>
+</node>
+<node id="1879072584">
+<mainLocation id="1879072603" name="Esteldin"/>
+<location id="1879072664" name="Esteldin: Swift Travel"/>
+<route id="1879072760" name="Trestlebridge" cost="1500"/>
+<route id="1879072761" name="Aughaire" cost="2500"/>
+<route id="1879072762" name="Amon Raith" cost="1500"/>
+<route id="1879072763" name="Othrikar" cost="1500"/>
+<route id="1879072764" name="West Bree: Swift Travel" cost="3500"/>
+<route id="1879072765" name="Rivendell: Swift Travel" cost="2000"/>
+<route id="1879088159" name="Tinnudir" cost="1500"/>
+</node>
+<node id="1879072585">
+<mainLocation id="1879072777" name="Mincham's Camp"/>
+<route id="1879072778" name="Trestlebridge" cost="1500"/>
+<route id="1879072779" name="Esteldin" cost="1500"/>
+</node>
+<node id="1879072586">
+<mainLocation id="1879072774" name="Othrikar"/>
+<route id="1879072782" name="Esteldin" cost="1500"/>
+</node>
+<node id="1879072587">
+<mainLocation id="1879072785" name="North Downs Outpost"/>
+<route id="1879072786" name="Esteldin" cost="1500"/>
+<route id="1879072787" name="Ost Guruth" cost="1500"/>
+</node>
+<node id="1879072588">
+<mainLocation id="1879072651" name="Trestlebridge"/>
+<route id="1879072789" name="West Bree" cost="1500"/>
+<route id="1879072790" name="Amon Raith" cost="1500"/>
+<route id="1879072791" name="Esteldin" cost="1500"/>
+<route id="1879088155" name="Tinnudir" cost="1500"/>
+<route id="1879088156" name="Ost Forod" cost="1500"/>
+</node>
+<node id="1879072589">
+<mainLocation id="1879072654" name="Hobbiton"/>
+<route id="1879072796" name="West Bree" cost="1000"/>
+<route id="1879072797" name="Michel Delving" cost="500"/>
+<route id="1879072798" name="Brockenborings" cost="500"/>
+<route id="1879072799" name="Needlehole" cost="500"/>
+<route id="1879072800" name="Stock" cost="500"/>
+</node>
+<node id="1879072590">
+<mainLocation id="1879072718" name="Michel Delving"/>
+<location id="1879072666" name="Michel Delving: Swift Travel"/>
+<location id="1879072662" name="Thorin's Gate: Swift Travel"/>
+<location id="1879072728" name="Celondim: Swift Travel"/>
+<location id="1879072729" name="West Bree: Swift Travel"/>
+<location id="1879072866" name="Ettenmoors: Swift Travel"/>
+<location id="1879102355" name="Shire Homesteads"/>
+<route id="1879072816" name="Hobbiton" cost="500"/>
+<route id="1879072817" name="Celondim: Swift Travel" cost="100"/>
+<route id="1879072818" name="Thorin's Gate: Swift Travel" cost="100"/>
+<route id="1879072819" name="West Bree: Swift Travel" cost="100"/>
+<route id="1879085733" name="Ettenmoors: Swift Travel" cost="100"/>
+<route id="1879102107" name="Shire Homesteads" cost="1500"/>
+</node>
+<node id="1879072591">
+<mainLocation id="1879072686" name="Needlehole"/>
+<route id="1879072823" name="Hobbiton" cost="500"/>
+<route id="1879072824" name="Duillond" cost="1000"/>
+</node>
+<node id="1879072592">
+<mainLocation id="1879072810" name="Brockenborings"/>
+<route id="1879072831" name="Hobbiton" cost="500"/>
+<route id="1879072832" name="Stock" cost="500"/>
+<route id="1879088483" name="Oatbarton" cost="1500"/>
+</node>
+<node id="1879072593">
+<mainLocation id="1879072838" name="Scary"/>
+<route id="1879072831" name="Hobbiton" cost="500"/>
+<route id="1879072832" name="Stock" cost="500"/>
+</node>
+<node id="1879072594">
+<mainLocation id="1879072680" name="Stock"/>
+<route id="1879072839" name="Hobbiton" cost="500"/>
+<route id="1879072840" name="Buckland" cost="500"/>
+<route id="1879072841" name="Brockenborings" cost="500"/>
+</node>
+<node id="1879072595">
+<mainLocation id="1879072844" name="Compromise Alley"/>
+<route id="1879072845" name="Thorenhad" cost="2500"/>
+</node>
+<node id="1879072596">
+<mainLocation id="1879072846" name="Thorenhad"/>
+<route id="1879072848" name="Compromise Alley" cost="2500"/>
+<route id="1879072849" name="Ost Guruth" cost="2500"/>
+<route id="1879072850" name="The Forsaken Inn" cost="2500"/>
+</node>
+<node id="1879072597">
+<mainLocation id="1879072749" name="Rivendell"/>
+<location id="1879072629" name="Rivendell: Swift Travel"/>
+<location id="1879072866" name="Ettenmoors: Swift Travel"/>
+<route id="1879072853" name="Thorenhad" cost="2500"/>
+<route id="1879072854" name="Ost Guruth" cost="2500"/>
+<route id="1879072855" name="South Bree: Swift Travel" cost="3500"/>
+<route id="1879072856" name="Esteldin: Swift Travel" cost="2000"/>
+<route id="1879072870" name="Ettenmoors: Swift Travel" cost="100"/>
+</node>
+<node id="1879072598">
+<mainLocation id="1879072745" name="Thorenhad"/>
+<route id="1879072862" name="Ost Guruth" cost="2500"/>
+<route id="1879072863" name="Rivendell" cost="2500"/>
+</node>
+<node id="1879072599">
+<mainLocation id="1879072866" name="Ettenmoors: Swift Travel"/>
+<location id="1879072629" name="Rivendell: Swift Travel"/>
+<location id="1879072861" name="South Bree: Swift Travel"/>
+<location id="1879072666" name="Michel Delving: Swift Travel"/>
+<location id="1879072662" name="Thorin's Gate: Swift Travel"/>
+<route id="1879072867" name="Rivendell: Swift Travel" cost="3500"/>
+<route id="1879085734" name="South Bree: Swift Travel" cost="3500"/>
+<route id="1879085735" name="Michel Delving: Swift Travel" cost="3500"/>
+<route id="1879085736" name="Thorin's Gate: Swift Travel" cost="3500"/>
+</node>
+<node id="1879072600">
+<mainLocation id="1879072749" name="Rivendell"/>
+<location id="1879072866" name="Ettenmoors: Swift Travel"/>
+<route id="1879072870" name="Ettenmoors: Swift Travel" cost="100"/>
+</node>
+<node id="1879088510">
+<mainLocation id="1879088490" name="Ost Forod"/>
+<route id="1879088511" name="Oatbarton" cost="1500"/>
+<route id="1879088512" name="Tinnudir" cost="1500"/>
+<route id="1879088513" name="Trestlebridge" cost="1500"/>
+<route id="1879102621" name="West Bree" cost="1500"/>
+</node>
+<node id="1879088521">
+<mainLocation id="1879088484" name="Oatbarton"/>
+<route id="1879088522" name="Brockenborings" cost="1500"/>
+<route id="1879088523" name="Tinnudir" cost="1500"/>
+<route id="1879088524" name="Ost Forod" cost="1500"/>
+</node>
+<node id="1879088530">
+<mainLocation id="1879088157" name="Tinnudir"/>
+<route id="1879088531" name="Oatbarton" cost="1500"/>
+<route id="1879088532" name="Ost Forod" cost="1500"/>
+<route id="1879088533" name="Trestlebridge" cost="1500"/>
+<route id="1879088534" name="Esteldin" cost="1500"/>
+</node>
+</travelsWeb>

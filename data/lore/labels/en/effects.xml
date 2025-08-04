@@ -2148,7 +2148,7 @@
 <label key="key:620783959:181298206" value="Stuns for 3s"/>
 <label key="key:620783960:181298206" value="Stuns for 3s"/>
 <label key="key:620783961:181298206" value="Stuns for 3s"/>
-<label key="key:620784400:181298206" value="Adds a bonus to your fellowships morale."/>
+<label key="key:620784400:181298206" value="Adds a bonus to your fellowship's morale."/>
 <label key="key:620784400:54354734" value="The fellowship's morale is boosted."/>
 <label key="key:620784435:181298206" value="Summons a hunter to follow its leader."/>
 <label key="key:620784436:106251889" value="Increases your total morale by ${PERCENTVALUE}."/>
@@ -2264,7 +2264,7 @@
 <label key="key:620791434:54354734" value="Terror grips your heart tighter and tighter. If not cured, you will be soon be defeated."/>
 <label key="key:620791436:106251889" value="Target cannot Parry, Block, or Evade"/>
 <label key="key:620791436:54354734" value="An intense heat builds within your chest. If not cured, you will be soon be defeated."/>
-<label key="key:620791508:106251889" value="+${VALUE}"/>
+<label key="key:620791508:106251889" value="+${VALUE} Armour Increase"/>
 <label key="key:620791513:181298206" value="Your attack inspires your Shield-brother, raising their Morale."/>
 <label key="key:620791513:54354734" value="You are inspired!"/>
 <label key="key:620791516:54354734" value="You are a Captain's Shield-brother, allowing them to target you with specific abilities."/>

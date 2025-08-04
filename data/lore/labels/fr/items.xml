@@ -17813,9 +17813,9 @@
 <label key="1879088818" value="Méthode de préparation de cordes de luth de grande subtilité"/>
 <label key="1879088820" value="Méthode de préparation de cordes de luth de subtilité"/>
 <label key="1879088821" value="Méthode de préparation de cordes de luth de subtilité modérée"/>
-<label key="1879089013" value="Cor d'Anor"/>
-<label key="1879089014" value="Parchemin de Ruine"/>
-<label key="1879089015" value="Bâtons des Ombres noires"/>
+<label key="1879089013" value="Horn of Anor"/>
+<label key="1879089014" value="Scroll of Ruin"/>
+<label key="1879089015" value="Staff of Dark Shadows"/>
 <label key="1879089026" value="Boisseau gâté de houblon d'ombelle"/>
 <label key="1879089027" value="Semence de houblon des Collines Vertes"/>
 <label key="1879089028" value="Méthode de préparation de champ d'orge de printemps"/>
@@ -17880,12 +17880,12 @@
 <label key="1879089121" value="Boisseau gâté de houblon 'Fierté du Bois de Chet'"/>
 <label key="1879089122" value="Champ bien entretenu de houblon d'ombelle"/>
 <label key="1879089135" value="Coffre du châtelain"/>
-<label key="1879089136" value="Clé de la salle d'invocation"/>
+<label key="1879089136" value="Key to the Summoning Chamber"/>
 <label key="1879089143" value="Clé du coffre du châtelain"/>
 <label key="1879089207" value="Parchemin rabougri"/>
 <label key="1879089208" value="Parchemin rabougri"/>
 <label key="1879089209" value="Parchemin rabougri"/>
-<label key="1879089210" value="Page écrite à la hâte"/>
+<label key="1879089210" value="Scrawled Page"/>
 <label key="1879089299" value="Pots d'avoine au miel de moindre qualité"/>
 <label key="1879089311" value="Pots d'avoine au miel"/>
 <label key="1879089312" value="Pots d'avoine au miel goûteux"/>
@@ -31861,12 +31861,12 @@
 <label key="key:620790951:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de compagnon cuisinier."/>
 <label key="key:620790952:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti cuisinier."/>
 <label key="key:620790953:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti cuisinier."/>
-<label key="key:620791077:54354734" value="Lire le Parchemin de Ruine sans sortir des limites d'un symbole contre les Rogmûls empêche ces dernier de puiser leur force dans le feu, ce qui les expose à des attaques plus puissantes."/>
-<label key="key:620791077:98907573" value="Parchemins de Ruine"/>
-<label key="key:620791078:54354734" value="Utiliser le Bâton des Ombres noires sans sortir des limites d'un symbole contre les Rogmûls empêche ces derniers d'utiliser le pouvoir des ombres pour frapper leurs adversaires."/>
-<label key="key:620791078:98907573" value="Bâtons des Ombres noires"/>
-<label key="key:620791079:54354734" value="Souffler dans le Cor d'Anor sans sortir des limites d'un symbole contre les Rogmûls brise brièvement le lien que ces derniers entretiennent avec le feu, ce qui les empêche d'invoquer des flammes pour annihiler leurs ennemis."/>
-<label key="key:620791079:98907573" value="Cors d'Anor"/>
+<label key="key:620791077:54354734" value="Reading the Scroll of Ruin within the bounds of sigil against Rogmul forces the creature to cease its attempt to garner strength from fire exposing it to a more powerful attack.&#10;&#10;The scroll must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791077:98907573" value="Scrolls of Ruin"/>
+<label key="key:620791078:54354734" value="Focusing the Staff of Dark Shadows within the bounds of a sigil against Rogmul denies its ability to strike its foes down with the power of Shadow.&#10;&#10;The staff must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791078:98907573" value="Staves of Dark Shadows"/>
+<label key="key:620791079:54354734" value="Blowing the Horn of Anor within the bounds of a sigil against Rogmul briefly severs the Rogmul's connection to flame disabling its ability to summon fire to destroy his enemies.&#10;&#10;The horn must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791079:98907573" value="Horns of Anor"/>
 <label key="key:620791082:54354734" value="Petit champ d'orge."/>
 <label key="key:620791083:54354734" value="Petit champ d'orge."/>
 <label key="key:620791084:54354734" value="Mesure d'orge non comestible, uniquement utilisable à fins de plantations."/>
@@ -31958,7 +31958,7 @@
 <label key="key:620791142:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de fermier expert."/>
 <label key="key:620791143:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti fermier."/>
 <label key="key:620791144:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti fermier."/>
-<label key="key:620791145:54354734" value="Cette clé ouvre la porte située entre l'arcade centrale et la salle d'invocation de Barad Gularan."/>
+<label key="key:620791145:54354734" value="This key opens the door between the central arcade and the summoning chamber within Barad Gularan.&#10;&#10;The key must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
 <label key="key:620791145:98907573" value="..."/>
 <label key="key:620791148:54354734" value="Ce coffre contient les effets personnels du châtelain de Barad Gularan."/>
 <label key="key:620791150:54354734" value="Cette clé ouvre le coffre du solarium de Barad Gularan."/>

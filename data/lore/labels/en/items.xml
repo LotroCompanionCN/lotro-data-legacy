@@ -31861,11 +31861,11 @@
 <label key="key:620790951:54354734" value="Using this scroll grants a Journeyman Cook recipe."/>
 <label key="key:620790952:54354734" value="Using this scroll grants an Apprentice Cook recipe."/>
 <label key="key:620790953:54354734" value="Using this scroll grants an Apprentice Cook recipe."/>
-<label key="key:620791077:54354734" value="Reading the Scroll of Ruin within the bounds of sigil against Rogmul forces the creature to cease its attempt to garner strength from fire exposing it to a more powerful attack."/>
+<label key="key:620791077:54354734" value="Reading the Scroll of Ruin within the bounds of sigil against Rogmul forces the creature to cease its attempt to garner strength from fire exposing it to a more powerful attack.&#10;&#10;The scroll must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
 <label key="key:620791077:98907573" value="Scrolls of Ruin"/>
-<label key="key:620791078:54354734" value="Focusing the Staff of Dark Shadows within the bounds of a sigil against Rogmul denies its ability to strike its foes down with the power of Shadow."/>
+<label key="key:620791078:54354734" value="Focusing the Staff of Dark Shadows within the bounds of a sigil against Rogmul denies its ability to strike its foes down with the power of Shadow.&#10;&#10;The staff must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
 <label key="key:620791078:98907573" value="Staves of Dark Shadows"/>
-<label key="key:620791079:54354734" value="Blowing the Horn of Anor within the bounds of a sigil against Rogmul briefly severs the Rogmul's connection to flame disabling its ability to summon fire to destroy his enemies."/>
+<label key="key:620791079:54354734" value="Blowing the Horn of Anor within the bounds of a sigil against Rogmul briefly severs the Rogmul's connection to flame disabling its ability to summon fire to destroy his enemies.&#10;&#10;The horn must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
 <label key="key:620791079:98907573" value="Horns of Anor"/>
 <label key="key:620791082:54354734" value="A small field of barley."/>
 <label key="key:620791083:54354734" value="A small field of barley."/>
@@ -31958,7 +31958,7 @@
 <label key="key:620791142:54354734" value="Using this scroll grants an Expert Farmer recipe."/>
 <label key="key:620791143:54354734" value="Using this scroll grants an Apprentice Farmer recipe."/>
 <label key="key:620791144:54354734" value="Using this scroll grants an Apprentice Farmer recipe."/>
-<label key="key:620791145:54354734" value="This key opens the door between the central arcade and the summoning chamber within Barad Gularan."/>
+<label key="key:620791145:54354734" value="This key opens the door between the central arcade and the summoning chamber within Barad Gularan.&#10;&#10;The key must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
 <label key="key:620791145:98907573" value="..."/>
 <label key="key:620791148:54354734" value="This chest contains the personal items kept by the Castellan of Barad Gularan."/>
 <label key="key:620791150:54354734" value="This key opens the chest found within the Solar in Barad Gularan."/>

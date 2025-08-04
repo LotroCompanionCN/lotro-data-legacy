@@ -17813,9 +17813,9 @@
 <label key="1879088818" value="Rezept für Lauten-Saiten der größeren Unauffälligkeit"/>
 <label key="1879088820" value="Rezept für Lauten-Saiten der Unauffälligkeit"/>
 <label key="1879088821" value="Rezept für Lauten-Saiten der geringeren Unauffälligkeit"/>
-<label key="1879089013" value="Horn von Arnor"/>
-<label key="1879089014" value="Schriftrolle des Ruins"/>
-<label key="1879089015" value="Stab der dunklen Schatten"/>
+<label key="1879089013" value="Horn of Anor"/>
+<label key="1879089014" value="Scroll of Ruin"/>
+<label key="1879089015" value="Staff of Dark Shadows"/>
 <label key="1879089026" value="Büschel schlechter Doldenhopfen"/>
 <label key="1879089027" value="Grünberg-Hopfensaatgut"/>
 <label key="1879089028" value="Rezept für Frühlingsgersten-Feld"/>
@@ -17880,12 +17880,12 @@
 <label key="1879089121" value="Büschel schlechter Chetwaldstolz-Hopfen"/>
 <label key="1879089122" value="Gut gepflegtes Doldenhopfen-Feld"/>
 <label key="1879089135" value="Truhe des Kastellans"/>
-<label key="1879089136" value="Schlüssel zur Beschwörungskammer"/>
+<label key="1879089136" value="Key to the Summoning Chamber"/>
 <label key="1879089143" value="Truhenschlüssel des Kastellans"/>
 <label key="1879089207" value="Verdorrtes Pergament"/>
 <label key="1879089208" value="Verdorrtes Pergament"/>
 <label key="1879089209" value="Verdorrtes Pergament"/>
-<label key="1879089210" value="Bekritzelte Seite"/>
+<label key="1879089210" value="Scrawled Page"/>
 <label key="1879089299" value="Topf mit wildem Honig und Hafer"/>
 <label key="1879089311" value="Topf mit Honig und Hafer"/>
 <label key="1879089312" value="Topf mit feinem Honig und Hafer"/>
@@ -31861,12 +31861,12 @@
 <label key="key:620790951:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Gesellen der Kochkunst."/>
 <label key="key:620790952:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Kochkunst."/>
 <label key="key:620790953:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Kochkunst."/>
-<label key="key:620791077:54354734" value="Wird die Schriftrolle des Ruins innerhalb der Grenzen eines Siegels gegen Rogmul gelesen, zwingt dies die Kreatur dazu, ihren Versuch, Kraft aus dem Feuer zu ziehen, abzubrechen, so dass sie einem wirkungsvolleren Angriff ausgesetzt ist."/>
-<label key="key:620791077:98907573" value="Schriftrollen des Ruins"/>
-<label key="key:620791078:54354734" value="Wird der Stab der dunklen Schatten innerhalb der Grenzen eines Siegels gegen Rogmul eingesetzt, neutralisiert dies die Fähigkeit der Kreatur, Gegner mit der Macht des Schattens niederzustrecken."/>
-<label key="key:620791078:98907573" value="Stäbe der dunklen Schatten"/>
-<label key="key:620791079:54354734" value="Wird das Horn von Arnor innerhalb der Grenzen eines Siegels gegen Rogmul geblasen, unterbricht dies kurz die Verbindung des Rogmuls mit der Flamme, sodass er nicht mehr das Feuer anrufen und damit seine Feinde vernichten kann."/>
-<label key="key:620791079:98907573" value="Hörner von Arnor"/>
+<label key="key:620791077:54354734" value="Reading the Scroll of Ruin within the bounds of sigil against Rogmul forces the creature to cease its attempt to garner strength from fire exposing it to a more powerful attack.&#10;&#10;The scroll must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791077:98907573" value="Scrolls of Ruin"/>
+<label key="key:620791078:54354734" value="Focusing the Staff of Dark Shadows within the bounds of a sigil against Rogmul denies its ability to strike its foes down with the power of Shadow.&#10;&#10;The staff must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791078:98907573" value="Staves of Dark Shadows"/>
+<label key="key:620791079:54354734" value="Blowing the Horn of Anor within the bounds of a sigil against Rogmul briefly severs the Rogmul's connection to flame disabling its ability to summon fire to destroy his enemies.&#10;&#10;The horn must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791079:98907573" value="Horns of Anor"/>
 <label key="key:620791082:54354734" value="Ein kleines Gerstenfeld"/>
 <label key="key:620791083:54354734" value="Ein kleines Gerstenfeld"/>
 <label key="key:620791084:54354734" value="Ein Büschel Gerste, die nur als Saatgut zu gebrauchen ist."/>
@@ -31958,7 +31958,7 @@
 <label key="key:620791142:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Experten der Landwirtschaft."/>
 <label key="key:620791143:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Landwirtschaft."/>
 <label key="key:620791144:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Landwirtschaft."/>
-<label key="key:620791145:54354734" value="Dieser Schlüssel öffnet die Tür zwischen dem zentralen Säulengang und der Beschwörungskammer in Barad Gularan."/>
+<label key="key:620791145:54354734" value="This key opens the door between the central arcade and the summoning chamber within Barad Gularan.&#10;&#10;The key must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
 <label key="key:620791145:98907573" value="..."/>
 <label key="key:620791148:54354734" value="Diese Truhe enthält persönliche Gegenstände des Kastellans von Barad Gularan."/>
 <label key="key:620791150:54354734" value="Dieser Schlüssel öffnet die Truhe im Sonnenraum in Barad Gularan."/>
