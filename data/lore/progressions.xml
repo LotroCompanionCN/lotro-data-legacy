@@ -48800,4 +48800,1295 @@
 <point y="102.0"/>
 <point y="103.8"/>
 </arrayProgression>
+<arrayProgression identifier="1879105674" nbPoints="80">
+<point count="24" y="-0.02"/>
+<point count="56" y="-0.03"/>
+</arrayProgression>
+<arrayProgression identifier="1879105682" nbPoints="80">
+<point y="1.0"/>
+<point y="2.0"/>
+<point count="2" y="3.0"/>
+<point y="5.0"/>
+<point count="2" y="6.0"/>
+<point y="7.0"/>
+<point y="8.0"/>
+<point y="9.0"/>
+<point y="10.0"/>
+<point y="11.0"/>
+<point count="2" y="12.0"/>
+<point y="14.0"/>
+<point count="2" y="15.0"/>
+<point y="16.0"/>
+<point y="17.0"/>
+<point y="18.0"/>
+<point y="19.0"/>
+<point y="20.0"/>
+<point count="2" y="21.0"/>
+<point y="23.0"/>
+<point count="2" y="24.0"/>
+<point y="25.0"/>
+<point y="26.0"/>
+<point y="27.0"/>
+<point y="28.0"/>
+<point y="29.0"/>
+<point count="2" y="30.0"/>
+<point y="32.0"/>
+<point count="2" y="33.0"/>
+<point y="34.0"/>
+<point y="35.0"/>
+<point y="36.0"/>
+<point y="37.0"/>
+<point y="38.0"/>
+<point count="2" y="39.0"/>
+<point y="41.0"/>
+<point count="2" y="42.0"/>
+<point y="43.0"/>
+<point y="44.0"/>
+<point y="45.0"/>
+<point y="46.0"/>
+<point y="47.0"/>
+<point y="48.0"/>
+<point count="2" y="49.0"/>
+<point y="50.0"/>
+<point y="51.0"/>
+<point y="52.0"/>
+<point y="53.0"/>
+<point y="54.0"/>
+<point y="55.0"/>
+<point y="56.0"/>
+<point y="57.0"/>
+<point count="2" y="58.0"/>
+<point y="59.0"/>
+<point y="60.0"/>
+<point y="61.0"/>
+<point y="62.0"/>
+<point y="63.0"/>
+<point y="64.0"/>
+<point y="65.0"/>
+<point y="66.0"/>
+<point count="2" y="67.0"/>
+<point y="68.0"/>
+<point y="69.0"/>
+<point y="70.0"/>
+<point y="71.0"/>
+<point y="72.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879105686" nbPoints="80">
+<point count="80" y="0.004"/>
+</arrayProgression>
+<arrayProgression identifier="1879105755" nbPoints="80">
+<point y="1.0"/>
+<point y="2.0"/>
+<point y="3.0"/>
+<point y="4.0"/>
+<point y="6.0"/>
+<point count="2" y="7.0"/>
+<point count="2" y="9.0"/>
+<point y="11.0"/>
+<point y="12.0"/>
+<point y="13.0"/>
+<point y="14.0"/>
+<point y="15.0"/>
+<point y="16.0"/>
+<point count="2" y="18.0"/>
+<point y="19.0"/>
+<point y="20.0"/>
+<point y="22.0"/>
+<point y="23.0"/>
+<point y="24.0"/>
+<point count="2" y="25.0"/>
+<point y="27.0"/>
+<point y="28.0"/>
+<point y="29.0"/>
+<point y="30.0"/>
+<point y="31.0"/>
+<point y="33.0"/>
+<point count="2" y="34.0"/>
+<point count="2" y="36.0"/>
+<point y="38.0"/>
+<point y="39.0"/>
+<point y="40.0"/>
+<point y="41.0"/>
+<point y="42.0"/>
+<point y="43.0"/>
+<point count="2" y="45.0"/>
+<point y="46.0"/>
+<point y="47.0"/>
+<point y="49.0"/>
+<point y="50.0"/>
+<point y="51.0"/>
+<point count="2" y="52.0"/>
+<point y="54.0"/>
+<point y="55.0"/>
+<point y="56.0"/>
+<point y="57.0"/>
+<point y="58.0"/>
+<point y="59.0"/>
+<point y="60.0"/>
+<point y="61.0"/>
+<point y="63.0"/>
+<point count="2" y="64.0"/>
+<point y="66.0"/>
+<point y="67.0"/>
+<point y="68.0"/>
+<point y="69.0"/>
+<point y="70.0"/>
+<point y="71.0"/>
+<point y="72.0"/>
+<point y="73.0"/>
+<point count="2" y="75.0"/>
+<point y="76.0"/>
+<point y="78.0"/>
+<point y="79.0"/>
+<point y="80.0"/>
+<point y="81.0"/>
+<point y="82.0"/>
+<point y="83.0"/>
+<point y="84.0"/>
+<point y="85.0"/>
+<point y="86.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879105763" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879105767" nbPoints="80">
+<point count="24" y="-0.01"/>
+<point count="56" y="-0.015"/>
+</arrayProgression>
+<arrayProgression identifier="1879105776" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="8" y="1"/>
+<point count="8" y="2"/>
+<point count="9" y="3"/>
+<point count="8" y="4"/>
+<point count="8" y="5"/>
+<point count="9" y="6"/>
+<point count="8" y="7"/>
+<point count="8" y="8"/>
+<point count="9" y="9"/>
+<point y="10"/>
+</arrayProgression>
+<arrayProgression identifier="1879105779" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="8" y="1"/>
+<point count="8" y="2"/>
+<point count="9" y="3"/>
+<point count="8" y="4"/>
+<point count="8" y="5"/>
+<point count="9" y="6"/>
+<point count="8" y="7"/>
+<point count="8" y="8"/>
+<point count="9" y="9"/>
+<point y="10"/>
+</arrayProgression>
+<arrayProgression identifier="1879105850" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879105852" nbPoints="80">
+<point y="1.0"/>
+<point count="2" y="2.0"/>
+<point y="3.0"/>
+<point y="4.0"/>
+<point count="2" y="5.0"/>
+<point count="2" y="6.0"/>
+<point count="2" y="8.0"/>
+<point y="9.0"/>
+<point count="2" y="10.0"/>
+<point y="11.0"/>
+<point count="2" y="12.0"/>
+<point y="13.0"/>
+<point y="14.0"/>
+<point y="15.0"/>
+<point count="2" y="16.0"/>
+<point count="2" y="17.0"/>
+<point y="18.0"/>
+<point y="19.0"/>
+<point count="2" y="20.0"/>
+<point y="21.0"/>
+<point y="22.0"/>
+<point count="2" y="23.0"/>
+<point count="2" y="24.0"/>
+<point count="2" y="26.0"/>
+<point y="27.0"/>
+<point count="2" y="28.0"/>
+<point y="29.0"/>
+<point count="2" y="30.0"/>
+<point y="31.0"/>
+<point y="32.0"/>
+<point y="33.0"/>
+<point count="2" y="34.0"/>
+<point count="2" y="35.0"/>
+<point y="36.0"/>
+<point y="37.0"/>
+<point count="2" y="38.0"/>
+<point y="39.0"/>
+<point count="2" y="40.0"/>
+<point y="41.0"/>
+<point y="42.0"/>
+<point count="2" y="43.0"/>
+<point y="44.0"/>
+<point y="45.0"/>
+<point count="2" y="46.0"/>
+<point y="47.0"/>
+<point count="2" y="48.0"/>
+<point y="49.0"/>
+<point count="2" y="50.0"/>
+<point y="51.0"/>
+<point y="52.0"/>
+<point y="53.0"/>
+<point count="2" y="54.0"/>
+<point y="55.0"/>
+<point count="2" y="56.0"/>
+<point y="57.0"/>
+<point y="58.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879105882" nbPoints="80">
+<point count="80" y="0.002"/>
+</arrayProgression>
+<arrayProgression identifier="1879105889" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="8" y="1"/>
+<point count="8" y="2"/>
+<point count="9" y="3"/>
+<point count="8" y="4"/>
+<point count="8" y="5"/>
+<point count="9" y="6"/>
+<point count="8" y="7"/>
+<point count="8" y="8"/>
+<point count="9" y="9"/>
+<point y="10"/>
+</arrayProgression>
+<arrayProgression identifier="1879105896" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879105903" nbPoints="80">
+<point count="80" y="0.005"/>
+</arrayProgression>
+<arrayProgression identifier="1879105905" nbPoints="80">
+<point count="2" y="1.0"/>
+<point count="2" y="2.0"/>
+<point count="2" y="4.0"/>
+<point y="5.0"/>
+<point count="2" y="6.0"/>
+<point y="7.0"/>
+<point count="2" y="8.0"/>
+<point y="9.0"/>
+<point y="10.0"/>
+<point y="11.0"/>
+<point count="2" y="12.0"/>
+<point count="2" y="13.0"/>
+<point y="14.0"/>
+<point y="15.0"/>
+<point count="2" y="16.0"/>
+<point y="17.0"/>
+<point y="18.0"/>
+<point count="2" y="19.0"/>
+<point count="2" y="20.0"/>
+<point count="2" y="22.0"/>
+<point y="23.0"/>
+<point count="2" y="24.0"/>
+<point y="25.0"/>
+<point count="2" y="26.0"/>
+<point y="27.0"/>
+<point y="28.0"/>
+<point y="29.0"/>
+<point count="2" y="30.0"/>
+<point count="2" y="31.0"/>
+<point y="32.0"/>
+<point y="33.0"/>
+<point count="2" y="34.0"/>
+<point y="35.0"/>
+<point count="2" y="36.0"/>
+<point y="37.0"/>
+<point y="38.0"/>
+<point count="2" y="39.0"/>
+<point y="40.0"/>
+<point y="41.0"/>
+<point count="2" y="42.0"/>
+<point y="43.0"/>
+<point count="2" y="44.0"/>
+<point y="45.0"/>
+<point count="2" y="46.0"/>
+<point y="47.0"/>
+<point y="48.0"/>
+<point y="49.0"/>
+<point count="2" y="50.0"/>
+<point y="51.0"/>
+<point count="2" y="52.0"/>
+<point y="53.0"/>
+<point count="2" y="54.0"/>
+<point y="55.0"/>
+<point y="56.0"/>
+<point count="2" y="57.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879105936" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879105980" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106001" nbPoints="80">
+<point y="1.0"/>
+<point y="2.0"/>
+<point count="2" y="3.0"/>
+<point y="5.0"/>
+<point count="2" y="6.0"/>
+<point y="7.0"/>
+<point y="8.0"/>
+<point y="9.0"/>
+<point y="10.0"/>
+<point y="11.0"/>
+<point count="2" y="12.0"/>
+<point y="14.0"/>
+<point count="2" y="15.0"/>
+<point y="16.0"/>
+<point y="17.0"/>
+<point y="18.0"/>
+<point y="19.0"/>
+<point y="20.0"/>
+<point count="2" y="21.0"/>
+<point y="23.0"/>
+<point count="2" y="24.0"/>
+<point y="25.0"/>
+<point y="26.0"/>
+<point y="27.0"/>
+<point y="28.0"/>
+<point y="29.0"/>
+<point count="2" y="30.0"/>
+<point y="32.0"/>
+<point count="2" y="33.0"/>
+<point y="34.0"/>
+<point y="35.0"/>
+<point y="36.0"/>
+<point y="37.0"/>
+<point y="38.0"/>
+<point count="2" y="39.0"/>
+<point y="41.0"/>
+<point count="2" y="42.0"/>
+<point y="43.0"/>
+<point y="44.0"/>
+<point y="45.0"/>
+<point y="46.0"/>
+<point y="47.0"/>
+<point y="48.0"/>
+<point count="2" y="49.0"/>
+<point y="50.0"/>
+<point y="51.0"/>
+<point y="52.0"/>
+<point y="53.0"/>
+<point y="54.0"/>
+<point y="55.0"/>
+<point y="56.0"/>
+<point y="57.0"/>
+<point count="2" y="58.0"/>
+<point y="59.0"/>
+<point y="60.0"/>
+<point y="61.0"/>
+<point y="62.0"/>
+<point y="63.0"/>
+<point y="64.0"/>
+<point y="65.0"/>
+<point y="66.0"/>
+<point count="2" y="67.0"/>
+<point y="68.0"/>
+<point y="69.0"/>
+<point y="70.0"/>
+<point y="71.0"/>
+<point y="72.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879106012" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106017" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="3" y="1"/>
+<point count="5" y="2"/>
+<point count="3" y="3"/>
+<point count="5" y="4"/>
+<point count="4" y="5"/>
+<point count="5" y="6"/>
+<point count="3" y="7"/>
+<point count="5" y="8"/>
+<point count="3" y="9"/>
+<point count="5" y="10"/>
+<point count="4" y="11"/>
+<point count="5" y="12"/>
+<point count="3" y="13"/>
+<point count="5" y="14"/>
+<point count="3" y="15"/>
+<point count="5" y="16"/>
+<point count="4" y="17"/>
+<point count="5" y="18"/>
+<point y="19"/>
+</arrayProgression>
+<arrayProgression identifier="1879106031" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="8" y="1"/>
+<point count="8" y="2"/>
+<point count="9" y="3"/>
+<point count="8" y="4"/>
+<point count="8" y="5"/>
+<point count="9" y="6"/>
+<point count="8" y="7"/>
+<point count="8" y="8"/>
+<point count="9" y="9"/>
+<point y="10"/>
+</arrayProgression>
+<arrayProgression identifier="1879106045" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106047" nbPoints="80">
+<point count="24" y="-0.01"/>
+<point count="56" y="-0.015"/>
+</arrayProgression>
+<arrayProgression identifier="1879106056" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="2" y="2"/>
+<point count="3" y="3"/>
+<point count="4" y="4"/>
+<point y="5"/>
+<point count="4" y="6"/>
+<point count="3" y="7"/>
+<point count="2" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="2" y="11"/>
+<point count="3" y="12"/>
+<point count="4" y="13"/>
+<point y="14"/>
+<point count="4" y="15"/>
+<point count="3" y="16"/>
+<point count="2" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="2" y="20"/>
+<point count="3" y="21"/>
+<point count="4" y="22"/>
+<point y="23"/>
+<point count="4" y="24"/>
+<point count="3" y="25"/>
+<point count="2" y="26"/>
+<point count="3" y="27"/>
+<point count="3" y="28"/>
+</arrayProgression>
+<arrayProgression identifier="1879106076" nbPoints="80" type="INTEGER">
+<point count="2" y="1"/>
+<point count="2" y="2"/>
+<point y="3"/>
+<point count="2" y="4"/>
+<point count="2" y="5"/>
+<point y="6"/>
+<point count="2" y="7"/>
+<point count="2" y="8"/>
+<point y="9"/>
+<point count="2" y="10"/>
+<point count="2" y="11"/>
+<point y="12"/>
+<point count="2" y="13"/>
+<point count="2" y="14"/>
+<point y="15"/>
+<point count="2" y="16"/>
+<point count="2" y="17"/>
+<point y="18"/>
+<point count="2" y="19"/>
+<point count="2" y="20"/>
+<point y="21"/>
+<point count="2" y="22"/>
+<point count="2" y="23"/>
+<point y="24"/>
+<point count="2" y="25"/>
+<point count="2" y="26"/>
+<point y="27"/>
+<point count="2" y="28"/>
+<point count="2" y="29"/>
+<point y="30"/>
+<point count="2" y="31"/>
+<point count="2" y="32"/>
+<point y="33"/>
+<point count="2" y="34"/>
+<point count="2" y="35"/>
+<point y="36"/>
+<point count="2" y="37"/>
+<point count="2" y="38"/>
+<point y="39"/>
+<point count="2" y="40"/>
+<point count="2" y="41"/>
+<point y="42"/>
+<point count="2" y="43"/>
+<point count="2" y="44"/>
+<point y="45"/>
+<point count="2" y="46"/>
+<point count="2" y="47"/>
+<point y="48"/>
+</arrayProgression>
+<arrayProgression identifier="1879106078" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106090" nbPoints="80">
+<point count="4" y="1.0"/>
+<point count="2" y="2.0"/>
+<point count="3" y="3.0"/>
+<point count="3" y="4.0"/>
+<point count="2" y="5.0"/>
+<point count="3" y="6.0"/>
+<point count="3" y="7.0"/>
+<point count="3" y="8.0"/>
+<point count="2" y="9.0"/>
+<point count="4" y="10.0"/>
+<point count="2" y="11.0"/>
+<point count="3" y="12.0"/>
+<point count="3" y="13.0"/>
+<point count="2" y="14.0"/>
+<point count="3" y="15.0"/>
+<point count="3" y="16.0"/>
+<point count="3" y="17.0"/>
+<point count="3" y="18.0"/>
+<point count="2" y="19.0"/>
+<point count="3" y="20.0"/>
+<point count="3" y="21.0"/>
+<point count="3" y="22.0"/>
+<point count="3" y="23.0"/>
+<point count="2" y="24.0"/>
+<point count="3" y="25.0"/>
+<point count="3" y="26.0"/>
+<point count="3" y="27.0"/>
+<point count="2" y="28.0"/>
+<point count="2" y="29.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879106094" nbPoints="80">
+<point count="80" y="0.005"/>
+</arrayProgression>
+<arrayProgression identifier="1879106098" nbPoints="80" type="INTEGER">
+<point count="2" y="1"/>
+<point count="2" y="2"/>
+<point y="3"/>
+<point count="2" y="4"/>
+<point count="2" y="5"/>
+<point y="6"/>
+<point count="2" y="7"/>
+<point count="2" y="8"/>
+<point y="9"/>
+<point count="2" y="10"/>
+<point count="2" y="11"/>
+<point y="12"/>
+<point count="2" y="13"/>
+<point count="2" y="14"/>
+<point y="15"/>
+<point count="2" y="16"/>
+<point count="2" y="17"/>
+<point y="18"/>
+<point count="2" y="19"/>
+<point count="2" y="20"/>
+<point y="21"/>
+<point count="2" y="22"/>
+<point count="2" y="23"/>
+<point y="24"/>
+<point count="2" y="25"/>
+<point count="2" y="26"/>
+<point y="27"/>
+<point count="2" y="28"/>
+<point count="2" y="29"/>
+<point y="30"/>
+<point count="2" y="31"/>
+<point count="2" y="32"/>
+<point y="33"/>
+<point count="2" y="34"/>
+<point count="2" y="35"/>
+<point y="36"/>
+<point count="2" y="37"/>
+<point count="2" y="38"/>
+<point y="39"/>
+<point count="2" y="40"/>
+<point count="2" y="41"/>
+<point y="42"/>
+<point count="2" y="43"/>
+<point count="2" y="44"/>
+<point y="45"/>
+<point count="2" y="46"/>
+<point count="2" y="47"/>
+<point y="48"/>
+</arrayProgression>
+<arrayProgression identifier="1879106112" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106116" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106117" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106123" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106126" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="8" y="1"/>
+<point count="8" y="2"/>
+<point count="9" y="3"/>
+<point count="8" y="4"/>
+<point count="8" y="5"/>
+<point count="9" y="6"/>
+<point count="8" y="7"/>
+<point count="8" y="8"/>
+<point count="9" y="9"/>
+<point y="10"/>
+</arrayProgression>
+<arrayProgression identifier="1879106129" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="2" y="1"/>
+<point y="2"/>
+<point count="2" y="3"/>
+<point count="3" y="4"/>
+<point count="2" y="5"/>
+<point count="2" y="6"/>
+<point y="7"/>
+<point count="4" y="8"/>
+<point y="9"/>
+<point count="2" y="10"/>
+<point count="2" y="11"/>
+<point count="3" y="12"/>
+<point count="2" y="13"/>
+<point y="14"/>
+<point count="2" y="15"/>
+<point count="3" y="16"/>
+<point count="2" y="17"/>
+<point count="2" y="18"/>
+<point y="19"/>
+<point count="4" y="20"/>
+<point y="21"/>
+<point count="2" y="22"/>
+<point count="2" y="23"/>
+<point count="3" y="24"/>
+<point count="2" y="25"/>
+<point y="26"/>
+<point count="2" y="27"/>
+<point count="3" y="28"/>
+<point count="2" y="29"/>
+<point count="2" y="30"/>
+<point y="31"/>
+<point count="4" y="32"/>
+<point y="33"/>
+<point count="2" y="34"/>
+<point count="2" y="35"/>
+<point count="3" y="36"/>
+<point count="2" y="37"/>
+<point y="38"/>
+</arrayProgression>
+<arrayProgression identifier="1879106132" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106229" nbPoints="80">
+<point count="33" y="0.01"/>
+<point count="47" y="0.02"/>
+</arrayProgression>
+<arrayProgression identifier="1879106235" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106240" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
+<arrayProgression identifier="1879106252" nbPoints="80">
+<point y="1.0"/>
+<point y="2.0"/>
+<point count="2" y="3.0"/>
+<point y="5.0"/>
+<point count="2" y="6.0"/>
+<point y="7.0"/>
+<point y="8.0"/>
+<point y="9.0"/>
+<point y="10.0"/>
+<point y="11.0"/>
+<point count="2" y="12.0"/>
+<point y="14.0"/>
+<point count="2" y="15.0"/>
+<point y="16.0"/>
+<point y="17.0"/>
+<point y="18.0"/>
+<point y="19.0"/>
+<point y="20.0"/>
+<point count="2" y="21.0"/>
+<point y="23.0"/>
+<point count="2" y="24.0"/>
+<point y="25.0"/>
+<point y="26.0"/>
+<point y="27.0"/>
+<point y="28.0"/>
+<point y="29.0"/>
+<point count="2" y="30.0"/>
+<point y="32.0"/>
+<point count="2" y="33.0"/>
+<point y="34.0"/>
+<point y="35.0"/>
+<point y="36.0"/>
+<point y="37.0"/>
+<point y="38.0"/>
+<point count="2" y="39.0"/>
+<point y="41.0"/>
+<point count="2" y="42.0"/>
+<point y="43.0"/>
+<point y="44.0"/>
+<point y="45.0"/>
+<point y="46.0"/>
+<point y="47.0"/>
+<point y="48.0"/>
+<point count="2" y="49.0"/>
+<point y="50.0"/>
+<point y="51.0"/>
+<point y="52.0"/>
+<point y="53.0"/>
+<point y="54.0"/>
+<point y="55.0"/>
+<point y="56.0"/>
+<point y="57.0"/>
+<point count="2" y="58.0"/>
+<point y="59.0"/>
+<point y="60.0"/>
+<point y="61.0"/>
+<point y="62.0"/>
+<point y="63.0"/>
+<point y="64.0"/>
+<point y="65.0"/>
+<point y="66.0"/>
+<point count="2" y="67.0"/>
+<point y="68.0"/>
+<point y="69.0"/>
+<point y="70.0"/>
+<point y="71.0"/>
+<point y="72.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879106278" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="2" y="2"/>
+<point count="3" y="3"/>
+<point count="4" y="4"/>
+<point y="5"/>
+<point count="4" y="6"/>
+<point count="3" y="7"/>
+<point count="2" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="2" y="11"/>
+<point count="3" y="12"/>
+<point count="4" y="13"/>
+<point y="14"/>
+<point count="4" y="15"/>
+<point count="3" y="16"/>
+<point count="2" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="2" y="20"/>
+<point count="3" y="21"/>
+<point count="4" y="22"/>
+<point y="23"/>
+<point count="4" y="24"/>
+<point count="3" y="25"/>
+<point count="2" y="26"/>
+<point count="3" y="27"/>
+<point count="3" y="28"/>
+</arrayProgression>
+<arrayProgression identifier="1879106302" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="2" y="1"/>
+<point y="2"/>
+<point count="2" y="3"/>
+<point count="3" y="4"/>
+<point count="2" y="5"/>
+<point count="2" y="6"/>
+<point y="7"/>
+<point count="4" y="8"/>
+<point y="9"/>
+<point count="2" y="10"/>
+<point count="2" y="11"/>
+<point count="3" y="12"/>
+<point count="2" y="13"/>
+<point y="14"/>
+<point count="2" y="15"/>
+<point count="3" y="16"/>
+<point count="2" y="17"/>
+<point count="2" y="18"/>
+<point y="19"/>
+<point count="4" y="20"/>
+<point y="21"/>
+<point count="2" y="22"/>
+<point count="2" y="23"/>
+<point count="3" y="24"/>
+<point count="2" y="25"/>
+<point y="26"/>
+<point count="2" y="27"/>
+<point count="3" y="28"/>
+<point count="2" y="29"/>
+<point count="2" y="30"/>
+<point y="31"/>
+<point count="4" y="32"/>
+<point y="33"/>
+<point count="2" y="34"/>
+<point count="2" y="35"/>
+<point count="3" y="36"/>
+<point count="2" y="37"/>
+<point y="38"/>
+</arrayProgression>
+<arrayProgression identifier="1879106313" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="2" y="2"/>
+<point count="3" y="3"/>
+<point count="4" y="4"/>
+<point y="5"/>
+<point count="4" y="6"/>
+<point count="3" y="7"/>
+<point count="2" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="2" y="11"/>
+<point count="3" y="12"/>
+<point count="4" y="13"/>
+<point y="14"/>
+<point count="4" y="15"/>
+<point count="3" y="16"/>
+<point count="2" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="2" y="20"/>
+<point count="3" y="21"/>
+<point count="4" y="22"/>
+<point y="23"/>
+<point count="4" y="24"/>
+<point count="3" y="25"/>
+<point count="2" y="26"/>
+<point count="3" y="27"/>
+<point count="3" y="28"/>
+</arrayProgression>
+<arrayProgression identifier="1879106319" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="2" y="2"/>
+<point count="3" y="3"/>
+<point count="4" y="4"/>
+<point y="5"/>
+<point count="4" y="6"/>
+<point count="3" y="7"/>
+<point count="2" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="2" y="11"/>
+<point count="3" y="12"/>
+<point count="4" y="13"/>
+<point y="14"/>
+<point count="4" y="15"/>
+<point count="3" y="16"/>
+<point count="2" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="2" y="20"/>
+<point count="3" y="21"/>
+<point count="4" y="22"/>
+<point y="23"/>
+<point count="4" y="24"/>
+<point count="3" y="25"/>
+<point count="2" y="26"/>
+<point count="3" y="27"/>
+<point count="3" y="28"/>
+</arrayProgression>
+<arrayProgression identifier="1879106325" nbPoints="80" type="INTEGER">
+<point count="4" y="0"/>
+<point count="8" y="1"/>
+<point count="8" y="2"/>
+<point count="9" y="3"/>
+<point count="8" y="4"/>
+<point count="8" y="5"/>
+<point count="9" y="6"/>
+<point count="8" y="7"/>
+<point count="8" y="8"/>
+<point count="9" y="9"/>
+<point y="10"/>
+</arrayProgression>
+<arrayProgression identifier="1879106347" nbPoints="80" type="INTEGER">
+<point count="2" y="0"/>
+<point count="3" y="1"/>
+<point count="4" y="2"/>
+<point count="3" y="3"/>
+<point count="3" y="4"/>
+<point count="4" y="5"/>
+<point count="3" y="6"/>
+<point count="3" y="7"/>
+<point count="4" y="8"/>
+<point count="3" y="9"/>
+<point count="3" y="10"/>
+<point count="4" y="11"/>
+<point count="3" y="12"/>
+<point count="3" y="13"/>
+<point count="4" y="14"/>
+<point count="3" y="15"/>
+<point count="3" y="16"/>
+<point count="4" y="17"/>
+<point count="3" y="18"/>
+<point count="3" y="19"/>
+<point count="4" y="20"/>
+<point count="3" y="21"/>
+<point count="3" y="22"/>
+<point count="4" y="23"/>
+<point y="24"/>
+</arrayProgression>
 </progressions>

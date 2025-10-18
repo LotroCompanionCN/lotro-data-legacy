@@ -42,6 +42,7 @@
 <destination id="1879102110" name="Falathlorn Homesteads"/>
 <destination id="1879102111" name="Bree-land Homesteads"/>
 <destination id="1879102355" name="Shire Homesteads"/>
+<destination id="1879103211" name="Ost Forod - Swift Travel"/>
 <route id="1879072602" name="Esteldin" destinationID="1879072603" mode="HORSE">
 <routeAction id="1879072604" headName="travel_segment_from_nomadmoot_going_south"/>
 <routeAction id="1879072605" headName="travel_segment_seg_nomadmoot_to_nanamlug_east"/>
@@ -666,7 +667,7 @@
 <routeAction id="1879072759" headName="travel_segment_seg_esteldin_crossing_to_esteldin"/>
 <routeAction id="1879072665" headName="travel_segment_to_esteldin_going_east"/>
 </route>
-<route id="1879102094" name="Ost Forod" destinationID="1879088490" mode="HORSE">
+<route id="1879102094" name="Ost Forod - Swift Travel" destinationID="1879103211" mode="HORSE">
 <routeAction id="1879072640" headName="travel_segment_from_bree_west_going_west"/>
 <routeAction id="1879072630" delay="0.0"/>
 <routeAction id="1879088158" headName="travel_segment_to_trader_outpost_going_north"/>
@@ -685,7 +686,7 @@
 <routeAction id="1879072688" headName="travel_segment_seg_duilond_road_going_north"/>
 <routeAction id="1879072689" headName="travel_segment_seg_duilond_to_shire_gate"/>
 </route>
-<route id="1879102621" name="West Bree" destinationID="1879072621" mode="HORSE">
+<route id="1879102621" name="West Bree: Swift Travel" destinationID="1879072729" mode="HORSE">
 <routeAction id="1879088514" headName="travel_segment_from_trader_outpost_going_south"/>
 <routeAction id="1879072630" delay="0.0"/>
 <routeAction id="1879072679" headName="travel_segment_seg_greenway_crossing_to_bree_west"/>
@@ -724,7 +725,7 @@
 <route id="1879072637" name="Esteldin: Swift Travel" cost="3500"/>
 <route id="1879072638" name="Michel Delving: Swift Travel" cost="100"/>
 <route id="1879085729" name="Celondim: Swift Travel" cost="100"/>
-<route id="1879102094" name="Ost Forod" cost="3500"/>
+<route id="1879102094" name="Ost Forod - Swift Travel" cost="3500"/>
 </node>
 <node id="1879072574">
 <mainLocation id="1879072626" name="Combe"/>
@@ -917,10 +918,11 @@
 </node>
 <node id="1879088510">
 <mainLocation id="1879088490" name="Ost Forod"/>
+<location id="1879103211" name="Ost Forod - Swift Travel"/>
 <route id="1879088511" name="Oatbarton" cost="1500"/>
 <route id="1879088512" name="Tinnudir" cost="1500"/>
 <route id="1879088513" name="Trestlebridge" cost="1500"/>
-<route id="1879102621" name="West Bree" cost="1500"/>
+<route id="1879102621" name="West Bree: Swift Travel" cost="1500"/>
 </node>
 <node id="1879088521">
 <mainLocation id="1879088484" name="Oatbarton"/>

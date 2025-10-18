@@ -9282,7 +9282,7 @@
 <actionTable id="1879059622"/>
 <actionTable id="1879049303" minLevel="10"/>
 </mob>
-<mob id="1879083105" name="TaskmasterBroshan" division="95" alignment="3" class="51" classFilter="2" genus="7" species="47" subSpecies="204" trophyListId="1879082825" remoteLootable="false">
+<mob id="1879083105" name="Taskmaster Broshan" division="95" alignment="3" class="51" classFilter="2" genus="7" species="47" subSpecies="204" trophyListId="1879082825" remoteLootable="false">
 <actionTable id="1879049347"/>
 <actionTable id="1879057307"/>
 <actionTable id="1879050231" minLevel="5"/>

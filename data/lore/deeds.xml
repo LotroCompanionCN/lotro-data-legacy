@@ -7339,4 +7339,229 @@
 <title id="1879101993" name="Bearer of Hope"/>
 </rewards>
 </deed>
+<deed id="1879115172" key="Invaders_from_Angmar" name="Invaders from Angmar" rawName="key:620809087:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809087:54354734">
+<objectives>
+<objective index="1">
+<monsterDied loreInfo="key:620809087:118018273" progressOverride="key:620809087:22075073" showBillboardText="false" count="120">
+<monsterSelection landId="1879086545" landName="Evendim" species="39"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<title id="1879115183" name="the Merciful"/>
+</rewards>
+</deed>
+<deed id="1879115173" key="Invaders_from_Angmar_(Advanced)" name="Invaders from Angmar (Advanced)" rawName="key:620809089:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809089:54354734">
+<objectives>
+<objective index="1">
+<questComplete showBillboardText="false" achievableId="1879115172"/>
+</objective>
+<objective index="2">
+<monsterDied loreInfo="key:620809089:118018273" progressOverride="key:620809089:22075073" showBillboardText="false" count="240">
+<monsterSelection landId="1879086545" landName="Evendim" species="39"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<virtue id="WISDOM"/>
+</rewards>
+</deed>
+<deed id="1879115174" key="Leaders_of_the_Invasion" name="Leaders of the Invasion" rawName="key:620809090:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809090:54354734">
+<objectives>
+<objective index="1">
+<monsterDied loreInfo="key:620809090:118018273" progressOverride="key:620809090:22075073" mobId="1879090815" mobName="Agarochir"/>
+<monsterDied loreInfo="key:620809090:118018274" progressOverride="key:620809090:22075074" mobId="1879090811" mobName="Guldurchir"/>
+<monsterDied loreInfo="key:620809090:118018275" progressOverride="key:620809090:22075075" mobId="1879093433" mobName="Siridán"/>
+<monsterDied loreInfo="key:620809090:118018276" progressOverride="key:620809090:22075076" mobId="1879093434" mobName="Unagh"/>
+<monsterDied loreInfo="key:620809090:118018277" progressOverride="key:620809090:22075077" mobId="1879093423" mobName="Valtair"/>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<title id="1879115186" name="Defender of Annúminas"/>
+</rewards>
+</deed>
+<deed id="1879115175" key="Leaders_of_the_Invasion_(Advanced)" name="Leaders of the Invasion (Advanced)" rawName="key:620809092:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809092:54354734">
+<objectives>
+<objective index="1">
+<questComplete showBillboardText="false" achievableId="1879115174"/>
+</objective>
+<objective index="2">
+<monsterDied loreInfo="key:620809092:118018273" progressOverride="key:620809092:22075073" mobId="1879090796" mobName="Nengon"/>
+<monsterDied loreInfo="key:620809092:118018274" progressOverride="key:620809092:22075074" mobId="1879092071" mobName="Shingrinder"/>
+<monsterDied loreInfo="key:620809092:118018275" progressOverride="key:620809092:22075075" mobId="1879090814" mobName="Dolvaethor"/>
+<monsterDied loreInfo="key:620809092:118018276" progressOverride="key:620809092:22075076" mobId="1879093222" mobName="Guloth"/>
+<monsterDied loreInfo="key:620809092:118018277" progressOverride="key:620809092:22075077" mobId="1879090813" mobName="Balhest"/>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<title id="1879115188" name="Protector of Annúminas"/>
+<virtue id="INNOCENCE"/>
+</rewards>
+</deed>
+<deed id="1879115176" key="Spirits_Aiding_Angmar" name="Spirits Aiding Angmar" rawName="key:620809094:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809094:54354734">
+<objectives>
+<objective index="1">
+<monsterDied loreInfo="key:620809094:118018273" progressOverride="key:620809094:22075073" showBillboardText="false" count="100">
+<monsterSelection mobDivision="158" genus="11"/>
+<monsterSelection mobDivision="152" genus="11"/>
+<monsterSelection mobDivision="165" genus="11"/>
+<monsterSelection mobDivision="164" genus="11"/>
+<monsterSelection mobDivision="163" genus="11"/>
+<monsterSelection mobDivision="167" genus="11"/>
+<monsterSelection mobDivision="166" genus="11"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<title id="1879115190" name="the Righteous"/>
+</rewards>
+</deed>
+<deed id="1879115177" key="Brutes_from_the_North" name="Brutes from the North" rawName="key:620809096:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809096:54354734">
+<objectives>
+<objective index="1">
+<monsterDied loreInfo="key:620809096:118018273" progressOverride="key:620809096:22075073" showBillboardText="false" count="40">
+<monsterSelection mobDivision="158" species="22"/>
+<monsterSelection mobDivision="152" species="22"/>
+<monsterSelection mobDivision="165" species="22"/>
+<monsterSelection mobDivision="164" species="22"/>
+<monsterSelection mobDivision="163" species="22"/>
+<monsterSelection mobDivision="167" species="22"/>
+<monsterSelection mobDivision="166" species="22"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="900"/>
+<XP quantity="4042"/>
+<title id="1879115192" name="the Formidable"/>
+</rewards>
+</deed>
+<deed id="1879115178" key="Brutes_from_the_North_(Advanced)" name="Brutes from the North (Advanced)" rawName="key:620809098:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809098:54354734">
+<objectives>
+<objective index="1">
+<questComplete showBillboardText="false" achievableId="1879115177"/>
+</objective>
+<objective index="2">
+<monsterDied loreInfo="key:620809098:118018273" progressOverride="key:620809098:22075073" showBillboardText="false" count="80">
+<monsterSelection mobDivision="158" species="22"/>
+<monsterSelection mobDivision="152" species="22"/>
+<monsterSelection mobDivision="165" species="22"/>
+<monsterSelection mobDivision="164" species="22"/>
+<monsterSelection mobDivision="163" species="22"/>
+<monsterSelection mobDivision="167" species="22"/>
+<monsterSelection mobDivision="166" species="22"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="900"/>
+<XP quantity="4042"/>
+<virtue id="FORTITUDE"/>
+</rewards>
+</deed>
+<deed id="1879115179" key="The_City_of_the_Kings" name="The City of the Kings" rawName="key:620809099:228870261" type="EXPLORER" minLevel="45" category="12" level="50" description="key:620809099:54354734">
+<objectives>
+<objective index="1" text="key:620809099:94621393">
+<landmarkDetection loreInfo="key:620809099:118018273" landmarkId="1879092648" landmarkName="Gwaelband"/>
+<landmarkDetection loreInfo="key:620809099:118018274" landmarkId="1879092650" landmarkName="Gaerannon"/>
+<landmarkDetection loreInfo="key:620809099:118018275" landmarkId="1879092653" landmarkName="Echad Garthadir"/>
+<landmarkDetection loreInfo="key:620809099:118018276" landmarkId="1879092654" landmarkName="Menelband"/>
+<landmarkDetection loreInfo="key:620809099:118018277" landmarkId="1879092649" landmarkName="Clorhir"/>
+<landmarkDetection loreInfo="key:620809099:118018278" landmarkId="1879092655" landmarkName="Tirband"/>
+<landmarkDetection loreInfo="key:620809099:118018279" landmarkId="1879092646" landmarkName="Ariant"/>
+<landmarkDetection loreInfo="key:620809099:118018280" landmarkId="1879092651" landmarkName="Minathranc"/>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091341" faction="Council of the North" amount="700"/>
+<XP quantity="4042"/>
+<virtue id="LOYALTY"/>
+</rewards>
+</deed>
+<deed id="1879115180" key="Warden_of_Ann%C3%BAminas_(Deed)" name="Warden of Annúminas" rawName="key:620809100:228870261" type="LORE" minLevel="45" category="12" level="50" description="key:620809100:54354734">
+<objectives>
+<objective index="1">
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879086545" landName="Evendim" species="39"/>
+</monsterDied>
+</objective>
+<objective index="2" progressOverride="key:620809100:22075073" billboardOverride="key:620809100:22075074">
+<questComplete showBillboardText="false" achievableId="1879115175"/>
+<questComplete showBillboardText="false" achievableId="1879115173"/>
+<questComplete showBillboardText="false" achievableId="1879115195"/>
+<questComplete showBillboardText="false" achievableId="1879115178"/>
+<questComplete showBillboardText="false" achievableId="1879115179"/>
+<questComplete showBillboardText="false" achievableId="1879115181"/>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<title id="1879115197" name="Warden of Annúminas"/>
+</rewards>
+</deed>
+<deed id="1879115181" key="Markers_of_the_Sunken_City" name="Markers of the Sunken City" rawName="key:620809125:228870261" type="LORE" minLevel="45" category="12" level="50" description="key:620809125:54354734">
+<objectives>
+<objective index="1" text="key:620809125:94621393">
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879086545" landName="Evendim" species="39"/>
+</monsterDied>
+</objective>
+<objective index="2" text="key:620809125:94621394">
+<compoundEvent>
+<itemUsed itemId="1879115226" itemName="Plaque of Menelband"/>
+<inventoryItem showBillboardText="false" itemId="1879115226" itemName="Plaque of Menelband"/>
+</compoundEvent>
+<compoundEvent>
+<itemUsed itemId="1879115227" itemName="Plaque of Minathranc"/>
+<inventoryItem showBillboardText="false" itemId="1879115227" itemName="Plaque of Minathranc"/>
+</compoundEvent>
+<compoundEvent>
+<itemUsed itemId="1879115223" itemName="Plaque of Tirband"/>
+<inventoryItem showBillboardText="false" itemId="1879115223" itemName="Plaque of Tirband"/>
+</compoundEvent>
+<itemUsed loreInfo="key:620809125:118018276" itemId="1879115221" itemName="Plaque of Echad Garthadir"/>
+<itemUsed loreInfo="key:620809125:118018277" itemId="1879115222" itemName="Plaque of Clorhir"/>
+<itemUsed loreInfo="key:620809125:118018278" itemId="1879115225" itemName="Plaque of Ariant"/>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<title id="1879115229" name="Sage of the Sunken City"/>
+</rewards>
+</deed>
+<deed id="1879115195" key="Spirits_Aiding_Angmar_(Advanced)" name="Spirits Aiding Angmar (Advanced)" rawName="key:620809102:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809102:54354734">
+<objectives>
+<objective index="1">
+<questComplete showBillboardText="false" achievableId="1879115176"/>
+</objective>
+<objective index="2">
+<monsterDied loreInfo="key:620809102:118018273" progressOverride="key:620809102:22075073" showBillboardText="false" count="200">
+<monsterSelection mobDivision="158" genus="11"/>
+<monsterSelection mobDivision="152" genus="11"/>
+<monsterSelection mobDivision="165" genus="11"/>
+<monsterSelection mobDivision="164" genus="11"/>
+<monsterSelection mobDivision="163" genus="11"/>
+<monsterSelection mobDivision="167" genus="11"/>
+<monsterSelection mobDivision="166" genus="11"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
+<XP quantity="4042"/>
+<virtue id="TOLERANCE"/>
+</rewards>
+</deed>
 </deeds>

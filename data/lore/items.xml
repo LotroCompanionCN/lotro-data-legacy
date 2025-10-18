@@ -89999,6 +89999,7 @@
 <stat name="MORALE" scaling="1879051225"/>
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="VITALITY" scaling="1879085571"/>
+<stat name="FATE" scaling="1879106126"/>
 </stats>
 </item>
 <item key="1879090948" name="Bronwebadanir" icon="1090525446-1090519043-1090526855-1090526854" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BIND_ON_EQUIP" durability="65" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049915" armourType="MEDIUM">
@@ -90073,14 +90074,17 @@
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879052868"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" scaling="1879062447"/>
+<stat name="EVADE_PERCENTAGE" scaling="1879105903"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" scaling="1879105767"/>
 </stats>
 </item>
 <item key="1879090976" name="Amdirolf" icon="1090557073-1090519044-1090557074-1090557075" level="50" slot="MAIN_HAND" category="WEAPON" class="34" equipmentCategory="22" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="45" valueTableId="1879050277" dps="31.354204" dpsTableId="1879049506" minDamage="66" maxDamage="90" damageType="BELERIAND" weaponType="STAFF" speed="1">
 <stats>
-<stat name="TACTICAL_DEFENCE_PERCENTAGE" scaling="1879050278"/>
-<stat name="ICPR" scaling="1879052864"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" scaling="1879105674"/>
+<stat name="VITALITY" scaling="1879106098"/>
 <stat name="FATE" scaling="1879051140"/>
 <stat name="WILL" scaling="1879085572"/>
+<stat name="MORALE" scaling="1879105852"/>
 </stats>
 </item>
 <item key="1879090982" name="Scholar's Writ" pluralName="key:620792221:98907573" icon="1090531739-1091398977" level="1" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620792221:54354734" valueTableId="1879052015" stackMax="50">
@@ -90107,6 +90111,7 @@
 <stat name="MORALE" scaling="1879049941"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="MIGHT" scaling="1879085570"/>
+<stat name="WILL" scaling="1879085572"/>
 </stats>
 <slayer value="4.9506636" genus="11"/>
 </item>
@@ -90126,6 +90131,7 @@
 <stat name="FATE" scaling="1879051158"/>
 <stat name="MIGHT" scaling="1879085570"/>
 <stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879052100"/>
+<stat name="VITALITY" scaling="1879105779"/>
 </stats>
 </item>
 <item key="1879090998" name="Cuthoron" icon="1090524310-1090519044-1090524311-1090524312" level="50" slot="RANGED_ITEM" category="WEAPON" class="1" equipmentCategory="8" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" valueTableId="1879050210" dps="31.354204" dpsTableId="1879049506" minDamage="54" maxDamage="84" damageType="BELERIAND" weaponType="BOW" speed="3">
@@ -90141,6 +90147,7 @@
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="AGILITY" scaling="1879085573"/>
+<stat name="POWER" scaling="1879106090"/>
 <stat name="ARMOUR" scaling="1879051215"/>
 </stats>
 </item>
@@ -90149,6 +90156,7 @@
 <stat name="BLOCK_PERCENTAGE" scaling="1879052643"/>
 <stat name="POWER" scaling="1879051152"/>
 <stat name="WILL" scaling="1879085572"/>
+<stat name="AGILITY" scaling="1879106031"/>
 </stats>
 <cooldown duration="1800.0"/>
 <skill id="1879087252" name="Greater Might" level="50"/>
@@ -90800,6 +90808,7 @@
 <stats>
 <stat name="BLOCK_PERCENTAGE" scaling="1879086449"/>
 <stat name="VITALITY" scaling="1879049943"/>
+<stat name="MELEE_DEFENCE_PERCENTAGE" scaling="1879106047"/>
 <stat name="ARMOUR" scaling="1879049940"/>
 </stats>
 <cooldown duration="3600.0" channelID="111"/>
@@ -90826,6 +90835,7 @@
 <stat name="POWER" scaling="1879049946"/>
 <stat name="ICPR" scaling="1879053130"/>
 <stat name="VITALITY" scaling="1879049943"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" scaling="1879106229"/>
 </stats>
 <cooldown duration="1800.0"/>
 <skill id="1879087530" name="Sudden Morale" level="50"/>
@@ -90836,6 +90846,8 @@
 <stat name="ICPR" scaling="1879053130"/>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="MORALE" scaling="1879049941"/>
+<stat name="AGILITY" scaling="1879085573"/>
+<stat name="PARRY_PERCENTAGE" scaling="1879105882"/>
 </stats>
 </item>
 <item key="1879091331" name="Doranc" icon="1090533860-1090519044-1090533862-1090533861" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050489" armourType="LIGHT">
@@ -90844,6 +90856,7 @@
 <stat name="FATE" scaling="1879051158"/>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="VITALITY" scaling="1879049943"/>
+<stat name="WILL" scaling="1879106347"/>
 <stat name="ARMOUR" scaling="1879055748"/>
 </stats>
 </item>
@@ -90869,6 +90882,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 <stat name="EVADE_PERCENTAGE" scaling="1879052970"/>
 <stat name="WILL" scaling="1879049503"/>
+<stat name="PARRY_PERCENTAGE" scaling="1879106094"/>
 </stats>
 </item>
 <item key="1879091367" name="Laerdan's Note" icon="1090523749-1090519041" level="1" category="ITEM" class="57" description="key:620757516:54354734">
@@ -91047,141 +91061,155 @@
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
-<item key="1879091481" name="Gloves of the Seven Stars" icon="1090520031-1090519043-1090520032-1090526862" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049295" armourType="LIGHT">
+<item key="1879091481" name="Gloves of the Seven Stars" icon="1090520031-1090519044-1090520032-1090526862" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049295" armourType="LIGHT">
 <stats>
 <stat name="WILL" scaling="1879049503"/>
-<stat name="FATE" scaling="1879085574"/>
-<stat name="MORALE" scaling="1879093525"/>
-<stat name="ARMOUR" scaling="1879051208"/>
+<stat name="FATE" scaling="1879106017"/>
+<stat name="MORALE" scaling="1879105682"/>
+<stat name="ARMOUR" scaling="1879055736"/>
 </stats>
 </item>
-<item key="1879091482" name="Shoes of the Seven Stars" icon="1090524300-1090519043-1090524301-1090524361" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050219" armourType="LIGHT">
+<item key="1879091482" name="Shoes of the Seven Stars" icon="1090524300-1090519044-1090524301-1090524361" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050219" armourType="LIGHT">
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="WILL" scaling="1879085572"/>
 <stat name="POWER" scaling="1879093527"/>
-<stat name="ARMOUR" scaling="1879054353"/>
+<stat name="FATE" scaling="1879106123"/>
+<stat name="ARMOUR" scaling="1879055744"/>
 </stats>
 </item>
-<item key="1879091483" name="Leggings of the Seven Stars" icon="1090523823-1090519043-1090523825-1090523824" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050117" armourType="LIGHT">
+<item key="1879091483" name="Leggings of the Seven Stars" icon="1090523823-1090519044-1090523825-1090523824" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050117" armourType="LIGHT">
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="FATE" scaling="1879085574"/>
 <stat name="POWER" scaling="1879093527"/>
-<stat name="ARMOUR" scaling="1879051213"/>
+<stat name="WILL" scaling="1879106319"/>
+<stat name="ARMOUR" scaling="1879055752"/>
 </stats>
 </item>
-<item key="1879091484" name="Robe of the Seven Stars" icon="1090527513-1090519043-1090527515-1090527514" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050690" armourType="LIGHT">
+<item key="1879091484" name="Robe of the Seven Stars" icon="1090527513-1090519044-1090527515-1090527514" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050690" armourType="LIGHT">
 <stats>
-<stat name="VITALITY" scaling="1879085571"/>
+<stat name="VITALITY" scaling="1879106129"/>
 <stat name="FATE" scaling="1879049801"/>
-<stat name="POWER" scaling="1879093527"/>
-<stat name="ARMOUR" scaling="1879051214"/>
+<stat name="POWER" scaling="1879106252"/>
+<stat name="WILL" scaling="1879106313"/>
+<stat name="ARMOUR" scaling="1879055740"/>
 </stats>
 </item>
-<item key="1879091485" name="Shoulders of the Seven Stars" icon="1090523360-1090519043-1090523362-1090523361" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049947" armourType="LIGHT">
+<item key="1879091485" name="Shoulders of the Seven Stars" icon="1090523360-1090519044-1090523362-1090523361" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049947" armourType="LIGHT">
 <stats>
 <stat name="WILL" scaling="1879085572"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="POWER" scaling="1879093527"/>
-<stat name="ARMOUR" scaling="1879049948"/>
+<stat name="VITALITY" scaling="1879106116"/>
+<stat name="ARMOUR" scaling="1879055748"/>
 </stats>
 </item>
-<item key="1879091487" name="Cloak of the Seven Stars" icon="1090526859-1090519043-1090526861-1090526860" level="50" slot="BACK" category="ARMOUR" class="45" equipmentCategory="31" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049501" armourType="LIGHT">
+<item key="1879091487" name="Cloak of the Seven Stars" icon="1090526859-1090519044-1090526861-1090526860" level="50" slot="BACK" category="ARMOUR" class="45" equipmentCategory="31" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049501" armourType="LIGHT">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="AGILITY" scaling="1879049909"/>
-<stat name="ARMOUR" scaling="1879052067"/>
+<stat name="ARMOUR" scaling="1879086943"/>
 </stats>
 </item>
-<item key="1879091488" name="Nenuial’s Gauntlets" icon="1090526244-1090519043-1090526246-1090526245" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
+<item key="1879091488" name="Nenuial’s Gauntlets" icon="1090526244-1090519044-1090526246-1090526245" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050491" armourType="MEDIUM">
 <stats>
-<stat name="MIGHT" scaling="1879085570"/>
-<stat name="AGILITY" scaling="1879085573"/>
+<stat name="MIGHT" scaling="1879106132"/>
+<stat name="AGILITY" scaling="1879106056"/>
 <stat name="WILL" scaling="1879049503"/>
-<stat name="ARMOUR" scaling="1879051212"/>
+<stat name="ARMOUR" scaling="1879055760"/>
 </stats>
 </item>
-<item key="1879091489" name="Nenuial’s Boots" icon="1090520000-1090519043-1090520001-1090526178" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049290" armourType="MEDIUM">
+<item key="1879091489" name="Nenuial’s Boots" icon="1090520000-1090519044-1090520001-1090526178" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049290" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="Resist_Additional_Resistance_Disease" scaling="1879051154"/>
-<stat name="ARMOUR" scaling="1879051207"/>
+<stat name="POWER" scaling="1879105755"/>
+<stat name="ARMOUR" scaling="1879055768"/>
 </stats>
 </item>
-<item key="1879091490" name="Nenuial’s Leggings" icon="1090526315-1090519043-1090526317-1090526316" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049915" armourType="MEDIUM">
+<item key="1879091490" name="Nenuial’s Leggings" icon="1090526315-1090519044-1090526317-1090526316" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049915" armourType="MEDIUM">
 <stats>
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879052868"/>
-<stat name="ARMOUR" scaling="1879051209"/>
+<stat name="VITALITY" scaling="1879105936"/>
+<stat name="ARMOUR" scaling="1879055776"/>
 </stats>
 </item>
-<item key="1879091491" name="Nenuial’s Jacket" icon="1090526278-1090519043-1090526280-1090526279" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049799" armourType="MEDIUM">
+<item key="1879091491" name="Nenuial’s Jacket" icon="1090526278-1090519044-1090526280-1090526279" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049799" armourType="MEDIUM">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="AGILITY" scaling="1879085573"/>
-<stat name="FATE" scaling="1879085574"/>
-<stat name="ARMOUR" scaling="1879051211"/>
+<stat name="AGILITY" scaling="1879106078"/>
+<stat name="FATE" scaling="1879106117"/>
+<stat name="VITALITY" scaling="1879106129"/>
+<stat name="ARMOUR" scaling="1879055764"/>
 </stats>
 </item>
-<item key="1879091492" name="Nenuial’s Shoulders" icon="1090523513-1090519043-1090523515-1090523514" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049985" armourType="MEDIUM">
+<item key="1879091492" name="Nenuial’s Shoulders" icon="1090523513-1090519044-1090523515-1090523514" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049985" armourType="MEDIUM">
 <stats>
 <stat name="MIGHT" scaling="1879049945"/>
-<stat name="AGILITY" scaling="1879049909"/>
-<stat name="ARMOUR" scaling="1879051223"/>
+<stat name="AGILITY" scaling="1879106012"/>
+<stat name="WILL" scaling="1879106347"/>
+<stat name="ARMOUR" scaling="1879055772"/>
 </stats>
 </item>
-<item key="1879091493" name="Nenuial’s Cloak" icon="1090526859-1090519043-1090526861-1090526860" level="50" slot="BACK" category="ARMOUR" class="45" equipmentCategory="31" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049501" armourType="LIGHT">
+<item key="1879091493" name="Nenuial’s Cloak" icon="1090526859-1090519044-1090526861-1090526860" level="50" slot="BACK" category="ARMOUR" class="45" equipmentCategory="31" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049501" armourType="LIGHT">
 <stats>
-<stat name="AGILITY" scaling="1879085573"/>
-<stat name="WILL" scaling="1879085572"/>
-<stat name="FATE" scaling="1879049801"/>
-<stat name="ARMOUR" scaling="1879052067"/>
+<stat name="AGILITY" scaling="1879105889"/>
+<stat name="WILL" scaling="1879106325"/>
+<stat name="FATE" scaling="1879106112"/>
+<stat name="STEALTH_LEVEL" scaling="1879052068"/>
+<stat name="ARMOUR" scaling="1879086943"/>
 </stats>
 </item>
-<item key="1879091494" name="Gauntlets of the West-tower" icon="1090525063-1090519043-1090525065-1090525064" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
+<item key="1879091494" name="Gauntlets of the West-tower" icon="1090525063-1090519044-1090525065-1090525064" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050484" armourType="HEAVY">
 <stats>
-<stat name="MIGHT" scaling="1879085570"/>
-<stat name="MORALE" scaling="1879093525"/>
-<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
-<stat name="ARMOUR" scaling="1879054054"/>
+<stat name="MIGHT" scaling="1879106132"/>
+<stat name="MORALE" scaling="1879105905"/>
+<stat name="VITALITY" scaling="1879106240"/>
+<stat name="ARMOUR" scaling="1879055446"/>
 </stats>
 </item>
-<item key="1879091495" name="Boots of the West-tower" icon="1090524812-1090519043-1090524814-1090524813" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050480" armourType="HEAVY">
+<item key="1879091495" name="Boots of the West-tower" icon="1090524812-1090519044-1090524814-1090524813" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050480" armourType="HEAVY">
 <stats>
-<stat name="MIGHT" scaling="1879049945"/>
-<stat name="AGILITY" scaling="1879085573"/>
-<stat name="FATE" scaling="1879085574"/>
-<stat name="ARMOUR" scaling="1879051219"/>
+<stat name="MIGHT" scaling="1879105850"/>
+<stat name="AGILITY" scaling="1879106278"/>
+<stat name="FATE" scaling="1879106123"/>
+<stat name="VITALITY" scaling="1879105980"/>
+<stat name="ARMOUR" scaling="1879055455"/>
 </stats>
 </item>
-<item key="1879091496" name="Leggings of the West-tower" icon="1090528171-1090519043-1090528173-1090528172" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049956" armourType="HEAVY">
+<item key="1879091496" name="Leggings of the West-tower" icon="1090528171-1090519044-1090528173-1090528172" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049956" armourType="HEAVY">
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
-<stat name="WILL" scaling="1879085572"/>
-<stat name="FATE" scaling="1879085574"/>
-<stat name="ARMOUR" scaling="1879052989"/>
+<stat name="WILL" scaling="1879106302"/>
+<stat name="FATE" scaling="1879106045"/>
+<stat name="MIGHT" scaling="1879105776"/>
+<stat name="ARMOUR" scaling="1879055464"/>
 </stats>
 </item>
-<item key="1879091497" name="Breastplate of the West-tower" icon="1090524828-1090519043-1090524830-1090524829" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="95" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050482" armourType="HEAVY">
+<item key="1879091497" name="Breastplate of the West-tower" icon="1090524828-1090519044-1090524830-1090524829" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="95" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050482" armourType="HEAVY">
 <stats>
-<stat name="MIGHT" scaling="1879049945"/>
+<stat name="MIGHT" scaling="1879106076"/>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
-<stat name="ARMOUR" scaling="1879051206"/>
+<stat name="VITALITY" scaling="1879085571"/>
+<stat name="ARMOUR" scaling="1879055451"/>
 </stats>
 </item>
-<item key="1879091498" name="Shoulders of the West-tower" icon="1090525016-1090519043-1090525018-1090525017" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879050489" armourType="HEAVY">
+<item key="1879091498" name="Shoulders of the West-tower" icon="1090525016-1090519044-1090525018-1090525017" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050489" armourType="HEAVY">
 <stats>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
-<stat name="ARMOUR" scaling="1879054055"/>
+<stat name="MIGHT" scaling="1879105896"/>
+<stat name="ARMOUR" scaling="1879055459"/>
 </stats>
 </item>
-<item key="1879091500" name="Shield of the West-tower" icon="1090523247-1090519043-1090523248-1090523249" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="RARE" minLevel="50" valueTableId="1879050497" armourType="HEAVY_SHIELD">
+<item key="1879091500" name="Shield of the West-tower" icon="1090523247-1090519044-1090523248-1090523249" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="ICPR" scaling="1879053130"/>
-<stat name="ARMOUR" scaling="1879049940"/>
+<stat name="BLOCK_PERCENTAGE" scaling="1879105686"/>
+<stat name="ARMOUR" scaling="1879055475"/>
 </stats>
 </item>
 <item key="1879091502" name="Ancient Steel Bolts" pluralName="key:620792521:98907573" icon="1090522741-1090519042-1090640816" level="45" category="ITEM" class="38" quality="UNCOMMON" description="key:620792521:54354734" valueTableId="1879049703" stackMax="50">
@@ -92304,13 +92332,13 @@
 <item key="1879092834" name="Moonlight's Nest" pluralName="key:620793199:98907573" icon="1090519728-1090519721" level="1" category="ITEM" class="27" quality="COMMON" description="key:620793199:54354734" valueTableId="1879049280">
 <stats/>
 </item>
-<item key="1879092849" name="Broken Arnorian Pauldrons" pluralName="key:620793213:98907573" icon="1091399285-1091388958" level="50" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" description="key:620793213:54354734" valueTableId="1879049581">
+<item key="1879092849" name="Broken Arnorian Pauldrons" pluralName="key:620793213:98907573" icon="1091399285-1090519044" level="50" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" unique="true" quality="INCOMPARABLE" description="key:620793213:54354734" valueTableId="1879049581">
 <stats/>
 </item>
-<item key="1879092850" name="Broken Arnorian Shirt" pluralName="key:620793214:98907573" icon="1091399287-1091388958" level="50" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" description="key:620793214:54354734" valueTableId="1879049581">
+<item key="1879092850" name="Broken Arnorian Shirt" pluralName="key:620793214:98907573" icon="1091399287-1090519044" level="50" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" unique="true" quality="INCOMPARABLE" description="key:620793214:54354734" valueTableId="1879049581">
 <stats/>
 </item>
-<item key="1879092851" name="Broken Arnorian Leggings" pluralName="key:620793215:98907573" icon="1091399289-1091388958" level="50" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" description="key:620793215:54354734" valueTableId="1879049581">
+<item key="1879092851" name="Broken Arnorian Leggings" pluralName="key:620793215:98907573" icon="1091399289-1090519044" level="50" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" unique="true" quality="INCOMPARABLE" description="key:620793215:54354734" valueTableId="1879049581">
 <stats/>
 </item>
 <item key="1879092852" name="Arnorian Armour Fragments" pluralName="key:620793216:98907573" icon="1091399291-1091388958" level="50" category="ITEM" class="47" quality="UNCOMMON" description="key:620793216:54354734" valueTableId="1879049581" stackMax="50">
@@ -93218,12 +93246,12 @@
 <item key="1879093465" name="Well-kept Mathom" pluralName="key:620793617:98907573" icon="1091388117-1091398977" level="1" category="ITEM" class="47" quality="COMMON" description="key:620793617:54354734" valueTableId="1879052015" stackMax="50">
 <stats/>
 </item>
-<item key="1879093524" name="Cloak of the West-tower" icon="1090526859-1090519043-1090526861-1090526860" level="50" slot="BACK" category="ARMOUR" class="45" equipmentCategory="31" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="RARE" minLevel="50" valueTableId="1879049501" armourType="LIGHT">
+<item key="1879093524" name="Cloak of the West-tower" icon="1090526859-1090519044-1090526861-1090526860" level="50" slot="BACK" category="ARMOUR" class="45" equipmentCategory="31" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" valueTableId="1879049501" armourType="LIGHT">
 <stats>
-<stat name="MIGHT" scaling="1879085570"/>
-<stat name="VITALITY" scaling="1879085571"/>
-<stat name="MORALE" scaling="1879049941"/>
-<stat name="ARMOUR" scaling="1879052067"/>
+<stat name="MIGHT" scaling="1879105763"/>
+<stat name="VITALITY" scaling="1879106235"/>
+<stat name="MORALE" scaling="1879106001"/>
+<stat name="ARMOUR" scaling="1879086943"/>
 </stats>
 </item>
 <item key="1879093641" name="Ancient Remains" pluralName="key:620793689:98907573" icon="1090519728-1090519721" level="1" category="ITEM" class="27" quality="COMMON" description="key:620793689:54354734" valueTableId="1879049280">
@@ -108121,5 +108149,23 @@
 <item key="1879102292" name="Strange Chicken Nest" pluralName="key:620800012:98907573" icon="1090522701-1090519041-1090522702" level="19" category="ITEM" class="53" quality="COMMON" description="key:620800012:54354734" valueTableId="1879052135">
 <stats/>
 <effect type="ON_USE" id="1879102252" name="Chicken Travel - Evendim"/>
+</item>
+<item key="1879115221" name="Plaque of Echad Garthadir" pluralName="key:620809118:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809118:54354734" valueTableId="1879049280">
+<stats/>
+</item>
+<item key="1879115222" name="Plaque of Clorhir" pluralName="key:620809123:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809123:54354734" valueTableId="1879049280">
+<stats/>
+</item>
+<item key="1879115223" name="Plaque of Tirband" pluralName="key:620809124:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809124:54354734" valueTableId="1879049280">
+<stats/>
+</item>
+<item key="1879115225" name="Plaque of Ariant" pluralName="key:620809120:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809120:54354734" valueTableId="1879049280">
+<stats/>
+</item>
+<item key="1879115226" name="Plaque of Menelband" pluralName="key:620809121:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809121:54354734" valueTableId="1879049280">
+<stats/>
+</item>
+<item key="1879115227" name="Plaque of Minathranc" pluralName="key:620809119:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809119:54354734" valueTableId="1879049280">
+<stats/>
 </item>
 </items>

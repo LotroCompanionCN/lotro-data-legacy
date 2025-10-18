@@ -533,6 +533,17 @@
 <label key="1879101824" value="Mentor of Song"/>
 <label key="1879101825" value="Exemplar of Song"/>
 <label key="1879101991" value="The Shadows of Angmar - Part II"/>
+<label key="1879115172" value="Invaders from Angmar"/>
+<label key="1879115173" value="Invaders from Angmar (Advanced)"/>
+<label key="1879115174" value="Leaders of the Invasion"/>
+<label key="1879115175" value="Leaders of the Invasion (Advanced)"/>
+<label key="1879115176" value="Spirits Aiding Angmar"/>
+<label key="1879115177" value="Brutes from the North"/>
+<label key="1879115178" value="Brutes from the North (Advanced)"/>
+<label key="1879115179" value="The City of the Kings"/>
+<label key="1879115180" value="Warden of Annúminas"/>
+<label key="1879115181" value="Markers of the Sunken City"/>
+<label key="1879115195" value="Spirits Aiding Angmar (Advanced)"/>
 <label key="key:620758795:118018273" value="The Bounders are a division of the Shirriffs responsible for watching and protecting the borders -- or the Bounds -- of the Shire, as well as assisting Shire-folk in need."/>
 <label key="key:620758795:22075073" value="Complete quests within the Shire"/>
 <label key="key:620758795:228870261" value="The Life of a Bounder (final)"/>
@@ -4113,4 +4124,98 @@
 <label key="key:620799776:228870261" value="The Shadows of Angmar - Part II"/>
 <label key="key:620799776:54354734" value="Unravel the the epic tale of the Shadows of Angmar."/>
 <label key="key:620799776:94621393" value="Unravel the the epic tale of the Shadows of Angmar."/>
+<label key="key:620809087:118018273" value="You have defeated many Angmarim in the defence of Annúminas."/>
+<label key="key:620809087:22075073" value="Defeat Angmarim in and around Annúminas"/>
+<label key="key:620809087:228870261" value="Invaders from Angmar"/>
+<label key="key:620809087:54354734" value="Defeat Angmarim in and around Annúminas."/>
+<label key="key:620809089:118018273" value="You have defeated many Angmarim in the defence of Annúminas."/>
+<label key="key:620809089:22075073" value="Defeat Angmarim in and around Annúminas"/>
+<label key="key:620809089:228870261" value="Invaders from Angmar (Advanced)"/>
+<label key="key:620809089:54354734" value="Defeat Angmarim in and around Annúminas."/>
+<label key="key:620809090:118018273" value="Agarochir is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809090:118018274" value="Guldurchir is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809090:118018275" value="Siridán is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809090:118018276" value="Unagh is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809090:118018277" value="Valtair is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809090:136263297" value="You have defeated Agarochir"/>
+<label key="key:620809090:136263298" value="You have defeated Guldurchir"/>
+<label key="key:620809090:136263299" value="You have defeated Siridán"/>
+<label key="key:620809090:136263300" value="You have defeat Unagh"/>
+<label key="key:620809090:136263301" value="You have defeated Valtair"/>
+<label key="key:620809090:22075073" value="Defeat Agarochir"/>
+<label key="key:620809090:22075074" value="Defeat Guldurchir"/>
+<label key="key:620809090:22075075" value="Defeat Siridán"/>
+<label key="key:620809090:22075076" value="Defeat Unagh"/>
+<label key="key:620809090:22075077" value="Defeat Valtair"/>
+<label key="key:620809090:228870261" value="Leaders of the Invasion"/>
+<label key="key:620809090:54354734" value="Defeat the leaders of the Angmarim invasion within Annúminas."/>
+<label key="key:620809092:118018273" value="Nengon is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809092:118018274" value="While not allied with the Angmarim, Shingrinder stalks Haudh Valindal, feeding upon the decay and refuse left by ages of desolation."/>
+<label key="key:620809092:118018275" value="Dolvaethor is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809092:118018276" value="Guloth is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809092:118018277" value="Balhest is one of the leaders of the invasion within Annúminas."/>
+<label key="key:620809092:136263297" value="You have defeated Nengon"/>
+<label key="key:620809092:136263298" value="You have defeated Shingrinder"/>
+<label key="key:620809092:136263299" value="You have defeated Dolvaethor"/>
+<label key="key:620809092:136263300" value="You have defeat Guloth"/>
+<label key="key:620809092:136263301" value="You have defeated Balhest"/>
+<label key="key:620809092:22075073" value="Defeat Nengon"/>
+<label key="key:620809092:22075074" value="Defeat Shingrinder"/>
+<label key="key:620809092:22075075" value="Defeat Dolvaethor"/>
+<label key="key:620809092:22075076" value="Defeat Guloth"/>
+<label key="key:620809092:22075077" value="Defeat Balhest"/>
+<label key="key:620809092:228870261" value="Leaders of the Invasion (Advanced)"/>
+<label key="key:620809092:54354734" value="Defeat the leaders of the Angmarim invasion within Annúminas."/>
+<label key="key:620809094:118018273" value="You have defeated many of the Dead in the defence of Annúminas."/>
+<label key="key:620809094:22075073" value="Defeat the Dead within Annúminas"/>
+<label key="key:620809094:228870261" value="Spirits Aiding Angmar"/>
+<label key="key:620809094:54354734" value="Defeat the Dead within Annúminas."/>
+<label key="key:620809096:118018273" value="You have defeated many Gertheryg in the defence of Annúminas."/>
+<label key="key:620809096:22075073" value="Defeat the Gertheryg within Annúminas"/>
+<label key="key:620809096:228870261" value="Brutes from the North"/>
+<label key="key:620809096:54354734" value="Defeat the Gertheryg within Annúminas."/>
+<label key="key:620809098:118018273" value="You have defeated many Gertheryg in the defence of Annúminas."/>
+<label key="key:620809098:22075073" value="Defeat the Gertheryg within Annúminas"/>
+<label key="key:620809098:228870261" value="Brutes from the North (Advanced)"/>
+<label key="key:620809098:54354734" value="Defeat the Gertheryg within Annúminas."/>
+<label key="key:620809099:118018273" value="You have discovered Gwaelband in Annúminas."/>
+<label key="key:620809099:118018274" value="You have discovered Gaerannon in Annúminas."/>
+<label key="key:620809099:118018275" value="You have discovered Echad Garthadir in Annúminas."/>
+<label key="key:620809099:118018276" value="You have discovered Menelband in Annúminas."/>
+<label key="key:620809099:118018277" value="You have discovered Clorhir in Annúminas."/>
+<label key="key:620809099:118018278" value="You have discovered Tirband in Annúminas."/>
+<label key="key:620809099:118018279" value="You have discovered Ariant in Annúminas."/>
+<label key="key:620809099:118018280" value="You have discovered Minathranc in Annúminas."/>
+<label key="key:620809099:136263297" value="You have discovered Gwaelband"/>
+<label key="key:620809099:136263298" value="You have discovered Gaerannon"/>
+<label key="key:620809099:136263299" value="You have discovered Echad Garthadir"/>
+<label key="key:620809099:136263300" value="You have discovered Menelband"/>
+<label key="key:620809099:136263301" value="You have discovered Clorhir"/>
+<label key="key:620809099:136263302" value="You have discovered Tirband"/>
+<label key="key:620809099:136263303" value="You have discovered Ariant"/>
+<label key="key:620809099:136263304" value="You have discovered Minathranc"/>
+<label key="key:620809099:228870261" value="The City of the Kings"/>
+<label key="key:620809099:54354734" value="Explore the ruins of the ancient city of Annúminas."/>
+<label key="key:620809099:94621393" value="NOT USED"/>
+<label key="key:620809100:22075073" value="Defend Annúminas from the forces of Angmar"/>
+<label key="key:620809100:22075074" value="Defend Annúminas from the forces of Angmar"/>
+<label key="key:620809100:228870261" value="Warden of Annúminas"/>
+<label key="key:620809100:54354734" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestown upon you the title of Warden."/>
+<label key="key:620809102:118018273" value="You have defeated many of the Dead in the defence of Annúminas."/>
+<label key="key:620809102:22075073" value="Defeat the Dead within Annúminas"/>
+<label key="key:620809102:228870261" value="Spirits Aiding Angmar (Advanced)"/>
+<label key="key:620809102:54354734" value="Defeat the Dead within Annúminas."/>
+<label key="key:620809125:118018276" value="This is one of the various plaques found in Annúminas denoting a place of import."/>
+<label key="key:620809125:118018277" value="This is one of the various plaques found in Annúminas denoting a place of import."/>
+<label key="key:620809125:118018278" value="This is one of the various plaques found in Annúminas denoting a place of import."/>
+<label key="key:620809125:136263297" value="You have found the Plaque of Menelband"/>
+<label key="key:620809125:136263298" value="You have found the Plaque of Minathranc"/>
+<label key="key:620809125:136263299" value="You have found the Plaque of Tirband"/>
+<label key="key:620809125:136263300" value="You have found the Plaque of Echad Garthadir"/>
+<label key="key:620809125:136263301" value="You have found the Plaque of Clorhir"/>
+<label key="key:620809125:136263302" value="You have found the Plaque of Ariant"/>
+<label key="key:620809125:228870261" value="Markers of the Sunken City"/>
+<label key="key:620809125:54354734" value="Find the marker plaques scattered throughout Annúminas."/>
+<label key="key:620809125:94621393" value="Find the marker plaques scattered throughout Annúminas."/>
+<label key="key:620809125:94621394" value="Find the marker plaques scattered throughout Annúminas."/>
 </labels>

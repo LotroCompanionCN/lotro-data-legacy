@@ -21722,6 +21722,12 @@
 <label key="1879102290" value="Etrange nid de poule"/>
 <label key="1879102291" value="Etrange nid de poule"/>
 <label key="1879102292" value="Etrange nid de poule"/>
+<label key="1879115221" value="Plaque of Echad Garthadir"/>
+<label key="1879115222" value="Plaque of Clorhir"/>
+<label key="1879115223" value="Plaque of Tirband"/>
+<label key="1879115225" value="Plaque of Ariant"/>
+<label key="1879115226" value="Plaque of Menelband"/>
+<label key="1879115227" value="Plaque of Minathranc"/>
 <label key="key:620757454:100083276" value="Argent"/>
 <label key="key:620757454:203761950" value="Une pile d'argent"/>
 <label key="key:620757516:54354734" value="Lettre."/>
@@ -34528,4 +34534,16 @@
 <label key="key:620800011:98907573" value="Etranges nids de poule"/>
 <label key="key:620800012:54354734" value="Voilà un bien étrange endroit pour un nid de poule..."/>
 <label key="key:620800012:98907573" value="Etranges nids de poule"/>
+<label key="key:620809118:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809118:98907573" value="..."/>
+<label key="key:620809119:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809119:98907573" value="..."/>
+<label key="key:620809120:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809120:98907573" value="..."/>
+<label key="key:620809121:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809121:98907573" value="..."/>
+<label key="key:620809123:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809123:98907573" value="..."/>
+<label key="key:620809124:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809124:98907573" value="..."/>
 </labels>

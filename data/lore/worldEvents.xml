@@ -105,9 +105,9 @@
 <booleanWorldEvent id="1879093202" propertyId="268441693" propertyName="WE_Ettenmoors_TA_Player_Reinforce_West" default="false"/>
 <booleanWorldEvent id="1879093210" propertyId="268441704" propertyName="WE_Ettenmoors_TA_Player_Rockwithers" default="false"/>
 <booleanWorldEvent id="1879093463" propertyId="268441833" propertyName="WE_TalkLikeACorsairDay_Active" default="false"/>
-<booleanWorldEvent id="1879093544" propertyId="268441848" propertyName="WE_Annuminas_Camp1_Control" default="false"/>
-<booleanWorldEvent id="1879093545" propertyId="268441847" propertyName="WE_Annuminas_Camp2_Control" default="false"/>
-<booleanWorldEvent id="1879093546" propertyId="268441845" propertyName="WE_Annuminas_Camp3_Control" default="false"/>
+<booleanWorldEvent id="1879093544" propertyId="268441848" propertyName="WE_Annuminas_Camp1_Control" description="The Courtyard of Gwaelband" progress=" Gwaelband is under the control of the ${VALUE:Wardens of Annúminas[1]|Invaders of Annúminas}.\n\nWhen Gwaelband is in the control of the Wardens, the courtyard path to Echad Garthadir is opened.\n\nIn addition, when Gwaelband is in the control of the Wardens, the invading Angmarim forces retreat from the Bridge of Ariant." default="false"/>
+<booleanWorldEvent id="1879093545" propertyId="268441847" propertyName="WE_Annuminas_Camp2_Control" description="The Waterways of Clorhir" progress=" Clorhir is under the control of the ${VALUE:Wardens of Annúminas[1]|Invaders of Annúminas}.\n\nWhen Clorhir is in the control of the Wardens, the way to Glinghant, the Gardens of Annúminas, is open.\n\nWhen both Clorhir and Tirband are in the control of the Wardens, the gates on the Bridge of Ariant open, leading to Valandil's Tomb and Ost Elendil." default="false"/>
+<booleanWorldEvent id="1879093546" propertyId="268441845" propertyName="WE_Annuminas_Camp3_Control" description="The Watchtower of Tirband" progress=" Tirband is under the control of the ${VALUE:Wardens of Annúminas[1]|Invaders of Annúminas}.\n\nWhen both Clorhir and Tirband are in the control of the Wardens, the gates on the Bridge of Ariant open, leading to Valandil's Tomb and Ost Elendil." default="false"/>
 <booleanWorldEvent id="1879094943" propertyId="268442030" propertyName="WE_Trollshaws_FrodoBilboBirthday_active" default="false"/>
 <booleanWorldEvent id="1879097156" propertyId="268442143" propertyName="WE_TestServer_EpicActive" default="false"/>
 <booleanWorldEvent id="1879097157" propertyId="268442138" propertyName="WE_TestServer_GearActive" default="false"/>

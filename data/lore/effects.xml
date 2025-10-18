@@ -520,8 +520,8 @@
 <vitalChange min="420.0" max="420.0"/>
 </instantVitalEffect>
 <reviveEffect id="1879053030" name="Escape From Corruption" baseFlags="4124">
-<reviveVital vital="1" percentage="0.5" modifiers="268439066"/>
-<reviveVital vital="2" percentage="0.25" modifiers="268437238"/>
+<reviveVital vital="1" percentage="0.75" modifiers="268439066"/>
+<reviveVital vital="2" percentage="0.5" modifiers="268437238"/>
 <effect id="1879053032" name="In Defence of Middle-Earth"/>
 </reviveEffect>
 <propertyModEffect id="1879053031" name="Proof Against Corruption" appliedDescription="key:620759754:54354734" iconId="1090533150" duration="600.0" baseFlags="4492">

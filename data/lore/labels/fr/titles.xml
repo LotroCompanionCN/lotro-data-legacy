@@ -405,6 +405,13 @@
 <label key="1879101836" value="Fléau de Thrâng"/>
 <label key="1879101837" value="Sauveur / Sauveuse des Eldgangs"/>
 <label key="1879101993" value="Porteur / Porteuse d’espoir"/>
+<label key="1879115183" value="the Merciful"/>
+<label key="1879115186" value="Defender of Annúminas"/>
+<label key="1879115188" value="Protector of Annúminas"/>
+<label key="1879115190" value="the Righteous"/>
+<label key="1879115192" value="the Formidable"/>
+<label key="1879115197" value="Warden of Annúminas"/>
+<label key="1879115229" value="Sage of the Sunken City"/>
 <label key="1894514704" value="the Explorer"/>
 <label key="1894514705" value="Spear of Oromë"/>
 <label key="1894514706" value="the Learned"/>
@@ -1229,6 +1236,20 @@
 <label key="key:620799641:175532558" value="Les combats que vous avez livrés au fond de la faille ont aidé les géants du clan des Eldgangs, qui luttent contre les puissances des ténèbres en ce terrible endroit."/>
 <label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Porteur[m]|Porteuse[f]} d’espoir"/>
 <label key="key:620799777:175532558" value="Vous avez terminé la première partie du deuxième volume des Ombres d’Angmar."/>
+<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Merciful"/>
+<label key="key:620809088:175532558" value="You have fearlessly stridden into Annúminas and slain many Angmarim in the defense of Eriador."/>
+<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Annúminas"/>
+<label key="key:620809091:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the mighty Guldurchir has fallen to your skill."/>
+<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Protector of Annúminas"/>
+<label key="key:620809093:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the wretched Balhest has fallen to your skill."/>
+<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Righteous"/>
+<label key="key:620809095:175532558" value="You have fearlessly stridden into Annúminas and slain many of the Dead within in the defense of Eriador."/>
+<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Formidable"/>
+<label key="key:620809097:175532558" value="You have fearlessly stridden into Annúminas and slain many Gertheryg within in the defense of Eriador."/>
+<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Warden of Annúminas"/>
+<label key="key:620809101:175532558" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestowed upon you the title of Warden."/>
+<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sage of the Sunken City"/>
+<label key="key:620809126:175532558" value="You have found and protected the hidden lore of the city of Annúminas before it could be delivered to the hands of Amarthiel's captains."/>
 <label key="key:636223488:133344739" value="Hardcore challenge reward for completing quests in all zones."/>
 <label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Insane"/>
 <label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Saviour of the Lady"/>
