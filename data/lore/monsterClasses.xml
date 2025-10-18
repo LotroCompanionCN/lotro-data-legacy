@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><classes>
 <monsterClass id="1879073664" code="71" key="Reaver" name="Reaver" tag="" iconId="1090551241" abbreviation="RVR" description="key:620775379:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="3" maxRank="5"/>
+<classVirtue id="1879063893" name="Health" startRank="2" maxRank="4"/>
+<classVirtue id="1879063894" name="Power" startRank="0" maxRank="2"/>
+<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="3"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="0" maxRank="4"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="2"/>
 <classTrait minLevel="50" traitId="1879072425" traitName="Power Boost"/>
 <classTrait minLevel="50" traitId="1879072426" traitName="Resistance Boost"/>
 <classTrait minLevel="50" traitId="1879072427" traitName="Quick Strikes"/>
@@ -66,6 +72,12 @@
 <classSkill minLevel="1" skillId="1879073674" skillName="Sudden Strikes"/>
 </monsterClass>
 <monsterClass id="1879073666" code="179" key="Blackarrow" name="Blackarrow" tag="" iconId="1090551243" abbreviation="BLA" description="key:620775395:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="3" maxRank="5"/>
+<classVirtue id="1879063893" name="Health" startRank="0" maxRank="3"/>
+<classVirtue id="1879063894" name="Power" startRank="2" maxRank="4"/>
+<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="4"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="0" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="2"/>
 <classTrait minLevel="50" traitId="1879072457" traitName="Avoidance Boost"/>
 <classTrait minLevel="50" traitId="1879072458" traitName="Resistance Boost"/>
 <classTrait minLevel="50" traitId="1879072459" traitName="Deadly Aim"/>
@@ -130,6 +142,12 @@
 <classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
 </monsterClass>
 <monsterClass id="1879073667" code="52" key="Warleader" name="Warleader" tag="" iconId="1090551244" abbreviation="WAR" description="key:620775405:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="0" maxRank="2"/>
+<classVirtue id="1879063893" name="Health" startRank="2" maxRank="4"/>
+<classVirtue id="1879063894" name="Power" startRank="0" maxRank="3"/>
+<classVirtue id="1879063895" name="Armour" startRank="3" maxRank="5"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="0" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="4"/>
 <classTrait minLevel="50" traitId="1879072473" traitName="Damage Boost"/>
 <classTrait minLevel="50" traitId="1879072474" traitName="Avoidance Boost"/>
 <classTrait minLevel="50" traitId="1879072475" traitName="Empowering"/>
@@ -194,6 +212,12 @@
 <classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
 </monsterClass>
 <monsterClass id="1879073668" code="127" key="Weaver" name="Weaver" tag="" iconId="1090551242" abbreviation="WVR" description="key:620775416:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="2" maxRank="4"/>
+<classVirtue id="1879063893" name="Health" startRank="0" maxRank="2"/>
+<classVirtue id="1879063894" name="Power" startRank="3" maxRank="5"/>
+<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="2"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="0" maxRank="3"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="4"/>
 <classTrait minLevel="50" traitId="1879072441" traitName="Health Boost"/>
 <classTrait minLevel="50" traitId="1879072442" traitName="Armour Boost"/>
 <classTrait minLevel="50" traitId="1879072443" traitName="Regeneration"/>
@@ -258,6 +282,12 @@
 <classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
 </monsterClass>
 <monsterClass id="1879073669" code="126" key="Stalker" name="Stalker" tag="" iconId="1090551245" abbreviation="STK" description="key:620775426:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="2" maxRank="4"/>
+<classVirtue id="1879063893" name="Health" startRank="0" maxRank="3"/>
+<classVirtue id="1879063894" name="Power" startRank="0" maxRank="4"/>
+<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="2"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="3" maxRank="5"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="2"/>
 <classTrait minLevel="50" traitId="1879072489" traitName="Armour Boost"/>
 <classTrait minLevel="50" traitId="1879072490" traitName="Resistance Boost"/>
 <classTrait minLevel="50" traitId="1879072491" traitName="Long Strides"/>
