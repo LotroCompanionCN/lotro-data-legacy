@@ -34,6 +34,12 @@
 <label key="1879049538" value="Gebrechlichkeit durch Krankheit"/>
 <label key="1879049540" value="Schwärende Krankheit"/>
 <label key="1879049541" value="Induce Knockeddown"/>
+<label key="1879049552" value="Test InvokeTutorial Effect."/>
+<label key="1879049553" value="Test InvokeTutorial Effect."/>
+<label key="1879049558" value="Kontoverwendungs-Eigenschaft setzen."/>
+<label key="1879049559" value="Kontoverwendungs-Eigenschaft setzen."/>
+<label key="1879049560" value="Kontoverwendungs-Eigenschaft setzen."/>
+<label key="1879049561" value="Kontoverwendungs-Eigenschaft setzen."/>
 <label key="1879049583" value="Nach Hause reisen"/>
 <label key="1879049655" value="Verbesserte Kraft"/>
 <label key="1879049658" value="Voll"/>
@@ -45,6 +51,7 @@
 <label key="1879049829" value="Ihr habt Eure Sinne benebelt!"/>
 <label key="1879049830" value="Ihr seid recht heiter."/>
 <label key="1879049831" value="Ihr fühlt Euch ein wenig ausgelassen."/>
+<label key="1879049926" value="Test InvokeTutorial Effect."/>
 <label key="1879050060" value="Vergifteter Pfeil"/>
 <label key="1879050063" value="Brennbares Ziel entzünden"/>
 <label key="1879050064" value="Entflammbar"/>
@@ -108,6 +115,8 @@
 <label key="1879051614" value="Verbesserte Moral"/>
 <label key="1879051749" value="Gut genährt"/>
 <label key="1879051778" value="Induce Stunned"/>
+<label key="1879051954" value="travel_exit (info)"/>
+<label key="1879051956" value="Leaving Newbie"/>
 <label key="1879052009" value="Tiefe Wunde"/>
 <label key="1879052048" value="Auge für Schwäche"/>
 <label key="1879052066" value="Schurken-Werkzeuge"/>
@@ -135,6 +144,8 @@
 <label key="1879052336" value="Siegel: Tier"/>
 <label key="1879052337" value="Beschwörung: Natur"/>
 <label key="1879052338" value="Siegel: Dúnedain"/>
+<label key="1879052384" value="travel_exit (info)"/>
+<label key="1879052390" value="Leaving Newbie"/>
 <label key="1879052433" value="Feueröl"/>
 <label key="1879052436" value="Bärenfalle erstellen"/>
 <label key="1879052475" value="Bogen der Rechtschaffenen"/>
@@ -190,6 +201,7 @@
 <label key="1879054125" value="Tapferer der Steinernen Wächter"/>
 <label key="1879054316" value="Voll"/>
 <label key="1879054405" value="Heilung"/>
+<label key="1879054478" value="Test Effect"/>
 <label key="1879054547" value="Antreiben"/>
 <label key="1879054551" value="Interrupt Induction"/>
 <label key="1879054582" value="Wachtmeister-Aura - verlangsamend"/>
@@ -298,6 +310,8 @@
 <label key="1879060052" value="Calenthons Fernglas"/>
 <label key="1879060074" value="Induce Improved Rooted"/>
 <label key="1879060075" value="Schaden durch Bärenfalle"/>
+<label key="1879060080" value="travel_exit (info)"/>
+<label key="1879060091" value="Leaving Newbie"/>
 <label key="1879060118" value="Kleine Schilddornen"/>
 <label key="1879060119" value="Westernis-Spitzen"/>
 <label key="1879060134" value="\qSchildspott\q oder \qHeftiger Schlag\q neutralisieren"/>
@@ -309,6 +323,8 @@
 <label key="1879060192" value="Wächterschild"/>
 <label key="1879060237" value="Kritische Erwiderung"/>
 <label key="1879060238" value="Gut genährt"/>
+<label key="1879060240" value="travel_exit (info)"/>
+<label key="1879060246" value="Leaving Newbie"/>
 <label key="1879060253" value="Rekrutierung: Verbesserter Siegesherold"/>
 <label key="1879060261" value="Verbessertes Banner des Sieges"/>
 <label key="1879060263" value="Verbessertes Banner des Sieges"/>
@@ -1001,6 +1017,7 @@
 <label key="1879084487" value="Voll"/>
 <label key="1879084488" value="Voll"/>
 <label key="1879084489" value="Voll"/>
+<label key="1879084513" value="travel_exit (info)"/>
 <label key="1879084521" value="Wiederhergestellte Lebensenergie"/>
 <label key="1879084522" value="Wiederhergestellte Lebensenergie"/>
 <label key="1879084523" value="Verbesserte Kraft"/>
@@ -1062,6 +1079,7 @@
 <label key="1879085805" value="Schattengriff"/>
 <label key="1879085806" value="Schattengriff"/>
 <label key="1879085807" value="Edles Zeichen"/>
+<label key="1879085813" value="Test InvokeTutorial Effect."/>
 <label key="1879085848" value="Anthem of the Free Peoples"/>
 <label key="1879085950" value="Durchbohrende Wunde"/>
 <label key="1879085980" value="Aura des Grauens"/>
@@ -1228,6 +1246,7 @@
 <label key="1879089501" value="Zärtliche Flammen"/>
 <label key="1879089502" value="Quälende Schatten"/>
 <label key="1879089503" value="Quälende Flammen"/>
+<label key="1879089555" value="Begebt Euch sofort zu einem Barden!"/>
 <label key="1879089620" value="Lesser Persistence"/>
 <label key="1879089625" value="Inspirieren"/>
 <label key="1879089626" value="Combo Schlag des Helden/Schrei des Helden"/>
@@ -1251,6 +1270,7 @@
 <label key="1879089879" value="Stärke der Erde"/>
 <label key="1879089968" value="Waldläufer-Wurzel"/>
 <label key="1879090229" value="Das große Wüten"/>
+<label key="1879090230" value="Test InvokeTutorial Effect."/>
 <label key="1879090238" value="Amabels Ackerland"/>
 <label key="1879090239" value="Wegschleudern"/>
 <label key="1879090246" value="\qSchlagen\q neutralisieren"/>
@@ -1406,6 +1426,7 @@
 <label key="1879094822" value="Uraltes Handwerk"/>
 <label key="1879094829" value="Klebriger Teer"/>
 <label key="1879094830" value="Klebriger Teer"/>
+<label key="1879094845" value="travel_exit (info)"/>
 <label key="1879094874" value="Heldensage"/>
 <label key="1879094875" value="Heldensage"/>
 <label key="1879094883" value="Geschichte der Bewachung"/>
@@ -1706,6 +1727,7 @@
 <label key="key:620757393:181298206" value="Waffe führen: Eure Trefferwahrscheinlichkeit ist leicht erhöht."/>
 <label key="key:620757396:181298206" value="Waffe führen: Eure automatischen Angriffe sind 5 % schwieriger zu blocken."/>
 <label key="key:620757398:181298206" value="Waffe führen: Eure Angriffe stellen eine größere Bedrohung dar."/>
+<label key="key:620757513:49260606" value="travel_exit (desc)"/>
 <label key="key:620757522:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qBlocken\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620757523:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qParade\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620757541:54354734" value="Die Furcht vor dem Euch hetzenden Monster hat Eure Seele und Euren Geist ergriffen und verlangsamt Eure Bewegung."/>
@@ -1729,6 +1751,8 @@
 <label key="key:620757604:54354734" value="Verringert die Lebenskraft"/>
 <label key="key:620757606:54354734" value="Ihr fühlt eine Krankheit, die bald ausbrechen wird."/>
 <label key="key:620757625:181298206" value="Aktuelle Heimatposition: ${DESTINATION}."/>
+<label key="key:620757627:54354734" value="Invoke Final Newbie Quest Tutorial Hint"/>
+<label key="key:620757628:54354734" value="Invoke Received Map Home"/>
 <label key="key:620757697:54354734" value="Verringert die Beweglichkeit"/>
 <label key="key:620757730:54354734" value=".."/>
 <label key="key:620757733:54354734" value="Die Schnecke hat ein klebriges Sekret hinterlassen, an dem Eure Füße kleben bleiben."/>
@@ -1768,13 +1792,18 @@
 <label key="key:620758777:181298206" value="Beschwört einen Unhold aus dem Boden in der Nähe des Aridmanen."/>
 <label key="key:620758785:54354734" value="Reiten"/>
 <label key="key:620758843:54354734" value="Feuerwerkskörper explodieren"/>
+<label key="key:620758845:54354734" value="Invoke Use Item From Inventory Tutorial Hint"/>
 <label key="key:620759006:181298206" value="Betäubt 1 Sek. lang"/>
+<label key="key:620759042:12084467" value="Kontoverwendungs-Eigenschaft setzen."/>
+<label key="key:620759077:200163588" value="Leaving Newbie"/>
+<label key="key:620759079:49260606" value="travel_exit (desc)"/>
 <label key="key:620759174:54354734" value="Rüstungsschutz ist verringert."/>
 <label key="key:620759244:181298206" value="Betäubt 6 Sek. lang"/>
 <label key="key:620759298:54354734" value="Kann von der Aufopferung des Adlers nicht beeinflusst werden."/>
 <label key="key:620759301:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 30 %."/>
 <label key="key:620759301:54354734" value="Eure Feinde werden langsamer, wenn sie brennen."/>
 <label key="key:620759303:54354734" value="Euer Begleiter hat den Gegner durch einen Schlag in einen Zustand versetzt, den Ihr zu Eurem Vorteil nutzen könnt."/>
+<label key="key:620759352:42969150" value="travel_exit (desc)"/>
 <label key="key:620759376:181298206" value="Verschiedene Fernkampf-Fertigkeiten verursachen standardmäßig Feuerschaden und bei kritischen Treffern Feuerschaden über Zeit."/>
 <label key="key:620759376:54354734" value="Verschiedene Fernkampf-Fertigkeiten verursachen standardmäßig Feuerschaden und bei kritischen Treffern Feuerschaden über Zeit."/>
 <label key="key:620759441:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
@@ -1858,10 +1887,12 @@
 <label key="key:620764917:54354734" value="Erhöht den Schaden des nächsten Angriffs mit Bereichswirkung"/>
 <label key="key:620764992:181298206" value="Betäubt 5 Sek. lang"/>
 <label key="key:620765122:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
+<label key="key:620765142:42969150" value="travel_exit (desc)"/>
 <label key="key:620765203:54354734" value="Die Verwendung von \qStoß\q oder \qÜbermannen\q hat neue Möglichkeiten für den Kampf eröffnet."/>
 <label key="key:620765240:54354734" value="Die Verwendung von 'Heftiger Schlag' oder 'Schildspott' hat neue Möglichkeiten für den Kampf eröffnet."/>
 <label key="key:620765327:54354734" value="Die Verwendung von 'Zweischneidiger Schlag' hat neue Möglichkeiten für den Kampf eröffnet."/>
 <label key="key:620765331:54354734" value="Jede Fertigkeit, die eine erfolgreiche kritische Erwiderung voraussetzt, kann nun eingesetzt werden."/>
+<label key="key:620765340:49260606" value="travel_exit (desc)"/>
 <label key="key:620765404:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qVernichtung des Gegners\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620765422:54354734" value="Verwendung des Kampfschreis hat den kampfbereiten Zustand herbeigeführt."/>
 <label key="key:620765623:54354734" value="Fügt Angreifern Schaden zu"/>
@@ -2179,6 +2210,7 @@
 <label key="key:620789288:54354734" value="Das Benutzen von geheimen Pfaden ermöglicht die schnelle Reise nach Tol Ascarnen."/>
 <label key="key:620789323:181298206" value="Von Wurzeln befreien."/>
 <label key="key:620789350:54354734" value="Entzieht dem Ziel Moral und heilt den grausamen Geist"/>
+<label key="key:620789356:54354734" value="Invoke Food Tutorial Hint"/>
 <label key="key:620789434:181298206" value="'Benommenheit' oder 'Betäubung' abschütteln oder vom Zustand 'Zu Boden geschlagen' erholen, jedoch nicht 'Grauen'."/>
 <label key="key:620789445:106251889" value="Waffe führen: 1 % Wahrscheinlichkeit auf kritische Treffer bei automatischen Angriffen"/>
 <label key="key:620789465:54354734" value="Gift kreist in Euren Blutbahnen und wartet darauf, sich zu manifestieren."/>
@@ -2280,6 +2312,7 @@
 <label key="key:620791708:181298206" value="Aktuelles Lager: ${DESTINATION}."/>
 <label key="key:620791778:181298206" value="Wurzelt bis zu 10 Sek. lang am Boden fest"/>
 <label key="key:620791979:106251891" value="Vermindert die Bewegungsgeschwindigkeit um 50 %."/>
+<label key="key:620791981:54354734" value="Invoke First NPC Emote Event Tutorial Hint"/>
 <label key="key:620791988:54354734" value="Ermöglicht die Verwendung von Rezepten, die Amabels Ackerland erfordern."/>
 <label key="key:620792056:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 30 %."/>
 <label key="key:620792057:54354734" value="Das Ziel wird von einer stabilen Falle an Ort und Stelle festgehalten. Erlittener Schaden hebt diese Wirkung nicht auf."/>
@@ -2380,6 +2413,7 @@
 <label key="key:620794617:181298206" value="Schatten zerstreuen. Erhöht die Wahrscheinlichkeit, einen Teil des Euch zugefügten Feuerschadens zu absorbieren."/>
 <label key="key:620794617:54354734" value="Erhöhte Wahrscheinlichkeit, einen Teil des Euch zugefügten Feuerschadens zu absorbieren."/>
 <label key="key:620794649:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 50 %."/>
+<label key="key:620794653:49260606" value="travel_exit (desc)"/>
 <label key="key:620794664:106251890" value="+1 Hoffnung"/>
 <label key="key:620794981:54354734" value="Der Gorthorog findet Eure gut gemeinten Handlungen bedrohlicher."/>
 <label key="key:620795342:54354734" value="Dieser Effekt fügt Angreifern Schaden zu, kann Feinde betäuben und hin und wieder einen gesamten Angriff absorbieren."/>

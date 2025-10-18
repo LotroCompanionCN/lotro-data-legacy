@@ -104,6 +104,12 @@
 <onExpire id="1879049541" name="Induce Knockeddown"/>
 </countdownEffect>
 <induceCombatState id="1879049541" name="Induce Knockeddown" baseFlags="4126"/>
+<effect id="1879049552" name="Test InvokeTutorial Effect." appliedDescription="key:620757627:54354734" baseFlags="4124"/>
+<effect id="1879049553" name="Test InvokeTutorial Effect." appliedDescription="key:620757628:54354734" baseFlags="4124"/>
+<effect id="1879049558" name="Set an account usage property." appliedDescription="key:620759042:12084467" baseFlags="4124"/>
+<effect id="1879049559" name="Set an account usage property." appliedDescription="key:620759042:12084467" baseFlags="4124"/>
+<effect id="1879049560" name="Set an account usage property." appliedDescription="key:620759042:12084467" baseFlags="4124"/>
+<effect id="1879049561" name="Set an account usage property." appliedDescription="key:620759042:12084467" baseFlags="4124"/>
 <recallEffect id="1879049583" name="Travel Home" description="key:620757625:181298206" baseFlags="4124"/>
 <instantVitalEffect id="1879049655" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
 <vitalChange min="120.0" max="120.0"/>
@@ -137,6 +143,7 @@
 <propertyModEffect id="1879049831" name="You feel a bit light-headed." iconId="1090641205" duration="300.0" baseFlags="4540">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </propertyModEffect>
+<effect id="1879049926" name="Test InvokeTutorial Effect." appliedDescription="key:620758845:54354734" baseFlags="4124"/>
 <vitalOverTimeEffect id="1879050060" name="Poison Arrow" iconId="1090523646" duration="3.0" pulseCount="12" baseFlags="4542" stat="Health_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879049487" modifiers="268437688"/>
 </vitalOverTimeEffect>
@@ -320,6 +327,8 @@
 <stat name="VITALITY" scaling="1879051750"/>
 </propertyModEffect>
 <induceCombatState id="1879051778" name="Induce Stunned" description="key:620759006:181298206" baseFlags="4126"/>
+<travelEffect id="1879051954" name="travel_exit (info)" appliedDescription="key:620759079:49260606" baseFlags="4124" sceneID="1879051964"/>
+<travelEffect id="1879051956" name="Leaving Newbie" appliedDescription="key:620759077:200163588" baseFlags="4124" sceneID="1879051963"/>
 <vitalOverTimeEffect id="1879052009" name="Deep Wound" iconId="1090531521" duration="2.0" pulseCount="15" baseFlags="4542" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879052010" modifiers="268437688,268441090"/>
 <overTimeChange progressionID="1879052011" modifiers="268437688,268441090"/>
@@ -399,6 +408,8 @@
 <propertyModEffect id="1879052338" name="Sigil - Dúnedain" iconId="1090519170" baseFlags="6284">
 <stat name="Skill_VitalCost_Book_SigilDunedainMod" constant="-2.0"/>
 </propertyModEffect>
+<travelEffect id="1879052384" name="travel_exit (info)" appliedDescription="key:620759352:42969150" baseFlags="4124" sceneID="1879052387"/>
+<travelEffect id="1879052390" name="Leaving Newbie" appliedDescription="key:620759077:200163588" baseFlags="4124" sceneID="1879052391"/>
 <propertyModEffect id="1879052433" name="Fire Oil" description="key:620759376:181298206" appliedDescription="key:620759376:54354734" iconId="1090531555" duration="600.0" baseFlags="4540">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" descriptionOverride="-" value="e587202641:39"/>
 </propertyModEffect>
@@ -582,6 +593,9 @@
 <instantVitalEffect id="1879054405" name="Healing" baseFlags="4124" stat="Health_MaxLevel">
 <vitalChange progressionID="1879054406" variance="5.0" modifiers="268440271,268436040"/>
 </instantVitalEffect>
+<genesis id="1879054478" name="Test Effect" appliedDescription="Testing" baseFlags="4124" permanent="true">
+<summoned id="1879054484" name="Box of Silverware[E]"/>
+</genesis>
 <propertyModEffect id="1879054547" name="Charge" appliedDescription="key:620760980:54354734" iconId="1090536069" duration="8.0" baseFlags="4540">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.5"/>
 </propertyModEffect>
@@ -909,6 +923,8 @@
 <instantVitalEffect id="1879060075" name="Bear Trap Damage" baseFlags="4124" stat="Health_MaxLevel" damageType="1">
 <vitalChange progressionID="1879060076"/>
 </instantVitalEffect>
+<travelEffect id="1879060080" name="travel_exit (info)" appliedDescription="key:620765142:42969150" baseFlags="4124" sceneID="1879060088"/>
+<travelEffect id="1879060091" name="Leaving Newbie" appliedDescription="key:620759077:200163588" baseFlags="4124" sceneID="1879052391"/>
 <propertyModEffect id="1879060118" name="Small Shield Spikes" iconId="1090540518" duration="300.0" baseFlags="4540">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="2.0"/>
 </propertyModEffect>
@@ -937,6 +953,8 @@
 <propertyModEffect id="1879060238" name="Well Fed" iconId="1090640715" duration="1200.0" baseFlags="4540">
 <stat name="AGILITY" scaling="1879060239"/>
 </propertyModEffect>
+<travelEffect id="1879060240" name="travel_exit (info)" appliedDescription="key:620765340:49260606" baseFlags="4124" sceneID="1879060244"/>
+<travelEffect id="1879060246" name="Leaving Newbie" appliedDescription="key:620759077:200163588" baseFlags="4124" sceneID="1879060247"/>
 <aiPetEffect id="1879060253" name="Call to Arms: Improved Herald of Victory" baseFlags="4124">
 <summoned id="1879060259" name="Commoner Herald"/>
 <effect id="1879060261" name="Improved Banner of Victory"/>
@@ -2993,6 +3011,7 @@
 <stat name="OCMR" scaling="1879084493"/>
 <stat name="OCPR" scaling="1879084496"/>
 </propertyModEffect>
+<travelEffect id="1879084513" name="travel_exit (info)" appliedDescription="key:620757513:49260606" baseFlags="4124" sceneID="1879084514"/>
 <instantVitalEffect id="1879084521" name="Restored Health" baseFlags="4124" stat="Health_MaxLevel">
 <vitalChange min="644.0" max="644.0"/>
 </instantVitalEffect>
@@ -3127,6 +3146,7 @@
 <initialChange progressionID="1879085808" variance="2.5"/>
 <overTimeChange progressionID="1879085808" variance="2.5"/>
 </vitalOverTimeEffect>
+<effect id="1879085813" name="Test InvokeTutorial Effect." appliedDescription="key:620789356:54354734" baseFlags="4124"/>
 <propertyModEffect id="1879085848" name="Anthem of the Free Peoples Threat" iconId="1090553812" duration="30.0" durationMods="268440646" baseFlags="4284">
 <stat name="ThreatInputModifier_Healing" descriptionOverride="-" constant="20.0"/>
 </propertyModEffect>
@@ -3617,6 +3637,9 @@
 <stat name="Combat_CanBlock" operator="SET" descriptionOverride="-" value="false"/>
 <onExpire id="1879079637" name="Smite Player"/>
 </countdownEffect>
+<propertyModEffect id="1879089555" name="You should seek out a minstrel immediately!" iconId="1090641205" duration="300.0" baseFlags="4540">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="25.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879089620" name="Lesser Persistence" iconId="1090648226" duration="15.0" baseFlags="4540">
 <stat name="Combat_Agent_Armor_Value" descriptionOverride="key:620791508:106251889" constant="350.0"/>
 </propertyModEffect>
@@ -3657,6 +3680,7 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620791979:106251891" constant="0.5"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.5"/>
 </propertyModEffect>
+<effect id="1879090230" name="Test InvokeTutorial Effect." appliedDescription="key:620791981:54354734" baseFlags="4124"/>
 <flagEffect id="1879090238" name="Amabel's Farmland" appliedDescription="key:620791988:54354734" iconId="1090642595" baseFlags="6588"/>
 <effect id="1879090239" name="Knockaway" baseFlags="4126"/>
 <dispelEffect id="1879090246" name="Dispel Pummel." baseFlags="4126" dispelCasters="true">
@@ -4211,6 +4235,7 @@
 <effect id="1879094829" name="Sticky Tar"/>
 </hotspot>
 </genesis>
+<travelEffect id="1879094845" name="travel_exit (info)" appliedDescription="key:620794653:49260606" baseFlags="4124" sceneID="1879077457"/>
 <auraEffect id="1879094874" name="Tale of Heroism" iconId="1090519170" baseFlags="6204" type="2">
 <effect id="1879094875" name="Tale of Heroism"/>
 </auraEffect>

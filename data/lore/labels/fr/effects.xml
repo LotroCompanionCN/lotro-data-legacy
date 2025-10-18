@@ -34,6 +34,12 @@
 <label key="1879049538" value="Fragilité maladive"/>
 <label key="1879049540" value="Maladie purulente"/>
 <label key="1879049541" value="Déclencher Renversé"/>
+<label key="1879049552" value="Test d'affichage du didacticiel."/>
+<label key="1879049553" value="Test d'affichage du didacticiel."/>
+<label key="1879049558" value="Configurer une propriété d'utilisation de compte."/>
+<label key="1879049559" value="Configurer une propriété d'utilisation de compte."/>
+<label key="1879049560" value="Configurer une propriété d'utilisation de compte."/>
+<label key="1879049561" value="Configurer une propriété d'utilisation de compte."/>
 <label key="1879049583" value="Rentrer à la maison"/>
 <label key="1879049655" value="Puissance augmentée"/>
 <label key="1879049658" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
@@ -45,6 +51,7 @@
 <label key="1879049829" value="Vous n'êtes plus capable d'aligner deux pensées cohérentes."/>
 <label key="1879049830" value="Vous avez envie de rire pour un rien."/>
 <label key="1879049831" value="Vous avez la tête qui tourne."/>
+<label key="1879049926" value="Tester l'effet appeler le didacticiel."/>
 <label key="1879050060" value="Flèche empoisonnée"/>
 <label key="1879050063" value="Incendie de cible inflammable"/>
 <label key="1879050064" value="Incendie"/>
@@ -108,6 +115,8 @@
 <label key="1879051614" value="Moral augmenté"/>
 <label key="1879051749" value="${PLAYERNAME:Bien nourri[m]|Bien nourrie[f]}"/>
 <label key="1879051778" value="Déclencher Etourdi"/>
+<label key="1879051954" value="travel_exit (info)"/>
+<label key="1879051956" value="Sortie de la section Débutant"/>
 <label key="1879052009" value="Blessure profonde"/>
 <label key="1879052048" value="Détection de faiblesse"/>
 <label key="1879052066" value="Outils de cambrioleur"/>
@@ -135,6 +144,8 @@
 <label key="1879052336" value="Sceau - Animal"/>
 <label key="1879052337" value="Appel - Nature"/>
 <label key="1879052338" value="Sceau - Dunedain"/>
+<label key="1879052384" value="travel_exit (info)"/>
+<label key="1879052390" value="Sortie de la section Débutant"/>
 <label key="1879052433" value="Huile inflammable"/>
 <label key="1879052436" value="Création de piège à ours"/>
 <label key="1879052475" value="Arc du Juste"/>
@@ -190,6 +201,7 @@
 <label key="1879054125" value="Contre les pierres-sentinelles"/>
 <label key="1879054316" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879054405" value="Guérison"/>
+<label key="1879054478" value="Test Effect"/>
 <label key="1879054547" value="Charge"/>
 <label key="1879054551" value="Interrupt Induction"/>
 <label key="1879054582" value="Aura de veilleur - ralentissement"/>
@@ -298,6 +310,8 @@
 <label key="1879060052" value="La longue-vue de Calenthon"/>
 <label key="1879060074" value="Déclencher Enraciné Avancé"/>
 <label key="1879060075" value="Dégâts de piège à ours"/>
+<label key="1879060080" value="travel_exit (info)"/>
+<label key="1879060091" value="Sortie de la section Débutant"/>
 <label key="1879060118" value="Petites pointes pour bouclier"/>
 <label key="1879060119" value="Pointes d'Ouistrenesse"/>
 <label key="1879060134" value="Dissipation de Provocation au bouclier ou de Coup violent"/>
@@ -309,6 +323,8 @@
 <label key="1879060192" value="Défense de gardien"/>
 <label key="1879060237" value="Critical Response"/>
 <label key="1879060238" value="${PLAYERNAME:Bien nourri[m]|Bien nourrie[f]}"/>
+<label key="1879060240" value="travel_exit (info)"/>
+<label key="1879060246" value="Sortie de la section Débutant"/>
 <label key="1879060253" value="Appel aux armes :&#10;Héraut de victoire amélioré"/>
 <label key="1879060261" value="Bannière de victoire améliorée"/>
 <label key="1879060263" value="Bannière de victoire améliorée"/>
@@ -1001,6 +1017,7 @@
 <label key="1879084487" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879084488" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879084489" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
+<label key="1879084513" value="travel_exit (info)"/>
 <label key="1879084521" value="Santé restaurée"/>
 <label key="1879084522" value="Santé restaurée"/>
 <label key="1879084523" value="Puissance augmentée"/>
@@ -1062,6 +1079,7 @@
 <label key="1879085805" value="Etreinte de l'ombre"/>
 <label key="1879085806" value="Etreinte de l'ombre"/>
 <label key="1879085807" value="Noble marque"/>
+<label key="1879085813" value="Test de l'effet du didacticiel d'invocation."/>
 <label key="1879085848" value="Menace d'Hymne des Peuples Libres"/>
 <label key="1879085950" value="Blessure perforante"/>
 <label key="1879085980" value="Aura d'effroi"/>
@@ -1228,6 +1246,7 @@
 <label key="1879089501" value="Caresse des flammes"/>
 <label key="1879089502" value="Affliction de l'ombre"/>
 <label key="1879089503" value="Affliction du feu"/>
+<label key="1879089555" value="Vous devriez aller voir un ménestrel sans tarder !"/>
 <label key="1879089620" value="Lesser Persistence"/>
 <label key="1879089625" value="Inspiration"/>
 <label key="1879089626" value="Combo Attaque héroïque/Cri héroïque"/>
@@ -1251,6 +1270,7 @@
 <label key="1879089879" value="Force de la Terre"/>
 <label key="1879089968" value="Rôdeur enraciné"/>
 <label key="1879090229" value="Dévastation"/>
+<label key="1879090230" value="Test d'affichage du didacticiel."/>
 <label key="1879090238" value="Terre d'Amabelle"/>
 <label key="1879090239" value="Coup de grâce"/>
 <label key="1879090246" value="Dissipation de volée de coups."/>
@@ -1406,6 +1426,7 @@
 <label key="1879094822" value="Artisanat ancien"/>
 <label key="1879094829" value="Goudron collant"/>
 <label key="1879094830" value="Goudron collant"/>
+<label key="1879094845" value="travel_exit (info)"/>
 <label key="1879094874" value="Epopée héroïque"/>
 <label key="1879094875" value="Epopée héroïque"/>
 <label key="1879094883" value="Epopée de protection"/>
@@ -1706,6 +1727,7 @@
 <label key="key:620757393:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
 <label key="key:620757396:181298206" value="Porté : vos attaques automatiques sont 5% plus difficiles à bloquer."/>
 <label key="key:620757398:181298206" value="Porté : vos attaques génèrent davantage de menace."/>
+<label key="key:620757513:49260606" value="travel_exit (desc)"/>
 <label key="key:620757522:54354734" value="Toutes les compétences basées sur un blocage réussi peuvent désormais être utilisées."/>
 <label key="key:620757523:54354734" value="Toutes les compétences basées sur une réaction de parade réussie peuvent désormais être utilisées."/>
 <label key="key:620757541:54354734" value="La peur du monstre qui vous poursuit vous étreint et ralentit vos mouvements."/>
@@ -1729,6 +1751,8 @@
 <label key="key:620757604:54354734" value="Réduit la vitalité"/>
 <label key="key:620757606:54354734" value="La maladie est là, en sommeil, attendant son heure pour se manifester pleinement."/>
 <label key="key:620757625:181298206" value="Lieu de résidence actuel - ${DESTINATION}."/>
+<label key="key:620757627:54354734" value="Afficher les conseils du didacticiel de dernière quête d'introduction"/>
+<label key="key:620757628:54354734" value="Afficher la Carte de retour reçue"/>
 <label key="key:620757697:54354734" value="Réduit l'agilité"/>
 <label key="key:620757730:54354734" value=".."/>
 <label key="key:620757733:54354734" value="La limace a libéré une matière gluante qui saisit vos pieds."/>
@@ -1768,13 +1792,18 @@
 <label key="key:620758777:181298206" value="Invoque un être spectral près de l'Homme décharné."/>
 <label key="key:620758785:54354734" value="Equitation de base"/>
 <label key="key:620758843:54354734" value="Les feux d'artifice explosent."/>
+<label key="key:620758845:54354734" value="Afficher les conseils du didacticiel d'utilisation d'objet depuis l'inventaire"/>
 <label key="key:620759006:181298206" value="Etourdit pendant 1 s"/>
+<label key="key:620759042:12084467" value="Configurer une propriété d'utilisation de compte."/>
+<label key="key:620759077:200163588" value="Sortie de la section Débutant"/>
+<label key="key:620759079:49260606" value="travel_exit (desc)"/>
 <label key="key:620759174:54354734" value="La protection d'armure est réduite."/>
 <label key="key:620759244:181298206" value="Etourdit pendant 6 s"/>
 <label key="key:620759298:54354734" value="Ne peut pas être affecté par le Sacrifice de l'aigle."/>
 <label key="key:620759301:106251889" value="Ralentit la vitesse de déplacement de 30%"/>
 <label key="key:620759301:54354734" value="La brûlure ralentit la cible."/>
 <label key="key:620759303:54354734" value="Votre créature apprivoisée a renversé l'adversaire, et vous pouvez tirer avantage de son état."/>
+<label key="key:620759352:42969150" value="travel_exit (desc)"/>
 <label key="key:620759376:181298206" value="Plusieurs compétences à distance infligent des dégâts de feu au lieu de leur type normal de dégâts et des dégâts de feu à long terme lors des coups critiques."/>
 <label key="key:620759376:54354734" value="Plusieurs compétences à distance infligent des dégâts de feu au lieu de leur type normal de dégâts et des dégâts de feu à long terme lors des coups critiques."/>
 <label key="key:620759441:181298206" value="Enracine pendant 30 s max."/>
@@ -1858,10 +1887,12 @@
 <label key="key:620764917:54354734" value="Augmente les dégâts de la prochaine attaque de zone d'effet."/>
 <label key="key:620764992:181298206" value="Etourdit pendant 5 s"/>
 <label key="key:620765122:181298206" value="Enracine pendant 30 s max."/>
+<label key="key:620765142:42969150" value="travel_exit (desc)"/>
 <label key="key:620765203:54354734" value="L'utilisation de Tremblement ou Déferlement a ouvert de nouvelles occasions de combat."/>
 <label key="key:620765240:54354734" value="L'utilisation de Coup violent ou de Provocation au bouclier a ouvert de nouvelles occasions de combat."/>
 <label key="key:620765327:54354734" value="L'utilisation de Double tranchant a ouvert de nouvelles occasions de combat."/>
 <label key="key:620765331:54354734" value="Toutes les compétences basées sur une réaction critique réussie peuvent désormais être utilisées."/>
+<label key="key:620765340:49260606" value="travel_exit (desc)"/>
 <label key="key:620765404:54354734" value="Toutes les compétences basées sur une réaction de défaite de l'ennemi peuvent désormais être utilisées."/>
 <label key="key:620765422:54354734" value="L'utilisation du Cri de bataille a lancé l'état Prêt à la bataille."/>
 <label key="key:620765623:54354734" value="Inflige des dégâts aux assaillants."/>
@@ -2179,6 +2210,7 @@
 <label key="key:620789288:54354734" value="L'utilisation de passages secrets permet de se déplacer rapidement aux abords de Tol Ascarnen."/>
 <label key="key:620789323:181298206" value="Permet de se libérer des racines"/>
 <label key="key:620789350:54354734" value="Absorbe le moral de la cible, ce qui soigne l'esprit cruel"/>
+<label key="key:620789356:54354734" value="Conseils du didacticiel d'invocation de nourriture"/>
 <label key="key:620789434:181298206" value="Fait disparaître Etourdissement et Hébétement ; permet de récupérer après avoir été Renversé, mais ne protège pas contre l'effroi."/>
 <label key="key:620789445:106251889" value="Porté : 1% de chance d'obtenir un coup critique en cas d'attaque automatique."/>
 <label key="key:620789465:54354734" value="Le poison est là, tapi, attendant de se manifester."/>
@@ -2280,6 +2312,7 @@
 <label key="key:620791708:181298206" value="Camp actuel : ${DESTINATION}."/>
 <label key="key:620791778:181298206" value="Enracine pendant 10 s"/>
 <label key="key:620791979:106251891" value="Ralentit la vitesse de déplacement de 50%"/>
+<label key="key:620791981:54354734" value="Afficher les conseils du didacticiel d'emotes PNJ"/>
 <label key="key:620791988:54354734" value="Permet d'exécuter des méthodes de préparation nécessitant la terre d'Amabelle."/>
 <label key="key:620792056:106251889" value="Ralentit la vitesse de déplacement de 30%"/>
 <label key="key:620792057:54354734" value="Un piège efficace maintient la cible en place. Subir des dégâts ne met pas fin à cet effet."/>
@@ -2380,6 +2413,7 @@
 <label key="key:620794617:181298206" value="Dispersion du feu : vous avez une chance d'absorber une partie des dégâts de feu que vous recevez."/>
 <label key="key:620794617:54354734" value="Chance accrue d'absorber des dégâts de type feu que vous recevez."/>
 <label key="key:620794649:106251889" value="Ralentit la vitesse de déplacement de 50%"/>
+<label key="key:620794653:49260606" value="travel_exit (desc)"/>
 <label key="key:620794664:106251890" value="+1 en espoir"/>
 <label key="key:620794981:54354734" value="Les gorthorogs trouvent vos actions amicales plus menaçantes."/>
 <label key="key:620795342:54354734" value="Cet effet fait subir des dégâts aux assaillants, donne une chance de paralyser les ennemis et peut quelquefois absorber toute une attaque."/>

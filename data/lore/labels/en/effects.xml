@@ -34,6 +34,12 @@
 <label key="1879049538" value="Diseased Frailty"/>
 <label key="1879049540" value="Festering Disease"/>
 <label key="1879049541" value="Induce Knockeddown"/>
+<label key="1879049552" value="Test InvokeTutorial Effect."/>
+<label key="1879049553" value="Test InvokeTutorial Effect."/>
+<label key="1879049558" value="Set an account usage property."/>
+<label key="1879049559" value="Set an account usage property."/>
+<label key="1879049560" value="Set an account usage property."/>
+<label key="1879049561" value="Set an account usage property."/>
 <label key="1879049583" value="Travel Home"/>
 <label key="1879049655" value="Increased Power"/>
 <label key="1879049658" value="Full"/>
@@ -45,6 +51,7 @@
 <label key="1879049829" value="You've muddled your wits!"/>
 <label key="1879049830" value="You are quite merry."/>
 <label key="1879049831" value="You feel a bit light-headed."/>
+<label key="1879049926" value="Test InvokeTutorial Effect."/>
 <label key="1879050060" value="Poison Arrow"/>
 <label key="1879050063" value="Ignite flammable target"/>
 <label key="1879050064" value="Flammable"/>
@@ -108,6 +115,8 @@
 <label key="1879051614" value="Increased Morale"/>
 <label key="1879051749" value="Well Fed"/>
 <label key="1879051778" value="Induce Stunned"/>
+<label key="1879051954" value="travel_exit (info)"/>
+<label key="1879051956" value="Leaving Newbie"/>
 <label key="1879052009" value="Deep Wound"/>
 <label key="1879052048" value="Eye for Weakness"/>
 <label key="1879052066" value="Burglar Tools"/>
@@ -135,6 +144,8 @@
 <label key="1879052336" value="Sigil - Animal"/>
 <label key="1879052337" value="Call - Nature"/>
 <label key="1879052338" value="Sigil - Dúnedain"/>
+<label key="1879052384" value="travel_exit (info)"/>
+<label key="1879052390" value="Leaving Newbie"/>
 <label key="1879052433" value="Fire Oil"/>
 <label key="1879052436" value="Create Bear Trap"/>
 <label key="1879052475" value="Bow of the Righteous"/>
@@ -190,6 +201,7 @@
 <label key="1879054125" value="Braver of the Watching Stones"/>
 <label key="1879054316" value="Full"/>
 <label key="1879054405" value="Healing"/>
+<label key="1879054478" value="Test Effect"/>
 <label key="1879054547" value="Charge"/>
 <label key="1879054551" value="Interrupt Induction"/>
 <label key="1879054582" value="Watcher Aura - Slowing"/>
@@ -298,6 +310,8 @@
 <label key="1879060052" value="Calenthon's Spyglass"/>
 <label key="1879060074" value="Induce Improved Rooted"/>
 <label key="1879060075" value="Bear Trap Damage"/>
+<label key="1879060080" value="travel_exit (info)"/>
+<label key="1879060091" value="Leaving Newbie"/>
 <label key="1879060118" value="Small Shield Spikes"/>
 <label key="1879060119" value="Westernesse Spikes"/>
 <label key="1879060134" value="Dispel Shield Taunt or Bash"/>
@@ -309,6 +323,8 @@
 <label key="1879060192" value="Guardian's Ward"/>
 <label key="1879060237" value="Critical Response"/>
 <label key="1879060238" value="Well Fed"/>
+<label key="1879060240" value="travel_exit (info)"/>
+<label key="1879060246" value="Leaving Newbie"/>
 <label key="1879060253" value="Call to Arms: Improved Herald of Victory"/>
 <label key="1879060261" value="Improved Banner of Victory"/>
 <label key="1879060263" value="Improved Banner of Victory"/>
@@ -1001,6 +1017,7 @@
 <label key="1879084487" value="Full"/>
 <label key="1879084488" value="Full"/>
 <label key="1879084489" value="Full"/>
+<label key="1879084513" value="travel_exit (info)"/>
 <label key="1879084521" value="Restored Health"/>
 <label key="1879084522" value="Restored Health"/>
 <label key="1879084523" value="Increased Power"/>
@@ -1062,6 +1079,7 @@
 <label key="1879085805" value="Shadow Grip"/>
 <label key="1879085806" value="Shadow Grip"/>
 <label key="1879085807" value="Noble Mark"/>
+<label key="1879085813" value="Test InvokeTutorial Effect."/>
 <label key="1879085848" value="Anthem of the Free Peoples Threat"/>
 <label key="1879085950" value="Piercing Wound"/>
 <label key="1879085980" value="Dread Aura"/>
@@ -1228,6 +1246,7 @@
 <label key="1879089501" value="Flame's Caress"/>
 <label key="1879089502" value="Affliction through Shadow"/>
 <label key="1879089503" value="Affliction through Flame"/>
+<label key="1879089555" value="You should seek out a minstrel immediately!"/>
 <label key="1879089620" value="Lesser Persistence"/>
 <label key="1879089625" value="Inspire"/>
 <label key="1879089626" value="Heroic Strike/Heroic Cry Combo"/>
@@ -1251,6 +1270,7 @@
 <label key="1879089879" value="Strength of the Earth"/>
 <label key="1879089968" value="Ranger Rooted"/>
 <label key="1879090229" value="Rampage"/>
+<label key="1879090230" value="Test InvokeTutorial Effect."/>
 <label key="1879090238" value="Amabel's Farmland"/>
 <label key="1879090239" value="Knockaway"/>
 <label key="1879090246" value="Dispel Pummel."/>
@@ -1406,6 +1426,7 @@
 <label key="1879094822" value="Ancient Craft"/>
 <label key="1879094829" value="Sticky Tar"/>
 <label key="1879094830" value="Sticky Tar"/>
+<label key="1879094845" value="travel_exit (info)"/>
 <label key="1879094874" value="Tale of Heroism"/>
 <label key="1879094875" value="Tale of Heroism"/>
 <label key="1879094883" value="Tale of Warding"/>
@@ -1706,6 +1727,7 @@
 <label key="key:620757393:181298206" value="Wield: Your Hit-chance is slightly increased."/>
 <label key="key:620757396:181298206" value="Wield: Your Auto-attacks are 5% tougher to Block."/>
 <label key="key:620757398:181298206" value="Wield: Your attacks generate greater threat."/>
+<label key="key:620757513:49260606" value="travel_exit (desc)"/>
 <label key="key:620757522:54354734" value="Any Skills that are based on a successful block response may now be played."/>
 <label key="key:620757523:54354734" value="Any Skills that are based on a successful parry response may now be played."/>
 <label key="key:620757541:54354734" value="The fear of the monster hounding you has locked your heart and mind with fear slowing your movement."/>
@@ -1729,6 +1751,8 @@
 <label key="key:620757604:54354734" value="Decreases Vitality"/>
 <label key="key:620757606:54354734" value="A disease festers inside, waiting to fully manifest."/>
 <label key="key:620757625:181298206" value="Current home location - ${DESTINATION}."/>
+<label key="key:620757627:54354734" value="Invoke Final Newbie Quest Tutorial Hint"/>
+<label key="key:620757628:54354734" value="Invoke Received Map Home"/>
 <label key="key:620757697:54354734" value="Decreases Agility"/>
 <label key="key:620757730:54354734" value=".."/>
 <label key="key:620757733:54354734" value="The slug released some sticky goo that grasps at your feet."/>
@@ -1768,13 +1792,18 @@
 <label key="key:620758777:181298206" value="Summons a wight from the ground near the Gauntman."/>
 <label key="key:620758785:54354734" value="Basic Riding"/>
 <label key="key:620758843:54354734" value="Fireworks are going off."/>
+<label key="key:620758845:54354734" value="Invoke Use Item From Inventory Tutorial Hint"/>
 <label key="key:620759006:181298206" value="Stuns for 1s"/>
+<label key="key:620759042:12084467" value="Set an account usage property."/>
+<label key="key:620759077:200163588" value="Leaving Newbie"/>
+<label key="key:620759079:49260606" value="travel_exit (desc)"/>
 <label key="key:620759174:54354734" value="Armour protection is reduced."/>
 <label key="key:620759244:181298206" value="Stuns for 6s"/>
 <label key="key:620759298:54354734" value="Cannot be affected by the Eagle's Sacrifice."/>
 <label key="key:620759301:106251889" value="Slows movement speed by 30%"/>
 <label key="key:620759301:54354734" value="Target is slowed while burning."/>
 <label key="key:620759303:54354734" value="Your pet has knocked the opponent into a state that you can take advantage off."/>
+<label key="key:620759352:42969150" value="travel_exit (desc)"/>
 <label key="key:620759376:181298206" value="Several ranged skills deal Fire Damage instead of their normal damage type and will cause Fire Damage over time on critical hits."/>
 <label key="key:620759376:54354734" value="Several ranged skills deal Fire Damage instead of their normal damage type and will cause Fire Damage over time on critical hits."/>
 <label key="key:620759441:181298206" value="Roots for up to 30s"/>
@@ -1858,10 +1887,12 @@
 <label key="key:620764917:54354734" value="Increases the next AOE attack's damage."/>
 <label key="key:620764992:181298206" value="Stuns for 5s"/>
 <label key="key:620765122:181298206" value="Roots for up to 30s"/>
+<label key="key:620765142:42969150" value="travel_exit (desc)"/>
 <label key="key:620765203:54354734" value="Shiv or Overwhelm's use have opened new combat opportunities."/>
 <label key="key:620765240:54354734" value="Bash or Shield Taunt's use have opened new combat opportunities."/>
 <label key="key:620765327:54354734" value="Double Edged's use has opened new combat opportunities."/>
 <label key="key:620765331:54354734" value="Any Skills that are based on a successful critical response may now be played."/>
+<label key="key:620765340:49260606" value="travel_exit (desc)"/>
 <label key="key:620765404:54354734" value="Any Skills that are based on a successful enemy defeat response may now be played."/>
 <label key="key:620765422:54354734" value="Battle Cry's use has initiated the Battle-readied State."/>
 <label key="key:620765623:54354734" value="Damages attackers."/>
@@ -2179,6 +2210,7 @@
 <label key="key:620789288:54354734" value="Using secret paths allows for swift travel near Tol Ascarnen."/>
 <label key="key:620789323:181298206" value="Break free from Roots"/>
 <label key="key:620789350:54354734" value="Drains the morale of the target, healing the fell-spirit"/>
+<label key="key:620789356:54354734" value="Invoke Food Tutorial Hint"/>
 <label key="key:620789434:181298206" value="Shake off Dazes or Stuns, or recover from being Knocked Down but not from dread."/>
 <label key="key:620789445:106251889" value="Wield: 1% Auto-attack Critical Hit Chance"/>
 <label key="key:620789465:54354734" value="Poison courses through afflicted veins, waiting to manifest."/>
@@ -2280,6 +2312,7 @@
 <label key="key:620791708:181298206" value="Current Camp - ${DESTINATION}."/>
 <label key="key:620791778:181298206" value="Roots for up to 10s"/>
 <label key="key:620791979:106251891" value="Slows movement speed by 50%"/>
+<label key="key:620791981:54354734" value="Invoke First NPC Emote Event Tutorial Hint"/>
 <label key="key:620791988:54354734" value="Allows execution of recipes requiring Amabel's Farmland."/>
 <label key="key:620792056:106251889" value="Slows movement speed by 30%"/>
 <label key="key:620792057:54354734" value="Target is held in place by a strong trap. Taking damage will not break this effect."/>
@@ -2380,6 +2413,7 @@
 <label key="key:620794617:181298206" value="Disperse Shadow: You have a chance of absorbing some incoming Fire Damage."/>
 <label key="key:620794617:54354734" value="Increased chance of absorbing some incoming Fire damage."/>
 <label key="key:620794649:106251889" value="Slows movement speed by 50%"/>
+<label key="key:620794653:49260606" value="travel_exit (desc)"/>
 <label key="key:620794664:106251890" value="+1 Hope"/>
 <label key="key:620794981:54354734" value="The Gorthorog finds your friendly actions more threatening."/>
 <label key="key:620795342:54354734" value="This effect damages attackers, has a chance to stun enemies, and infrequently can absorb an entire attack."/>
