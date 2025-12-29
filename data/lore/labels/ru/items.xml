@@ -3026,7 +3026,7 @@
 <label key="1879055082" value="Отличный кузнечный молот из древнего железа"/>
 <label key="1879055083" value="Слиток древней стали"/>
 <label key="1879055084" value="Короткая рукоять из черного ясеня"/>
-<label key="1879055085" value="Смертельно острый коготь ужасной черепахи"/>
+<label key="1879055085" value="Смертельно острый скрюченный коготь ужасной черепахи"/>
 <label key="1879055160" value="Бронзовый баклер"/>
 <label key="1879055161" value="Отличный бронзовый баклер"/>
 <label key="1879055162" value="Бронзовая пластина"/>
@@ -14466,7 +14466,7 @@
 <label key="1879074346" value="Суконная мантия"/>
 <label key="1879074347" value="Стеганая рубаха"/>
 <label key="1879074348" value="Стеганые башмаки"/>
-<label key="1879074349" value="Поножи щедрости"/>
+<label key="1879074349" value="Наплечники щедрости"/>
 <label key="1879074350" value="Наплечники Ирисовых полей"/>
 <label key="1879074351" value="Гарторн"/>
 <label key="1879074352" value="Фаэлтол"/>
@@ -18622,22 +18622,22 @@
 <label key="1879091377" value="Осколок сапфира"/>
 <label key="1879091378" value="Осколок рубина"/>
 <label key="1879091379" value="Осколок адаманта"/>
-<label key="1879091391" value="Повышенное сопротивление физическому урону (уровень 2)"/>
+<label key="1879091391" value="Повышенное сопротивление песням (уровень 2)"/>
 <label key="1879091392" value="Урон в обмен на здоровье (уровень 2)"/>
 <label key="1879091393" value="Урон в обмен на энергию (уровень 2)"/>
 <label key="1879091394" value="Здоровье в обмен на урон (уровень 2)"/>
 <label key="1879091395" value="Здоровье в обмен на энергию (уровень 2)"/>
 <label key="1879091396" value="Энергия в обмен на урон (уровень 2)"/>
 <label key="1879091397" value="Энергия в обмен на здоровье (уровень 2)"/>
-<label key="1879091398" value="Повышенное смягчение урона обычным оружием (уровень 2)"/>
-<label key="1879091399" value="Повышенное смягчение урона огнем (уровень 2)"/>
-<label key="1879091400" value="Повышенное смягчение урона Светом (уровень 2)"/>
-<label key="1879091401" value="Повышенное смягчение древнего гномьего урона (уровень 2)"/>
-<label key="1879091402" value="Повышенное смягчение белериандского урона (уровень 2)"/>
+<label key="1879091398" value="Повышенное смягчение древнего гномьего урона (уровень 2)"/>
+<label key="1879091399" value="Повышенное смягчение белериандского урона (уровень 2)"/>
+<label key="1879091400" value="Повышенное смягчение урона обычным оружием (уровень 2)"/>
+<label key="1879091401" value="Повышенное смягчение урона огнем (уровень 2)"/>
+<label key="1879091402" value="Повышенное смягчение урона Светом (уровень 2)"/>
 <label key="1879091403" value="Повышенное смягчение нуменорского урона (уровень 2)"/>
-<label key="1879091404" value="Повышенное сопротивление песням (уровень 2)"/>
-<label key="1879091405" value="Повышенное сопротивление кличам (уровень 2)"/>
-<label key="1879091406" value="Повышенное сопротивление тактическогому урону (уровень 2)"/>
+<label key="1879091404" value="Повышенное сопротивление кличам (уровень 2)"/>
+<label key="1879091405" value="Повышенное сопротивление тактическому урону (уровень 2)"/>
+<label key="1879091406" value="Повышенное сопротивление физическому урону (уровень 2)"/>
 <label key="1879091409" value="Репутационный тестовый предмет"/>
 <label key="1879091411" value="Карта Эстельдина"/>
 <label key="1879091416" value="Рецепт: Полированный быстрый капкан"/>
@@ -18825,7 +18825,7 @@
 <label key="1879092398" value="Молот милосердия"/>
 <label key="1879092399" value="Молот тактичности"/>
 <label key="1879092400" value="Белый клинок"/>
-<label key="1879092401" value="Клылатый клинок чести"/>
+<label key="1879092401" value="Крылатый клинок чести"/>
 <label key="1879092402" value="Клинок братства"/>
 <label key="1879092403" value="Мощный топор страданий"/>
 <label key="1879092404" value="Секира храбрости"/>
@@ -19394,26 +19394,26 @@
 <label key="1879095903" value="Полированный клюв"/>
 <label key="1879095904" value="Полированный клюв"/>
 <label key="1879095905" value="Полированный клюв"/>
-<label key="1879095906" value="Полированный клык."/>
-<label key="1879095907" value="Полированный клык."/>
-<label key="1879095908" value="Полированный клык."/>
-<label key="1879095909" value="Полированный клык."/>
-<label key="1879095910" value="Полированный клык."/>
-<label key="1879095911" value="Полированный клык."/>
-<label key="1879095912" value="Полированный клык."/>
-<label key="1879095913" value="Полированный клык."/>
-<label key="1879095914" value="Полированный клык."/>
-<label key="1879095915" value="Полированный клык."/>
-<label key="1879095916" value="Полированный клык."/>
-<label key="1879095917" value="Полированный клык."/>
-<label key="1879095918" value="Полированный клык."/>
-<label key="1879095919" value="Полированный клык."/>
-<label key="1879095920" value="Полированный клык."/>
-<label key="1879095921" value="Полированный клык."/>
-<label key="1879095922" value="Полированный клык."/>
-<label key="1879095923" value="Полированный клык."/>
-<label key="1879095924" value="Полированный клык."/>
-<label key="1879095925" value="Полированный клык."/>
+<label key="1879095906" value="Полированный клык"/>
+<label key="1879095907" value="Полированный клык"/>
+<label key="1879095908" value="Полированный клык"/>
+<label key="1879095909" value="Полированный клык"/>
+<label key="1879095910" value="Полированный клык"/>
+<label key="1879095911" value="Полированный клык"/>
+<label key="1879095912" value="Полированный клык"/>
+<label key="1879095913" value="Полированный клык"/>
+<label key="1879095914" value="Полированный клык"/>
+<label key="1879095915" value="Полированный клык"/>
+<label key="1879095916" value="Полированный клык"/>
+<label key="1879095917" value="Полированный клык"/>
+<label key="1879095918" value="Полированный клык"/>
+<label key="1879095919" value="Полированный клык"/>
+<label key="1879095920" value="Полированный клык"/>
+<label key="1879095921" value="Полированный клык"/>
+<label key="1879095922" value="Полированный клык"/>
+<label key="1879095923" value="Полированный клык"/>
+<label key="1879095924" value="Полированный клык"/>
+<label key="1879095925" value="Полированный клык"/>
 <label key="1879095926" value="Полированный коготь"/>
 <label key="1879095927" value="Полированный коготь"/>
 <label key="1879095928" value="Полированный коготь"/>
@@ -19906,84 +19906,84 @@
 <label key="1879097817" value="Бирюзовая серьга"/>
 <label key="1879097819" value="Укороченный плащ"/>
 <label key="1879097824" value="Дверь"/>
-<label key="1879097903" value="Vial of Gundzor's Breath"/>
-<label key="1879097904" value="Phial of Mazauk's Resolve"/>
-<label key="1879097905" value="Phial of Gorgoris' Kiss"/>
-<label key="1879097906" value="Vial of Bûrzgoth's Strength"/>
-<label key="1879097907" value="Steamed Leg of Man"/>
-<label key="1879097908" value="Charred and Crusty Leg of Man"/>
-<label key="1879097909" value="Marinated Leg of Man"/>
-<label key="1879097913" value="Bowl of Gukthor's Stew"/>
-<label key="1879097914" value="Bowl of Gukthor's Seasoned Gruel"/>
-<label key="1879097915" value="Bowl of Gukthor's Gruel Surprise"/>
-<label key="1879097916" value="Elf Ear Chew"/>
-<label key="1879097917" value="Charred Elf Ear Chew"/>
-<label key="1879097918" value="Dried Elf Ear Jerky"/>
-<label key="1879097919" value="Seasoned Toes"/>
-<label key="1879097920" value="Boiled Little Folk Toes"/>
-<label key="1879097921" value="Grothum's Own Little Folk Toes"/>
-<label key="1879097922" value="Aged Blood of the Stone Folk"/>
-<label key="1879097923" value="Blood of the Stone Folk"/>
-<label key="1879097924" value="Fresh Blood of the Stone Folk"/>
-<label key="1879097925" value="Aged Blood of the Little Folk"/>
-<label key="1879097926" value="Blood of the Little Folk"/>
-<label key="1879097927" value="Fresh Blood of the Little Folk"/>
-<label key="1879097928" value="Aged Blood of Man"/>
-<label key="1879097929" value="Blood of Man"/>
-<label key="1879097930" value="Fresh Blood of Man"/>
-<label key="1879097931" value="Aged Blood of the Fair Folk"/>
-<label key="1879097932" value="Blood of the Fair Folk"/>
-<label key="1879097933" value="Fresh Blood of the Fair Folk"/>
-<label key="1879097934" value="Draught of Troll Bile"/>
-<label key="1879097935" value="Draught of War-tyrant Spittle"/>
-<label key="1879097936" value="Draught of Mordirith's Ire"/>
-<label key="1879097937" value="Phial of Mazauk's Saliva"/>
-<label key="1879097938" value="Phial of Mazauk's Blood"/>
-<label key="1879097939" value="Phial of Gorgoris' Bile"/>
-<label key="1879097940" value="Phial of Gorgoris' Blood"/>
-<label key="1879097941" value="Akúlhun's Brand of the Tracker"/>
-<label key="1879097942" value="Akúlhun's Brand of the Lieutenant"/>
-<label key="1879097943" value="Akúlhun's Brand of the Commander"/>
-<label key="1879097944" value="Akúlhun's Brand of the Chieftain"/>
-<label key="1879097945" value="Akúlhun's Brand of the High Chieftain"/>
-<label key="1879097946" value="Akúlhun's Brand of the Overlord"/>
-<label key="1879097947" value="Akúlhun's Brand of the Tyrant"/>
-<label key="1879097948" value="Akúlhun's Brand of the Scout"/>
-<label key="1879097949" value="Akúlhun's Brand of the Skirmisher"/>
-<label key="1879097950" value="Akúlhun's Brand of the Fighter"/>
-<label key="1879097951" value="Akúlhun's Brand of the Soldier"/>
-<label key="1879097952" value="Akúlhun's Brand of the Sentry"/>
-<label key="1879097953" value="Akúlhun's Brand of the Chief Guard"/>
-<label key="1879097954" value="Akúlhun's Brand of the Chief Warrior"/>
-<label key="1879097955" value="Akúlhun's Brand of the Taskmaster"/>
-<label key="1879097980" value="Racial Trait: Front-line Fodder"/>
-<label key="1879097981" value="Racial Trait: Rage of the Misbegotten"/>
-<label key="1879097982" value="Racial Trait: Warrior Against the Deep"/>
-<label key="1879097983" value="Racial Trait: Tireless Warrior"/>
-<label key="1879097984" value="Racial Trait: Flayer of Flesh"/>
-<label key="1879097985" value="Racial Trait: Eight-legged Foe"/>
-<label key="1879097986" value="Racial Trait: Swallower of Light"/>
-<label key="1879097987" value="Racial Trait: Ancient as the Stars"/>
-<label key="1879097988" value="Racial Trait: Enemy of the First Children"/>
-<label key="1879097989" value="Racial Trait: Drinker of Blood"/>
-<label key="1879097990" value="Racial Trait: New Breed"/>
-<label key="1879097991" value="Racial Trait: Leaders of the Orcs"/>
-<label key="1879097992" value="Racial Trait: Favoured Servant of the Dark"/>
-<label key="1879097993" value="Racial Trait: Tireless Warrior"/>
-<label key="1879097994" value="Racial Trait: Brutal Persuasion"/>
-<label key="1879097995" value="Racial Trait: Four-legged Foe"/>
-<label key="1879097996" value="Racial Trait: Pack Mentality"/>
-<label key="1879097997" value="Racial Trait: Pack Elder"/>
-<label key="1879097998" value="Racial Trait: Foe of the Light"/>
-<label key="1879097999" value="Racial Trait: Pack Alpha"/>
-<label key="1879098000" value="Racial Skill: Blood of Fire"/>
-<label key="1879098001" value="Racial Skill:  Undying Rage"/>
-<label key="1879098002" value="Racial Skill:  Born of Shadow"/>
-<label key="1879098003" value="Racial Skill:  Shelob's Gift"/>
-<label key="1879098004" value="Racial Skill:  Imposing Presence"/>
-<label key="1879098005" value="Racial Skill:  Get a Grip!"/>
-<label key="1879098006" value="Racial Skill: Pack Hunters"/>
-<label key="1879098007" value="Racial Skill: Eyes of Unnerving"/>
+<label key="1879097903" value="Флакон с дыханием Гандзора"/>
+<label key="1879097904" value="Флакон с решимостью Мазаука"/>
+<label key="1879097905" value="Флакон с поцелуем Горгорис"/>
+<label key="1879097906" value="Флаконы с силой Бурзгота"/>
+<label key="1879097907" value="Копченая человечья нога"/>
+<label key="1879097908" value="Жареная хрустящая человечья нога"/>
+<label key="1879097909" value="Маринованная человечья нога"/>
+<label key="1879097913" value="Миска похлебки Гуктора"/>
+<label key="1879097914" value="Миска приправленной похлебки Гуктора"/>
+<label key="1879097915" value="Миска с похлебкой-сюрпризом Гуктора"/>
+<label key="1879097916" value="Приготовленное эльфийское ухо"/>
+<label key="1879097917" value="Жареное эльфийское ухо"/>
+<label key="1879097918" value="Вяленое эльфийское ухо"/>
+<label key="1879097919" value="Вяленые пальчики"/>
+<label key="1879097920" value="Вареные пальчики полуросликов"/>
+<label key="1879097921" value="Пальчики полуросликов из запасов Гротума"/>
+<label key="1879097922" value="Выдержанная кровь каменного народа"/>
+<label key="1879097923" value="Кровь каменного народа"/>
+<label key="1879097924" value="Свежая кровь каменного народа"/>
+<label key="1879097925" value="Выдержанная кровь полуросликов"/>
+<label key="1879097926" value="Кровь полуросликов"/>
+<label key="1879097927" value="Свежая кровь полуросликов"/>
+<label key="1879097928" value="Выдержанная человечья кровь"/>
+<label key="1879097929" value="Человечья кровь"/>
+<label key="1879097930" value="Свежая человечья кровь"/>
+<label key="1879097931" value="Выдержанная кровь дивного народа"/>
+<label key="1879097932" value="Кровь дивного народа"/>
+<label key="1879097933" value="Свежая кровь дивного народа"/>
+<label key="1879097934" value="Зелье из желчи тролля"/>
+<label key="1879097935" value="Зелье из плевка боевого тирана"/>
+<label key="1879097936" value="Зелье ярости Мордирита"/>
+<label key="1879097937" value="Флакон слюны Мазаука"/>
+<label key="1879097938" value="Флакон крови Мазаука"/>
+<label key="1879097939" value="Флакон желчи Горгорис"/>
+<label key="1879097940" value="Флакон крови Горгорис"/>
+<label key="1879097941" value="Печать ищейки Акулуна"/>
+<label key="1879097942" value="Печать лейтенанта Акулуна"/>
+<label key="1879097943" value="Печать командира Акулуна"/>
+<label key="1879097944" value="Печать военного вожака Акулуна"/>
+<label key="1879097945" value="Печать верховного вожака Акулуна"/>
+<label key="1879097946" value="Печать властелина Акулуна"/>
+<label key="1879097947" value="Печать тирана Акулуна"/>
+<label key="1879097948" value="Печать лазутчика Акулуна"/>
+<label key="1879097949" value="Печать застрельщика Акулуна"/>
+<label key="1879097950" value="Печать воина Акулуна"/>
+<label key="1879097951" value="Печать бойца Акулуна"/>
+<label key="1879097952" value="Печать стража Акулуна"/>
+<label key="1879097953" value="Печать старшего стража Акулуна"/>
+<label key="1879097954" value="Печать воителя Акулуна"/>
+<label key="1879097955" value="Печать надсмотрщика Акулуна"/>
+<label key="1879097980" value="Расовый талант: Боец из первых рядов"/>
+<label key="1879097981" value="Расовый талант: Ярость презренных"/>
+<label key="1879097982" value="Расовый талант: Борец с бездной"/>
+<label key="1879097983" value="Расовый талант: Неутомимый воин"/>
+<label key="1879097984" value="Расовый талант: Раздирающий плоть"/>
+<label key="1879097985" value="Расовый талант: Восьминогий враг"/>
+<label key="1879097986" value="Расовый талант: Пожиратель Света"/>
+<label key="1879097987" value="Расовый талант: Древний как звезды"/>
+<label key="1879097988" value="Расовый талант: Враг перворожденных"/>
+<label key="1879097989" value="Расовый талант: Кровопийца"/>
+<label key="1879097990" value="Расовый талант: Новое племя"/>
+<label key="1879097991" value="Расовый талант: Вожди орков"/>
+<label key="1879097992" value="Расовый талант: Любимый слуга Тьмы"/>
+<label key="1879097993" value="Расовый талант: Неутомимый воин"/>
+<label key="1879097994" value="Расовый талант: Силовое убеждение"/>
+<label key="1879097995" value="Расовый талант: Четвероногий враг"/>
+<label key="1879097996" value="Расовый талант: Стайное мышление"/>
+<label key="1879097997" value="Расовый талант: Матерый хищник"/>
+<label key="1879097998" value="Расовый талант: Четвероногий враг"/>
+<label key="1879097999" value="Расовый талант: Вожак стаи"/>
+<label key="1879098000" value="Расовое умение: Огонь в крови"/>
+<label key="1879098001" value="Расовое умение: Неугасимый гнев"/>
+<label key="1879098002" value="Расовое умение: Порождение Тьмы"/>
+<label key="1879098003" value="Расовое умение: Дар Шелоб"/>
+<label key="1879098004" value="Расовое умение: Присутствие вожака"/>
+<label key="1879098005" value="Расовое умение: А ну, за дело!"/>
+<label key="1879098006" value="Расовое умение: Охота в стае"/>
+<label key="1879098007" value="Расовое умение: Ужасающий взгляд"/>
 <label key="1879098039" value="Топор Защитника"/>
 <label key="1879098040" value="Прочный топор Защитника"/>
 <label key="1879098041" value="Смертоносный топор Защитника"/>
@@ -21800,103 +21800,103 @@
 <label key="1879102290" value="Странный куриный насест"/>
 <label key="1879102291" value="Странный куриный насест"/>
 <label key="1879102292" value="Странный куриный насест"/>
-<label key="1879102463" value="Feldskyn Gloves"/>
-<label key="1879102464" value="Feldskyn Shoes"/>
-<label key="1879102465" value="Feldskyn Leggings"/>
-<label key="1879102466" value="Feldskyn Guard"/>
-<label key="1879102467" value="Feldskyn Shoulders"/>
-<label key="1879102468" value="Feldskyn Hat"/>
-<label key="1879102469" value="Anganskáld Gloves"/>
-<label key="1879102470" value="Anganskáld Shoes"/>
-<label key="1879102471" value="Anganskáld Leggings"/>
-<label key="1879102472" value="Anganskáld Guard"/>
-<label key="1879102473" value="Anganskáld Shoulders"/>
-<label key="1879102474" value="Anganskáld Hat"/>
-<label key="1879102475" value="Hlifherór Gloves"/>
-<label key="1879102476" value="Hlifherór Boots"/>
-<label key="1879102477" value="Hlifherór Leggings"/>
-<label key="1879102478" value="Hlifherór Guard"/>
-<label key="1879102479" value="Hlifherór Shoulders"/>
-<label key="1879102480" value="Hlifherór Helm"/>
-<label key="1879102481" value="Thagallthrek Gloves"/>
-<label key="1879102482" value="Thagallthrek Boots"/>
-<label key="1879102483" value="Thagallthrek Leggings"/>
-<label key="1879102484" value="Thagallthrek Guard"/>
-<label key="1879102485" value="Thagallthrek Shoulders"/>
-<label key="1879102486" value="Thagallthrek Helm"/>
-<label key="1879102487" value="Kappwin Gloves"/>
-<label key="1879102488" value="Kappwin Boots"/>
-<label key="1879102489" value="Kappwin Leggings"/>
-<label key="1879102490" value="Kappwin Guard"/>
-<label key="1879102491" value="Kappwin Shoulders"/>
-<label key="1879102492" value="Kappwin Helm"/>
-<label key="1879102493" value="Hlifworth Gloves"/>
-<label key="1879102494" value="Hlifworth Boots"/>
-<label key="1879102495" value="Hlifworth Leggings"/>
-<label key="1879102496" value="Hlifworth Guard"/>
-<label key="1879102497" value="Hlifworth Shoulders"/>
-<label key="1879102498" value="Hlifworth Helm"/>
-<label key="1879102499" value="Threkkappi Gloves"/>
-<label key="1879102500" value="Threkkappi Boots"/>
-<label key="1879102501" value="Threkkappi Leggings"/>
-<label key="1879102502" value="Threkkappi Guard"/>
-<label key="1879102503" value="Threkkappi Shoulders"/>
-<label key="1879102504" value="Threkkappi Helm"/>
-<label key="1879102512" value="Enhanced Essence of Athelas"/>
-<label key="1879102513" value="Concentrated Essence of Athelas"/>
-<label key="1879102514" value="Elixir of Twice Purified Athelas"/>
-<label key="1879102515" value="Enhanced Celebrant Water"/>
-<label key="1879102516" value="Concentrated Celebrant Water"/>
-<label key="1879102517" value="Elixir of Twice Purified Celebrant"/>
-<label key="1879102525" value="Lainedhal's Insignia of the Footman"/>
-<label key="1879102545" value="Lainedhal's Insignia of the Lieutenant"/>
-<label key="1879102546" value="Lainedhal's Insignia of the Commander"/>
-<label key="1879102547" value="Lainedhal's Insignia of the Third Marshal"/>
-<label key="1879102548" value="Lainedhal's Insignia of the Second Marshal"/>
-<label key="1879102549" value="Lainedhal's Insignia of the First Marshal"/>
-<label key="1879102550" value="Lainedhal's Insignia of the Captain-General"/>
-<label key="1879102551" value="Lainedhal's Insignia of the Esquire"/>
-<label key="1879102552" value="Lainedhal's Insignia of the Guardsman"/>
-<label key="1879102553" value="Lainedhal's Insignia of the Man-at-Arms"/>
-<label key="1879102554" value="Lainedhal's Insignia of the Sergeant of the Guard"/>
-<label key="1879102555" value="Lainedhal's Insignia of the Sergeant-at-Arms"/>
-<label key="1879102556" value="Lainedhal's Insignia of the Master Guardsman"/>
-<label key="1879102557" value="Lainedhal's Insignia of the Master-at-Arms"/>
-<label key="1879102558" value="Lainedhal's Insignia of the High Warden"/>
-<label key="1879102574" value="Thalionhathol"/>
-<label key="1879102575" value="Cudúr"/>
-<label key="1879102576" value="Bronwehigil"/>
-<label key="1879102577" value="Dornhigil"/>
-<label key="1879102578" value="Dagorhigil"/>
-<label key="1879102579" value="Filigodrist"/>
-<label key="1879102580" value="Tordram"/>
-<label key="1879102581" value="Bronwenaith"/>
-<label key="1879102582" value="Balanis"/>
-<label key="1879102583" value="Golumagol"/>
-<label key="1879102584" value="Romegil"/>
-<label key="1879102591" value="Móthskold"/>
-<label key="1879102592" value="Luthskold"/>
-<label key="1879102593" value="Skotrand"/>
-<label key="1879102670" value="Angechor"/>
-<label key="1879102671" value="Edhelharnechor"/>
-<label key="1879102672" value="Iorechor"/>
-<label key="1879102673" value="Snúa-men"/>
-<label key="1879102674" value="Edhelharnhigil"/>
-<label key="1879102675" value="Narinn"/>
-<label key="1879102676" value="Ancient Flasket"/>
-<label key="1879102677" value="Pouch of Thorns"/>
-<label key="1879102678" value="Quartz Figurine"/>
-<label key="1879102679" value="Sterk-baug"/>
-<label key="1879102680" value="Lorchor"/>
-<label key="1879102681" value="Filigodringor"/>
-<label key="1879110743" value="Ettendeep's Bane"/>
-<label key="1879111444" value="Carbuncle Earring"/>
-<label key="1879115221" value="Plaque of Echad Garthadir"/>
-<label key="1879115222" value="Plaque of Clorhir"/>
-<label key="1879115223" value="Plaque of Tirband"/>
-<label key="1879115225" value="Plaque of Ariant"/>
-<label key="1879115226" value="Plaque of Menelband"/>
-<label key="1879115227" value="Plaque of Minathranc"/>
+<label key="1879102463" value="Перчатки Фельдскин"/>
+<label key="1879102464" value="Ботинки Фельдскин"/>
+<label key="1879102465" value="Поножи Фельдскин"/>
+<label key="1879102466" value="Нагрудник Фельдскин"/>
+<label key="1879102467" value="Наплечники Фельдскин"/>
+<label key="1879102468" value="Шляпа Фельдскин"/>
+<label key="1879102469" value="Перчатки Анганскальд"/>
+<label key="1879102470" value="Ботинки Анганскальд"/>
+<label key="1879102471" value="Поножи Анганскальд"/>
+<label key="1879102472" value="Нагрудник Анганскальд"/>
+<label key="1879102473" value="Наплечники Анганскальд"/>
+<label key="1879102474" value="Шляпа Анганскальд"/>
+<label key="1879102475" value="Перчатки Хлиферор"/>
+<label key="1879102476" value="Сапоги Хлиферор"/>
+<label key="1879102477" value="Поножи Хлиферор"/>
+<label key="1879102478" value="Куртка Хлиферор"/>
+<label key="1879102479" value="Наплечники Хлиферор"/>
+<label key="1879102480" value="Шлем Хлиферор"/>
+<label key="1879102481" value="Перчатки Тагаллтрек"/>
+<label key="1879102482" value="Сапоги Тагаллтрек"/>
+<label key="1879102483" value="Поножи Тагаллтрек"/>
+<label key="1879102484" value="Куртка Тагаллтрек"/>
+<label key="1879102485" value="Наплечники Тагаллтрек"/>
+<label key="1879102486" value="Шлем Тагаллтрек"/>
+<label key="1879102487" value="Перчатки Каппвин"/>
+<label key="1879102488" value="Сапоги Каппвин"/>
+<label key="1879102489" value="Поножи Каппвин"/>
+<label key="1879102490" value="Кираса Каппвин"/>
+<label key="1879102491" value="Наплечники Каппвин"/>
+<label key="1879102492" value="Шлем Каппвин"/>
+<label key="1879102493" value="Перчатки Хлифворт"/>
+<label key="1879102494" value="Сапоги Хлифворт"/>
+<label key="1879102495" value="Поножи Хлифворт"/>
+<label key="1879102496" value="Кираса Хлифворт"/>
+<label key="1879102497" value="Наплечники Хлифворт"/>
+<label key="1879102498" value="Шлем Хлифворт"/>
+<label key="1879102499" value="Перчатки Трекаппи"/>
+<label key="1879102500" value="Сапоги Трекаппи"/>
+<label key="1879102501" value="Поножи Трекаппи"/>
+<label key="1879102502" value="Кираса Трекаппи"/>
+<label key="1879102503" value="Наплечники Трекаппи"/>
+<label key="1879102504" value="Шлем Трекаппи"/>
+<label key="1879102512" value="Улучшенная настойка ателас"/>
+<label key="1879102513" value="Концентрированная настойка ателас"/>
+<label key="1879102514" value="Эликсир ателас двойной очистки"/>
+<label key="1879102515" value="Улучшенная вода Келебранта"/>
+<label key="1879102516" value="Концентрированная вода Келебранта"/>
+<label key="1879102517" value="Эликсир Келебранта двойной очистки"/>
+<label key="1879102525" value="Эмблема пехотинца Лайнедэла"/>
+<label key="1879102545" value="Эмблема лейтенанта Лайнедэла"/>
+<label key="1879102546" value="Эмблема командира Лайнедэла"/>
+<label key="1879102547" value="Эмблема третьего маршала Лайнедэла"/>
+<label key="1879102548" value="Эмблема второго маршала Лайнедэла"/>
+<label key="1879102549" value="Эмблема первого маршала Лайнедэла"/>
+<label key="1879102550" value="Эмблема главнокомандующего Лайнедэла"/>
+<label key="1879102551" value="Эмблема сквайра Лайнедэла"/>
+<label key="1879102552" value="Эмблема стражника Лайнедэла"/>
+<label key="1879102553" value="Эмблема воителя Лайнедэла"/>
+<label key="1879102554" value="Эмблема сержанта стражи Лайнедэла"/>
+<label key="1879102555" value="Эмблема старшины Лайнедэла"/>
+<label key="1879102556" value="Эмблема капитана стражи Лайнедэла"/>
+<label key="1879102557" value="Эмблема командира стражи Лайнедэла"/>
+<label key="1879102558" value="Эмблема высокого заступника Лайнедэла"/>
+<label key="1879102574" value="Талионатол"/>
+<label key="1879102575" value="Кудур"/>
+<label key="1879102576" value="Бронвехигил"/>
+<label key="1879102577" value="Дорнхигил"/>
+<label key="1879102578" value="Дагорхигил"/>
+<label key="1879102579" value="Филигодрист"/>
+<label key="1879102580" value="Тордрам"/>
+<label key="1879102581" value="Бронвенайт"/>
+<label key="1879102582" value="Баланис"/>
+<label key="1879102583" value="Голумагол"/>
+<label key="1879102584" value="Ромэгил"/>
+<label key="1879102591" value="Мотсколд"/>
+<label key="1879102592" value="Лутсколд"/>
+<label key="1879102593" value="Скотранд"/>
+<label key="1879102670" value="Ангехор"/>
+<label key="1879102671" value="Эдельхарнехор"/>
+<label key="1879102672" value="Иорехор"/>
+<label key="1879102673" value="Снуа-Мен"/>
+<label key="1879102674" value="Эдельхарнегиль"/>
+<label key="1879102675" value="Наринн"/>
+<label key="1879102676" value="Древняя фляжка"/>
+<label key="1879102677" value="Мешок с колючками"/>
+<label key="1879102678" value="Кварцевая фигурка"/>
+<label key="1879102679" value="Стерк-Бауг"/>
+<label key="1879102680" value="Лорхор"/>
+<label key="1879102681" value="Филигодрингор"/>
+<label key="1879110743" value="Проклятие Эттенских пещер"/>
+<label key="1879111444" value="Серьга с карбункулом"/>
+<label key="1879115221" value="Табличка Эхад Гартадир"/>
+<label key="1879115222" value="Табличка Клорхира"/>
+<label key="1879115223" value="Табличка Тирбанда"/>
+<label key="1879115225" value="Табличка Арианта"/>
+<label key="1879115226" value="Табличка Менельбанда"/>
+<label key="1879115227" value="Табличка Минатранка"/>
 <label key="key:620757454:100083276" value="Деньги"/>
 <label key="key:620757454:203761950" value="Горсть монет."/>
 <label key="key:620757516:54354734" value="Письмо."/>
@@ -32036,12 +32036,12 @@
 <label key="key:620790951:54354734" value="Прочитав этот свиток, вы выучите рецепт умелого повара."/>
 <label key="key:620790952:54354734" value="Прочитав этот свиток, вы выучите рецепт начинающего повара."/>
 <label key="key:620790953:54354734" value="Прочитав этот свиток, вы выучите рецепт начинающего повара."/>
-<label key="key:620791077:54354734" value="Если прочитать свиток разрушения в пределах печати, рогмул не сможет черпать силу из огня, и против него можно будет провести более мощную атаку."/>
+<label key="key:620791077:54354734" value="Если прочитать свиток разрушения в пределах печати, рогмул не сможет черпать силу из огня, и против него можно будет провести более мощную атаку.&#10;&#10;Свиток никогда не должен покидать стен Барад-Гуларана. Если наши враги попытаются его забрать, защитные заклинания уничтожат его."/>
 <label key="key:620791077:98907573" value="Свитки разрушения"/>
-<label key="key:620791078:54354734" value="Если направить посох теней на рогмула, находясь в пределах печати, он некоторое время не сможет крушить врагов силой Тьмы."/>
+<label key="key:620791078:54354734" value="Если направить посох теней на рогмула, находясь в пределах печати, он некоторое время не сможет крушить врагов силой Тьмы.&#10;&#10;Посох никогда не должен покидать стен Барад-Гуларана. Если наши враги попытаются его забрать, защитные заклинания уничтожат его."/>
 <label key="key:620791078:98907573" value="Посохи теней"/>
-<label key="key:620791079:54354734" value="Если протрубить в рог Анора, находясь в пределах печати, связь рогмула с огнем на короткое время ослабеет, и он лишится возможности призывать пламя."/>
-<label key="key:620791079:98907573" value="Рог Анора"/>
+<label key="key:620791079:54354734" value="Если протрубить в рог Анора, находясь в пределах печати, связь рогмула с огнем на короткое время ослабеет, и он лишится возможности призывать пламя.&#10;&#10;Рог никогда не должен покидать стен Барад-Гуларана. Если наши враги попытаются его забрать, защитные заклинания уничтожат его."/>
+<label key="key:620791079:98907573" value="Рога Анора"/>
 <label key="key:620791082:54354734" value="Небольшое поле ячменя."/>
 <label key="key:620791083:54354734" value="Небольшое поле ячменя."/>
 <label key="key:620791084:54354734" value="Корзина ячменя, годного лишь на семена."/>
@@ -32133,7 +32133,7 @@
 <label key="key:620791142:54354734" value="Прочитав этот свиток, вы выучите рецепт сведущего фермера."/>
 <label key="key:620791143:54354734" value="Прочитав этот свиток, вы выучите рецепт начинающего фермера."/>
 <label key="key:620791144:54354734" value="Прочитав этот свиток, вы выучите рецепт начинающего фермера."/>
-<label key="key:620791145:54354734" value="Этот ключ открывает дверь между центральной галерей и залом заклинателей внутри Барад-Гуларана."/>
+<label key="key:620791145:54354734" value="Этот ключ открывает дверь между центральной галерей и залом заклинателей внутри Барад-Гуларана.&#10;&#10;Ключ никогда не должен покидать стен Барад-Гуларана. Если наши враги попытаются его забрать, защитные заклинания уничтожат его."/>
 <label key="key:620791145:98907573" value="..."/>
 <label key="key:620791148:54354734" value="В этом сундуке лежат личные вещи смотрителя Барад-Гуларана."/>
 <label key="key:620791150:54354734" value="Этот ключ открывает сундук наверху башни Барад-Гуларан."/>
@@ -33676,122 +33676,122 @@
 <label key="key:620796404:54354734" value="Древняя серьга с алмазом."/>
 <label key="key:620796406:54354734" value="Оторванный кусок плети."/>
 <label key="key:620796411:54354734" value="Небольшая сережка из бирюзы."/>
-<label key="key:620796494:54354734" value="Drinking this draught restores your health when used."/>
-<label key="key:620796494:98907573" value="Vials of Blood of Man"/>
-<label key="key:620796498:54354734" value="Drinking this draught restores your health when used."/>
-<label key="key:620796498:98907573" value="Vials of Fresh Blood of Man"/>
-<label key="key:620796502:54354734" value="Drinking this draught restores your power when used."/>
-<label key="key:620796502:98907573" value="Vials of Aged Blood of the Fair Folk"/>
-<label key="key:620796506:54354734" value="Drinking this draught restores your power when used."/>
-<label key="key:620796506:98907573" value="Vials o Blood of the Fair Folk"/>
-<label key="key:620796508:54354734" value="Drinking this draught restores your power when used."/>
-<label key="key:620796508:98907573" value="Vials of Fresh Blood of the Fair Folk"/>
-<label key="key:620796510:54354734" value="When you need to move swiftly, this potion will speed you along. Can only be used out of combat."/>
-<label key="key:620796510:98907573" value="Draughts of Troll Bile"/>
-<label key="key:620796511:54354734" value="When you need to move swiftly, this potion will speed you along. Can only be used out of combat."/>
-<label key="key:620796511:98907573" value="Draughts of War Tyrant Spittle"/>
-<label key="key:620796512:54354734" value="When you need to move swiftly, this potion will speed you along. Can only be used out of combat."/>
-<label key="key:620796512:98907573" value="Draughts of Mordirith's Ire"/>
-<label key="key:620796513:54354734" value="Adds some protection against fear effects."/>
-<label key="key:620796513:98907573" value="Phials of Mazauk's Saliva"/>
-<label key="key:620796515:54354734" value="Adds some protection against fear effects."/>
-<label key="key:620796515:98907573" value="Phials of Mazauk's Blood"/>
-<label key="key:620796517:54354734" value="Adds some protection against poison effects."/>
-<label key="key:620796517:98907573" value="Phials of Gorgoris' Bile"/>
-<label key="key:620796519:54354734" value="Adds some protection against poison effects."/>
-<label key="key:620796519:98907573" value="Phials of Gorgoris' Blood"/>
-<label key="key:620796521:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796521:98907573" value="Akúlhun's Brands of the Tracker"/>
-<label key="key:620796522:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796522:98907573" value="Akúlhun's Brands of the Lieutenant"/>
-<label key="key:620796523:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796523:98907573" value="Akúlhun's Brands of the Commander"/>
-<label key="key:620796524:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796524:98907573" value="Akúlhun's Brands of the Chieftain"/>
-<label key="key:620796525:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796525:98907573" value="Akúlhun's Brands of the High Chieftain"/>
-<label key="key:620796526:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796526:98907573" value="Akúlhun's Brands of the Overlord"/>
-<label key="key:620796527:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states for a short time and dispels current negative effects. This brand can be used while in combat."/>
-<label key="key:620796527:98907573" value="Akúlhun's Brands of the Tyrant"/>
-<label key="key:620796528:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796528:98907573" value="Akúlhun's Brands of the Scout"/>
-<label key="key:620796529:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796529:98907573" value="Akúlhun's Brands of the Skirmisher"/>
-<label key="key:620796530:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796530:98907573" value="Akúlhun's Brands of the Fighter"/>
-<label key="key:620796531:54354734" value="The smell from this vial is enough to drop an eagle from a Stone-troll. It will surely free you from a stun or daze."/>
-<label key="key:620796531:98907573" value="Vials of Gundzor's Breath"/>
-<label key="key:620796532:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796532:98907573" value="Akúlhun's Brands of the Soldier"/>
-<label key="key:620796533:54354734" value="Removes a fear effect."/>
-<label key="key:620796533:98907573" value="Phials of Mazauk's Resolve"/>
-<label key="key:620796534:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796534:98907573" value="Akúlhun's Brands of the Sentry"/>
-<label key="key:620796535:54354734" value="Removes a poison effect."/>
-<label key="key:620796535:98907573" value="Phials of Gorgoris' Kiss"/>
-<label key="key:620796536:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796536:98907573" value="Akúlhun's Brands of the Chief Guard"/>
-<label key="key:620796537:54354734" value="Bottled troll strength, only good for the legs. Helps you break free of roots."/>
-<label key="key:620796537:98907573" value="Vials of Gundzor's Strength"/>
-<label key="key:620796538:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796538:98907573" value="Akúlhun's Brands of the Chief Warrior"/>
-<label key="key:620796539:98907573" value="Shanks of Steamed Leg of Man"/>
-<label key="key:620796540:54354734" value="Akúlhun's Brand provides an immunity to incoming negative combat states, but only for a short time and only when out of combat."/>
-<label key="key:620796540:98907573" value="Akúlhun's Brands of the Taskmaster"/>
-<label key="key:620796541:98907573" value="Shanks of Charred and Crusted Leg of Man"/>
-<label key="key:620796542:98907573" value="Shanks of Marinated  Leg of Man"/>
-<label key="key:620796547:98907573" value="Bowls of Gukthor's Stew"/>
-<label key="key:620796548:98907573" value="Bowls of Gukthor's Seasoned Gruel"/>
-<label key="key:620796549:98907573" value="Bowls of Gukthor's Gruel Surprise"/>
-<label key="key:620796551:98907573" value="Servings of Elf Ear Chew"/>
-<label key="key:620796553:98907573" value="Servings of Charred Elf Ear Surprise"/>
-<label key="key:620796555:98907573" value="Servings of Dried Elf Ear jerky"/>
-<label key="key:620796557:98907573" value="Heapings of Seasoned Toes"/>
-<label key="key:620796559:98907573" value="Heapings of Boiled Little Folk Toes"/>
-<label key="key:620796561:98907573" value="Heapings of Grothum's Own Little Folk Toes"/>
-<label key="key:620796562:54354734" value="Drinking this potion increases the sturdiness of your flesh for some time."/>
-<label key="key:620796562:98907573" value="Vials of Aged Blood of the Stone Folk"/>
-<label key="key:620796563:54354734" value="Drinking this potion increases the sturdiness of your flesh for some time."/>
-<label key="key:620796563:98907573" value="Vials of Blood of the Stone Folk"/>
-<label key="key:620796564:54354734" value="Drinking this potion increases the sturdiness of your flesh for some time."/>
-<label key="key:620796564:98907573" value="Vials of Fresh Blood of the Stone Folk"/>
-<label key="key:620796565:54354734" value="Drinking this potion increases your nimbleness for some time."/>
-<label key="key:620796565:98907573" value="Vials of Aged Blood of the Little Folk"/>
-<label key="key:620796566:54354734" value="Drinking this potion increases your nimbleness for some time."/>
-<label key="key:620796566:98907573" value="Vials of Blood of the Little Folk"/>
-<label key="key:620796567:54354734" value="Drinking this potion increases your nimbleness for some time."/>
-<label key="key:620796567:98907573" value="Vials of Fresh Blood of the Little Folk"/>
-<label key="key:620796568:54354734" value="Drinking this draught restores your health when used."/>
-<label key="key:620796568:98907573" value="Vials of Aged Blood of Man"/>
-<label key="key:620796574:54354734" value="An item granting the racial trait Front-line Fodder, usable only by orcs."/>
-<label key="key:620796575:54354734" value="An item granting the racial trait Rage of the Misbegotten, usable only by orcs."/>
-<label key="key:620796576:54354734" value="An item granting the racial trait Warrior Against the Deep, usable only by orcs."/>
-<label key="key:620796577:54354734" value="An item granting the racial trait Tireless Warrior, usable only by orcs."/>
-<label key="key:620796578:54354734" value="An item granting the racial trait Flayer of Flesh, usable only by orcs."/>
-<label key="key:620796579:54354734" value="An item granting the racial skill Blood of Fire, usable only by orcs."/>
-<label key="key:620796580:54354734" value="An item granting the racial skill Undying Rage, usable only by orcs."/>
-<label key="key:620796581:54354734" value="An item granting the racial trait Eight-legged Foe, usable only by spiders."/>
-<label key="key:620796582:54354734" value="An item granting the racial trait Swallower of Light, usable only by spiders."/>
-<label key="key:620796583:54354734" value="An item granting the racial trait Ancient as the Stars, usable only by spiders."/>
-<label key="key:620796584:54354734" value="An item granting the racial trait Enemy of the First Children, usable only by spiders."/>
-<label key="key:620796585:54354734" value="An item granting the racial trait Drinker of Blood, usable only by spiders."/>
-<label key="key:620796586:54354734" value="An item granting the racial skill Born of Shadow, usable only by spiders."/>
-<label key="key:620796587:54354734" value="An item granting the racial skill Shelob's Gift, usable only by spiders."/>
-<label key="key:620796588:54354734" value="An item granting the racial trait New Breed, usable only by uruks."/>
-<label key="key:620796589:54354734" value="An item granting the racial trait Leaders of the Orcs, usable only by uruks."/>
-<label key="key:620796590:54354734" value="An item granting the racial trait Favoured Servant of the Dark, usable only by uruks."/>
-<label key="key:620796591:54354734" value="An item granting the racial trait Tireless Warrior, usable only by uruks."/>
-<label key="key:620796592:54354734" value="An item granting the racial trait Brutal Persuasion, usable only by uruks."/>
-<label key="key:620796593:54354734" value="An item granting the racial skill Imposing Presence, usable only by uruks."/>
-<label key="key:620796594:54354734" value="An item granting the racial skill Get a Grip!, usable only by uruks."/>
-<label key="key:620796595:54354734" value="An item granting the racial trait Four-legged Foe, only usable by wargs."/>
-<label key="key:620796596:54354734" value="An item granting the racial trait Pack Mentality, only usable by wargs."/>
-<label key="key:620796597:54354734" value="An item granting the racial trait Pack Elder, only usable by wargs."/>
-<label key="key:620796598:54354734" value="An item granting the racial trait Foe of the Light, only usable by wargs."/>
-<label key="key:620796599:54354734" value="An item granting the racial trait Pack Alpha, only usable by wargs."/>
-<label key="key:620796600:54354734" value="An item granting the racial skill Pack Hunters, usable only by wargs."/>
-<label key="key:620796601:54354734" value="An item granting the racial skill Eyes of Unnerving, usable only by wargs."/>
+<label key="key:620796494:54354734" value="Это зелье восстанавливает здоровье."/>
+<label key="key:620796494:98907573" value="Человечья кровь"/>
+<label key="key:620796498:54354734" value="Это зелье восстанавливает здоровье."/>
+<label key="key:620796498:98907573" value="Свежая человечья кровь"/>
+<label key="key:620796502:54354734" value="Если вы выпьете эту микстуру, ваша энергия восстановится."/>
+<label key="key:620796502:98907573" value="Выдержанная кровь дивного народа"/>
+<label key="key:620796506:54354734" value="Если вы выпьете эту микстуру, ваша энергия восстановится."/>
+<label key="key:620796506:98907573" value="Кровь дивного народа"/>
+<label key="key:620796508:54354734" value="Если вы выпьете эту микстуру, ваша энергия восстановится."/>
+<label key="key:620796508:98907573" value="Свежая кровь дивного народа"/>
+<label key="key:620796510:54354734" value="Это зелье повышает скорость передвижения. Можно использовать только вне боя."/>
+<label key="key:620796510:98907573" value="Зелья из желчи тролля"/>
+<label key="key:620796511:54354734" value="Это зелье повышает скорость передвижения. Можно использовать только вне боя."/>
+<label key="key:620796511:98907573" value="Зелья из плевков боевого тирана"/>
+<label key="key:620796512:54354734" value="Это зелье повышает скорость передвижения. Можно использовать только вне боя."/>
+<label key="key:620796512:98907573" value="Зелья ярости Мордирита"/>
+<label key="key:620796513:54354734" value="Повышает защиту от страха."/>
+<label key="key:620796513:98907573" value="Флаконы слюны Мазаука"/>
+<label key="key:620796515:54354734" value="Повышает защиту от страха."/>
+<label key="key:620796515:98907573" value="Флаконы крови Мазаука"/>
+<label key="key:620796517:54354734" value="Повышает защиту от яда."/>
+<label key="key:620796517:98907573" value="Флаконы желчи Горгорис"/>
+<label key="key:620796519:54354734" value="Повышает защиту от яда."/>
+<label key="key:620796519:98907573" value="Флаконы крови Горгорис"/>
+<label key="key:620796521:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796521:98907573" value="Печати ищейки Акулуна"/>
+<label key="key:620796522:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796522:98907573" value="Печати лейтенанта Акулуна"/>
+<label key="key:620796523:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796523:98907573" value="Печати командира Акулуна"/>
+<label key="key:620796524:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796524:98907573" value="Печати военного вожака Акулуна"/>
+<label key="key:620796525:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796525:98907573" value="Печати верховного вожака Акулуна"/>
+<label key="key:620796526:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796526:98907573" value="Печати властелина Акулуна"/>
+<label key="key:620796527:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, и снимает уже наложенные эффекты этого типа. Печать можно применять в бою."/>
+<label key="key:620796527:98907573" value="Печати тирана Акулуна"/>
+<label key="key:620796528:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796528:98907573" value="Печати лазутчика Акулуна"/>
+<label key="key:620796529:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796529:98907573" value="Печати застрельщика Акулуна"/>
+<label key="key:620796530:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796530:98907573" value="Печати воина Акулуна"/>
+<label key="key:620796531:54354734" value="Запах из этого флакона может свалить даже орла с макушки каменного тролля. Он мигом приведет вас в чувство, если вас оглушат или ошеломят."/>
+<label key="key:620796531:98907573" value="Флаконы с дыханием Гандзора"/>
+<label key="key:620796532:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796532:98907573" value="Печати бойца Акулуна"/>
+<label key="key:620796533:54354734" value="Снимает один эффект страха."/>
+<label key="key:620796533:98907573" value="Флаконы с решимостью Мазаука"/>
+<label key="key:620796534:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796534:98907573" value="Печати стража Акулуна"/>
+<label key="key:620796535:54354734" value="Снимает один эффект яда."/>
+<label key="key:620796535:98907573" value="Флаконы с поцелуями Горгорис"/>
+<label key="key:620796536:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796536:98907573" value="Печати старшего стража Акулуна"/>
+<label key="key:620796537:54354734" value="Сила тролля укрепит ваши ноги и поможет вырваться из корней."/>
+<label key="key:620796537:98907573" value="Флаконы с силой Бурзгота"/>
+<label key="key:620796538:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796538:98907573" value="Печати воителя Акулуна"/>
+<label key="key:620796539:98907573" value="Копченые человечьи ноги"/>
+<label key="key:620796540:54354734" value="Печать Акулуна защищает вас от негативных воздействий, временно выводящих из строя, но лишь на короткое время и только вне боя."/>
+<label key="key:620796540:98907573" value="Печати надсмотрщика Акулуна"/>
+<label key="key:620796541:98907573" value="Жареные хрустящие человечьи ноги"/>
+<label key="key:620796542:98907573" value="Маринованные человечьи ноги"/>
+<label key="key:620796547:98907573" value="Миски похлебки Гуктора"/>
+<label key="key:620796548:98907573" value="Миски приправленной похлебки Гуктора"/>
+<label key="key:620796549:98907573" value="Миски с похлебкой-сюрпризом Гуктора"/>
+<label key="key:620796551:98907573" value="Приготовленные эльфийские уши"/>
+<label key="key:620796553:98907573" value="Жареные эльфийские уши"/>
+<label key="key:620796555:98907573" value="Вяленые эльфийские уши"/>
+<label key="key:620796557:98907573" value="Вяленые пальчики"/>
+<label key="key:620796559:98907573" value="Вареные пальчики полуросликов"/>
+<label key="key:620796561:98907573" value="Пальчики полуросликов из запасов Гротума"/>
+<label key="key:620796562:54354734" value="Этот эликсир на некоторое время делает плоть крепче."/>
+<label key="key:620796562:98907573" value="Выдержанная кровь каменного народа"/>
+<label key="key:620796563:54354734" value="Этот эликсир на некоторое время делает плоть крепче."/>
+<label key="key:620796563:98907573" value="Кровь каменного народа"/>
+<label key="key:620796564:54354734" value="Этот эликсир на некоторое время делает плоть крепче."/>
+<label key="key:620796564:98907573" value="Свежая кровь каменного народа"/>
+<label key="key:620796565:54354734" value="Этот эликсир на некоторое время повышает ловкость."/>
+<label key="key:620796565:98907573" value="Выдержанная кровь полуросликов"/>
+<label key="key:620796566:54354734" value="Этот эликсир на некоторое время повышает ловкость."/>
+<label key="key:620796566:98907573" value="Кровь полуросликов"/>
+<label key="key:620796567:54354734" value="Этот эликсир на некоторое время повышает ловкость."/>
+<label key="key:620796567:98907573" value="Свежая кровь полуросликов"/>
+<label key="key:620796568:54354734" value="Это зелье восстанавливает здоровье."/>
+<label key="key:620796568:98907573" value="Выдержанная человечья кровь"/>
+<label key="key:620796574:54354734" value="Предмет, дарующий расовый талант 'Боец из первых рядов'. Только для орков."/>
+<label key="key:620796575:54354734" value="Предмет, дарующий расовый талант 'Ярость презренных'. Только для орков."/>
+<label key="key:620796576:54354734" value="Предмет, дарующий расовый талант 'Борец с бездной'. Только для орков."/>
+<label key="key:620796577:54354734" value="Предмет, дарующий расовый талант 'Неутомимый воин'. Только для орков."/>
+<label key="key:620796578:54354734" value="Предмет, дарующий расовый талант 'Раздирающий плоть'. Только для орков."/>
+<label key="key:620796579:54354734" value="Предмет, дарующий расовое умение 'Огонь в крови'. Только для орков."/>
+<label key="key:620796580:54354734" value="Предмет, дарующий расовое умение 'Неугасимый гнев'. Только для орков."/>
+<label key="key:620796581:54354734" value="Предмет, дарующий расовый талант 'Восьминогий враг'. Только для паучих."/>
+<label key="key:620796582:54354734" value="Предмет, дарующий расовый талант 'Пожиратель Света'. Только для паучих."/>
+<label key="key:620796583:54354734" value="Предмет, дарующий расовый талант 'Древний как звезды'. Только для паучих."/>
+<label key="key:620796584:54354734" value="Предмет, дарующий расовый талант 'Враг перворожденных'. Только для паучих."/>
+<label key="key:620796585:54354734" value="Предмет, дарующий расовый талант 'Кровопийца'. Только для паучих."/>
+<label key="key:620796586:54354734" value="Предмет, дарующий расовое умение 'Порождение Тьмы'. Только для паучих."/>
+<label key="key:620796587:54354734" value="Предмет, дарующий расовое умение 'Дар Шелоб'. Только для паучих."/>
+<label key="key:620796588:54354734" value="Предмет, дарующий расовый талант 'Новое племя'. Только для уруков."/>
+<label key="key:620796589:54354734" value="Предмет, дарующий расовый талант 'Вожди орков'. Только для уруков."/>
+<label key="key:620796590:54354734" value="Предмет, дарующий расовый талант 'Любимый слуга Тьмы'. Только для уруков."/>
+<label key="key:620796591:54354734" value="Предмет, дарующий расовый талант 'Неутомимый воин'. Только для уруков."/>
+<label key="key:620796592:54354734" value="Предмет, дарующий расовый талант 'Силовое убеждение'. Только для уруков."/>
+<label key="key:620796593:54354734" value="Предмет, дарующий расовое умение 'Присутствие вожака'. Только для уруков."/>
+<label key="key:620796594:54354734" value="Предмет, дарующий расовое умение 'А ну, за дело!'. Только для уруков."/>
+<label key="key:620796595:54354734" value="Предмет, дарующий расовый талант 'Четвероногий враг'. Только для варгов."/>
+<label key="key:620796596:54354734" value="Предмет, дарующий расовый талант 'Стайное мышление'. Только для варгов."/>
+<label key="key:620796597:54354734" value="Предмет, дарующий расовый талант 'Матерый хищник'. Только для варгов."/>
+<label key="key:620796598:54354734" value="Предмет, дарующий расовый талант 'Четвероногий враг'. Только для варгов."/>
+<label key="key:620796599:54354734" value="Предмет, дарующий расовый талант 'Вожак стаи'. Только для варгов."/>
+<label key="key:620796600:54354734" value="Предмет, дарующий расовое умение 'Охота в стае'. Только для варгов."/>
+<label key="key:620796601:54354734" value="Предмет, дарующий расовое умение 'Ужасающий взгляд'. Только для варгов."/>
 <label key="key:620796617:54354734" value="Топор, дарованный вам Защитниками Эриадора за помощь в защите Средиземья."/>
 <label key="key:620796618:54354734" value="Топор, дарованный вам Защитниками Эриадора за помощь в защите Средиземья."/>
 <label key="key:620796619:54354734" value="Топор, дарованный вам Защитниками Эриадора за помощь в защите Средиземья."/>
@@ -34819,85 +34819,85 @@
 <label key="key:620800011:98907573" value="Странный куриный насест"/>
 <label key="key:620800012:54354734" value="Несколько странное место для куриного насеста..."/>
 <label key="key:620800012:98907573" value="Странный куриный насест"/>
-<label key="key:620800144:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
-<label key="key:620800145:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
-<label key="key:620800146:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
-<label key="key:620800147:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
-<label key="key:620800148:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
-<label key="key:620800149:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
-<label key="key:620800150:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
-<label key="key:620800151:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
-<label key="key:620800152:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
-<label key="key:620800153:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
-<label key="key:620800154:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
-<label key="key:620800155:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
-<label key="key:620800156:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
-<label key="key:620800157:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
-<label key="key:620800158:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
-<label key="key:620800159:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
-<label key="key:620800160:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
-<label key="key:620800173:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
-<label key="key:620800174:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
-<label key="key:620800175:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
-<label key="key:620800176:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
-<label key="key:620800177:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
-<label key="key:620800178:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
-<label key="key:620800179:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
-<label key="key:620800180:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
-<label key="key:620800181:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
-<label key="key:620800182:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
-<label key="key:620800183:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
-<label key="key:620800184:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
-<label key="key:620800185:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
-<label key="key:620800186:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
-<label key="key:620800187:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
-<label key="key:620800188:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
-<label key="key:620800189:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
-<label key="key:620800190:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
-<label key="key:620800191:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
-<label key="key:620800192:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
-<label key="key:620800193:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
-<label key="key:620800194:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
-<label key="key:620800195:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
-<label key="key:620800196:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
-<label key="key:620800197:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
-<label key="key:620800198:54354734" value="Essence of Athelas recovers your morale when used."/>
-<label key="key:620800198:98907573" value="Enhanced Essence of Athelas"/>
-<label key="key:620800200:54354734" value="Essence of Athelas recovers your morale when used."/>
-<label key="key:620800200:98907573" value="Concentrated Essence of Athelas"/>
-<label key="key:620800202:54354734" value="Elixir of Athelas recovers your morale when used."/>
-<label key="key:620800202:98907573" value="Elixirs of Twice Purified Athelas"/>
-<label key="key:620800204:54354734" value="The Celebrant Water recovers your power when used."/>
-<label key="key:620800204:98907573" value="Enhanced Celebrant Waters"/>
-<label key="key:620800206:54354734" value="The Celebrant Water recovers your power when used."/>
-<label key="key:620800206:98907573" value="Concentrated Celebrant Waters"/>
-<label key="key:620800208:54354734" value="The Celebrant Water recovers your power when used."/>
-<label key="key:620800208:98907573" value="Elixirs of Twice Purified Celebrant"/>
-<label key="key:620800211:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800223:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800224:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800225:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800226:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800227:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800228:54354734" value="This item dispels current negative combat states and provides an immunity to incoming negative combat states for the amount of time specified. This insignia can be used when in combat."/>
-<label key="key:620800229:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800230:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800231:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800232:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800233:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800234:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800235:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620800236:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620809118:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
-<label key="key:620809118:98907573" value="..."/>
-<label key="key:620809119:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
-<label key="key:620809119:98907573" value="..."/>
-<label key="key:620809120:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
-<label key="key:620809120:98907573" value="..."/>
-<label key="key:620809121:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
-<label key="key:620809121:98907573" value="..."/>
-<label key="key:620809123:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
-<label key="key:620809123:98907573" value="..."/>
-<label key="key:620809124:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
-<label key="key:620809124:98907573" value="..."/>
+<label key="key:620800144:54354734" value="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре."/>
+<label key="key:620800145:54354734" value="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре."/>
+<label key="key:620800146:54354734" value="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре."/>
+<label key="key:620800147:54354734" value="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре."/>
+<label key="key:620800148:54354734" value="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре."/>
+<label key="key:620800149:54354734" value="Эти доспехи были выкованы для воина Серых Гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы."/>
+<label key="key:620800150:54354734" value="Эти доспехи были выкованы для воина Серых Гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы."/>
+<label key="key:620800151:54354734" value="Эти доспехи были выкованы для воина Серых Гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы."/>
+<label key="key:620800152:54354734" value="Эти доспехи были выкованы для воина Серых Гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы."/>
+<label key="key:620800153:54354734" value="Эти доспехи были выкованы для воина Серых Гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы."/>
+<label key="key:620800154:54354734" value="Эти доспехи были выкованы для воина Серых Гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы."/>
+<label key="key:620800155:54354734" value="Этот нагрудник был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера."/>
+<label key="key:620800156:54354734" value="Этот нагрудник был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера."/>
+<label key="key:620800157:54354734" value="Этот нагрудник был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера."/>
+<label key="key:620800158:54354734" value="Этот нагрудник был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера."/>
+<label key="key:620800159:54354734" value="Этот нагрудник был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера."/>
+<label key="key:620800160:54354734" value="Этот нагрудник был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера."/>
+<label key="key:620800173:54354734" value="Эта мантия - символ древней мудрости эльфов. На ней изображено отплытие на Запад."/>
+<label key="key:620800174:54354734" value="Эта мантия - символ древней мудрости эльфов. На ней изображено отплытие на Запад."/>
+<label key="key:620800175:54354734" value="Эта мантия - символ древней мудрости эльфов. На ней изображено отплытие на Запад."/>
+<label key="key:620800176:54354734" value="Эта мантия - символ древней мудрости эльфов. На ней изображено отплытие на Запад."/>
+<label key="key:620800177:54354734" value="Эта мантия - символ древней мудрости эльфов. На ней изображено отплытие на Запад."/>
+<label key="key:620800178:54354734" value="Эта мантия - символ древней мудрости эльфов. На ней изображено отплытие на Запад."/>
+<label key="key:620800179:54354734" value="Эта прекрасная мантия, украшенная бериллами - 'эльфийскими камнями', была изготовлена для одного прославленного барда."/>
+<label key="key:620800180:54354734" value="Эта прекрасная мантия, украшенная бериллами - 'эльфийскими камнями', была изготовлена для одного прославленного барда."/>
+<label key="key:620800181:54354734" value="Эта прекрасная мантия, украшенная бериллами - 'эльфийскими камнями', была изготовлена для одного прославленного барда."/>
+<label key="key:620800182:54354734" value="Эта прекрасная мантия, украшенная бериллами - 'эльфийскими камнями', была изготовлена для одного прославленного барда."/>
+<label key="key:620800183:54354734" value="Эта прекрасная мантия, украшенная бериллами - 'эльфийскими камнями', была изготовлена для одного прославленного барда."/>
+<label key="key:620800184:54354734" value="Эта прекрасная мантия, украшенная бериллами - 'эльфийскими камнями', была изготовлена для одного прославленного барда."/>
+<label key="key:620800185:54354734" value="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры."/>
+<label key="key:620800186:54354734" value="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры."/>
+<label key="key:620800187:54354734" value="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры."/>
+<label key="key:620800188:54354734" value="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры."/>
+<label key="key:620800189:54354734" value="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры."/>
+<label key="key:620800190:54354734" value="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры."/>
+<label key="key:620800191:54354734" value="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло."/>
+<label key="key:620800192:54354734" value="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло."/>
+<label key="key:620800193:54354734" value="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло."/>
+<label key="key:620800194:54354734" value="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло."/>
+<label key="key:620800195:54354734" value="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло."/>
+<label key="key:620800196:54354734" value="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло."/>
+<label key="key:620800197:54354734" value="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре."/>
+<label key="key:620800198:54354734" value="Настойка ателас восстанавливает боевой дух."/>
+<label key="key:620800198:98907573" value="Улучшенная настойка ателас"/>
+<label key="key:620800200:54354734" value="Настойка ателас восстанавливает боевой дух."/>
+<label key="key:620800200:98907573" value="Концентрированная настойка ателас"/>
+<label key="key:620800202:54354734" value="Эликсир ателас восстанавливает боевой дух."/>
+<label key="key:620800202:98907573" value="Эликсиры ателас двойной очистки"/>
+<label key="key:620800204:54354734" value="Вода Келебранта восстанавливает энергию."/>
+<label key="key:620800204:98907573" value="Улучшенная вода Келебранта"/>
+<label key="key:620800206:54354734" value="Вода Келебранта восстанавливает энергию."/>
+<label key="key:620800206:98907573" value="Концентрированная вода Келебранта"/>
+<label key="key:620800208:54354734" value="Вода Келебранта восстанавливает энергию."/>
+<label key="key:620800208:98907573" value="Эликсиры Келебранта двойной очистки"/>
+<label key="key:620800211:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800223:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800224:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800225:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800226:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800227:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800228:54354734" value="Этот предмет выводит вас из действующего негативного состояния и на некоторое время дарует вам невосприимчивость к последующим негативным боевым состояниям. Его можно использовать в бою."/>
+<label key="key:620800229:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800230:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800231:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800232:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800233:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800234:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800235:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620800236:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
+<label key="key:620809118:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
+<label key="key:620809118:98907573" value=""/>
+<label key="key:620809119:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
+<label key="key:620809119:98907573" value=""/>
+<label key="key:620809120:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
+<label key="key:620809120:98907573" value=""/>
+<label key="key:620809121:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
+<label key="key:620809121:98907573" value=""/>
+<label key="key:620809123:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
+<label key="key:620809123:98907573" value=""/>
+<label key="key:620809124:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
+<label key="key:620809124:98907573" value=""/>
 </labels>

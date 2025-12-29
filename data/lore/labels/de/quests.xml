@@ -236,8 +236,8 @@
 <label key="1879048602" value="Buch VII, Kapitel 1: Im Schatten verborgen"/>
 <label key="1879048603" value="Kapitel 2: Das Durchqueren des Schattens"/>
 <label key="1879048604" value="Kapitel 8: Die Tore von Carn Dûm"/>
-<label key="1879048606" value="Chapter 5: Mordirith's Fall"/>
-<label key="1879048607" value="Chapter 6: A Watchful Eye"/>
+<label key="1879048606" value="Kapitel 5: Mordiriths Untergang"/>
+<label key="1879048607" value="Kapitel 6: Ein wachsames Auge"/>
 <label key="1879048609" value="Die Drachenbrut"/>
 <label key="1879048611" value="Die Königin der Morroval"/>
 <label key="1879048612" value="Die geflügelten Heerscharen"/>
@@ -1078,7 +1078,7 @@
 <label key="1879082472" value="Das Schwert des Massakers"/>
 <label key="1879082473" value="Das Schwert des Leides"/>
 <label key="1879082474" value="Das Schwert der Mahnwache"/>
-<label key="1879082475" value="The Sword of Twilight"/>
+<label key="1879082475" value="Das Schwert der Dämmerung"/>
 <label key="1879082592" value="Edelstein-Jäger"/>
 <label key="1879082593" value="Verborgene Edelsteine"/>
 <label key="1879082594" value="Schürfer von Angmar"/>
@@ -1119,7 +1119,7 @@
 <label key="1879083044" value="Löcher stopfen"/>
 <label key="1879083066" value="Gorgoris die Fürsorgliche"/>
 <label key="1879083071" value="Erstürmung der Burg"/>
-<label key="1879083090" value="Carving Out Hearts"/>
+<label key="1879083090" value="Kernholz schneiden"/>
 <label key="1879083091" value="Festzurren der Wände"/>
 <label key="1879083092" value="Kriegswaffen"/>
 <label key="1879083093" value="Große Dinger"/>
@@ -1311,7 +1311,7 @@
 <label key="1879088765" value="Die Ruine der Feste Ringdyr"/>
 <label key="1879088766" value="Geschenke aus Weißsenke"/>
 <label key="1879088768" value="Hilfe von den Goldenen Bären"/>
-<label key="1879088773" value="Golloval of the Golden Eagles"/>
+<label key="1879088773" value="Golloval von den Goldenen Adlern"/>
 <label key="1879088815" value="Instanz: Eine formelle Beschwerde"/>
 <label key="1879088828" value="Kapitel 4: Reise nach Schlucht"/>
 <label key="1879088829" value="Kapitel 4: Reise nach Gondamon"/>
@@ -1464,7 +1464,7 @@
 <label key="1879092384" value="Studien des Unbekannten: Einleitung"/>
 <label key="1879092385" value="Studien des Unbekannten"/>
 <label key="1879092386" value="Von den allertiefsten Geheimnissen: Einleitung"/>
-<label key="1879092387" value="Of Mysteries Most Profound"/>
+<label key="1879092387" value="Von den allertiefsten Geheimnissen: Einleitung"/>
 <label key="1879092388" value="Elbenrelikte - Einführung"/>
 <label key="1879092389" value="Elbenrelikte"/>
 <label key="1879092439" value="Grabräuber-Schärpen - Einleitung"/>
@@ -1551,7 +1551,7 @@
 <label key="1879093514" value="Trolle in den Ettenöden"/>
 <label key="1879093515" value="Trolle in den Ettenöden"/>
 <label key="1879093761" value="Holt die Truppen in den Grimmwald."/>
-<label key="1879093762" value="Get the Troops to the Isendeep"/>
+<label key="1879093762" value="Holt die Truppen zur Isenbinge."/>
 <label key="1879093763" value="Holt die Truppen zum Lugazag."/>
 <label key="1879093764" value="Holt die Truppen zum Tirith Rhaw."/>
 <label key="1879093837" value="Instanz: Der Kopfgeldjäger"/>
@@ -1652,8 +1652,8 @@
 <label key="1879095691" value="Kostbares Kernholz"/>
 <label key="1879095696" value="Gegen das Rudel"/>
 <label key="1879095804" value="Bert, Tom und Bill"/>
-<label key="1879097059" value="Way of the Pack"/>
-<label key="1879097103" value="Eliminating the Trail"/>
+<label key="1879097059" value="Der Pfad des Rudels"/>
+<label key="1879097103" value="Spuren verwischen"/>
 <label key="1879097106" value="Vor Kälte erstarrt"/>
 <label key="1879097218" value="Thorgests letzte Hoffnung"/>
 <label key="1879097283" value="Rift Hub Vector"/>
@@ -5615,16 +5615,16 @@
 <label key="key:620759536:54354734" value="Ein abgerichteter Falke ist in Bruchtal angekommen. Er hat für Aragorn, den Anführer der Waldläufer, eine beunruhigende Nachricht aus dem verborgenen Waldläuferlager in Esteldín mitgebracht."/>
 <label key="key:620759536:63183937" value="'Warum verweilt Ihr hier? Begebt Euch nach Esteldín in den Nordhöhen und sprecht mit meinem Stammesbruder Daervunn.'"/>
 <label key="key:620759536:94621393" value="Esteldín liegt in den Nordhöhen, weit im Nordwesten von Bruchtal.&#10;&#10;Aragorn hat Euch gebeten, für ihn nach Esteldín zu reisen und mit Daervunn zu sprechen, von dem er hofft, dass er mehr über die beunruhigende Nachricht sagen kann."/>
-<label key="key:620759537:218649169" value="'This victory is an important one, though I believe it is but a reprieve from the onslaught of the Enemy. Nevertheless, news of our victory must be brought to my chieftain, Aragorn.&#10;&#10;'You have met him then? He is at Rivendell? Go, then, and speak with my Lord Aragorn and tell him of the False King's defeat.'"/>
-<label key="key:620759537:218649170" value="'So Golodir did not perish, and the Shadow of Angmar is, for the moment, vanquished. I am of a mind with Golodir -- if Mordirith does not himself return, and in greater power, I deem another Shadow of the Enemy will take his place.&#10;&#10;'Still, your efforts were valiant and deserving of praise, ${PLAYER}. Your name will not be forgotten by the Dúnedain of the North.'"/>
-<label key="key:620759537:228870261" value="Chapter 6: A Watchful Eye"/>
-<label key="key:620759537:54354734" value="With Golodir's aid, you defeated Mordirith, the Steward of Angmar, and Lorniel was avenged. Golodir, though, is not hopeful that Mordirith will remain lost."/>
-<label key="key:620759537:63183937" value="'Aragorn must learn of our victory againt the False King. Go to Rivendell and speak with him.'"/>
-<label key="key:620759537:63183938" value="'Thank you for bringing me back to the realm of the living, ${PLAYER}. My grief is not now so terrible.'"/>
-<label key="key:620759537:63183939" value="'Mordirith has been defeated, but only for a time. Still, it is a reprieve.'"/>
-<label key="key:620759537:63183940" value="'Angmar has been hindered for the moment, thanks to you.'"/>
-<label key="key:620759537:63183941" value="'Thank you for returning Golodir to us, my friend.'"/>
-<label key="key:620759537:94621393" value="Aragorn is at Rivendell in the Trollshaws.&#10;&#10;Golodir instructed you to take word of Mordirith's defeat to his chieftain, Aragorn."/>
+<label key="key:620759537:218649169" value="Dieser Sieg ist wichtig, auch wenn ich glaube, dass er uns nur eine Atempause vor dem Ansturm des Feindes verschafft. Nichtsdestotrotz muss die Nachricht von unserem Sieg meinem Häuptling Aragorn überbracht werden.&#10;&#10;'Du hast ihn also getroffen? Er ist in Bruchtal? Dann geh und sprich mit meinem Herrn Aragorn und berichte ihm von der Niederlage des Falschen Königs.'"/>
+<label key="key:620759537:218649170" value="Golodir ist also nicht gefallen, und der Schatten von Angmar ist für den Moment besiegt. Ich bin mit Golodir einer Meinung - wenn Mordirith nicht selbst zurückkehrt, und zwar mit größerer Macht, wird ein anderer Schatten des Feindes seinen Platz einnehmen.&#10;&#10;'Dennoch war dein Einsatz tapfer und verdient Anerkennung, ${PLAYER}. Dein Name wird von den Dúnedain des Nordens niemals vergessen werden.'"/>
+<label key="key:620759537:228870261" value="Kapitel 6: Ein wachsames Auge"/>
+<label key="key:620759537:54354734" value="Mit Golodirs Hilfe konntet Ihr Mordirith, den Truchsess von Angmar, sehr schwächen und Lorniel rächen."/>
+<label key="key:620759537:63183937" value="'Aragorn muss von unserem Sieg über den Falschen König erfahren. Begebt Euch nach Bruchtal und sprecht mit ihm.'"/>
+<label key="key:620759537:63183938" value="'Habt Dank, dass Ihr mich ins Reich der Lebenden zurückgebracht habt, ${PLAYER}. Meine Trauer überwältigt mich nun nicht mehr.'"/>
+<label key="key:620759537:63183939" value="'Mordirith ist besiegt, doch nur für den Moment. Und doch haben wir uns so eine Atempause verschafft.'"/>
+<label key="key:620759537:63183940" value="'Angmar ist vorerst aufgehalten worden, dank Eurer Hilfe.'"/>
+<label key="key:620759537:63183941" value="'Habt Dank, dass Ihr uns Golodir zurückgebracht habt.'"/>
+<label key="key:620759537:94621393" value="Aragorn ist in Bruchtal in den Trollhhöhen.&#10;&#10;Golodir hat dich beauftragt, seinem Häuptling Aragorn die Nachricht von Mordiriths Niederlage zu überbringen."/>
 <label key="key:620759539:218649169" value="Als Ihr ein wenig Dreck von der Armkette reibt, entdeckt Ihr die folgende Gravur: \qDírdrë.\q Vielleicht erkennt jemand in Gath Forthnír die Armkette oder den eingravierten Namen."/>
 <label key="key:620759539:218649170" value="'Das stammt nicht aus Zwergenhand, so viel kann ich Euch sagen. Und auch nicht von den Elben. Ein wenig primitiv, wie ich finde. Ich kann aber nicht sagen, woher es stammt.'"/>
 <label key="key:620759539:218649171" value="'\qDírdrë\q hört sich nach einem Namen der Bergmenschen an, aber mehr kann ich Euch auch nicht sagen.'"/>
@@ -5702,30 +5702,30 @@
 <label key="key:620759543:63183938" value="'Lasst mich allein! Eure Narretei schert mich nicht.'"/>
 <label key="key:620759543:94621393" value="Laerdan ist in Gath Forthnír.&#10;&#10;Golodir, durch den Tod seiner Tochter am Boden zerstört, hat Euch gebeten, ihn allein zu lassen und mit dem Elb Laerdan zu sprechen."/>
 <label key="key:620759543:94621394" value="Vielleicht haben sich die Kreaturen, die sich in Carn Dûm niedergelassen haben, Golodirs Ausrüstung geholt.&#10;&#10;Als ersten Schritt seines Plans, Golodir neuen Lebensmut zu geben, hat Euch Laerdan gebeten, Waffen und Ausrüstung des Waldläufers aus Carn Dûm, der Hauptstadt Angmars, zu holen."/>
-<label key="key:620759546:136263298" value="You have defeated Mordirith"/>
-<label key="key:620759546:205636720" value="'To face so great an enemy and defeat him. Such strength does not dwell within me... We are honoured to have one such as you aid us.'"/>
-<label key="key:620759546:205636721" value="'The victory was bought at a great cost, yet no price is too high to pay if it results in the downfall of the Iron Crown!'"/>
-<label key="key:620759546:205636722" value="'Mordirith's defeat is but the first blow in our war against Angmar! Soon the Iron Crown will be topped and my kin will be free of them!'"/>
-<label key="key:620759546:205636723" value="'${PLAYER}! Thank you. Thank you for avenging Lorniel's death. She was such a fine girl... You've done well by her name!'"/>
-<label key="key:620759546:205636724" value="'${PLAYER}! The slayer of Mordirith! Your victory shall never be forgotten! Never!'"/>
-<label key="key:620759546:218649169" value="'The time for vengeance is at hand. Despite the strength you have seen within Angmar's bosom, it is a strength which may falter quickly. Mordirith, the False King, is a creature of great power, but I believe he may be hindered, if not destroyed altogether.&#10;&#10;'I will return to Carn Dûm and face Mordirith. It is time to cut Iron Crown from the head of this serpent. Will you stand with me?&#10;&#10;'We can use your key to pass through into that vile city once more and face Mordirith in the throne room of Carn Dûm. I will go on ahead...if your courage does not fail you, I will meet you there.'"/>
-<label key="key:620759546:218649170" value="'The False King has perished, though I dare not hope that such a creature will remain unseen. Like as not, he will simply recloak himself and return in greater power.&#10;&#10;'Nevertheless, it is a moral victory for the Free Peoples of Eriador. Still, we are not finished here....'"/>
-<label key="key:620759546:218649171" value="'Good, you have arrived! Now is the time to face Mordirith and make him pay for all that he has done. Here we shall strike a blow against Angmar, or die in the attempt!&#10;&#10;'Are you ready?'"/>
-<label key="key:620759546:22075073" value="Meet Golodir in throne room of Carn Dûm"/>
-<label key="key:620759546:22075075" value="Talk to Golodir in Gath Forthnír"/>
-<label key="key:620759546:228870261" value="Chapter 5: Mordirith's Fall"/>
-<label key="key:620759546:54354734" value="Laerdan's hopes of using the sword and armour of Golodir to renew the Ranger's spirit was not in vain. The sight of the shining shield of Gondor and of his bright-burning sword, Dúnachar, kindled within Golodir a new fire...perhaps a dangerous one."/>
-<label key="key:620759546:63183937" value="'If your courage does not fail you, I will meet you within Carn Dûm.'"/>
-<label key="key:620759546:63183938" value="'The debt of gratitude I owe you, ${PLAYER}, is not one that can be easily repaid. But be assured, I shall not forget all that you have done for me.'"/>
-<label key="key:620759546:63183939" value="'Mordirith's defeat is a great victory, but do not be mistaken: the war against Angmar is not yet won.'"/>
-<label key="key:620759546:63183940" value="'You have done well in restoring Golodir's hope and avenging Lorniel's death. Thank you.'"/>
-<label key="key:620759546:63183941" value="'I never thought the day would come! Mordirith has fallen!'"/>
-<label key="key:620759546:63183942" value="'The factions of Angmar will fall into infighting now that the Witch-king's Steward has been defeated!'"/>
-<label key="key:620759546:63183943" value="'Through the long years here, hiding, I had about given up hope of us ever striking such a blow against the Iron Crown. Yet, Mordirith has fallen!'"/>
-<label key="key:620759546:63183944" value="'Hope has returned, her father's spirit has been restored. I think Lorniel would be happy... yes, I know she would!'"/>
-<label key="key:620759546:63183945" value="'Although Mordirith was but a link in the shackles that bind my people, I know now that one day the shackles of slavery shall be utterly broken, forever!'"/>
-<label key="key:620759546:94621393" value="Mordirith can be found within the throne room of Carn Dûm.&#10;&#10;Golodir has asked you to join him as he returns to Carn Dûm to face Mordirith, the False King, Steward of Angmar."/>
-<label key="key:620759546:94621394" value="Meet with Golodir back in Gath Forthnír.&#10;&#10;Golodir is waiting to speak with you."/>
+<label key="key:620759546:136263298" value="Ihr habt Mordirith besiegt."/>
+<label key="key:620759546:205636720" value="'Einen so großen Feind zu stellen und zu schlagen. So viel Kraft habe ich nicht ... Es ist uns eine Ehre, dass jemand wie Euch uns hilft.'"/>
+<label key="key:620759546:205636721" value="'Der Sieg hatte einen hohen Preis, doch kein Preis ist zu hoch, wenn er zum Untergang der Eisernen Krone führt!'"/>
+<label key="key:620759546:205636722" value="'Mordiriths Niederlage ist nur der erste Schlag in unserem Krieg gegen Angmar! Schon bald wird die Eiserne Krone gestürzt und mein Volk von ihrem Joch befreit sein!'"/>
+<label key="key:620759546:205636723" value="'${PLAYER}! Danke. Danke, dass Ihr Lorniels Tod gerächt habt. Sie war so ein gutes Mädchen ... Ihr habt ihrem Namen Ehre gemacht!'"/>
+<label key="key:620759546:205636724" value="'${PLAYER}! Der Fluch von Mordirith! Euer Sieg wird niemals vergessen werden! Niemals!'"/>
+<label key="key:620759546:218649169" value="'Die Zeit der Rache ist gekommen. Die Stärke, die Ihr im Herzen Angmars gesehen habt, ist eine Stärke, die schnell vergehen kann. Mordirith, der falsche König, ist eine Kreatur, die große Macht besitzt. Doch ich glaube, dass man ihn aufhalten, wenn nicht gar vernichten kann.&#10;&#10;Ich werde nach Carn Dûm zurückkehren und Mordirith stellen. Es ist Zeit, dieser Schlange die Eiserne Krone vom Kopf zu schlagen. Ich möchte Euch bitten, an meiner Seite zu sein!&#10;&#10;Zusammen können wir noch einmal in diese abscheuliche Stadt gelangen und Mordirith im Thronsaal von Carn Dûm stellen. Besorgt alle nötigen Vorräte und sucht Gefährten, die uns begleiten wollen, denn der bevorstehende Kampf wird schrecklich werden.'"/>
+<label key="key:620759546:218649170" value="'Mordirith wurde geschwächt, jedoch nicht vernichtet. Nun können Andere den Falschen König stürzen. Ich wünschte, ich wäre es gewesen, der diese niederträchtige Kreatur zurück in die Schatten gejagt hätte, aber was ich tat, ist genug.&#10;&#10;Ich möchte Euch bitten, dass wenn Ihr nach Carn Dûm zurückkehrt, Ihr zu Ende führt, was wir begannen und Mordirith vernichtet. Obwohl eine solche Kreatur nicht vollständig vernichtet werden kann - er wird einfach in neuer Gestalt erscheinen – wäre ein solcher ihm zugefügter Schlag ein großer Sieg für die Freien Völker Eriadors.&#10;&#10;Ich möchte Euch aber trotzdem um noch etwas bitten ...'"/>
+<label key="key:620759546:218649171" value="'Gut, Ihr seid endlich da! Nun ist es an der Zeit, Mordirith gegenüberzutreten und ihn für seine Taten büßen zu lassen. Wir werden Angmar eine tiefe Wunde zufügen oder bei dem Versuch sterben!&#10;&#10;Seid Ihr bereit?'"/>
+<label key="key:620759546:22075073" value="Sprecht mit Golodir."/>
+<label key="key:620759546:22075075" value="Sprecht mit Golodir in Gath Forthnír."/>
+<label key="key:620759546:228870261" value="Kapitel 5: Mordiriths Untergang"/>
+<label key="key:620759546:54354734" value="Laerdans Hoffnung, dem Waldläufer mit dem Schwert und der Rüstung neuen Mut geben zu können, war nicht umsonst. Der Anblick des funkelnden Schildes von Gondor und seines gleißenden Schwerts Dúnachar haben in Golodir ein neues Feuer entfacht ... vielleicht ein gefährliches."/>
+<label key="key:620759546:63183937" value="'Die Reise nach Carn Dûm wird nicht einfach werden, aber Mordirith muss fallen. Seid Ihr bereit?'"/>
+<label key="key:620759546:63183938" value="'Die Schuld, in der ich bei Euch stehe, ${PLAYER}, ist nicht leicht zu begleichen. Doch seid versichert, dass ich nicht vergessen werde, was Ihr für mich getan habt.'"/>
+<label key="key:620759546:63183939" value="'Mordiriths Niederlage ist ein großer Sieg für uns, doch Vorsicht: Der Krieg gegen Angmar ist noch nicht gewonnen.'"/>
+<label key="key:620759546:63183940" value="'Es war eine gute Tat von Euch, Golodir neue Hoffnung zu geben und Lorniels Tod zu rächen. Danke.'"/>
+<label key="key:620759546:63183941" value="'Ich hätte nie gedacht, dass ich diesen Tag erleben würde! Der Falsche König ist gefallen!'"/>
+<label key="key:620759546:63183942" value="'Die einzelnen Gruppen in Angmar werden sich nun gegenseitig bekriegen, da der Truchsess des Hexenkönigs besiegt ist!'"/>
+<label key="key:620759546:63183943" value="'All die langen Jahre, die ich hier versteckt zugebracht habe, hatte ich die Hoffnung schon fast aufgegeben, dass wir der Eisernen Krone jemals einen solchen Schlag würden versetzen können. Doch nun ist Mordirith gefallen!'"/>
+<label key="key:620759546:63183944" value="'Die Hoffnung ist wieder zurückgekehrt und Lorniels Vater hat neuen Mut gefasst. Ich glaube, Lorniel wäre glücklich ... Ja, ich weiß, dass sie das wäre!'"/>
+<label key="key:620759546:63183945" value="'Obwohl der Falsche König nur ein Glied in den Ketten war, die mein Volk fesseln, so weiß ich doch, dass wir eines Tages die Fesseln der Unterdrückung ein für alle Mal abschütteln werden!'"/>
+<label key="key:620759546:94621393" value="Mordirith hält sich im Thronsaal von Carn Dûm auf.&#10;&#10;Golodir hat Euch gebeten, ihn nach Carn Dûm zu begleiten, um Mordirith, dem falschen König gegenüberzutreten, dem Truchsess von Angmar."/>
+<label key="key:620759546:94621394" value="Golodir ist in Gath Forthnír.&#10;&#10;Nachdem Ihr Mordirith besiegt und der mysteriösen Sara Eichenherz begegnet seid, seid Ihr und Golodir zurück nach Gath Forthnír gereist. Ihr solltet nochmal mit Golodir reden."/>
 <label key="key:620759548:218649169" value="'Was Golodir auch immer an Hoffnung geblieben sein mag, sie muss auf seinem eigenen Volke ruhen. Vielleicht kann jemand aus seinem Volke ja diese Ausrüstung reparieren oder etwas daraus machen, das Golodir mit neuem Lebensmut erfüllt.&#10;&#10;Bringt diese Ausrüstung zum verborgenen Waldläuferlager Esteldín in den Nordhöhen - ich bin sicher, Ihr wart schon einmal dort. Sagt, dass Laerdan von Eregion Euch schickt.&#10;&#10;Uns läuft die Zeit für Golodir davon!'"/>
 <label key="key:620759548:218649170" value="'Nun, der Schild hat mir keine Probleme bereitet, obwohl ich so einen noch nie zuvor zu Gesicht bekommen habe. Das war nicht Golodirs Schild. Dieser hier ist sehr viel älter und trägt die Zeichen des Südlichen Königreichs. Sehr interessant ... Wie auch immer, er wird ihm gute Dienste leisten.&#10;&#10;Doch das Schwert ist eine ganz andere Sache. Es wurde vor langer Zeit von den Elben geschmiedet und seine Reparatur übersteigt meine Fähigkeiten. Tut mir leid, aber ich habe getan, was ich konnte.&#10;&#10;Vielleicht weiß Daervunn ja noch eine andere Lösung, wie sich Golodirs Schwert reparieren ließe.'"/>
 <label key="key:620759548:218649171" value="'Golodirs Ausrüstung? Ich werde helfen, so gut ich nur kann.&#10;&#10;Hmm, ja. Ich glaube, ich kann dieses Kettenhemd reparieren, doch die Reparatur von Schwert und Schild übersteigt meine Fähigkeiten. Ich denke aber, einer der Rüstungsschmiede hier in Esteldín wird Euch helfen können. Geht und bringt Schwert und Schild zu Toram. In der Zwischenzeit widme ich mich dem Hemd.'"/>
@@ -10750,7 +10750,7 @@
 <label key="key:620767530:22075073" value="Bringt die beschädigte Zwergentruhe zu Larus Scharfscherbe."/>
 <label key="key:620767530:228870261" value="Alte Schätze"/>
 <label key="key:620767530:54354734" value="Überall im Nebelgebirge kann man auf Zwergenruinen stoßen, und Larus Scharfscherbe ist eifrig darauf bedacht, einige der Schätze zu bergen, die immer noch an diesen steinernen Orten verborgen liegen."/>
-<label key="key:620767530:94621393" value="Larus Scharfscherbe ist in Glóins Lager nördlich von Bruchtal.&#10;&#10;Larus Scharfscherbe hat Euch gebeten, eine robuste Kiste zu bergen, die Ihr nördlich des Lagers in der alten Zwergenfeste in der Nähe des Bruinenquells findet. "/>
+<label key="key:620767530:94621393" value="Larus Scharfscherbe ist in Glóins Lager nördlich von Bruchtal.&#10;&#10;Larus Scharfscherbe hat Euch gebeten, eine robuste Kiste zu bergen, die Ihr nördlich des Lagers in der alten Zwergenfeste in der Nähe des Bruinenquells findet."/>
 <label key="key:620767532:218649169" value="'Jetzt müssen die robusten Kisten nur noch zu Heikki Goldsucher in Thorins Halle geschafft werden.&#10;&#10;Ich weiß, das liegt nicht gerade nebenan, aber ich glaube, das gehört sich so. Ich wünschte, ich könnte selber gehen - schließlich ist es ja mein Ansehen, das in Heikkis Aufzeichnungen hätte leiden müssen -, doch ich habe hier viel zu viel zu tun, um eine solche Reise auf mich nehmen zu können.&#10;&#10;Ihr findet Heikki in Thorins Halle im Blauen Gebirge. Hoffentlich ist Heikki nicht zu schlechter Laune, wenn Ihr dort eintrefft!'"/>
 <label key="key:620767532:218649170" value="'Endlich, eine Nachricht von Larus Scharfscherbe. Was? Was ist das? Ihr habt mir die robusten Kisten gebracht? Dieser Narr, hat er meine Nachricht an ihn denn nicht gelesen? Ich wollte den Namen von Halmur Steinformers Vater wissen! Das werde ich in meinen Aufzeichnungen vermerken!&#10;&#10;Wartet, Ihr habt Halmurs Nachfahren getroffen? Schön, schön! Hat er Euch den Namen seines Vater genannt? Halmur? Oh, Vithurr war der Vater des ersten Halmur! Ah, sehr gut! Genau das wollte ich wissen.&#10;&#10;Ich denke, ich werde das Gold hier in die Schatzkammer bringen, obwohl es mir eigentlich nichts bedeutet. Ich hatte ehrlich gesagt nicht erwartet, dass nach all den Jahren noch ein Schatz zu finden sein würde. Nein, der Name von Halmur Steinformers Vater ist alles, was ich wollte. Die Lücke in den Aufzeichnungen zu füllen, ist der wahre Schatz!'"/>
 <label key="key:620767532:22075073" value="Bringt die robusten Kisten zu Heikki Goldsucher."/>
@@ -14641,16 +14641,16 @@
 <label key="key:620781592:63183937" value="'Ich würde meinen Lebtag keine Ruhe finden, wenn ich Euch in den Tod schicken würde! Seid bitte vorsichtig!'"/>
 <label key="key:620781592:94621393" value="Das Schwert der Mahnwache befindet sich irgendwo in Nan Gurth.&#10;&#10;Nethraw sagte, das letzte der sieben Schwerter sei an einem tödlichen Ort verborgen. Und wieder solltet Ihr Verbündete um Euch scharen, um das Schwert zu beschaffen."/>
 <label key="key:620781592:94621394" value="Nethraw ist wieder im Tempel der sieben Wächter östlich von Gabilshathûr.&#10;&#10;Ihr solltet das Schwert der Mahnwache zu Nethraw bringen."/>
-<label key="key:620781593:218649169" value="'The Sword of Twilight was carried by the lone Elf in the company of the Seven Sentinels. The name of that sword perhaps derives from the feeling amongst some of the Elves that their time in Middle-earth draws to an end, and perhaps is an allusion to the direction of their retreat. Who can say?&#10;&#10;'At any odds, the tale says the Elf's sword may be found far to the north, not all that distant from the place my kindred have made for themselves to spy upon Carn Dûm. I believe the sword's hiding place is in a lair of great and terrible spiders. No one adventurer would be able to retrieve the sword alone, so once again I must counsel you to seek allies in your quest'"/>
-<label key="key:620781593:218649170" value="'You have done well to this point, but there is one great challenge left.'"/>
-<label key="key:620781593:218649171" value="'Where is the Sword of Twilight?'"/>
-<label key="key:620781593:22075073" value="Search for the Sword of Twilight"/>
-<label key="key:620781593:22075074" value="Bring the Sword of Twilight back to Nethraw"/>
-<label key="key:620781593:228870261" value="The Sword of Twilight"/>
-<label key="key:620781593:54354734" value="Five of the seven swords have been recovered, leaving only two."/>
-<label key="key:620781593:63183937" value="'I hope you will be able to retrieve the Sword of Twilight.'"/>
-<label key="key:620781593:94621393" value="The Sword of Twilight is in a lair of spiders far to the north, near Gath Forthnír.&#10;&#10;Nethraw has sent you in search of the Sword of Twilight, It seems once again that allies will be required to obtain the Sword from its hiding-place."/>
-<label key="key:620781593:94621394" value="Nethraw is back at the Fane of the Seven Sentinels, east of Gabilshathûr.&#10;&#10;You should bring the Sword of Twilight to Nethraw."/>
+<label key="key:620781593:218649169" value="'Das Schwert der Dämmerung gehörte dem einsamen Elben, der sich den sieben Wächtern angeschlossen hatte. Der Name dieses Schwertes entstammte vielleicht der Befürchtung einiger Elben, dass ihre Tage in Mittelerde gezählt waren und es könnte auch ein Hinweis auf die Richtung sein, in die sie sich zurückzogen. Wer weiß es schon genau?&#10;&#10;Jedenfalls besagt die Legende, dass das Schwert des Elben weit oben im Norden zu finden ist, nicht allzu weit von dem Ort, an dem meine Sippe sich niedergelassen hat, um Carn Dûm zu beobachten. Ich glaube, dass das Schwert in einem Nest großer, schrecklicher Spinnen versteckt ist. Es dort herauszuholen kann einem einzelnen Abenteurer nicht gelingen. Ich muss Euch daher erneut nahe legen, für diese Aufgabe Verbündete zu suchen.'"/>
+<label key="key:620781593:218649170" value="'Bisher habt Ihr Euch als erfolgreich erwiesen, aber eine große Herausforderung steht Euch noch bevor.'"/>
+<label key="key:620781593:218649171" value="'Wo ist das Schwert der Dämmerung?"/>
+<label key="key:620781593:22075073" value="Sucht nach dem Schwert der Dämmerung."/>
+<label key="key:620781593:22075074" value="Bringt das Schwert der Dämmerung zu Nethraw."/>
+<label key="key:620781593:228870261" value="Das Schwert der Dämmerung"/>
+<label key="key:620781593:54354734" value="Fünf der sieben Schwerter konnten geborgen werden, bleiben nur noch zwei."/>
+<label key="key:620781593:63183937" value="'Ich hoffe, Ihr könnt mir das Schwert der Dämmerung beschaffen.'"/>
+<label key="key:620781593:94621393" value="Das Schwert der Dämmerung befindet sich in einem Spinnennest weit nördlich von hier, in der Nähe von Gath Forthnír.&#10;&#10;Nethraw bat Euch, das Schwertzu finden. Auch für dieses Unterfangen scheint es notwendig zu sein, Gefährten als Verstärkung mitzunehmen."/>
+<label key="key:620781593:94621394" value="Nethraw ist wieder im Tempel der sieben Wächter östlich von Gabilshathûr.&#10;&#10;Ihr solltet das Schwert der Dämmerung zu Nethraw bringen."/>
 <label key="key:620781659:136263297" value="Gesammelte ungeschliffene Edelsteine: ${NUMBER}/${TOTAL}"/>
 <label key="key:620781659:218649169" value="'Seid gegrüßt. Ich habe gehört, was Ihr für uns getan habt. Wir alle stehen in Eurer Schuld. Aber vielleicht kann ich Euch als Dank auf eine lohnenswerte Sache hinweisen.&#10;&#10;Seitdem wir uns hier verstecken, können wir nicht mehr in den brach liegenden Edelstein-Adern, die wir gefunden haben, schürfen und abbauen. Wir wissen allerdings, dass einige Feinde wie Trolle und Gorthorogs die alten Bergwerke gefunden haben und dort nun selbst Edelsteine abbauen.&#10;&#10;Wenn Ihr wollt, könnt Ihr den Feind in Gorothlad, genauer gesagt im Umkreis von Maethad, jagen. Viele dieser üblen Gesellen haben sicher eine ganze Menge Edelsteine bei sich, sodass Ihr ihnen möglicherweise einige abnehmen könnt. Wenn Ihr mir also ein paar bringt, werde ich Euch einen guten Preis dafür zahlen.'"/>
 <label key="key:620781659:218649170" value="'Ha, Ihr habt beim Sammeln all dieser Steine gute Arbeit geleistet. Keine Angst, ich werde Euch einen guten Preis zahlen!'"/>
@@ -15027,15 +15027,15 @@
 <label key="key:620782009:228870261" value="Erstürmung der Burg"/>
 <label key="key:620782009:54354734" value="Tyrann Uzulthrang ist hier, um eine Schlacht zu schlagen – und nur dafür. Er steht mit seinen Truppen außerhalb von Tol Ascarnen. Der Tyrann verspricht, dass er gegen den Feind kämpft, wenn Ihr Euch seiner Beachtung würdig erweist."/>
 <label key="key:620782009:94621393" value="Tyrann Uzulthrang will Beweise für Eure Taten sehen. Dann, und nur dann, wird er Euch dabei helfen, die Narren in Tol Ascarnen zu vernichten. Allerdings hat er Euch nicht verraten, welche Art von Beweisen er verlangt."/>
-<label key="key:620782020:136263297" value="Collected Grimwood-heartwood (${NUMBER}/${TOTAL})"/>
-<label key="key:620782020:218649169" value="'Not that I've reason to explain myself, you worthless wretch, but I'm sending you into dangerous climes that I fear you will not return from, and I'd rather cover myself first.&#10;&#10;'Within this wood are trees that walk. Terrible things that need death more than the little folk east of here...only the tree things aren't good eating. Now listen well, cur.&#10;&#10;'I've need of the heartwood from these trees for the coven of witches in Angmar. I'll earn favour from them, and you in turn will earn favour from the Krahjarn. This makes things right all around, and if you do well enough, I will look to you in the future. What do you say?'"/>
-<label key="key:620782020:218649170" value="'The witches in the north will reward me well for these, and I will share in the strength that I gain, ${PLAYER}.&#10;&#10;'I will speak your name to the Krahjarn leaders. They will know you well.'"/>
-<label key="key:620782020:218649171" value="'What are you waiting for, a spoon? Go carve out those trees' hearts!'"/>
-<label key="key:620782020:22075073" value="Return to Chieftain Torbok at the Grimwood Lumber-yamp"/>
-<label key="key:620782020:22075074" value="Collect Grimwood-heartwood (${NUMBER}/${TOTAL})"/>
-<label key="key:620782020:228870261" value="Carving Out Hearts"/>
-<label key="key:620782020:54354734" value="The Angmarim within the city of Carn Dûm have a desire for the heartwood cut from the centre of the Leafcull-trees within the Grimwood. He has offered you a reward for collecting the heartwood."/>
-<label key="key:620782020:94621393" value="Grimwood-heartwood can be found on the Leafcull-trees, though you may possibly find it in the fallen logs as well.&#10;&#10;Chieftain Torbok directed you to recover and return Grimwood-heartwood to him."/>
+<label key="key:620782020:136263297" value="Anzahl gesammelten Grimmwald-Kernholzes: ${NUMBER}/${TOTAL}"/>
+<label key="key:620782020:218649169" value="'Nicht, dass ich mich gegenüber Euch wertloser Kreatur rechtfertigen müsste, aber ich schicke Euch in eine gefährliche Gegend, aus der Ihr vielleicht nicht lebend zurückkehrt. Also möchte ich mich erst absichern.&#10;&#10;In jenen Wäldern gibt es Bäume, die gehen können. Es sind fürchterliche Wesen, die den Tod noch mehr verdienen als das Kleine Volk östlich von hier ... mit dem Unterschied, dass man die Bäume nicht essen kann. Hört gut zu, Kreatur.&#10;&#10;Ich brauche das Kernholz der Bäume für die Zusammenkunft der Hexen in Angmar. Dafür werden sie mir dankbar sein, und in der Folge werdet Ihr in der Gunst der Krahjarn stehen. So sind alle zufrieden. Wenn Ihr Euch bewährt, werde ich Eure Dienste wieder in Anspruch nehmen. Was sagt Ihr?'"/>
+<label key="key:620782020:218649170" value="'Die Hexen aus dem Norden werden mich dafür reichlich belohnen. An meinem Machtzuwachs werdet auch Ihr teilhaben, ${PLAYER}.&#10;&#10;Ich werde Euch gegenüber den Anführern der Krahjarn erwähnen. Sie werden sich Euren Namen merken.'"/>
+<label key="key:620782020:218649171" value="'Worauf wartet Ihr noch? Schneidet endlich das Kernholz aus diesen Bäumen!'"/>
+<label key="key:620782020:22075073" value="Kehrt zu Häuptling Torbok im Grimmwald-Holzlager zurück."/>
+<label key="key:620782020:22075074" value="Sammelt Grimmwald-Kernholz (${NUMBER}/${TOTAL})."/>
+<label key="key:620782020:228870261" value="Kernholz schneiden"/>
+<label key="key:620782020:54354734" value="Die Angmarim in der Stadt Carn Dûm brauchen Kernholz von Blattpflücker-Bäumen im Grimmwald. Wenn Ihr das Kernholz besorgt, winkt Euch eine Belohnung."/>
+<label key="key:620782020:94621393" value="Grimmwald-Kernholz findet Ihr in den Blattpflücker-Bäumen oder aber auch in bereits gefälltem Holz.&#10;&#10;Häuptling Torbok hat Euch befohlen, ihm Grimmwald-Kernholz zu bringen."/>
 <label key="key:620782021:136263297" value="Anzahl gesammelter Grimmwald-Wurzeln: ${NUMBER}/${TOTAL}"/>
 <label key="key:620782021:218649169" value="'Made! Ihr habt eine ganz klare Aufgabe in diesem Krieg. Ihr tut, was Euch die Krahjarn befehlen!&#10;&#10;Im Wald findet Ihr junge Bäume. An diesen und an einigen gefällten Stämmen sollten sich lange Wurzeln befinden. Wir brauchen Grimmwald-Wurzeln, um die Pfähle zu verzurren.&#10;&#10;Es muss alles perfekt repariert sein, wenn der Feind wieder angreift. Falls Euch das nicht brutal genug ist, kriechen im Wald noch genug Kreaturen herum, die ebenfalls Wurzeln haben. Los jetzt!'"/>
 <label key="key:620782021:218649170" value="'Diese werden schon reichen. Aber Ihr habt länger gebraucht, als mir lieb ist, Wurm! In Zukunft kehrt Ihr schneller aus dem Wald zurück – sonst bin ich es, der jemanden schlachtet.'"/>
@@ -17262,15 +17262,15 @@
 <label key="key:620790922:228870261" value="Hilfe von den Goldenen Bären"/>
 <label key="key:620790922:54354734" value="Die Armee von Angmar hat Tirith Rhaw eingenommen. Goldschopf, der Anführer der Morgentau-Bären, bot seine Hilfe im Austausch für den Beweis an, dass Ihr den Bären und der Sache der Freien Völker gegenüber loyal seid."/>
 <label key="key:620790922:94621393" value="Goldschopf ist in seiner Höhle nordöstlich des Tirith Rhaw.&#10;&#10;Goldschopf möchte, dass Ihr einen Beweis für Eure Loyalität und Eure Unterstützung für die Sache der Freien Völker in den Ettenöden erbringt."/>
-<label key="key:620790926:136263297" value="Collected Token of Valour (${NUMBER}/${TOTAL})"/>
-<label key="key:620790926:218649169" value="'I have come to this field of battle to support the Free Peoples and my brethren among the Eagles. Long have we battled the spiders of Gorgoris' brood, and we are pleased to help the Free Peoples against the foes out of Angmar. &#10;&#10;'I see that the Isendeep has fallen to the Enemy. I pledge to join you in an assault against the enemy within the mine if you bring me the tokens proving your valour in these lands.'"/>
-<label key="key:620790926:218649170" value="'You have proven your valour, ${RACE}. Now I shall show you the valour of the Eagles!&#10;&#10;'I will make my way into the mine through the hole in the wall. Meet me within, and we shall begin our assault on the tyrant who claims control within."/>
-<label key="key:620790926:218649171" value="'Return to me when you have the proof of your resolve. Only then will I join your assault against the Enemy within the mine.'"/>
-<label key="key:620790926:22075073" value="Talk to Golloval"/>
-<label key="key:620790926:22075074" value="Collect Tokens of Valour (${NUMBER}/${TOTAL})"/>
-<label key="key:620790926:228870261" value="Golloval of the Golden Eagles"/>
-<label key="key:620790926:54354734" value="Golloval of the Golden Eagles will come to the aid of the Free Peoples provided that the Free Peoples are willing to prove their intention and valour."/>
-<label key="key:620790926:94621393" value="Golloval is hidden to the west amongst the hills near the central entrance to the Isendeep Mine. He hides in the hills protected by other golden eagles.&#10;&#10;Golloval pledged to assist you in retaking the Isendeep mine if you return to him with proof of your valour within the Ettenmoors."/>
+<label key="key:620790926:136263297" value="Anzahl gesammelter Tapferkeitsmedaillen: ${NUMBER}/${TOTAL}"/>
+<label key="key:620790926:218649169" value="'Ich komme zu diesem Schlachtfeld, um den Freien Völkern und meinen Adler-Brüdern beizustehen. Lange haben wir gegen die Spinnen von Gorgoris' Brut gekämpft, und wir freuen uns, die Freien Völker gegen unseren Feind aus Angmar zu unterstützen. &#10;&#10;Ich sehe, dass die Isenbinge dem Feind anheimgefallen ist. Ich verspreche, Euch in der Mine bei einem Angriff gegen den Feind beizustehen, wenn ihr mir Beweise für Euren Mut in diesen Landen erbringt.'"/>
+<label key="key:620790926:218649170" value="'Ihr habt Euren Mut bewiesen, und jetzt werde ich Euch den Mut der Adler zeigen.&#10;&#10;Durch das Loch in der Mauer werde ich in die Mine gelangen. Trefft mich im Inneren, so dass wir mit unserem Angriff auf den Tyrannen beginnen können, der die Kontrolle über die Isenbinge beansprucht.'"/>
+<label key="key:620790926:218649171" value="'Kehrt zu mir zurück, wenn Ihr einen Beweis Eurer Entschlossenheit vorweisen könnt. Nur dann werde ich Euch bei Eurem Angriff auf den Feind in der Mine helfen.'"/>
+<label key="key:620790926:22075073" value="Sprecht mit Golloval."/>
+<label key="key:620790926:22075074" value="Sammelt Tapferkeitsmedaillen (${NUMBER}/${TOTAL})."/>
+<label key="key:620790926:228870261" value="Golloval von den Goldenen Adlern"/>
+<label key="key:620790926:54354734" value="Golloval von den Goldenen Adlern wird den Freien Völkern zu Hilfe kommen, vorausgesetzt, sie sind gewillt, ihre guten Absichten und ihren Mut unter Beweis zu stellen."/>
+<label key="key:620790926:94621393" value="Golloval versteckt sich in den Bergen nah beim Haupteingang zur Isenbinge-Mine im Westen. Die Berge werden von Goldenen Adlern beschützt.&#10;&#10;Golloval hat versprochen, Euch bei der Wiedereroberung der Isenbinge-Mine zu helfen, wenn Ihr mit einem Beweis für Euren Mut aus den Ettenöden zurückkehrt."/>
 <label key="key:620790950:136263297" value="Der Beschwerde wurde nachgekommen."/>
 <label key="key:620790950:22075073" value="Überbringt die formelle Beschwerde."/>
 <label key="key:620790950:228870261" value="Instanz: Eine formelle Beschwerde"/>
@@ -18858,14 +18858,14 @@
 <label key="key:620792944:228870261" value="Von den allertiefsten Geheimnissen: Einleitung"/>
 <label key="key:620792944:54354734" value="Cachúnir hat seinem Wunsch Ausdruck gegeben, so viel Geschichte und Wissen von Mittelerde mitzunehmen, wie irgend möglich, wenn die Elben Bruchtals gen Westen reisen."/>
 <label key="key:620792944:94621393" value="Cachúnir ist in Bruchtal in den Trollhöhen.&#10;&#10;Cachúnir hat Euch gebeten, eine Abhandlung mit dem Titel \qVon den allertiefsten Geheimnissen\q zu verfassen und ihm dann zu bringen."/>
-<label key="key:620792945:218649169" value="'There are some jewels of knowledge that surpass even the most brilliant gem or bauble. It is one such that I would have you compile for us here at Rivendell, that we might bring it before our bretheren in the Uttermost West, that they might gain once more from the lands that they once called home.&#10;&#10;'Pen for me another copy of the essay 'Of Mysteries Most Profound,' and your name shall be sung in the Last Homely House with reverence and gratitude.'"/>
-<label key="key:620792945:218649170" value="'Ah, let us see....&#10;&#10;'Of Mysteries Most Profound' -- a title fitting for a study of one of the grand riddles of Middle-earth.&#10;&#10;'Would that we had a hundred scholars such as yourself, ${PLAYER}, though even then it seems that countelss enigmas would remain before us.'"/>
-<label key="key:620792945:218649171" value="'Take your time with that paper, ${PLAYER}. A great deal of research and study must go into such a craft. Perhaps some travel in the wilds would help you clear your head?'"/>
-<label key="key:620792945:22075073" value="Present 'Of Mysteries Most Profound' to Cachúnir in Rivendell"/>
-<label key="key:620792945:22075074" value="Craft 'Of Mysteries Most Profound' (${NUMBER}/${TOTAL})"/>
-<label key="key:620792945:228870261" value="Of Mysteries Most Profound"/>
-<label key="key:620792945:54354734" value="Cachúnir has expressed a desire to take as much history and lore of Middle-earth as possible when the Elves of Rivendell sail into the West."/>
-<label key="key:620792945:94621393" value="Cachúnir is at Rivendell, in the Trollshaws.&#10;&#10;Cahchúnir has asked you to pen another copy of your essay 'Of Mysteries Most Profound' and bring it to him."/>
+<label key="key:620792945:218649169" value="'Einige Perlen des Wissens übertreffen selbst den strahlendsten Edelstein und den glitzerndsten Tand. Eine solche sollt Ihr hier für uns in Bruchteil fertigen, so dass wir sie unseren Brüdern im äußersten Westen zeigen können, auf dass ihnen das Land, das sie einst ihre Heimat nannten, noch einmal von Nutzen sein möge. Fertigt für mich eine Abhandlung an und nennt sie \qVon den allertiefsten Geheimnissen\q und Euer Name soll im Letzten Heimeligen Haus mit Ehrfurcht und Dankbarkeit besungen werden.'"/>
+<label key="key:620792945:218649170" value="'Ah, lasst sehen ... \qVon den allertiefsten Geheimnissen\q. Ein Titel, der einer Studie über eines der größten Rätsel von Mittelerde würdig ist!&#10;&#10;Hätten wir doch hundert solcher Gelehrten wie Euch, ${PLAYER}. Doch selbst dann würden noch zahllose Mysterien unerforscht bleiben.'"/>
+<label key="key:620792945:218649171" value="'Lasst Euch Zeit mit dieser Schrift, ${PLAYER}. So etwas verlangt nach intensiver Forschung. Vielleicht würde eine Reise durch die Wildnis Euch helfen, den Kopf freizubekommen?'"/>
+<label key="key:620792945:22075073" value="Bringt \qVon den allertiefsten Geheimnissen\q zu Cachúnir in Bruchtal."/>
+<label key="key:620792945:22075074" value="Fertigt \qVon den allertiefsten Geheimnissen\q an (${NUMBER}/${TOTAL})."/>
+<label key="key:620792945:228870261" value="Von den allertiefsten Geheimnissen: Einleitung"/>
+<label key="key:620792945:54354734" value="Cachúnir hat seinem Wunsch Ausdruck gegeben, so viel Geschichte und Wissen von Mittelerde mitzunehmen, wie irgend möglich, wenn die Elben Bruchtals gen Westen reisen."/>
+<label key="key:620792945:94621393" value="Cachúnir ist in Bruchtal in den Trollhöhen.&#10;&#10;Cachúnir hat Euch gebeten, die Abhandlung mit dem Titel \qVon den allertiefsten Geheimnissen\q' abzuschreiben und ihm die Abschrift dann zu bringen."/>
 <label key="key:620792947:136263297" value="Elbenrelikt beschafft: ${NUMBER}/${TOTAL}"/>
 <label key="key:620792947:218649169" value="'In vergangenen Zeiten trieben wir regelmäßigen Handel mit den Menschen des Königreiches, das einst Rhudaur genannt wurde, bevor sie unter den Einfluss Angmars gerieten und sich gegen ihre Bruderreiche im Norden wandten. Aus diesem Grund stößt man in den Ruinen ihres Königreiches ab und zu auf von Elben gefertigte Relikte, nach denen die Bergmenschen und die Angmarim jetzt suchen, um sie zu ihren Meistern nach Angmar zu bringen. Auch die Bilwisse aus dem Nebelgebirge haben einst während ihrer Schlachtzüge solche Gegenstände von uns getohlen.&#10;&#10;Wir dürfen nicht zulassen, dass Gegenstände mit einer solchen Geschichte und Erinnerung in die Hände unserer Feinde fallen. Falls Ihr also im Kampf gegen sie irgendwelche Relikte findet, wären wir Euch sehr dankbar, wenn Ihr sie zu uns nach Bruchtal bringen würdet.'"/>
 <label key="key:620792947:218649170" value="'Ah, Ihr habt ein Relikt aus den längst vergangenen Zeiten des Friedens mit den Menschen von Rhudaur gefunden.&#10;&#10;Ich frage mich, wer es wohl hergestellt hat. Ich werde mich umhören, um herauszufinden, an wen ich es zurückgeben sollte, da ich diese Art nicht kenne. Es ist durchaus möglich, dass der Handwerker, wie so viele unserer besten Schmiede und Künstler, gen Westen gereist ist.'"/>
@@ -19775,18 +19775,18 @@
 <label key="key:620793764:228870261" value="Holt die Truppen in den Grimmwald."/>
 <label key="key:620793764:54354734" value="Der Grimmwald ist in die Hände Angmars gefallen, und die Streitkräfte haben sich in den befestigten Teil der Gegend zurückgezogen. Die Truppen dort sind noch gering an der Zahl, und ohne Verstärkung Angmars werden die Freien Völker diese Stätte sicher bald wieder zurückerobern. Ihr müsst in Gramfuß Meldung machen."/>
 <label key="key:620793764:94621393" value="Durchquert die Ettenöden und überbringt Kriegstyrann Akúlhun die Nachricht, dass das Grimmwald-Holzfällerlager Verstärkung braucht.&#10;&#10;Soldatin Kraibag hat Euch den Befehl gegeben, um Verstärkung für den Grimmwald zu ersuchen. Obwohl sich das Holzfällerlager in der Hand Angmars befindet, kann nur durch Verstärkungen erreicht werden, dass es nicht von den Freien Völkern zurückerobert wird."/>
-<label key="key:620793765:136263297" value="You are pathetic. Another claimed the glory meant for you!"/>
-<label key="key:620793765:136263298" value="You cannot even be trusted with a simple delivery task, useless wretch."/>
-<label key="key:620793765:136263299" value="Whelp! Free People have taken the Isendeep!"/>
-<label key="key:620793765:218649169" value="'I've little time for words if I am to organize a defence with such a withered force. &#10;&#10;'Return to Gramsfoot and deliver the War-tyrant the message that we have recovered the mine. He will send troops if he hopes to see us defend this massive space.&#10;&#10;'Go now and do not fail me!'"/>
-<label key="key:620793765:218649170" value="'More forces for the front, eh? You maggots might yet make me proud! For Angmar! For Lugbûrz!'"/>
-<label key="key:620793765:22075073" value="Inform War-tyrant Akúlhun that more forces are needed at the Isendeep Mine"/>
-<label key="key:620793765:22075074" value="Support must not arrive at the Isendeep"/>
-<label key="key:620793765:22075075" value="You must not be defeated before delivering the message"/>
-<label key="key:620793765:22075076" value="The Free People must not control the Isendeep Mine!"/>
-<label key="key:620793765:228870261" value="Get the Troops to the Isendeep"/>
-<label key="key:620793765:54354734" value="The Isendeep Mine is fallen to the hands of Angmar, and the forces have returned to the fortified section of the area. The forces here are meager and if left unsupported the Free Peoples will surely recover the location. You must get word to Gramsfoot."/>
-<label key="key:620793765:94621393" value="Cross the Ettenmoors and deliver the message to War-tyrant Akúlhun that the Isendeep Mine is in need of reinforcement.&#10;&#10;Soldier Baush ordered you to seek reinforcements for the Isendeep. Though the mine is controlled by Angmar, it must be reinforced or it will be summarily lost to the Free People."/>
+<label key="key:620793765:136263297" value="Ihr seid erbärmlich. Ein anderer hat sich den Ruhm gesichert, der Euch gebührt hätte!"/>
+<label key="key:620793765:136263298" value="Euch kann man nicht einmal mit einem einfachen Botengang betrauen, Nichtsnutz."/>
+<label key="key:620793765:136263299" value="Welpe! Die Freien Völker haben Isenbinge eingenommen!"/>
+<label key="key:620793765:218649169" value="'Ich habe nur wenig Zeit zum Reden, wenn ich mit so wenigen Soldaten die Verteidigung organisieren soll. &#10;&#10;Kehre nach Gramfuß zurück und melde dem Kriegstyrannen, dass wir die Mine zurückerobert haben. Er wird Truppen entsenden, wenn er will, dass wir dieses riesige Areal verteidigen.&#10;&#10;Geh jetzt, und enttäusche mich ja nicht!'"/>
+<label key="key:620793765:218649170" value="'Mehr Truppen an die Front, was? Ihr Würmer macht mich ja doch noch stolz! Für Angmar! Für Lugbúrz!'"/>
+<label key="key:620793765:22075073" value="Berichtet Kriegstyrann Akúlhun, dass weitere Truppen in der Isenbinge-Mine gebraucht werden."/>
+<label key="key:620793765:22075074" value="Im Lugazag darf keine Verstärkung eintreffen."/>
+<label key="key:620793765:22075075" value="Ihr dürft vor Überbringen der Nachricht nicht besiegt werden."/>
+<label key="key:620793765:22075076" value="Die Freien Völker dürfen die Isenbinge-Mine nicht unter ihre Kontrolle bringen!"/>
+<label key="key:620793765:228870261" value="Holt die Truppen zur Isenbinge."/>
+<label key="key:620793765:54354734" value="Die Isenbinge-Mine ist in die Hände Angmars gefallen, und die Streitkräfte haben sich in den befestigten Teil der Gegend zurückgezogen. Die Truppen dort sind noch gering an der Zahl, und ohne Verstärkung Angmars werden die Freien Völker diese Stätte sicher bald wieder zurückerobern. Ihr müsst in Gramfuß Meldung machen."/>
+<label key="key:620793765:94621393" value="Durchquert die Ettenöden und überbringt Kriegstyrann Akúlhun die Nachricht, dass die Isenbinge-Mine Verstärkung braucht.&#10;&#10;Soldat Bausch hat Euch den Befehl gegeben, um Verstärkung für die Isenbinge zu ersuchen. Obwohl sich die Mine in der Hand Angmars befindet, kann nur durch Verstärkungen erreicht werden, dass sie nicht von den Freien Völkern zurückerobert wird."/>
 <label key="key:620793766:136263297" value="Ihr seid erbärmlich. Ein anderer hat sich den Ruhm gesichert, der Euch gebührt hätte!"/>
 <label key="key:620793766:136263298" value="Euch kann man nicht einmal mit einem einfachen Botengang betrauen, Nichtsnutz."/>
 <label key="key:620793766:136263299" value="Faulpelz! Die Freien Völker konnten sich in Lugazag durchsetzen!"/>
@@ -20809,25 +20809,25 @@
 <label key="key:620795593:63183942" value="'Bert, Tom und Bill werden uns keinen Ärger mehr machen, das erleichtert mich.'"/>
 <label key="key:620795593:94621393" value="Die Trolle, die einst das Dorf von Garberts Großeltern heimsuchten, haben wahrscheinlich irgendwo in den Trollhöhen ihr Ende gefunden. Garbert wohnt in einem Häuschen am Ufer des Flusses in Tâl Bruinen.&#10;&#10;Garbert hat Euch gebeten, den Ort zu finden, an dem die drei Trolle, die er erwähnt hatte, ihr Ende fanden, und herauszufinden, was ihnen widerfahren ist."/>
 <label key="key:620795593:94621394" value="Garbert wohnt in seinem Häuschen in Tâl Bruinen, am Ufer des Flusses.&#10;&#10;Ihr habt in Erfahrung gebracht, welches Schicksal die drei Trolle Bert, Tom und Bill ereilt hat, und Ihr habt das Tal besucht, in dem sie zu Stein verwandelt wurden. Ihr solltet mit Euren Neuigkeiten zu Garbert zurückkehren."/>
-<label key="key:620795871:218649169" value="'With your discovery of Glorwen's bow, we are left with little but dire tidings in the search for her, but at least you have not come upon her gnawed bones, so we can be thankful for that.&#10;&#10;'Unfortunately, few Wargs are inclined or even able to speak the tongues of the Free Peoples, and I am afraid my own experience with their kind can be summed up entirely on the point of a yew shaft, so I have little insight to offer. I do not know how we might learn more of her fate from them.&#10;&#10;'Eywind's people lived up here for many years before they were driven out, and some few still linger. Perhaps he could offer more insight than I?'"/>
-<label key="key:620795871:218649170" value="'Well, while it is true that I've fought and slain many a Warg in my day, I have had little cause to speak with them beforehand.&#10;&#10;'But if my memory serves me a-right, there is a pair of brothers who have lived up in these mountains for quite some time as hunters and trappers. If anyone might have learned something about that pack, it would be them.&#10;&#10;'The last I heard, they were holed up in the ruins of Hrimbarg -- an old dwarf-place to the east and a bit south of here -- still pursuing their trade. If you can find them -- and they still live -- they might be able to tell you more.'"/>
-<label key="key:620795871:218649171" value="'So, this Thorgest told you of a means to pose a challenge to the leader of the Warg-pack?&#10;&#10;'It sounds to me like a novel means of having one's self ripped limb from limb by ravening Wargs, but if there is some chance that we might be able to learn something of Glorwen's whereabouts from this Blackfang, then perhaps it is worth the risk!'"/>
-<label key="key:620795871:218649172" value="'What do you want? Something about that pack up there to the north? I used to hunt the aurochs up that way, before I moved into the worm-scale business, and I learned a fair bit about them in order to stay alive. If you want to find one that will talk, that would be Blackfang, the pack-leader. A few others might know the tongue of Men, but they won't talk to you. It will be him that speaks for the pack and strikes bargains with the goblins -- but he won't speak to you either...unless you were to call him out.&#10;&#10;'You see, Wargs are big on strength and survival of the fittest and all that -- so while there is no way a pack would ever accept YOU as a leader, they would still look to the pack-leader to kill you if you laid down a challenge to his leadership, just to prove his strength. If he backed down or refused, he would lose face -- and for a Warg, that can be fatal.&#10;&#10;'The custom of challenge varies from pack to pack, but in this one it's simple. There is an old goblin totem in the middle of the ruins they live in -- you just go stand next to that for a few minutes and that signals you want a fight. Blackfang will have to come out and face you sooner or later or lose face with his pack. Of course, he's the pack-leader because he IS the strongest one up there, so you take care or he will tear you apart.'"/>
-<label key="key:620795871:228870261" value="Way of the Pack"/>
-<label key="key:620795871:54354734" value="Nogmeldis seeks to learn more about the Tempest Warg pack to the east in order to find some way to discover the whereabouts of the Elf-scout Glorwen."/>
-<label key="key:620795871:94621393" value="Eywind is at his camp with Nogmeldis, at the entrance to the High Pass.&#10;&#10;Nogmeldis suggested you speak with Eywind conerning the Wargs and what the dwarves know of them."/>
-<label key="key:620795871:94621394" value="The dwarf brothers are said to dwell at Hrimbarg, to the east and a bit south of Vindurhal.&#10;&#10;Eywind suggested you find the dwarf-brothers he spoke of and ask them what they know of the Wargs of the Misty Mountains."/>
-<label key="key:620795871:94621395" value="Nogmeldis is at Vindurhal, a little north and to the west of Hrimbarg.&#10;&#10;You should return to Nogmeldis and tell him what you have learned of the Wargs."/>
-<label key="key:620795896:136263297" value="Defeated Gauradan Wind-master (${NUMBER}/${TOTAL})"/>
-<label key="key:620795896:136263298" value="Defeated Gauradan Wolf-born (${NUMBER}/${TOTAL})"/>
-<label key="key:620795896:218649169" value="'Forgive my lack of manners, but I have been in better sorts. You try playing host to a sorry lot of adventurers that barge into your quiet home up in these remote heights, while you have a Gauradan arrow stuck in your leg....&#10;&#10;'Ah well. I'm not much one for company, but as you can see, I have fallen on hard times, so if you are willing to lend a hand, I suppose I would be obliged. You see, I lost the hunters that ambushed me out in that blizzard, but they've been sniffing around closer and closer to my little home here, trying to figure out where I went. If they find it and tell the others...well, that will be the end for old Thorgest, I'm afraid.&#10;&#10;'I know it's dangerous, but if you could see your way to making the lives of those hunters difficult -- and short -- it might discourage them from trying to hunt down this dwarf.'"/>
-<label key="key:620795896:218649170" value="'Thank you, ${PLAYER}. You have taken a great burden off of my mind, what with all that has happened lately. Did you happen to see my brother Thorkell while you were wandering about? No....&#10;&#10;'Oh, that's right, he's dead isn't he?&#10;&#10;'Sorry, I'm not in my right head...don't feel so good....'"/>
-<label key="key:620795896:22075073" value="Defeat Gauradan Wind-masters (${NUMBER}/${TOTAL})"/>
-<label key="key:620795896:22075074" value="Defeat Gauradan Wolf-born (${NUMBER}/${TOTAL})"/>
-<label key="key:620795896:228870261" value="Eliminating the Trail"/>
-<label key="key:620795896:54354734" value="The dwarf-trapper Thorgest was recently ambushed by Gauradan hunters who badly injured him. He is afraid that they may yet track him back to his cave."/>
-<label key="key:620795896:94621393" value="The Gauradan hunters can be found throughout the southern reaches of High-pass.&#10;&#10;Thorgest has asked you to throw the Gauradan hunters off his trail by defeating several of them before they find his dwelling."/>
-<label key="key:620795896:94621394" value="You should return to Thorgest at Hrimbarg in central High-pass and tell him that the Gauradan hunters have been defeated."/>
+<label key="key:620795871:218649169" value="'Da Ihr Glorwens Bogen gefunden habt, müssen wir bei unserer Suche nach ihr das Schlimmste befürchten. Immerhin habt Ihr nicht ihre angenagten Knochen gefunden, wofür wir dankbar sein können.&#10;&#10;Leider sind nur wenige Warge willens oder auch nur in der Lage, eine der Sprachen der Freien Völker zu sprechen, und ich fürchte, meine eigenen Erfahrungen mit ihresgleichen lassen sich gänzlich mit der Spitze eines Eibenstabes zusammenfassen, deshalb kann ich Euch nur wenig weiterhelfen. Ich weiß nicht, wie wir von ihnen mehr über Glorwens Schicksal in Erfahrung bringen könnten.&#10;&#10;Eywinds Volk lebte viele Jahre hier oben, bevor es vertrieben wurde, und manche sind immer noch hier. Vielleicht könnte er Euch mehr helfen als ich.'"/>
+<label key="key:620795871:218649170" value="'Nun, obwohl es stimmt, dass ich in meinem Leben gegen viele Warge gekämpft und viele getötet habe, so hatte ich doch bislang wenig Anlass, mit ihnen zu sprechen.&#10;&#10;Doch wenn ich mich recht entsinne, gibt es da ein Brüderpaar, das seit geraumer Zeit als Jäger und Fallensteller in diesen Bergen lebt. Wenn irgendjemand etwas über jenes Rudel wissen könnte, dann sie.&#10;&#10;Als ich das letzte Mal von ihnen gehört habe, waren sie in den Ruinen von Hrimbarg - einer alten Zwergenstätte östlich und ein wenig südlich von hier - und gingen immer noch ihren Geschäften nach. Wenn Ihr sie findet - und sie noch am Leben sind - könnten sie Euch vielleicht mehr sagen.'"/>
+<label key="key:620795871:218649171" value="'Nun, dieser Thorgest hat Euch erzählt, man könne den Anführer eines Warg-Rudels herausfordern?&#10;&#10;Hört sich für mich nach einer neuen Methode an, sich von hungrigen Wargen in Stücke reißen zu lassen, doch wenn es eine Möglichkeit gibt, von diesem Schwarzzahn etwas über Glorwens Aufenthaltsort in Erfahrung zu bringen, so ist es vielleicht das Risiko wert.'"/>
+<label key="key:620795871:218649172" value="'Was wollt Ihr? Geht es um dieses Rudel da oben im Norden? Ich habe früher dort oben Auerochsen gejagt, bevor ich in den Handel mit Wurmschuppen eingestiegen bin, und ich musste einiges über die Warge lernen, um am Leben zu bleiben. Wenn Ihr einen sucht, mit dem Ihr reden könnt, so solltet Ihr Euch an Schwarzzahn halten, den Leitwolf. Auch einige andere beherrschen die Sprache der Menschen, doch mit Euch werden sie nicht reden. Schwarzzahn ist es, der für das Rudel spricht und mit den Bilwissen verhandelt - doch er wird mit Euch auch nicht reden, es sei denn ... Ihr fordert ihn heraus.&#10;&#10;Wisst Ihr, für Warge ist das Überleben des Stärkeren wichtig. Zwar würde ein Rudel niemals EUCH als Anführer akzeptieren, wohl aber vom Rudelführer erwarten, dass er Euch tötet, wenn Ihr ihm seine Führungsrolle streitig macht, nur um seine Stärke unter Beweis zu stellen. Würde er kneifen oder ablehnen, so würde er das Gesicht verlieren - und für einen Warg kann das tödlich sein.&#10;&#10;Die Gebräuche unterscheiden sich von Rudel zu Rudel, aber bei diesem ist es ganz einfach. Inmitten der Ruinen, in denen sie hausen, steht ein altes Bilwiss-Totem - stellt Euch einfach einige Minuten lang daneben und zeigt so, dass Ihr kämpfen wollt. Früher oder später muss Schwarzzahn herauskommen und sich Euch stellen, wenn er vor seinem Rudel nicht das Gesicht verlieren will. Natürlich ist er der Rudelführer, WEIL er der Stärkste ist, also passt gut auf, oder er wird Euch in Stücke reißen.'"/>
+<label key="key:620795871:228870261" value="Der Pfad des Rudels"/>
+<label key="key:620795871:54354734" value="Nogmeldis möchte mehr über das Rudel der Sturm-Warge im Osten erfahren, um irgendwie die Elben-Späherin Glorwen zu finden."/>
+<label key="key:620795871:94621393" value="Eywind ist mit Nogmeldis in seinem Lager am Zugang zum Hohen Pass.&#10;&#10;Nogmeldis hat vorgeschlagen, dass Ihr mit Eywind über die Warge sprecht und darüber, was die Zwerge über sie wissen."/>
+<label key="key:620795871:94621394" value="Die Zwergenbrüder sollen in Hrimbarg hausen, östlich und ein wenig südlich von Vindurhal.&#10;&#10;Eywind hat vorgeschlagen, dass Ihr nach den Zwergenbrüdern sucht, die er erwähnt hat, und sie fragt, was sie über die Warge des Nebelgebirges wissen."/>
+<label key="key:620795871:94621395" value="Nogmeldis ist in Vindurhal, westlich und ein wenig nördlich von Hrimbarg.&#10;&#10;Ihr solltet zu Nogmeldis zurückkehren und ihm berichten, was Ihr über die Warge in Erfahrung gebracht habt."/>
+<label key="key:620795896:136263297" value="Anzahl besiegter Gauradan-Windmeister: ${NUMBER}/${TOTAL}"/>
+<label key="key:620795896:136263298" value="Anzahl besiegter Gauradan-Wolfsgeburten: ${NUMBER}/${TOTAL}"/>
+<label key="key:620795896:218649169" value="'Verzeiht mir meine Manieren, aber es ging mir auch schon mal besser. Versucht Ihr doch mal, für einen erbärmlichen Haufen Abenteurer in Eurem ruhigen Heim in diesen abgelegenen Höhen den Gastgeber zu spielen, wenn ein Gauradan-Pfeil in Eurem Bein steckt ...&#10;&#10;Nun gut. Ich bin sicher keine angenehme Gesellschaft, doch wie Ihr sehen könnt, meint es das Schicksal nicht gut mit mir. Wenn Ihr mir also helfen wollt, wäre ich Euch sehr verbunden. Wisst Ihr, ich habe die Jäger abgeschüttelt, die mich in jenem Eissturm überfallen haben, aber die schnüffeln immer näher und näher an meinem kleinen Zuhause hier herum und versuchen herauszufinden, wo ich geblieben bin. Wenn sie das herausbekommen und den anderen sagen, tja, dann war's das wohl mit dem guten alten Thorgest, fürchte ich.&#10;&#10;Ich weiß, es ist gefährlich, aber wenn Ihr diesen Jägern das Leben erschweren - und verkürzen - könntet, so würde sie das davon abbringen, einen einsamen Zwerg zu jagen und zur Strecke zu bringen.'"/>
+<label key="key:620795896:218649170" value="'Habt Dank, ${PLAYER}. Ihr habt eine große Last von meinen Schultern genommen, gerade wenn man bedenkt, was mir in letzter Zeit alles zugestoßen ist. Habt Ihr vielleicht auf Euren Streifzügen da draußen meinen Bruder Thorkell gesehen? Nein ...&#10;&#10;Ach, stimmt ja, er ist tot, nicht wahr?&#10;&#10;Tut mir leid, ich bin ein wenig durcheinander ... ich fühle mich nicht so gut ...'"/>
+<label key="key:620795896:22075073" value="Besiegt Gauradan-Windmeister (${NUMBER}/${TOTAL})."/>
+<label key="key:620795896:22075074" value="Besiegt Gauradan-Wolfsgeburten (${NUMBER}/${TOTAL})."/>
+<label key="key:620795896:228870261" value="Spuren verwischen"/>
+<label key="key:620795896:54354734" value="Der Zwergen-Fallensteller Thorgest wurde erst kürzlich von Gauradan-Jägern überfallen und schwer verwundet. Er hat Angst, dass sie ihn bis zu seiner Höhle verfolgen könnten."/>
+<label key="key:620795896:94621393" value="Die Gauradan-Jäger sind im südlichen Gebiets des Hohen Passes zu finden.&#10;&#10;Thorgest hat Euch gebeten, die Gauradan-Jäger von seiner Spur abzubringen, indem Ihr mehrere von ihnen tötet, bevor sie ihn finden."/>
+<label key="key:620795896:94621394" value="Ihr solltet zu Thorgest nach Hrimbarg gehen, das mitten am Hohen Pass liegt, und ihm sagen, dass die Gauradan-Jäger vernichtet wurden."/>
 <label key="key:620795897:136263297" value="Anzahl durchsuchter Gauradan-Körbe: ${NUMBER}/${TOTAL}"/>
 <label key="key:620795897:218649169" value="'Es ... es scheint, als hätten die Wolfsmenschen mich am Ende doch noch erledigt ... &#10;&#10;Mein Körper ist kalt wie Stein, und dieses lodernde Feuer hilft überhaupt nichts. Ihre Schamanen haben mich mit einem Fluch belegt, oder jener Pfeil war mit einem Gift versehen, das ich nicht kenne.&#10;&#10;Ich verstehe mich weder auf die Heilkunst - vom Richten gebrochener Knochen und Verbinden von Wunden einmal abgesehen -, noch bin ich wirklich Herr meiner Sinne. Wenn es sich um einen Fluch oder ein Gift handelt, so kann ich nur hoffen, dass Ihr in den Gauradan-Lagern ein Mittel dagegen findet. Bitte, ich flehe Euch an, versucht etwas zu finden, obschon ich Euch kaum sagen kann, wonach Ihr suchen sollt.'"/>
 <label key="key:620795897:218649170" value="'Was ist das denn? Ich ... Ich weiß nicht, was ich davon halten soll.&#10;&#10;Ich bin mit meiner Weisheit am Ende - wenn Ihr unter ihren Habseligkeiten nichts gefunden habt, um mich zu heilen, dann hat sich meine letzte Hoffnung zerschlagen.&#10;&#10;Verzeiht, ich habe keine Kraft mehr ... Ich muss jetzt schlafen und dem Schicksal vertrauen, dass ich wieder aufwachen werde ... Könnte doch nur mein Bruder hier sein, um über mich zu wachen ...'"/>

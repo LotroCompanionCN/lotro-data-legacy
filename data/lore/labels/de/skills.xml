@@ -141,7 +141,7 @@
 <label key="1879052848" value="Minimaler Streichschaden (Nahkampf)"/>
 <label key="1879052860" value="Bereichsschaden (Fernkampf)"/>
 <label key="1879052861" value="Induction Ranged Double"/>
-<label key="1879052881" value="Anmut der Eldar"/>
+<label key="1879052881" value="Neue Kraft"/>
 <label key="1879052895" value="Lied des hoffnungsvollen Herzens"/>
 <label key="1879052912" value="Hymne der Zauberer"/>
 <label key="1879052981" value="Spinne herbeirufen."/>
@@ -649,7 +649,7 @@
 <label key="1879073701" value="Schnitt"/>
 <label key="1879073702" value="Bewegliches Ziel"/>
 <label key="1879073703" value="1H-Waffen-Angriff"/>
-<label key="1879073710" value="Intimidating Shout"/>
+<label key="1879073710" value="Abschreckender Schrei"/>
 <label key="1879073711" value="Spalten"/>
 <label key="1879073712" value="Peitschenknall"/>
 <label key="1879073713" value="Auf die Füße!"/>
@@ -1621,7 +1621,7 @@
 <label key="key:620775012:228830419" value="Ein Lied, das Euren Gegner so einlullen kann, dass er andere Spieler erst dann entdeckt, wenn sie schon sehr nahe sind. Wirkt nicht gegen Monster, die bereits kämpfen."/>
 <label key="key:620775015:228830419" value="Stufe-2-Ballade: Eine schnelle Ballade, die Euren gesamten Resistenzen einen Bonus verleiht und Euren Gegner schädigt. Voraussetzung: Ballade der Stufe 1."/>
 <label key="key:620775017:228830419" value="Ihr habt die Begabung, Euch tot zu stellen, wodurch Eure Feinde Euch völlig ignorieren."/>
-<label key="key:620775020:228830419" value="Dieses Lied ermöglicht, dass Schaden sich auf Eure Kraft statt auf Eure Moral auswirkt, wenn dies entsprechend ausgewählt wird. Der Name weist auf die Sage hin, nach der alle, die dieses Lied gehört haben, sogar einen Schlag von Helm Hammerhand selbst überleben. Werdet Ihr betäubt oder zu Boden geschlagen, wird das Lied unetrbrochen."/>
+<label key="key:620775020:228830419" value="Dieses Lied ermöglicht, dass Schaden sich auf Eure Kraft statt auf Eure Moral auswirkt, wenn dies entsprechend ausgewählt wird. Der Name weist auf die Sage hin, nach der alle, die dieses Lied gehört haben, sogar einen Schlag von Helm Hammerhand selbst überleben. Werdet Ihr betäubt oder zu Boden geschlagen, wird das Lied unterbrochen."/>
 <label key="key:620775024:228830419" value="Glühend heiße Asche umwirbelt das Ziel, verursacht Schaden über einen gewissen Zeitraum hinweg und verlangsamt die Bewegung."/>
 <label key="key:620775027:228830419" value="Ihr versteht die Sprache der Raben und seid so in der Lage, einen Raben herbeizurufen, der Euch bei Euren Abenteuern zur Seite steht."/>
 <label key="key:620775032:228830419" value=".."/>
@@ -1759,7 +1759,7 @@
 <label key="key:620775401:228830419" value="Ein fegender Schnitt, der mehreren Zielen vor Euch Schaden zufügen kann."/>
 <label key="key:620775402:228830419" value="Eine kurze Zeitlang könnt Ihr den Angriffen Eures Feindes besser ausweichen."/>
 <label key="key:620775404:228830419" value="Automatischer Angriff, wenn Ihr nur eine einzige einhändige Waffe führt."/>
-<label key="key:620775406:228830419" value="A ferocious and terrifying battle roar to weaken the certainty and morale of your foe."/>
+<label key="key:620775406:228830419" value="Ein wilder und markerschütternder Kampfschrei schwächt die Sicherheit und Moral Eures Feindes."/>
 <label key="key:620775407:228830419" value="Ihr schwingt Eure Waffen in Richtung Eures Feindes."/>
 <label key="key:620775408:228830419" value="Euer beißender Spott verschafft Eurem beschämten Ziel mehr Lebensenergie."/>
 <label key="key:620775409:228830419" value="Ihr bellt einen barschen Befehl, der es bis zu fünf nahen und besiegten Verbündeten erlaubt, sich, wenn auch mit nur geringer Lebensenergie, zu erheben."/>

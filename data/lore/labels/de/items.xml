@@ -2521,7 +2521,7 @@
 <label key="1879054193" value="Angmarim-Schildständer"/>
 <label key="1879054194" value="Nahrungsmittel-Kiste"/>
 <label key="1879054207" value="Ongbúrz-Banner"/>
-<label key="1879054208" value="Blogmal Banner"/>
+<label key="1879054208" value="Blogmal-Banner"/>
 <label key="1879054209" value="Tarkrîp-Banner"/>
 <label key="1879054212" value="Uruk-Befehle"/>
 <label key="1879054215" value="Daervunns Schulterschützer"/>
@@ -16764,7 +16764,7 @@
 <label key="1879080462" value="Uralte Vase"/>
 <label key="1879080463" value="Platinader"/>
 <label key="1879080464" value="Uralte Eisenader"/>
-<label key="1879080465" value="Silberader im Nebelgebirge"/>
+<label key="1879080465" value="Nebelgebirge Silber-Erz"/>
 <label key="1879080521" value="Vorratskiste"/>
 <label key="1879080540" value="Stabile Kiste"/>
 <label key="1879080541" value="Truhe"/>
@@ -17813,9 +17813,9 @@
 <label key="1879088818" value="Rezept für Lauten-Saiten der größeren Unauffälligkeit"/>
 <label key="1879088820" value="Rezept für Lauten-Saiten der Unauffälligkeit"/>
 <label key="1879088821" value="Rezept für Lauten-Saiten der geringeren Unauffälligkeit"/>
-<label key="1879089013" value="Horn of Anor"/>
-<label key="1879089014" value="Scroll of Ruin"/>
-<label key="1879089015" value="Staff of Dark Shadows"/>
+<label key="1879089013" value="Horn von Arnor"/>
+<label key="1879089014" value="Schriftrolle des Ruins"/>
+<label key="1879089015" value="Stab der dunklen Schatten"/>
 <label key="1879089026" value="Büschel schlechter Doldenhopfen"/>
 <label key="1879089027" value="Grünberg-Hopfensaatgut"/>
 <label key="1879089028" value="Rezept für Frühlingsgersten-Feld"/>
@@ -17880,12 +17880,12 @@
 <label key="1879089121" value="Büschel schlechter Chetwaldstolz-Hopfen"/>
 <label key="1879089122" value="Gut gepflegtes Doldenhopfen-Feld"/>
 <label key="1879089135" value="Truhe des Kastellans"/>
-<label key="1879089136" value="Key to the Summoning Chamber"/>
+<label key="1879089136" value="Schlüssel zur Beschwörungskammer"/>
 <label key="1879089143" value="Truhenschlüssel des Kastellans"/>
 <label key="1879089207" value="Verdorrtes Pergament"/>
 <label key="1879089208" value="Verdorrtes Pergament"/>
 <label key="1879089209" value="Verdorrtes Pergament"/>
-<label key="1879089210" value="Scrawled Page"/>
+<label key="1879089210" value="Bekritzelte Seite"/>
 <label key="1879089299" value="Topf mit wildem Honig und Hafer"/>
 <label key="1879089311" value="Topf mit Honig und Hafer"/>
 <label key="1879089312" value="Topf mit feinem Honig und Hafer"/>
@@ -18622,22 +18622,22 @@
 <label key="1879091377" value="Saphirsplitter"/>
 <label key="1879091378" value="Rubinsplitter"/>
 <label key="1879091379" value="Adamantsplitter"/>
-<label key="1879091391" value="Song Resistance Boost (Rank 2)"/>
+<label key="1879091391" value="Verbesserung: physische Resistenz (Stufe 2)"/>
 <label key="1879091392" value="Schaden für Lebensenergie (Stufe 2)"/>
 <label key="1879091393" value="Schaden für Kraft (Stufe 2)"/>
 <label key="1879091394" value="Lebensenergie für Schaden (Stufe 2)"/>
 <label key="1879091395" value="Lebensenergie für Kraft (Stufe 2)"/>
 <label key="1879091396" value="Kraft für Schaden (Stufe 2)"/>
 <label key="1879091397" value="Kraft für Lebensenergie (Stufe 2)"/>
-<label key="1879091398" value="Ancient Dwarf Mitigation Boost (Rank 2)"/>
-<label key="1879091399" value="Beleriand Mitigation Boost (Rank 2)"/>
-<label key="1879091400" value="Common Mitigation Boost (Rank 2)"/>
-<label key="1879091401" value="Fire Mitigation Boost (Rank 2)"/>
-<label key="1879091402" value="Light Mitigation Boost (Rank 2)"/>
-<label key="1879091403" value="Westernesse Mitigation Boost (Rank 2)"/>
-<label key="1879091404" value="Cry Resistance Boost (Rank 2)"/>
-<label key="1879091405" value="Tactical Resistance Boost (Rank 2)"/>
-<label key="1879091406" value="Physical Resistance Boost (Rank 2)"/>
+<label key="1879091398" value="Verbesserung: allgemeine Schadensminderung (Stufe 2)"/>
+<label key="1879091399" value="Verbesserung: Feuerlinderung (Stufe 2)"/>
+<label key="1879091400" value="Verbesserung: Lichtlinderung (Stufe 2)"/>
+<label key="1879091401" value="Verbesserung: Schadensreduzierung gegen uralte Zwergenwaffen (Stufe 2)"/>
+<label key="1879091402" value="Verbesserung: Schadensreduzierung gegen Beleriand-Waffen (Stufe 2)"/>
+<label key="1879091403" value="Verbesserung: Schadensreduzierung gegen Westernis-Waffen (Stufe 2)"/>
+<label key="1879091404" value="Verbesserung: Liedresistenz (Stufe 2)"/>
+<label key="1879091405" value="Verbesserung: Schreiresistenz (Stufe 2)"/>
+<label key="1879091406" value="Verbesserung: Magieresistenz (Stufe 2)"/>
 <label key="1879091409" value="Reputation Test Item"/>
 <label key="1879091411" value="Karte von Esteldín"/>
 <label key="1879091416" value="Rezept für polierte schnelle Falle"/>
@@ -19306,7 +19306,7 @@
 <label key="1879095113" value="Blättriger Busch"/>
 <label key="1879095114" value="Verschlossene Tür"/>
 <label key="1879095115" value="Aufgebrochene Kiste"/>
-<label key="1879095117" value="Gewaltigee Fußabdruck"/>
+<label key="1879095117" value="Gewaltiger Fußabdruck"/>
 <label key="1879095118" value="Fischernetz"/>
 <label key="1879095119" value="Fischernetz"/>
 <label key="1879095120" value="Felswurmei"/>
@@ -21766,7 +21766,7 @@
 <label key="1879102173" value="Candelleths Klinge"/>
 <label key="1879102174" value="Indors Klinge"/>
 <label key="1879102175" value="Straßenspalter"/>
-<label key="1879102176" value="Garbert Family Club"/>
+<label key="1879102176" value="Keule der Familie Garbert"/>
 <label key="1879102177" value="Candelleths Hammer"/>
 <label key="1879102178" value="Tongannels Freude"/>
 <label key="1879102179" value="Muildirs Messer"/>
@@ -21891,12 +21891,12 @@
 <label key="1879102681" value="Filigodringor"/>
 <label key="1879110743" value="Ettendeep's Bane"/>
 <label key="1879111444" value="Carbuncle Earring"/>
-<label key="1879115221" value="Plaque of Echad Garthadir"/>
-<label key="1879115222" value="Plaque of Clorhir"/>
-<label key="1879115223" value="Plaque of Tirband"/>
-<label key="1879115225" value="Plaque of Ariant"/>
-<label key="1879115226" value="Plaque of Menelband"/>
-<label key="1879115227" value="Plaque of Minathranc"/>
+<label key="1879115221" value="Tafel von Echad Garthadir"/>
+<label key="1879115222" value="Tafel von Clorhir"/>
+<label key="1879115223" value="Tafel von Tirband"/>
+<label key="1879115225" value="Tafel von Ariant"/>
+<label key="1879115226" value="Tafel von Menelband"/>
+<label key="1879115227" value="Tafel von Minathranc"/>
 <label key="key:620757454:100083276" value="Geld"/>
 <label key="key:620757454:203761950" value="Ein Stapel Münzen"/>
 <label key="key:620757516:54354734" value="Ein Brief"/>
@@ -23060,7 +23060,7 @@
 <label key="key:620760771:98907573" value="Blogmal-Insignien"/>
 <label key="key:620760780:54354734" value="Ein Banner, das den Ork-Stamm der Ongbúrz symbolisiert."/>
 <label key="key:620760780:98907573" value="..."/>
-<label key="key:620760781:54354734" value="A banner symbolizing the Blogmal tribe of orcs."/>
+<label key="key:620760781:54354734" value="Ein Banner, das den Ork-Stamm der Blogthop symbolisiert."/>
 <label key="key:620760781:98907573" value="..."/>
 <label key="key:620760782:54354734" value="Ein Banner, das den Ork-Stamm der Tarkrîp symbolisiert."/>
 <label key="key:620760782:98907573" value="..."/>
@@ -32036,12 +32036,12 @@
 <label key="key:620790951:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Gesellen der Kochkunst."/>
 <label key="key:620790952:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Kochkunst."/>
 <label key="key:620790953:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Kochkunst."/>
-<label key="key:620791077:54354734" value="Reading the Scroll of Ruin within the bounds of sigil against Rogmul forces the creature to cease its attempt to garner strength from fire exposing it to a more powerful attack.&#10;&#10;The scroll must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
-<label key="key:620791077:98907573" value="Scrolls of Ruin"/>
-<label key="key:620791078:54354734" value="Focusing the Staff of Dark Shadows within the bounds of a sigil against Rogmul denies its ability to strike its foes down with the power of Shadow.&#10;&#10;The staff must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
-<label key="key:620791078:98907573" value="Staves of Dark Shadows"/>
-<label key="key:620791079:54354734" value="Blowing the Horn of Anor within the bounds of a sigil against Rogmul briefly severs the Rogmul's connection to flame disabling its ability to summon fire to destroy his enemies.&#10;&#10;The horn must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
-<label key="key:620791079:98907573" value="Horns of Anor"/>
+<label key="key:620791077:54354734" value="Wird die Schriftrolle des Ruins innerhalb der Grenzen eines Siegels gegen Rogmul gelesen, zwingt dies die Kreatur dazu, ihren Versuch, Kraft aus dem Feuer zu ziehen, abzubrechen, so dass sie einem wirkungsvolleren Angriff ausgesetzt ist.&#10;&#10;Die Schriftrolle darf Barad Gularan niemals verlassen. Sollten unsere Feinde versuchen sie zu entfernen, wird ein Bannzauber sie zerstören."/>
+<label key="key:620791077:98907573" value="Schriftrollen des Ruins"/>
+<label key="key:620791078:54354734" value="Wird der Stab der dunklen Schatten innerhalb der Grenzen eines Siegels gegen Rogmul eingesetzt, neutralisiert dies die Fähigkeit der Kreatur, Gegner mit der Macht des Schattens niederzustrecken.&#10;&#10;Der Stab darf Barad Gularan niemals verlassen. Sollten unsere Feinde versuchen ihn zu entfernen, wird ein Bannzauber ihn zerstören."/>
+<label key="key:620791078:98907573" value="Stäbe der dunklen Schatten"/>
+<label key="key:620791079:54354734" value="Wird das Horn von Arnor innerhalb der Grenzen eines Siegels gegen Rogmul geblasen, unterbricht dies kurz die Verbindung des Rogmuls mit der Flamme, sodass er nicht mehr das Feuer anrufen und damit seine Feinde vernichten kann.&#10;&#10;Das Horn darf Barad Gularan niemals verlassen. Sollten unsere Feinde versuchen es zu entfernen, wird ein Bannzauber es zerstören."/>
+<label key="key:620791079:98907573" value="Hörner von Arnor"/>
 <label key="key:620791082:54354734" value="Ein kleines Gerstenfeld"/>
 <label key="key:620791083:54354734" value="Ein kleines Gerstenfeld"/>
 <label key="key:620791084:54354734" value="Ein Büschel Gerste, die nur als Saatgut zu gebrauchen ist."/>
@@ -32133,7 +32133,7 @@
 <label key="key:620791142:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Experten der Landwirtschaft."/>
 <label key="key:620791143:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Landwirtschaft."/>
 <label key="key:620791144:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Lehrlinge der Landwirtschaft."/>
-<label key="key:620791145:54354734" value="This key opens the door between the central arcade and the summoning chamber within Barad Gularan.&#10;&#10;The key must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791145:54354734" value="Dieser Schlüssel öffnet die Tür zwischen dem zentralen Säulengang und der Beschwörungskammer in Barad Gularan.&#10;&#10;Dieser Schlüssel darf Barad Gularan niemals verlassen. Sollten unsere Feinde versuchen ihn zu entfernen, wird ein Bannzauber ihn zerstören."/>
 <label key="key:620791145:98907573" value="..."/>
 <label key="key:620791148:54354734" value="Diese Truhe enthält persönliche Gegenstände des Kastellans von Barad Gularan."/>
 <label key="key:620791150:54354734" value="Dieser Schlüssel öffnet die Truhe im Sonnenraum in Barad Gularan."/>
@@ -32954,16 +32954,16 @@
 <label key="key:620792447:98907573" value="Rubinsplitter"/>
 <label key="key:620792456:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
 <label key="key:620792457:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
-<label key="key:620792458:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792459:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792460:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792461:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792462:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792463:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792464:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792465:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792466:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792467:54354734" value="An item granting a Corruption Trait."/>
+<label key="key:620792458:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792459:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792460:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792461:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792462:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792463:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792464:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792465:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792466:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
+<label key="key:620792467:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
 <label key="key:620792468:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
 <label key="key:620792469:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
 <label key="key:620792470:54354734" value="Ein Gegenstand, der \qAspekt bevorzugen\q ermöglicht."/>
@@ -34803,7 +34803,7 @@
 <label key="key:620799907:106251889" value="Reduziert die Bedrohung im Fernkampf."/>
 <label key="key:620799909:54354734" value="Thorkell kann nun in Frieden ruhen."/>
 <label key="key:620799914:54354734" value="Candelleth fleht Euch an, ihre Klinge für die Jagd auf die Angmarim zu nutzen."/>
-<label key="key:620799916:54354734" value="A great heirloom of the house of Garbert, or so its presenter tells you."/>
+<label key="key:620799916:54354734" value="Ein großartiges Erbstück der Garberts, zumindest wenn man den Worten des Anbieters glauben darf."/>
 <label key="key:620799918:106251890" value="Verringert geringfügig die Anwendungsverzögerung für Fernkampf-Fertigkeiten."/>
 <label key="key:620799919:54354734" value="Ein feiner Elbendolch, den Ihr für Eure Kundschafterdienste am Tor von Delossad erhalten habt."/>
 <label key="key:620799937:54354734" value="Benannt nach Eurer fortwährenden Kampagne gegen die Angmarim"/>
@@ -34888,16 +34888,16 @@
 <label key="key:620800234:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
 <label key="key:620800235:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
 <label key="key:620800236:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620809118:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809118:54354734" value="Eine Markierungstafel aus den Ruinen von Annúminas."/>
 <label key="key:620809118:98907573" value="..."/>
-<label key="key:620809119:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809119:54354734" value="Eine Markierungstafel aus den Ruinen von Annúminas."/>
 <label key="key:620809119:98907573" value="..."/>
-<label key="key:620809120:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809120:54354734" value="Eine Markierungstafel aus den Ruinen von Annúminas."/>
 <label key="key:620809120:98907573" value="..."/>
-<label key="key:620809121:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809121:54354734" value="Eine Markierungstafel aus den Ruinen von Annúminas."/>
 <label key="key:620809121:98907573" value="..."/>
-<label key="key:620809123:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809123:54354734" value="Eine Markierungstafel aus den Ruinen von Annúminas."/>
 <label key="key:620809123:98907573" value="..."/>
-<label key="key:620809124:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809124:54354734" value="Eine Markierungstafel aus den Ruinen von Annúminas."/>
 <label key="key:620809124:98907573" value="..."/>
 </labels>

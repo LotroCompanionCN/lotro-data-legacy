@@ -485,14 +485,14 @@
 <label key="268442489" value="к перезарядке умений, возвращающих павшего духом в строй"/>
 <label key="268442490" value="к перезарядке песен"/>
 <label key="268442491" value="к перезарядке песен"/>
-<label key="268442658" value="Low Cut Duration"/>
-<label key="268442659" value="Hide In Plain Sight Recovery Time"/>
-<label key="268442663" value="Last Stand Recovery Time"/>
-<label key="268442666" value="Healing Power Cost"/>
-<label key="268442668" value="Hamstring Duration"/>
-<label key="268442670" value="Test of Will Critical Chance"/>
-<label key="268442673" value="Turn the Tables Recovery Time"/>
-<label key="268442674" value="Thrill of Danger Recovery Time"/>
-<label key="268442679" value="Heart Seeker Recovery Time"/>
-<label key="268442916" value="Can not be detected"/>
+<label key="268442658" value="Длительность 'Перерезанных сухожилий'"/>
+<label key="268442659" value="Время восстановления 'С глаз долой'"/>
+<label key="268442663" value="Время восстановления 'Последней надежды'"/>
+<label key="268442666" value="Расход энергии на лечение"/>
+<label key="268442668" value="Длительность 'Перерезанных поджилок'"/>
+<label key="268442670" value="Вероятность критического эффекта 'Испытания воли'"/>
+<label key="268442673" value="Время восстановления 'Обмена ролями'"/>
+<label key="268442674" value="Время восстановления 'Наслаждения опасностью'"/>
+<label key="268442679" value="Время восстановления 'Выстрела в сердце'"/>
+<label key="268442916" value="Невозможно заметить"/>
 </labels>

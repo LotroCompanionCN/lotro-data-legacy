@@ -1492,12 +1492,12 @@
 <label key="1879095685" value="Дрожащая камера"/>
 <label key="1879095698" value="Ярость клятвопреступника"/>
 <label key="1879095699" value="Ярость клятвопреступника"/>
-<label key="1879095722" value="Аура леденящей стойкости"/>
-<label key="1879095723" value="Аура леденящей ярости"/>
-<label key="1879095724" value="Аура леденящей решимости"/>
-<label key="1879095725" value="Ледяная выносливость"/>
-<label key="1879095726" value="Леденящая ярость"/>
-<label key="1879095727" value="Ледяная решимость"/>
+<label key="1879095722" value="Аура Хладной стойкости"/>
+<label key="1879095723" value="Аура Хладной ярости"/>
+<label key="1879095724" value="Аура Хладной решимости"/>
+<label key="1879095725" value="Хладная стойкость"/>
+<label key="1879095726" value="Хладная ярость"/>
+<label key="1879095727" value="Хладная решимость"/>
 <label key="1879095831" value="Приток пустоты"/>
 <label key="1879095832" value="Жестокая рана"/>
 <label key="1879095833" value="Призванный приспешник"/>
@@ -1611,39 +1611,39 @@
 <label key="1879097795" value="Уязвимость к огню"/>
 <label key="1879097796" value="Защитное пламя"/>
 <label key="1879097822" value="Loremaster Temporary Analyze Skill Effect"/>
-<label key="1879097823" value="Восстановление ледяной нежити"/>
-<label key="1879097862" value="Get a Grip!"/>
-<label key="1879097864" value="Pack Hunters"/>
-<label key="1879097867" value="Blood of Fire"/>
-<label key="1879097869" value="Dying Rage"/>
-<label key="1879097870" value="Fury's Price"/>
-<label key="1879097872" value="Born of Shadow[e]"/>
-<label key="1879097875" value="Imposing Presence"/>
-<label key="1879097876" value="Born of Shadow"/>
-<label key="1879097877" value="Shadow Aura"/>
+<label key="1879097823" value="Хладное восстановление"/>
+<label key="1879097862" value="А ну, за дело!"/>
+<label key="1879097864" value="Охота в стае"/>
+<label key="1879097867" value="Огонь в крови"/>
+<label key="1879097869" value="Предсмертная ярость"/>
+<label key="1879097870" value="Цена ярости"/>
+<label key="1879097872" value="Порождение тьмы[e]"/>
+<label key="1879097875" value="Присутствие вожака"/>
+<label key="1879097876" value="Порождение Тьмы"/>
+<label key="1879097877" value="Аура Тьмы"/>
 <label key="1879097882" value="В атаку!"/>
 <label key="1879097886" value="Вот ты где!"/>
 <label key="1879097897" value=".."/>
 <label key="1879097901" value="Молодые пауки"/>
 <label key="1879097902" value="Тяжелая паутина"/>
-<label key="1879097956" value="Immunity"/>
-<label key="1879097959" value="Restored Health"/>
-<label key="1879097960" value="Increased Power"/>
-<label key="1879097961" value="Increased Power"/>
-<label key="1879097962" value="Increased Power"/>
-<label key="1879097963" value="Strengthened Hide"/>
-<label key="1879097964" value="Hardened Hide"/>
-<label key="1879097965" value="Troll-like Hide"/>
-<label key="1879097966" value="Quick Movements"/>
-<label key="1879097967" value="Fluid Movements"/>
-<label key="1879097968" value="Elusive Movements"/>
-<label key="1879097969" value="Speed of the Wolf"/>
-<label key="1879097970" value="Speed of the Warg"/>
-<label key="1879097971" value="Speed of the Pack"/>
-<label key="1879097972" value="Mazauk's Blessing"/>
-<label key="1879097973" value="Mazauk's Grace"/>
-<label key="1879097974" value="Gorgoris' Blessing"/>
-<label key="1879097975" value="Gorgoris' Grace"/>
+<label key="1879097956" value="Неуязвимость"/>
+<label key="1879097959" value="Восстановленное здоровье"/>
+<label key="1879097960" value="Повышенная энергия"/>
+<label key="1879097961" value="Повышенная энергия"/>
+<label key="1879097962" value="Повышенная энергия"/>
+<label key="1879097963" value="Крепкая шкура"/>
+<label key="1879097964" value="Костяная шкура"/>
+<label key="1879097965" value="Троллья шкура"/>
+<label key="1879097966" value="Быстрые движения"/>
+<label key="1879097967" value="Ускоренные движения"/>
+<label key="1879097968" value="Неуловимые движения"/>
+<label key="1879097969" value="Быстрота волка"/>
+<label key="1879097970" value="Быстрота варга"/>
+<label key="1879097971" value="Быстрота стаи"/>
+<label key="1879097972" value="Снисходительность Мазаука"/>
+<label key="1879097973" value="Милость Мазаука"/>
+<label key="1879097974" value="Снисходительность Горгорис"/>
+<label key="1879097975" value="Милость Горгорис"/>
 <label key="1879098038" value="Рассеять Тьму"/>
 <label key="1879098101" value="Огненная плеть"/>
 <label key="1879098108" value="Парение"/>
@@ -1716,7 +1716,7 @@
 <label key="1879101639" value="Отвлечение внимания"/>
 <label key="1879101732" value="Молодые пауки"/>
 <label key="1879101733" value="Знамя Ужаса"/>
-<label key="1879101734" value="Командный пост"/>
+<label key="1879101734" value="Штандарт вожака"/>
 <label key="1879101761" value="Спешивание..."/>
 <label key="1879101762" value="Спешивание..."/>
 <label key="1879101801" value="Щедрость природы"/>
@@ -1751,16 +1751,16 @@
 <label key="1879102276" value="Применить призрачное оглушение"/>
 <label key="1879102277" value="Подсказка о Гуртуле"/>
 <label key="1879102280" value="Крик сокола"/>
-<label key="1879102518" value="Increased Morale"/>
-<label key="1879102519" value="Increased Morale"/>
-<label key="1879102520" value="Increased Morale"/>
-<label key="1879102521" value="Increased Power"/>
-<label key="1879102522" value="Increased Power"/>
-<label key="1879102523" value="Increased Power"/>
-<label key="1879103773" value="Induce Rooted"/>
-<label key="1879103782" value="Eyes of Unnerving"/>
-<label key="1879103966" value="Immunity"/>
-<label key="1879117443" value="Dying Rage"/>
+<label key="1879102518" value="Повышенный боевой дух"/>
+<label key="1879102519" value="Повышенный боевой дух"/>
+<label key="1879102520" value="Повышенный боевой дух"/>
+<label key="1879102521" value="Повышенная энергия"/>
+<label key="1879102522" value="Повышенная энергия"/>
+<label key="1879102523" value="Повышенная энергия"/>
+<label key="1879103773" value="Поставить в корни"/>
+<label key="1879103782" value="Ужасающий взгляд"/>
+<label key="1879103966" value="Неуязвимость"/>
+<label key="1879117443" value="Предсмертная ярость"/>
 <label key="key:620757391:181298206" value="При экипировке: Незначительно повышается вероятность попадания по врагу."/>
 <label key="key:620757393:181298206" value="При экипировке: Незначительно повышается вероятность попадания по врагу."/>
 <label key="key:620757396:181298206" value="При экипировке: -5% к блокированию противником автоатак."/>
@@ -2256,7 +2256,7 @@
 <label key="key:620789473:106251889" value="Скорость движения снижается на 30%"/>
 <label key="key:620789802:106251890" value="+${PERCENTVALUE} к набору угрозы"/>
 <label key="key:620789867:54354734" value="Призывает хозяина, находящегося недалеко от врага, вступить в бой."/>
-<label key="key:620789896:106251889" value="Добавляет 9% к вероятности критического успеха любого рецепта. Отменяет эффекты всех прочих ученых свитков."/>
+<label key="key:620789896:106251889" value="Добавляет 9% к вероятности критического успеха любого рецепта, в дополнение к эффектам других свитков ученого."/>
 <label key="key:620789918:106251889" value="+${PERCENTVALUE} к скорости бега"/>
 <label key="key:620789930:106251889" value="+${PERCENTVALUE} к скорости бега"/>
 <label key="key:620789949:106251889" value="+${VALUE} к силе"/>
@@ -2277,7 +2277,7 @@
 <label key="key:620790233:54354734" value="Призывает приспешников, находящихся недалеко от врага, вступить в бой."/>
 <label key="key:620790238:54354734" value="Приказывает друзьям атаковать врага, на которого действует этот эффект."/>
 <label key="key:620790243:54354734" value="Гаурадан становится сильнее вблизи восставшего волка."/>
-<label key="key:620790283:106251889" value="+${PERCENTVALUE} к урону."/>
+<label key="key:620790283:106251889" value="+${PERCENTVALUE} к урону"/>
 <label key="key:620790285:106251889" value="+${VALUE} к броне."/>
 <label key="key:620790288:106251889" value="+${PERCENTVALUE} к исцелению."/>
 <label key="key:620790289:54354734" value="Добавляет 1 ед. Боевого пыла каждые 15 секунд"/>
@@ -2470,12 +2470,12 @@
 <label key="key:620795456:54354734" value=".."/>
 <label key="key:620795518:106251889" value="-3% к сопротивлению Песням и Кличам"/>
 <label key="key:620795519:54354734" value="-3% к сопротивлению Песням и Кличам"/>
-<label key="key:620795524:54354734" value="Под знаменем решимости предводителя леденящей нежити невозможно сбить с ног, оглушить или поразить комбо-приемом."/>
-<label key="key:620795525:54354734" value="Пока дракон стоит неподвижно его невозможно сбить с ног, оглушить или поразить комбо-приемом."/>
-<label key="key:620795526:54354734" value="Поверженное умертвие испустило облако болезненных миазмов, и вы вдохнули их слишком много."/>
-<label key="key:620795527:54354734" value="Чумное дыхание умертвия заразило вас."/>
-<label key="key:620795528:54354734" value="Под знаменем стойкости предводитель леденящей нежити обладает, похоже, неистощимым боевым духом."/>
-<label key="key:620795529:54354734" value="Под знаменем ярости предводитель леденящей нежити обладает невероятной силой."/>
+<label key="key:620795524:54354734" value="Под знаменем решимости предводителя хладных мертвецов невозможно сбить с ног, оглушить или поразить комбо-приемом."/>
+<label key="key:620795525:54354734" value="Решимость хладных мертвецов делает их неуязвимыми перед комбо-приемами."/>
+<label key="key:620795526:54354734" value="Благодаря необычайной стойкости хладные мертвецы быстро оправляются от ран."/>
+<label key="key:620795527:54354734" value="Ярость хладных мертвецов повышает скорость и силу их атак."/>
+<label key="key:620795528:54354734" value="Под знаменем стойкости предводитель хладных мертвецов обладает, похоже, неистощимым боевым духом."/>
+<label key="key:620795529:54354734" value="Под знаменем ярости предводитель хладных мертвецов обладает невероятной силой."/>
 <label key="key:620795594:54354734" value="Существо услышало зов собратьев и скоро присоединится к их ритуалу."/>
 <label key="key:620795644:54354734" value="Барз навлек на себя гнев Зурма"/>
 <label key="key:620795645:54354734" value="Зурм навлек на себя гнев Барза."/>
@@ -2538,24 +2538,24 @@
 <label key="key:620796392:181298206" value="Призывает спутника-ящера"/>
 <label key="key:620796400:54354734" value="Уменьшает защиту от огня. Накапливаемый эффект."/>
 <label key="key:620796401:54354734" value="Навстречу атакующим вырывается жаркое пламя, защищающее того, кто скрывается в его сердце."/>
-<label key="key:620796415:54354734" value="Под воздействием этого эффекта ледяная нежить быстрее восполняет боевой дух."/>
-<label key="key:620796452:181298206" value="Damages attackers."/>
-<label key="key:620796452:54354734" value="Attackers beware the fury of the orcs. It burns so deeply that those attacking the orc will feel the wrath of the orc's blood."/>
-<label key="key:620796455:106251893" value="You become immune to Stun, Daze, Knockdown and Fear effects for the duration of this skill."/>
-<label key="key:620796455:54354734" value="Fury overwhlems you and you spend the last vestige of your battlefury to conquer your enemies."/>
-<label key="key:620796456:54354734" value="Unleashing the rage within you comes with a hefty price."/>
-<label key="key:620796464:54354734" value="Your presence inspires those beneath you."/>
-<label key="key:620796465:54354734" value="Light is swallowed by the spider's tie to darkness and shadow."/>
-<label key="key:620796466:181298206" value="Damages attackers."/>
-<label key="key:620796466:54354734" value="Attackers will soon learn that your tie to the shadow gives you great strength."/>
+<label key="key:620796415:54354734" value="Под воздействием этого эффекта хладные мертвецы быстрее восполняют боевой дух."/>
+<label key="key:620796452:181298206" value="Наносит урон атакующим."/>
+<label key="key:620796452:54354734" value="Ярость орков внушает ужас врагам. Она так велика, что в крови их огнем пылает гнев."/>
+<label key="key:620796455:106251893" value="На время действия этого умения вы становитесь неуязвимы к оглушению, ошеломлению, откидыванию и страху."/>
+<label key="key:620796455:54354734" value="Ярость переполняет вас. Весь свой гнев без остатка вы направляете на то, чтобы сокрушить врага."/>
+<label key="key:620796456:54354734" value="Ярость дорого вам обходится."/>
+<label key="key:620796464:54354734" value="Ваше присутствие воодушевляет подчиненных."/>
+<label key="key:620796465:54354734" value="Паук - порождение теней и Тьмы, а потому поглощает Свет."/>
+<label key="key:620796466:181298206" value="Наносит урон атакующим."/>
+<label key="key:620796466:54354734" value="Скоро враги узнают невероятную силу, которую дает вам Тьма."/>
 <label key="key:620796470:106251890" value="Во время атакующего рывка вы не можете менять стойки."/>
 <label key="key:620796470:54354734" value="Скорость бега существенно увеличивается. Вы неуязвимы для обездвиживания, ошеломления и оглушения."/>
 <label key="key:620796474:54354734" value="Вы лучше замечаете скрывающихся противников."/>
 <label key="key:620796482:54354734" value=".."/>
 <label key="key:620796491:106251889" value="Замедляет движения на 40%"/>
 <label key="key:620796491:54354734" value="Паучья паутина замедляет движения."/>
-<label key="key:620796505:106251889" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
-<label key="key:620796505:54354734" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
+<label key="key:620796505:106251889" value="На короткое время вы становитесь неуязвимы для ошеломления, оглушения, сбивания с ног, страха и корней."/>
+<label key="key:620796505:54354734" value="На короткое время вы становитесь неуязвимы для ошеломления, оглушения, сбивания с ног, страха и корней."/>
 <label key="key:620796679:181298206" value="Рассеять Тьму: Вероятность частичного поглощения урона Тьмой."/>
 <label key="key:620796679:54354734" value="Повышенная вероятность поглощения урона Тьмой."/>
 <label key="key:620796685:181298206" value="Вероятность отразить часть урона на нападающего в форме урона огнем."/>
@@ -2592,7 +2592,7 @@
 <label key="key:620799392:181298206" value="Возвращение домой: ${DESTINATION}."/>
 <label key="key:620799394:181298206" value="Возвращение в дом содружества: ${DESTINATION}."/>
 <label key="key:620799557:181298206" value="Вы помещаете Знамя Ужаса на поле битвы."/>
-<label key="key:620799559:181298206" value="Вы разворачиваете на поле боя командный пост."/>
+<label key="key:620799559:181298206" value="Вы помещаете Штандарт вожака на поле боя."/>
 <label key="key:620799561:54354734" value="Коконы с яйцами, окруженные паучьим ядом, быстро развиваются."/>
 <label key="key:620799586:54354734" value="Вы спешитесь"/>
 <label key="key:620799587:54354734" value="Вы спешитесь"/>
@@ -2600,10 +2600,10 @@
 <label key="key:620799667:54354734" value="Начинающий всадник"/>
 <label key="key:620799781:54354734" value="Из-под земли вырывается корень и отбрасывает вас ближе к противнику."/>
 <label key="key:620799982:181298206" value="Снимает с цели все виды неуязвимости"/>
-<label key="key:620800568:54354734" value="Damage dealt to the marked target is increased from all sources."/>
-<label key="key:620801140:181298206" value="Roots for up to 16s"/>
-<label key="key:620801145:54354734" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
-<label key="key:620801689:106251890" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
-<label key="key:620801689:54354734" value="You are immune to all negative combat states."/>
-<label key="key:620811020:54354734" value="Offensive skills are reset."/>
+<label key="key:620800568:54354734" value="Отмеченная цель получает повышенный урон от любых ударов и всех атакующих."/>
+<label key="key:620801140:181298206" value="Пригвождает к земле на время до 16 сек."/>
+<label key="key:620801145:54354734" value="Ваш взгляд так страшен, что поле боя охватывает ужас."/>
+<label key="key:620801689:106251890" value="На короткое время вы становитесь неуязвимы для ошеломления, оглушения, сбивания с ног, страха и корней."/>
+<label key="key:620801689:54354734" value="Вы неуязвимы ко всем негативным боевым состояниям."/>
+<label key="key:620811020:54354734" value="Вса атакующие умения восстановлены."/>
 </labels>

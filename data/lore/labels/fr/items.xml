@@ -2521,7 +2521,7 @@
 <label key="1879054193" value="Râtelier de boucliers des Angmarim"/>
 <label key="1879054194" value="Caisse de nourriture"/>
 <label key="1879054207" value="Bannière des Ongbûrz"/>
-<label key="1879054208" value="Blogmal Banner"/>
+<label key="1879054208" value="Bannière des Blogmal"/>
 <label key="1879054209" value="Bannière des Tarkrîp"/>
 <label key="1879054212" value="Ordres d'ourouk"/>
 <label key="1879054215" value="Spalières de Daervunn"/>
@@ -17813,9 +17813,9 @@
 <label key="1879088818" value="Méthode de préparation de cordes de luth de grande subtilité"/>
 <label key="1879088820" value="Méthode de préparation de cordes de luth de subtilité"/>
 <label key="1879088821" value="Méthode de préparation de cordes de luth de subtilité modérée"/>
-<label key="1879089013" value="Horn of Anor"/>
-<label key="1879089014" value="Scroll of Ruin"/>
-<label key="1879089015" value="Staff of Dark Shadows"/>
+<label key="1879089013" value="Cor d'Anor"/>
+<label key="1879089014" value="Parchemin de Ruine"/>
+<label key="1879089015" value="Bâton des Ombres noires"/>
 <label key="1879089026" value="Boisseau gâté de houblon d'ombelle"/>
 <label key="1879089027" value="Semence de houblon des Collines Vertes"/>
 <label key="1879089028" value="Méthode de préparation de champ d'orge de printemps"/>
@@ -17880,12 +17880,12 @@
 <label key="1879089121" value="Boisseau gâté de houblon 'Fierté du Bois de Chet'"/>
 <label key="1879089122" value="Champ bien entretenu de houblon d'ombelle"/>
 <label key="1879089135" value="Coffre du châtelain"/>
-<label key="1879089136" value="Key to the Summoning Chamber"/>
+<label key="1879089136" value="Clé de la salle d'invocation"/>
 <label key="1879089143" value="Clé du coffre du châtelain"/>
 <label key="1879089207" value="Parchemin rabougri"/>
 <label key="1879089208" value="Parchemin rabougri"/>
 <label key="1879089209" value="Parchemin rabougri"/>
-<label key="1879089210" value="Scrawled Page"/>
+<label key="1879089210" value="Page écrite à la hâte"/>
 <label key="1879089299" value="Pots d'avoine au miel de moindre qualité"/>
 <label key="1879089311" value="Pots d'avoine au miel"/>
 <label key="1879089312" value="Pots d'avoine au miel goûteux"/>
@@ -18622,22 +18622,22 @@
 <label key="1879091377" value="Eclat de saphir"/>
 <label key="1879091378" value="Eclat de rubis"/>
 <label key="1879091379" value="Eclat d'adamantin"/>
-<label key="1879091391" value="Song Resistance Boost (Rank 2)"/>
+<label key="1879091391" value="Bonus de résistance physique (niveau 2)"/>
 <label key="1879091392" value="Dégâts contre santé (niveau 2)"/>
 <label key="1879091393" value="Dégâts contre puissance (niveau 2)"/>
 <label key="1879091394" value="Santé contre dégâts (niveau 2)"/>
 <label key="1879091395" value="Santé contre puissance (niveau 2)"/>
 <label key="1879091396" value="Puissance contre dégâts (niveau 2)"/>
 <label key="1879091397" value="Puissance contre santé (niveau 2)"/>
-<label key="1879091398" value="Ancient Dwarf Mitigation Boost (Rank 2)"/>
-<label key="1879091399" value="Beleriand Mitigation Boost (Rank 2)"/>
-<label key="1879091400" value="Common Mitigation Boost (Rank 2)"/>
-<label key="1879091401" value="Fire Mitigation Boost (Rank 2)"/>
-<label key="1879091402" value="Light Mitigation Boost (Rank 2)"/>
-<label key="1879091403" value="Westernesse Mitigation Boost (Rank 2)"/>
-<label key="1879091404" value="Cry Resistance Boost (Rank 2)"/>
-<label key="1879091405" value="Tactical Resistance Boost (Rank 2)"/>
-<label key="1879091406" value="Physical Resistance Boost (Rank 2)"/>
+<label key="1879091398" value="Bonus de limitation commun (niveau 2)"/>
+<label key="1879091399" value="Bonus de limitation de feu (niveau 2)"/>
+<label key="1879091400" value="Léger bonus de limitation (niveau 2)"/>
+<label key="1879091401" value="Ancien bonus de limitation de nain (niveau 2)"/>
+<label key="1879091402" value="Bonus de limitation de Beleriand (niveau 2)"/>
+<label key="1879091403" value="Bonus de limitation d'Ouistrenesse (niveau 2)"/>
+<label key="1879091404" value="Bonus de résistance aux chants (niveau 2)"/>
+<label key="1879091405" value="Bonus de résistance aux cris (niveau 2)"/>
+<label key="1879091406" value="Bonus de résistance à la magie (niveau 2)"/>
 <label key="1879091409" value="Reputation Test Item"/>
 <label key="1879091411" value="Carte pour aller à Esteldin"/>
 <label key="1879091416" value="Méthode de préparation de piège rapide raffiné"/>
@@ -21766,7 +21766,7 @@
 <label key="1879102173" value="Lame de Candelleth"/>
 <label key="1879102174" value="Lame d'Indor"/>
 <label key="1879102175" value="Trancheroute"/>
-<label key="1879102176" value="Garbert Family Club"/>
+<label key="1879102176" value="Gourdin de famille des Garbert"/>
 <label key="1879102177" value="Marteau de Candelleth"/>
 <label key="1879102178" value="Joie de Tongannel"/>
 <label key="1879102179" value="Couteau de Muildir"/>
@@ -21891,12 +21891,12 @@
 <label key="1879102681" value="Filigodringor"/>
 <label key="1879110743" value="Ettendeep's Bane"/>
 <label key="1879111444" value="Carbuncle Earring"/>
-<label key="1879115221" value="Plaque of Echad Garthadir"/>
-<label key="1879115222" value="Plaque of Clorhir"/>
-<label key="1879115223" value="Plaque of Tirband"/>
-<label key="1879115225" value="Plaque of Ariant"/>
-<label key="1879115226" value="Plaque of Menelband"/>
-<label key="1879115227" value="Plaque of Minathranc"/>
+<label key="1879115221" value="Plaque d'Echad Garthadir"/>
+<label key="1879115222" value="Plaque de Clorhir"/>
+<label key="1879115223" value="Plaque de Tirband"/>
+<label key="1879115225" value="Plaque d'Ariant"/>
+<label key="1879115226" value="Plaque de Menelband"/>
+<label key="1879115227" value="Plaque de Minathranc"/>
 <label key="key:620757454:100083276" value="Argent"/>
 <label key="key:620757454:203761950" value="Une pile d'argent"/>
 <label key="key:620757516:54354734" value="Lettre."/>
@@ -22358,7 +22358,7 @@
 <label key="key:620758848:98907573" value="Texte fondateur"/>
 <label key="key:620758850:54354734" value="Lourde massue en bois, bosselée et abîmée par une main rude."/>
 <label key="key:620758850:98907573" value="..."/>
-<label key="key:620758851:54354734" value="Serait-ce le crâne de Golfimbul, tué par le Taureau Mugissant aux Champs Verts ?"/>
+<label key="key:620758851:54354734" value="Serait-ce le crâne de Golfimbul, tué par le Taureau Mugissant aux Champs Verts ?"/>
 <label key="key:620758851:98907573" value="Crânes de Golfimbul"/>
 <label key="key:620758854:54354734" value="Le sommet de ce crâne a subi un choc."/>
 <label key="key:620758854:98907573" value="Crânes ébréchés"/>
@@ -22374,7 +22374,7 @@
 <label key="key:620758873:98907573" value="..."/>
 <label key="key:620758875:54354734" value="Ce caillou pointu provient d'un terrier de lapin des Champs Verts."/>
 <label key="key:620758875:98907573" value="Roches pointues"/>
-<label key="key:620758876:54354734" value="Est-ce une dent de gobelin ou un caillou pointu ? Ça dépend à qui vous demandez !"/>
+<label key="key:620758876:54354734" value="Est-ce une dent de gobelin ou un caillou pointu ? Ça dépend à qui vous demandez !"/>
 <label key="key:620758876:98907573" value="Dents de gobelin"/>
 <label key="key:620758878:54354734" value="Paquet de gypse pilé."/>
 <label key="key:620758878:98907573" value="..."/>
@@ -23060,7 +23060,7 @@
 <label key="key:620760771:98907573" value="Insignes Ongbûrz"/>
 <label key="key:620760780:54354734" value="Bannière de la tribu orque des Ongbûrz."/>
 <label key="key:620760780:98907573" value="..."/>
-<label key="key:620760781:54354734" value="A banner symbolizing the Blogmal tribe of orcs."/>
+<label key="key:620760781:54354734" value="Bannière de la tribu orque des Blogthop."/>
 <label key="key:620760781:98907573" value="..."/>
 <label key="key:620760782:54354734" value="Bannière de la tribu orque des Tarkrîp ."/>
 <label key="key:620760782:98907573" value="..."/>
@@ -23138,7 +23138,7 @@
 <label key="key:620760951:98907573" value="Sacs de levure"/>
 <label key="key:620760956:54354734" value="Crâne d'aurochs"/>
 <label key="key:620760956:98907573" value="..."/>
-<label key="key:620760959:54354734" value="Enorme crâne d'aurochs ; cet animal devait être gigantesque."/>
+<label key="key:620760959:54354734" value="Enorme crâne d'aurochs ; cet animal devait être gigantesque."/>
 <label key="key:620760959:98907573" value="..."/>
 <label key="key:620761006:54354734" value="Fiole cristalline contenant un peu d'eau mortelle du lac occidental d'Imlad Balchorth."/>
 <label key="key:620761006:98907573" value="Fioles d'eau mortelle"/>
@@ -23911,7 +23911,7 @@
 <label key="key:620762735:98907573" value="Monstrueuses queues de drake"/>
 <label key="key:620762736:54354734" value="Peau de créature terrifiante, en parfait état. La profession de forestier permet de la transformer en cuir."/>
 <label key="key:620762736:98907573" value="Cuirs exceptionnels"/>
-<label key="key:620762737:54354734" value="Cette écaille appartenait à Lhugrien, le plus puissant des drakes d'Urugarth ; elle est parfaitement intacte."/>
+<label key="key:620762737:54354734" value="Cette écaille appartenait à Lhugrien, le plus puissant des drakes d'Urugarth ; elle est parfaitement intacte."/>
 <label key="key:620762737:98907573" value="Ecailles de Lhugrien intactes"/>
 <label key="key:620762756:54354734" value="Morceaux d'argent grossièrement fondu."/>
 <label key="key:620762756:98907573" value="Pépites d'argent"/>
@@ -24523,7 +24523,7 @@
 <label key="key:620766051:98907573" value="..."/>
 <label key="key:620766053:54354734" value="Pierre levée ancienne."/>
 <label key="key:620766053:98907573" value="..."/>
-<label key="key:620766056:54354734" value="Cet anneau ornait jadis la défense d'une bête puissante qui errait dans les Monts Brumeux. Mais quelle est donc la créature, plus puissante encore, qui a réussi à le lui enfiler ?"/>
+<label key="key:620766056:54354734" value="Cet anneau ornait jadis la défense d'une bête puissante qui errait dans les Monts Brumeux. Mais quelle est donc la créature, plus puissante encore, qui a réussi à le lui enfiler ?"/>
 <label key="key:620766056:98907573" value="Anneaux de défense en argent"/>
 <label key="key:620766063:54354734" value="Copie du poème \qLe Lai de Nimrodel\q que vous tenez de Langlas, un Dunadan du pavillon de chasse."/>
 <label key="key:620766063:98907573" value="..."/>
@@ -24619,9 +24619,9 @@
 <label key="key:620766274:98907573" value="Ragoûts de lapin"/>
 <label key="key:620766275:54354734" value="Riche ragoût à base de lapin et de légumes."/>
 <label key="key:620766275:98907573" value="Ragoûts de lapin de qualité supérieure"/>
-<label key="key:620766276:54354734" value="Oeufs au lard, champignons et pommes de terre, le tout frit dans le saindoux. Que demander de plus ?"/>
+<label key="key:620766276:54354734" value="Oeufs au lard, champignons et pommes de terre, le tout frit dans le saindoux. Que demander de plus ?"/>
 <label key="key:620766276:98907573" value="Petits-déjeuners complets de hobbit"/>
-<label key="key:620766277:54354734" value="Oeufs au lard, champignons et pommes de terre, le tout frit dans le saindoux. Que demander de plus ?"/>
+<label key="key:620766277:54354734" value="Oeufs au lard, champignons et pommes de terre, le tout frit dans le saindoux. Que demander de plus ?"/>
 <label key="key:620766277:98907573" value="Petits déjeuners complets de hobbit de qualité supérieure"/>
 <label key="key:620766278:54354734" value="Lapin mariné prêt à cuire."/>
 <label key="key:620766278:98907573" value="Lapins marinés"/>
@@ -24695,9 +24695,9 @@
 <label key="key:620766319:98907573" value="Fabuleux gâteaux aux carottes"/>
 <label key="key:620766320:54354734" value="Inspiré par un cuisinier hobbit de légende, ce gâteau aux carottes est tendre et goûteux."/>
 <label key="key:620766320:98907573" value="Fabuleux gâteaux aux carottes de qualité supérieure"/>
-<label key="key:620766321:54354734" value="Délicieusement juteux !"/>
+<label key="key:620766321:54354734" value="Délicieusement juteux !"/>
 <label key="key:620766321:98907573" value="Steaks délicieux"/>
-<label key="key:620766322:54354734" value="Délicieusement juteux !"/>
+<label key="key:620766322:54354734" value="Délicieusement juteux !"/>
 <label key="key:620766322:98907573" value="Steaks délicieux de qualité supérieure"/>
 <label key="key:620766323:54354734" value="Grands repas que partagent souvent les Cavaliers du Rohan avant de partir au combat."/>
 <label key="key:620766323:98907573" value="Festins du Rohan"/>
@@ -25099,7 +25099,7 @@
 <label key="key:620767316:98907573" value="Tabards de gobelin"/>
 <label key="key:620767320:54354734" value="Ragoût à l'odeur immonde."/>
 <label key="key:620767320:98907573" value="..."/>
-<label key="key:620767323:54354734" value="Ils sont plus confortables qu'ils en ont l'air !"/>
+<label key="key:620767323:54354734" value="Ils sont plus confortables qu'ils en ont l'air !"/>
 <label key="key:620767326:54354734" value="Patte prélevée sur Pattedombre."/>
 <label key="key:620767326:98907573" value="Pattes de Pattedombre"/>
 <label key="key:620767327:54354734" value="Ancienne table en pierre."/>
@@ -25108,7 +25108,7 @@
 <label key="key:620767330:98907573" value="Mixtures immondes"/>
 <label key="key:620767332:54354734" value="Viande de sanglier des Terres Solitaires de l'ouest."/>
 <label key="key:620767332:98907573" value="Morceaux de viande de sanglier"/>
-<label key="key:620767334:54354734" value="Elles sont plus confortables qu'elles en ont l'air !"/>
+<label key="key:620767334:54354734" value="Elles sont plus confortables qu'elles en ont l'air !"/>
 <label key="key:620767335:54354734" value="Plus utile qu'il en a l'air."/>
 <label key="key:620767336:54354734" value="Tonneau de nourriture à l'odeur particulièrement prononcée. Faites-en usage pour verser la mixture du Vieux Larmoise dans la nourriture des gobelins."/>
 <label key="key:620767336:98907573" value="..."/>
@@ -29281,7 +29281,7 @@
 <label key="key:620775735:98907573" value="Pousses de feuille de roi"/>
 <label key="key:620775739:54354734" value="Inherit from me for generic quest items."/>
 <label key="key:620775739:98907573" value="..."/>
-<label key="key:620775799:54354734" value="Elevez-vous dans les airs !"/>
+<label key="key:620775799:54354734" value="Elevez-vous dans les airs !"/>
 <label key="key:620775800:54354734" value="Un jetpack pour les gouverner tous !"/>
 <label key="key:620775801:54354734" value="A little nerf won't hurt much."/>
 <label key="key:620775803:54354734" value="This nerf might sting a bit."/>
@@ -30412,7 +30412,7 @@
 <label key="key:620778024:98907573" value="Orcanètes des collines"/>
 <label key="key:620778026:54354734" value="Les rôdeurs d'Esteldin vous ont demandé de rassembler des cuirs d'aurochs épais pour l'abri dont ils auront besoin lorsqu'ils se battront contre l'Angmar, au nord."/>
 <label key="key:620778026:98907573" value="Cuirs d'aurochs épais"/>
-<label key="key:620778027:54354734" value="Les rôdeurs d'Esteldin vous ont demandé de récupérer de la viande d'aurochs ; ils en auront besoin lorsqu'ils se battront contre l'Angmar, au nord."/>
+<label key="key:620778027:54354734" value="Les rôdeurs d'Esteldin vous ont demandé de récupérer de la viande d'aurochs ; ils en auront besoin lorsqu'ils se battront contre l'Angmar, au nord."/>
 <label key="key:620778027:98907573" value="Morceaux de viande d'aurochs"/>
 <label key="key:620778029:54354734" value="Artefacts trouvés dans les ruines d’Arnor, dans les Terres Solitaires."/>
 <label key="key:620778029:98907573" value="Artefacts anciens"/>
@@ -30444,7 +30444,7 @@
 <label key="key:620778276:54354734" value="Les prospecteurs peuvent extraire de l'étain de cette roche."/>
 <label key="key:620778277:54354734" value="Les prospecteurs peuvent extraire du cuivre de cette roche."/>
 <label key="key:620778293:54354734" value="Un gisement de fer peut être extrait de cette roche."/>
-<label key="key:620778338:54354734" value="Branches de frêne. La profession de forestier permet d'en ramasser."/>
+<label key="key:620778338:54354734" value="Branches de frêne. La profession de forestier permet d'en ramasser."/>
 <label key="key:620778339:54354734" value="Objet d'érudit de niveau 2. Il est possible de l'examiner à l'aide de la profession Erudit."/>
 <label key="key:620778340:54354734" value="Les prospecteurs peuvent extraire du fer des galgals de cette roche."/>
 <label key="key:620778341:54354734" value="Les prospecteurs peuvent extraire de l'argent de cette roche."/>
@@ -30452,7 +30452,7 @@
 <label key="key:620778351:98907573" value="Yeux de Naegarch"/>
 <label key="key:620778358:54354734" value="Contrairement à la plupart des autres ceps de la propriété, celui-ci a été planté pour donner du vin dès la première saison."/>
 <label key="key:620778358:98907573" value="Ceps de vigne"/>
-<label key="key:620778360:54354734" value="Branches de sorbier. La profession de forestier permet d'en ramasser."/>
+<label key="key:620778360:54354734" value="Branches de sorbier. La profession de forestier permet d'en ramasser."/>
 <label key="key:620778361:54354734" value="Objet d'érudit de niveau 1. Il est possible de l'examiner à l'aide de la profession Erudit."/>
 <label key="key:620778369:54354734" value="Tas de bois dont les morceaux sont trop petits pour permettre de construire les Vaisseaux blancs."/>
 <label key="key:620778369:98907573" value="Tas de bois de construction"/>
@@ -30519,7 +30519,7 @@
 <label key="key:620778701:54354734" value="Sacoche."/>
 <label key="key:620778702:54354734" value="Sacoche."/>
 <label key="key:620778703:54354734" value="Sacoche."/>
-<label key="key:620778758:54354734" value="Ce parapluie appartient à Prunella Bophin. Il y a même une étiquette à son nom sur la toile !"/>
+<label key="key:620778758:54354734" value="Ce parapluie appartient à Prunella Bophin. Il y a même une étiquette à son nom sur la toile !"/>
 <label key="key:620778758:98907573" value="Parapluies de Prunella"/>
 <label key="key:620778831:54354734" value="Trophée prélevé sur Gobevase."/>
 <label key="key:620778831:98907573" value="Cornes de Gobevase"/>
@@ -30720,7 +30720,7 @@
 <label key="key:620779718:54354734" value="Coffre maculé de terre et de saleté."/>
 <label key="key:620779719:54354734" value="Clé permettant d’ouvrir le coffre de Roderick, l’ami des nicbriqueux."/>
 <label key="key:620779719:98907573" value="..."/>
-<label key="key:620779735:54354734" value="Branches d'if. La profession de forestier permet d'en ramasser."/>
+<label key="key:620779735:54354734" value="Branches d'if. La profession de forestier permet d'en ramasser."/>
 <label key="key:620779736:54354734" value="Objet d'érudit de niveau 3. Il est possible de l'examiner à l'aide de la profession Erudit."/>
 <label key="key:620779737:54354734" value="Les prospecteurs peuvent extraire du fer riche de cette roche."/>
 <label key="key:620779738:54354734" value="Les prospecteurs peuvent extraire de l'or de cette roche."/>
@@ -30783,7 +30783,7 @@
 <label key="key:620780076:54354734" value="Vieux coffre, apparemment utilisé pour ranger des choses importantes."/>
 <label key="key:620780111:54354734" value="Cet objet fait commencer une quête."/>
 <label key="key:620780111:98907573" value="Défenses de sanglier parfaites"/>
-<label key="key:620780113:54354734" value="Branches de Lebethron. La profession de forestier permet d'en ramasser."/>
+<label key="key:620780113:54354734" value="Branches de Lebethron. La profession de forestier permet d'en ramasser."/>
 <label key="key:620780114:54354734" value="Objet d'érudit de niveau 4. Il est possible de l'examiner à l'aide de la profession Erudit."/>
 <label key="key:620780115:54354734" value="Les prospecteurs peuvent extraire du fer des nains de cette roche."/>
 <label key="key:620780120:54354734" value="Corps de nain, lacéré et partiellement dévoré. La plupart de ses blessures semblent avoir été infligées par des griffes et un bec particulièrement acérés et, pourtant, c'est sans doute un coup terrible qui a provoqué sa mort en le broyant."/>
@@ -30822,7 +30822,7 @@
 <label key="key:620780281:98907573" value="Panneaux"/>
 <label key="key:620780282:54354734" value="Ce panneau a été usé par le temps et les éléments."/>
 <label key="key:620780282:98907573" value="Panneaux"/>
-<label key="key:620780293:54354734" value="Branches de frêne noir. La profession de forestier permet d'en ramasser."/>
+<label key="key:620780293:54354734" value="Branches de frêne noir. La profession de forestier permet d'en ramasser."/>
 <label key="key:620780294:54354734" value="Objet d'érudit de niveau 5. Il est possible de l'examiner à l'aide de la profession Erudit."/>
 <label key="key:620780295:54354734" value="Les prospecteurs peuvent extraire du platine de cette roche."/>
 <label key="key:620780296:54354734" value="Les prospecteurs peuvent extraire du fer ancien de cette roche."/>
@@ -31053,7 +31053,7 @@
 <label key="key:620781577:98907573" value="..."/>
 <label key="key:620781580:54354734" value="Le trésor des Sept Sentinelles est dans ce coffre."/>
 <label key="key:620781580:98907573" value="..."/>
-<label key="key:620781581:54354734" value="Vieille épée. Une phrase est inscrite sur la lame, mais tous les mots sont effacés, à l'exception de : \q... souvenir du Rhudaur\q."/>
+<label key="key:620781581:54354734" value="Vieille épée. Une phrase est inscrite sur la lame, mais tous les mots sont effacés, à l'exception de : \q... souvenir du Rhudaur\q."/>
 <label key="key:620781581:98907573" value="..."/>
 <label key="key:620781582:54354734" value="Vieille épée. Le pommeau a la forme d'un arbre émaillé de blanc."/>
 <label key="key:620781582:98907573" value="..."/>
@@ -31119,15 +31119,15 @@
 <label key="key:620781758:98907573" value="Morceaux de viande de limace gluante"/>
 <label key="key:620781760:54354734" value="Petit obélisque pâle. Il y a une plaque à sa base, mais les runes qui y étaient gravées ont été effacées par le temps."/>
 <label key="key:620781760:98907573" value="Generic Quest Items"/>
-<label key="key:620781761:54354734" value="Petit obélisque jaunâtre. Quelques mots sont lisibles sur la plaque se trouvant à sa base : chevalier du lynx doré..."/>
+<label key="key:620781761:54354734" value="Petit obélisque jaunâtre. Quelques mots sont lisibles sur la plaque se trouvant à sa base : chevalier du lynx doré..."/>
 <label key="key:620781761:98907573" value="Generic Quest Items"/>
 <label key="key:620781762:54354734" value="Petit obélisque verdâtre. Il y a une plaque à sa base, mais les runes qui y étaient gravées ont été effacées par le temps."/>
 <label key="key:620781762:98907573" value="Generic Quest Items"/>
 <label key="key:620781763:54354734" value="Petit obélisque pourpre. Il y a une plaque à sa base, mais les runes qui y étaient gravées ont été effacées par le temps."/>
 <label key="key:620781763:98907573" value="Generic Quest Items"/>
-<label key="key:620781764:54354734" value="Petit obélisque pâle. Quelques mots sont lisibles sur la plaque se trouvant à sa base : ... de l'Arbre Blanc..."/>
+<label key="key:620781764:54354734" value="Petit obélisque pâle. Quelques mots sont lisibles sur la plaque se trouvant à sa base : ... de l'Arbre Blanc..."/>
 <label key="key:620781764:98907573" value="Generic Quest Items"/>
-<label key="key:620781765:54354734" value="Petit obélisque rougeâtre. Un mot est lisible sur la plaque se trouvant à sa base : ... sang..."/>
+<label key="key:620781765:54354734" value="Petit obélisque rougeâtre. Un mot est lisible sur la plaque se trouvant à sa base : ... sang..."/>
 <label key="key:620781765:98907573" value="Generic Quest Items"/>
 <label key="key:620781766:54354734" value="Le cadavre de quelqu'un qui est mort avant son heure."/>
 <label key="key:620781780:54354734" value="Le cadavre de quelqu'un qui est mort avant son heure."/>
@@ -31863,21 +31863,21 @@
 <label key="key:620790477:98907573" value="Carafes de Miruvor d'Imladris"/>
 <label key="key:620790478:54354734" value="Petite carafe de baume de Rinnen, qui aide à se protéger contre le feu."/>
 <label key="key:620790478:98907573" value="Flasques de baume de Rinnen"/>
-<label key="key:620790479:54354734" value="Branches de frêne noir. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
+<label key="key:620790479:54354734" value="Branches de frêne noir. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
 <label key="key:620790480:54354734" value="Les prospecteurs peuvent extraire de l'or de cette roche."/>
 <label key="key:620790481:54354734" value="Les prospecteurs peuvent extraire de l'étain de cette roche."/>
-<label key="key:620790482:54354734" value="Branches de Lebethron. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
+<label key="key:620790482:54354734" value="Branches de Lebethron. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
 <label key="key:620790483:54354734" value="Les prospecteurs peuvent extraire du fer ancien de cette roche."/>
-<label key="key:620790484:54354734" value="Branches d'if. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
+<label key="key:620790484:54354734" value="Branches d'if. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
 <label key="key:620790485:54354734" value="Les prospecteurs peuvent extraire du fer des galgals de cette roche."/>
 <label key="key:620790486:54354734" value="Les prospecteurs peuvent extraire du fer riche de cette roche."/>
 <label key="key:620790487:54354734" value="Les prospecteurs peuvent extraire du cuivre de cette roche."/>
-<label key="key:620790488:54354734" value="Branches de frêne. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
+<label key="key:620790488:54354734" value="Branches de frêne. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
 <label key="key:620790489:54354734" value="Les prospecteurs peuvent extraire du platine de cette roche."/>
 <label key="key:620790490:54354734" value="Les prospecteurs peuvent extraire de l'argent des Monts Brumeux de cette roche."/>
 <label key="key:620790491:54354734" value="Les prospecteurs peuvent extraire de l'argent de cette roche."/>
 <label key="key:620790492:54354734" value="Les prospecteurs peuvent extraire du fer des nains de cette roche."/>
-<label key="key:620790493:54354734" value="Branches de sorbier. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
+<label key="key:620790493:54354734" value="Branches de sorbier. Il est possible d'en ramasser à l'aide de la profession Foresterie."/>
 <label key="key:620790494:54354734" value="Coffre orné d'une représentation de drake."/>
 <label key="key:620790494:98907573" value="Generic Quest Items"/>
 <label key="key:620790495:54354734" value="Coffre orné d'une représentation de dragon."/>
@@ -32036,12 +32036,12 @@
 <label key="key:620790951:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de compagnon cuisinier."/>
 <label key="key:620790952:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti cuisinier."/>
 <label key="key:620790953:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti cuisinier."/>
-<label key="key:620791077:54354734" value="Reading the Scroll of Ruin within the bounds of sigil against Rogmul forces the creature to cease its attempt to garner strength from fire exposing it to a more powerful attack.&#10;&#10;The scroll must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
-<label key="key:620791077:98907573" value="Scrolls of Ruin"/>
-<label key="key:620791078:54354734" value="Focusing the Staff of Dark Shadows within the bounds of a sigil against Rogmul denies its ability to strike its foes down with the power of Shadow.&#10;&#10;The staff must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
-<label key="key:620791078:98907573" value="Staves of Dark Shadows"/>
-<label key="key:620791079:54354734" value="Blowing the Horn of Anor within the bounds of a sigil against Rogmul briefly severs the Rogmul's connection to flame disabling its ability to summon fire to destroy his enemies.&#10;&#10;The horn must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
-<label key="key:620791079:98907573" value="Horns of Anor"/>
+<label key="key:620791077:54354734" value="Lire le Parchemin de Ruine sans sortir des limites d'un symbole contre les Rogmûls empêche ces dernier de puiser leur force dans le feu, ce qui les expose à des attaques plus puissantes.&#10;&#10;Le parchemin ne doit jamais quitter Barad Gúlaran. Si nos ennemis tentent de le retirer, des sceaux de protection le détruiront."/>
+<label key="key:620791077:98907573" value="Parchemins de Ruine"/>
+<label key="key:620791078:54354734" value="Utiliser le Bâton des Ombres noires sans sortir des limites d'un symbole contre les Rogmûls empêche ces derniers d'utiliser le pouvoir des ombres pour frapper leurs adversaires.&#10;&#10;Le bâton ne doit jamais quitter Barad Gúlaran. Si nos ennemis tentent de le retirer, des sceaux de protection le détruiront."/>
+<label key="key:620791078:98907573" value="Bâtons des Ombres noires"/>
+<label key="key:620791079:54354734" value="Souffler dans le Cor d'Anor sans sortir des limites d'un symbole contre les Rogmûls brise brièvement le lien que ces derniers entretiennent avec le feu, ce qui les empêche d'invoquer des flammes pour annihiler leurs ennemis.&#10;&#10;Le cor ne doit jamais quitter Barad Gúlaran. Si nos ennemis tentent de le retirer, des sceaux de protection le détruiront."/>
+<label key="key:620791079:98907573" value="Cors d'Anor"/>
 <label key="key:620791082:54354734" value="Petit champ d'orge."/>
 <label key="key:620791083:54354734" value="Petit champ d'orge."/>
 <label key="key:620791084:54354734" value="Mesure d'orge non comestible, uniquement utilisable à fins de plantations."/>
@@ -32133,7 +32133,7 @@
 <label key="key:620791142:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de fermier expert."/>
 <label key="key:620791143:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti fermier."/>
 <label key="key:620791144:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'apprenti fermier."/>
-<label key="key:620791145:54354734" value="This key opens the door between the central arcade and the summoning chamber within Barad Gularan.&#10;&#10;The key must never leave Barad Gúlaran. If our enemies seek to remove it, protective wards will destroy it."/>
+<label key="key:620791145:54354734" value="Cette clé ouvre la porte située entre l'arcade centrale et la salle d'invocation de Barad Gularan.&#10;&#10;La clé ne doit jamais quitter Barad Gúlaran. Si nos ennemis tentent de la retirer, des sceaux de protection le détruiront."/>
 <label key="key:620791145:98907573" value="..."/>
 <label key="key:620791148:54354734" value="Ce coffre contient les effets personnels du châtelain de Barad Gularan."/>
 <label key="key:620791150:54354734" value="Cette clé ouvre le coffre du solarium de Barad Gularan."/>
@@ -32756,7 +32756,7 @@
 <label key="key:620792185:98907573" value="Generic Quest Items"/>
 <label key="key:620792186:54354734" value="Cette cache à équipement a été constituée en prévision d'une éventuelle urgence, dans l'espoir que l'ennemi ne mettrait jamais la main dessus."/>
 <label key="key:620792186:98907573" value="Generic Quest Items"/>
-<label key="key:620792187:54354734" value="C'est Amarthiel qui a récupéré ce palantir à Carn Dûm. Vous devez le lui reprendre avant qu'elle s'en serve pour trouver Narchuil !"/>
+<label key="key:620792187:54354734" value="C'est Amarthiel qui a récupéré ce palantir à Carn Dûm. Vous devez le lui reprendre avant qu'elle s'en serve pour trouver Narchuil !"/>
 <label key="key:620792187:98907573" value="Generic Quest Items"/>
 <label key="key:620792188:54354734" value="Ce rôdeur a trouvé la mort à Glinghant. Avait-il sur lui une carte permettant d'aller à Esteldin, sur laquelle l'ennemi aurait pu mettre la main ?"/>
 <label key="key:620792188:98907573" value="Generic Quest Items"/>
@@ -32954,16 +32954,16 @@
 <label key="key:620792447:98907573" value="Eclats de rubis"/>
 <label key="key:620792456:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
 <label key="key:620792457:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
-<label key="key:620792458:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792459:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792460:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792461:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792462:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792463:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792464:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792465:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792466:54354734" value="An item granting a Corruption Trait."/>
-<label key="key:620792467:54354734" value="An item granting a Corruption Trait."/>
+<label key="key:620792458:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792459:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792460:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792461:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792462:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792463:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792464:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792465:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792466:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
+<label key="key:620792467:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
 <label key="key:620792468:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
 <label key="key:620792469:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
 <label key="key:620792470:54354734" value="Objet permettant d'obtenir un trait de corruption."/>
@@ -32991,17 +32991,17 @@
 <label key="key:620792521:98907573" value="Boulons en acier anciens"/>
 <label key="key:620792522:54354734" value="Paille bien sèche, parfaite pour fabriquer un épouvantail ou pour masquer un piège."/>
 <label key="key:620792522:98907573" value="Ballots de paille"/>
-<label key="key:620792523:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792523:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792523:98907573" value="Generic Quest Items"/>
-<label key="key:620792524:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792524:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792524:98907573" value="Generic Quest Items"/>
-<label key="key:620792525:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792525:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792525:98907573" value="Generic Quest Items"/>
-<label key="key:620792526:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792526:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792526:98907573" value="Generic Quest Items"/>
-<label key="key:620792527:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792527:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792527:98907573" value="Generic Quest Items"/>
-<label key="key:620792528:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792528:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792528:98907573" value="Generic Quest Items"/>
 <label key="key:620792529:54354734" value="Quelqu'un ou quelque chose est passé par là. Les traces sont discrètes, mais vous avez l'oeil."/>
 <label key="key:620792529:98907573" value="Generic Quest Items"/>
@@ -33025,17 +33025,17 @@
 <label key="key:620792538:98907573" value="Broches"/>
 <label key="key:620792539:54354734" value="Cette pointe de flèche montre de nombreuses éraflures."/>
 <label key="key:620792539:98907573" value="Pointes de flèche éraflées"/>
-<label key="key:620792540:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792540:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792540:98907573" value="Generic Quest Items"/>
-<label key="key:620792541:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792541:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792541:98907573" value="Generic Quest Items"/>
-<label key="key:620792542:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792542:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792542:98907573" value="Generic Quest Items"/>
-<label key="key:620792543:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792543:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792543:98907573" value="Generic Quest Items"/>
-<label key="key:620792544:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792544:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792544:98907573" value="Generic Quest Items"/>
-<label key="key:620792545:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
+<label key="key:620792545:54354734" value="Quelqu'un ou quelque chose est passé par là ; vos yeux avertis ont repéré des traces qui auraient pu échapper à d'autres."/>
 <label key="key:620792545:98907573" value="Generic Quest Items"/>
 <label key="key:620792573:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'artisan érudit."/>
 <label key="key:620792574:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation d'érudit expert."/>
@@ -33447,7 +33447,7 @@
 <label key="key:620794969:98907573" value="Mandibules de rampant visqueuses"/>
 <label key="key:620794970:54354734" value="Divers morceaux de rampant, broyés dans un ragoût peu ragoûtant."/>
 <label key="key:620794970:98907573" value="Bouillies de rampant"/>
-<label key="key:620794971:54354734" value="Le ragoût de crapaud a-t-il l'air meilleur ? D'après l'odeur, non !"/>
+<label key="key:620794971:54354734" value="Le ragoût de crapaud a-t-il l'air meilleur ? D'après l'odeur, non !"/>
 <label key="key:620794971:98907573" value="Ragoûts de crapaud améliorés"/>
 <label key="key:620794972:54354734" value="Une boîte remplie de fragments de clés, ternie par le temps et les éléments."/>
 <label key="key:620794972:98907573" value="Boîtes de clés cassées"/>
@@ -33485,7 +33485,7 @@
 <label key="key:620794990:98907573" value="Portes fermées à clé"/>
 <label key="key:620794991:54354734" value="Cette caisse a été ouverte violemment et son contenu a disparu."/>
 <label key="key:620794991:98907573" value="Caisses cassées"/>
-<label key="key:620794993:54354734" value="Cette empreinte de pas est de taille gigantesque. Un géant serait-il descendu des montagnes ?"/>
+<label key="key:620794993:54354734" value="Cette empreinte de pas est de taille gigantesque. Un géant serait-il descendu des montagnes ?"/>
 <label key="key:620794993:98907573" value="Enormes empreintes de pas"/>
 <label key="key:620794994:54354734" value="Le filet de pêche danse doucement dans l'eau."/>
 <label key="key:620794994:98907573" value="Filets de pêche"/>
@@ -33940,19 +33940,19 @@
 <label key="key:620797223:54354734" value="Statue de troll des cavernes."/>
 <label key="key:620797224:54354734" value="Statue de ouargue."/>
 <label key="key:620797225:54354734" value="Statue de loup blanc."/>
-<label key="key:620797229:54354734" value="Cette petite pile de livres a été abandonnée dans les profondeurs de Sithad. De quoi ont-ils bien pu être les témoins ?"/>
+<label key="key:620797229:54354734" value="Cette petite pile de livres a été abandonnée dans les profondeurs de Sithad. De quoi ont-ils bien pu être les témoins ?"/>
 <label key="key:620797229:98907573" value="Livres"/>
-<label key="key:620797230:54354734" value="Ce brasero se tient dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
+<label key="key:620797230:54354734" value="Ce brasero se tient dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
 <label key="key:620797230:98907573" value="Braseros"/>
-<label key="key:620797231:54354734" value="Ce brasero est tombé par terre dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
+<label key="key:620797231:54354734" value="Ce brasero est tombé par terre dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
 <label key="key:620797231:98907573" value="Braseros tombés"/>
-<label key="key:620797232:54354734" value="Cette urne se tient dans les profondeurs de Sithad. De quoi a-t-elle bien pu être le témoin ?"/>
+<label key="key:620797232:54354734" value="Cette urne se tient dans les profondeurs de Sithad. De quoi a-t-elle bien pu être le témoin ?"/>
 <label key="key:620797232:98907573" value="Urnes"/>
-<label key="key:620797233:54354734" value="Ce brasero se tient dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
+<label key="key:620797233:54354734" value="Ce brasero se tient dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
 <label key="key:620797233:98907573" value="Braseros"/>
-<label key="key:620797234:54354734" value="Ce brasero est tombé par terre dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
+<label key="key:620797234:54354734" value="Ce brasero est tombé par terre dans les profondeurs de Sithad. De quoi a-t-il bien pu être le témoin ?"/>
 <label key="key:620797234:98907573" value="Braseros tombés"/>
-<label key="key:620797235:54354734" value="Cette urne se tient dans les profondeurs de Sithad. De quoi a-t-elle bien pu être le témoin ?"/>
+<label key="key:620797235:54354734" value="Cette urne se tient dans les profondeurs de Sithad. De quoi a-t-elle bien pu être le témoin ?"/>
 <label key="key:620797235:98907573" value="Urnes"/>
 <label key="key:620797240:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de maître menuisier."/>
 <label key="key:620797241:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de maître menuisier."/>
@@ -34625,12 +34625,12 @@
 <label key="key:620799494:54354734" value="Peinture dorée pour le sol."/>
 <label key="key:620799495:54354734" value="Table de hobbit toute simple."/>
 <label key="key:620799496:54354734" value="Mur de nain en marbre."/>
-<label key="key:620799500:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : cornemuse."/>
-<label key="key:620799501:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : tambour."/>
-<label key="key:620799502:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : flûte."/>
-<label key="key:620799503:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : harpe."/>
-<label key="key:620799504:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : cloche de vache des landes."/>
-<label key="key:620799505:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : théorbe."/>
+<label key="key:620799500:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : cornemuse."/>
+<label key="key:620799501:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : tambour."/>
+<label key="key:620799502:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : flûte."/>
+<label key="key:620799503:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : harpe."/>
+<label key="key:620799504:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : cloche de vache des landes."/>
+<label key="key:620799505:54354734" value="Utiliser cet objet vous octroie la compétence Professeur : théorbe."/>
 <label key="key:620799526:54354734" value="Manuel aux pages blanches, que les élèves utilisent pour noter leurs cours."/>
 <label key="key:620799526:98907573" value="Manuels d'apprentissage vierges"/>
 <label key="key:620799530:54354734" value="Banc de nain tout simple."/>
@@ -34803,7 +34803,7 @@
 <label key="key:620799907:106251889" value="Réduit la menace au combat à distance."/>
 <label key="key:620799909:54354734" value="Thorkell peut reposer en paix, désormais."/>
 <label key="key:620799914:54354734" value="Candelleth vous a ${PLAYERNAME:imploré|implorée} d'utiliser son arme pour traquer les Angmarim."/>
-<label key="key:620799916:54354734" value="A great heirloom of the house of Garbert, or so its presenter tells you."/>
+<label key="key:620799916:54354734" value="Grand héritage de la Maison de Garbert, du moins est-ce ce que l'on vous a dit en vous le présentant."/>
 <label key="key:620799918:106251890" value="Réduit légèrement le temps de récupération des compétences à distance."/>
 <label key="key:620799919:54354734" value="Belle dague elfique que vous avez reçue pour votre exploration de la porte de Delossad."/>
 <label key="key:620799937:54354734" value="Baptisée en l'honneur de votre campagne contre les Angmarim."/>
@@ -34888,16 +34888,16 @@
 <label key="key:620800234:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
 <label key="key:620800235:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
 <label key="key:620800236:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
-<label key="key:620809118:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809118:54354734" value="Plaque trouvée parmi les ruines d'Annuminas."/>
 <label key="key:620809118:98907573" value="..."/>
-<label key="key:620809119:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809119:54354734" value="Plaque trouvée parmi les ruines d'Annuminas."/>
 <label key="key:620809119:98907573" value="..."/>
-<label key="key:620809120:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809120:54354734" value="Plaque trouvée parmi les ruines d'Annuminas."/>
 <label key="key:620809120:98907573" value="..."/>
-<label key="key:620809121:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809121:54354734" value="Plaque trouvée parmi les ruines d'Annuminas."/>
 <label key="key:620809121:98907573" value="..."/>
-<label key="key:620809123:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809123:54354734" value="Plaque trouvée parmi les ruines d'Annuminas."/>
 <label key="key:620809123:98907573" value="..."/>
-<label key="key:620809124:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
+<label key="key:620809124:54354734" value="Plaque trouvée parmi les ruines d'Annuminas."/>
 <label key="key:620809124:98907573" value="..."/>
 </labels>

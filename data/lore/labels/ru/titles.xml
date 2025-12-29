@@ -405,13 +405,13 @@
 <label key="1879101836" value="Погибель Транга"/>
 <label key="1879101837" value="Опора Эльдгангов"/>
 <label key="1879101993" value="Свет Надежды"/>
-<label key="1879115183" value="the Merciful"/>
-<label key="1879115186" value="Defender of Annúminas"/>
-<label key="1879115188" value="Protector of Annúminas"/>
-<label key="1879115190" value="the Righteous"/>
-<label key="1879115192" value="the Formidable"/>
-<label key="1879115197" value="Warden of Annúminas"/>
-<label key="1879115229" value="Sage of the Sunken City"/>
+<label key="1879115183" value="Образец Милосердия"/>
+<label key="1879115186" value="Защитник Аннуминаса"/>
+<label key="1879115188" value="Заступник Аннуминаса"/>
+<label key="1879115190" value="Праведный Гнев"/>
+<label key="1879115192" value="Сама Стойкость"/>
+<label key="1879115197" value="Страж Аннуминаса"/>
+<label key="1879115229" value="Мудрость Затопленного Города"/>
 <label key="1894514704" value="Следопыт"/>
 <label key="1894514705" value="Копье Оромэ"/>
 <label key="1894514706" value="Воплощение мудрости"/>
@@ -1236,20 +1236,20 @@
 <label key="key:620799641:175532558" value="Ваши подвиги в глубине Разлома спасли от гибели великанов эльдгангов, которые ведут войну против Тьмы в этом страшном месте."/>
 <label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Свет Надежды"/>
 <label key="key:620799777:175532558" value="Вы завершили вторую часть первого тома \qТеней Ангмара\q."/>
-<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Merciful"/>
-<label key="key:620809088:175532558" value="You have fearlessly stridden into Annúminas and slain many Angmarim in the defense of Eriador."/>
-<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Annúminas"/>
-<label key="key:620809091:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the mighty Guldurchir has fallen to your skill."/>
-<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Protector of Annúminas"/>
-<label key="key:620809093:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the wretched Balhest has fallen to your skill."/>
-<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Righteous"/>
-<label key="key:620809095:175532558" value="You have fearlessly stridden into Annúminas and slain many of the Dead within in the defense of Eriador."/>
-<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Formidable"/>
-<label key="key:620809097:175532558" value="You have fearlessly stridden into Annúminas and slain many Gertheryg within in the defense of Eriador."/>
-<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Warden of Annúminas"/>
-<label key="key:620809101:175532558" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestowed upon you the title of Warden."/>
-<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sage of the Sunken City"/>
-<label key="key:620809126:175532558" value="You have found and protected the hidden lore of the city of Annúminas before it could be delivered to the hands of Amarthiel's captains."/>
+<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Образец Милосердия"/>
+<label key="key:620809088:175532558" value="Вы бесстрашно вошли в Аннуминас и убили множество ангмарцев во славу Эриадора."/>
+<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Защитник Аннуминаса"/>
+<label key="key:620809091:175532558" value="Многие предводители Ангмара пытались противостоять вам в Аннуминасе, и каждого из них настигла кара - даже могучего Гулдуркира."/>
+<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Заступник Аннуминаса"/>
+<label key="key:620809093:175532558" value="Многие предводители Ангмара пытались противостоять вам в Аннуминасе, и каждого из них настигла кара - даже страшного Балгеста."/>
+<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Праведный Гнев"/>
+<label key="key:620809095:175532558" value="Сражаясь во имя Эриадора, вы бесстрашно вошли в Аннуминас и уничтожили множество нежити."/>
+<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Сама Стойкость"/>
+<label key="key:620809097:175532558" value="Сражаясь во имя Эриадора, вы бесстрашно вошли в Аннуминас и уничтожили множество горторогов."/>
+<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Страж Аннуминаса"/>
+<label key="key:620809101:175532558" value="Ваши подвиги в городе королей не остались незамеченными. Следопыты оценили их по заслугам. Теперь для них вы Страж Аннуминаса."/>
+<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Мудрость Затопленного Города"/>
+<label key="key:620809126:175532558" value="Вам удалось найти тайные знания, хранившиеся в Аннуминасе, и спасти их, пока они не достались Амартиэли."/>
 <label key="key:636223488:133344739" value="Вы помогли всем обитателям Эриадора, не потерпев ни единого поражения."/>
 <label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Само Безумие"/>
 <label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: спаситель[m]| спасительница[f]} Госпожи"/>

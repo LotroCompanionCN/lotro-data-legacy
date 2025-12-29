@@ -1142,7 +1142,7 @@
 <label key="key:620765910:54354734" value="Balladen der Stufen 1 und 2 fügen den Feinden größeren Schaden zu."/>
 <label key="key:620765914:106251890" value="Kategorienbonus: ${PROPERTY} ${PERCENTVALUE}"/>
 <label key="key:620765914:191029568" value="Die Fertigkeiten, die Euch wieder ins Leben holen, erhalten einen höheren Wert für Moral und Wiederherstellung der Kraft."/>
-<label key="key:620765914:54354734" value="Die Auswirkungen von 'Beseelende Anmut' und 'Zusammenkunft' erhöhen Moral und Macht. 'Zusammenkunft' steht 2 Sek. schneller wieder zur Verfügung und die Erholungszeit wird um 2 Sek. verringert."/>
+<label key="key:620765914:54354734" value="Die Auswirkungen von 'Beseelende Anmut' und 'Neue Kraft' erhöhen Moral und Macht. 'Neue Kraft' steht 2 Sek. schneller wieder zur Verfügung und die Erholungszeit wird um 5 Min. verringert."/>
 <label key="key:620765919:106251890" value="Kategorienbonus: ${PROPERTY} ${PERCENTVALUE}"/>
 <label key="key:620765919:191029568" value="Lied-Fertigkeiten stehen schneller wieder zur Verfügung."/>
 <label key="key:620765919:54354734" value="Alle Eure Lieder werden 20 % schneller wiederhergestellt."/>
@@ -1562,7 +1562,7 @@
 <label key="key:620775284:191029568" value="Gibt Euren Gefährten einen Moralbonus."/>
 <label key="key:620775284:54354734" value="Ihr verschafft Euren Gefährten einen Moralbonus."/>
 <label key="key:620775289:191029568" value="Euer Wille ist stärker als der der meisten anderen Eurer menschlichen Gefährten."/>
-<label key="key:620775289:54354734" value="Die Menschen erreichen ein furchterregendes Können in der Kriegskunst. Euer Wille ist gestärkt."/>
+<label key="key:620775289:54354734" value="Die Menschen erreichen ein furchterregendes Können in der Kriegskunst."/>
 <label key="key:620775291:191029568" value="Die Rasse der Menschen ist für ihren unstillbaren Kampfgeist bekannt."/>
 <label key="key:620775291:54354734" value="Die Rasse der Menschen ist für ihren unstillbaren Kampfgeist bekannt."/>
 <label key="key:620775294:191029568" value="Verbessertes Schicksal - Menschen haben das bedeutendste Schicksal aller Freien Völker."/>

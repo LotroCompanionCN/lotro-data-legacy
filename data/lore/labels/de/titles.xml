@@ -405,23 +405,23 @@
 <label key="1879101836" value="Zerstörer / Zerstörerin von Thrâng"/>
 <label key="1879101837" value="Retter / Retterin der Eldgang"/>
 <label key="1879101993" value="Trägerin / Träger der Hoffnung"/>
-<label key="1879115183" value="the Merciful"/>
-<label key="1879115186" value="Defender of Annúminas"/>
-<label key="1879115188" value="Protector of Annúminas"/>
-<label key="1879115190" value="the Righteous"/>
-<label key="1879115192" value="the Formidable"/>
-<label key="1879115197" value="Warden of Annúminas"/>
-<label key="1879115229" value="Sage of the Sunken City"/>
-<label key="1894514704" value="the Explorer"/>
-<label key="1894514705" value="Spear of Oromë"/>
-<label key="1894514706" value="the Learned"/>
-<label key="1894514707" value="Defender of Middle-Earth"/>
-<label key="1894514708" value="Liberator of Norbury"/>
-<label key="1894514709" value="Saviour of the Lady"/>
-<label key="1894514710" value="Sambrog's Bane"/>
+<label key="1879115183" value="der / die Barmherzige"/>
+<label key="1879115186" value="Verteidiger / Verteidigerin von Annúminas"/>
+<label key="1879115188" value="Beschützer / Beschützerin von Annúminas"/>
+<label key="1879115190" value="der / die Rechtschaffene"/>
+<label key="1879115192" value="der / die Gefürchtete"/>
+<label key="1879115197" value="Wächter / Wächterin von Annúminas"/>
+<label key="1879115229" value="Weiser / Weise der Versunkenen Stadt"/>
+<label key="1894514704" value="der Entdecker / die Entdeckerin"/>
+<label key="1894514705" value="Speer von Oromë"/>
+<label key="1894514706" value="der / die Gelehrte"/>
+<label key="1894514707" value="Verteidiger / Verteidigerin von Mittelerde"/>
+<label key="1894514708" value="Befreier / Befreierin von Norbury"/>
+<label key="1894514709" value="Retter / Retterin der Dame"/>
+<label key="1894514710" value="Sambrog's Fluch"/>
 <label key="1894514711" value="Calantar"/>
-<label key="1894514712" value="the Legend"/>
-<label key="1894514713" value="the Insane"/>
+<label key="1894514712" value="die Legende"/>
+<label key="1894514713" value="der / die Verrückte"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Ehren-Landbüttel"/>
 <label key="key:620758793:175532558" value="Ihr habt den Auenland-Grenzern sehr geholfen und seid zum Ehren-Landbüttel ernannt worden."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Gelehrtheit"/>
@@ -1236,38 +1236,38 @@
 <label key="key:620799641:175532558" value="Mit Euren Kämpfen in der Schlucht habt Ihr den Eldgang-Riesen geholfen, die selbst an diesem schrecklichen Ort weiter gegen die Kräfte der Dunkelheit ankämpfen."/>
 <label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Trägerin[f]|Träger[m]} der Hoffnung"/>
 <label key="key:620799777:175532558" value="Ihr habt den zweiten Teil des ersten Bands der Schatten von Angmar beendet."/>
-<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Merciful"/>
-<label key="key:620809088:175532558" value="You have fearlessly stridden into Annúminas and slain many Angmarim in the defense of Eriador."/>
-<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Annúminas"/>
-<label key="key:620809091:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the mighty Guldurchir has fallen to your skill."/>
-<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Protector of Annúminas"/>
-<label key="key:620809093:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the wretched Balhest has fallen to your skill."/>
-<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Righteous"/>
-<label key="key:620809095:175532558" value="You have fearlessly stridden into Annúminas and slain many of the Dead within in the defense of Eriador."/>
-<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Formidable"/>
-<label key="key:620809097:175532558" value="You have fearlessly stridden into Annúminas and slain many Gertheryg within in the defense of Eriador."/>
-<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Warden of Annúminas"/>
-<label key="key:620809101:175532558" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestowed upon you the title of Warden."/>
-<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sage of the Sunken City"/>
-<label key="key:620809126:175532558" value="You have found and protected the hidden lore of the city of Annúminas before it could be delivered to the hands of Amarthiel's captains."/>
-<label key="key:636223488:133344739" value="Hardcore challenge reward for completing quests in all zones."/>
-<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Insane"/>
-<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Saviour of the Lady"/>
-<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sambrog's Bane"/>
-<label key="key:636223488:159719968" value="Hardcore challenge reward for reaching level 50 without dying."/>
-<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Liberator of Norbury"/>
-<label key="key:636223488:18718558" value="Hardcore challenge reward for exploring all zones."/>
-<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Spear of Oromë"/>
-<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Legend"/>
-<label key="key:636223488:221492867" value="Hardcore challenge reward for completing all three leveling dungeons."/>
-<label key="key:636223488:236725557" value="Hardcore challenge reward for hunting rare monsters."/>
-<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Explorer"/>
-<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Middle-Earth"/>
-<label key="key:636223488:36742548" value="Hardcore challenge reward for completing Fornost."/>
-<label key="key:636223488:40850518" value="Hardcore challenge reward for completing Epic Volume I Books 1 through 6."/>
+<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:der[m]|die[f]} Barmherzige"/>
+<label key="key:620809088:175532558" value="Ihr seid furchtlos nach Annúminas gezogen und habt viele Angmarim getötet, um Eriador zu verteidigen."/>
+<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Verteidiger[m]|Verteidigerin[f]} von Annúminas"/>
+<label key="key:620809091:175532558" value="Ihr habt Euch in Annúminas vielen Feinden gestellt und sie alle besiegt. Sogar der mächtige Guldurchir ist Eurem Geschick zum Opfer gefallen."/>
+<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Beschützer[m]|Beschützerin[f]} von Annúminas"/>
+<label key="key:620809093:175532558" value="Ihr habt Euch in Annúminas vielen Feinden gestellt und sie alle besiegt. Sogar der elende Balhest ist Eurem Geschick zum Opfer gefallen."/>
+<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:der[m]|die[f]} Rechtschaffene"/>
+<label key="key:620809095:175532558" value="Ihr seid furchtlos nach Annúminas gezogen und habt viele der Toten erschlagen, um Eriador zu verteidigen."/>
+<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:der[m]|die[f]} Gefürchtete"/>
+<label key="key:620809097:175532558" value="Ihr seid furchtlos nach Annúminas gezogen und habt viele Gertheryg erschlagen, um Eriador zu verteidigen."/>
+<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Wächter[m]|Wächterin[f]} von Annúminas"/>
+<label key="key:620809101:175532558" value="Eure Bemühungen in Annúminas sind den Waldläufern nicht verborgen geblieben. Aufgrund Eurer unermüdlichen Hilfe bei der Verteidigung der Stadt der Könige haben sie Euch den Titel ${PLAYERNAME:Wächter[m]|Wächterin[f]} verliehen."/>
+<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Weiser[m]|Weise[f]} der Versunkenen Stadt"/>
+<label key="key:620809126:175532558" value="Ihr habt das verborgene Wissen der Stadt Annúminas gefunden und beschützt, bevor es in die Hände von Amarthiels Hauptleuten fallen konnte."/>
+<label key="key:636223488:133344739" value="Hardcore Challenge Belohnung für die Erfüllung aller Aufgaben in allen Zonen."/>
+<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der[m]| die[f]} Verrückte"/>
+<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Retter[m]| Retterin[f]} der Dame"/>
+<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sambrog's Fluch"/>
+<label key="key:636223488:159719968" value="Hardcore Challenge Belohnung für das Erreichen der Stufe 50 ohne zu sterben."/>
+<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Befreier[m]| Befreierin[f]} von Norbury"/>
+<label key="key:636223488:18718558" value="Hardcore Challenge Belohnung für das Erkunden aller Zonen."/>
+<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Speer von Oromë"/>
+<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} die Legende"/>
+<label key="key:636223488:221492867" value="Hardcore Challenge Belohnung für das Abschließen aller drei Leveling Dungeons."/>
+<label key="key:636223488:236725557" value="Hardcore Challenge Belohnung für das Jagen seltener Monster."/>
+<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der Entdecker[m]| die Entdeckerin[f]}"/>
+<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Verteidiger[m]| Verteidigerin[f]} von Mittelerde"/>
+<label key="key:636223488:36742548" value="Hardcore Challenge Belohnung für das Abschließen von Fornost."/>
+<label key="key:636223488:40850518" value="Hardcore Challenge Belohnung für das Abschließen von Epos Band I Bücher 1 bis 6."/>
 <label key="key:636223488:66200070" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Calantar"/>
-<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Learned"/>
-<label key="key:636223488:75314017" value="Hardcore challenge reward for completing Garth Agarwen."/>
-<label key="key:636223488:75314018" value="Hardcore challenge reward for completing The Great Barrow."/>
-<label key="key:636223488:96594722" value="Hardcore challenge reward for completing all the availalble challenges."/>
+<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der[m]| die[f]} Gelehrte"/>
+<label key="key:636223488:75314017" value="Hardcore Challenge Belohnung für das Abschließen von Garth Agarwen."/>
+<label key="key:636223488:75314018" value="Hardcore Challenge Belohnung für das Abschließen vom Großen Hügelgrab."/>
+<label key="key:636223488:96594722" value="Hardcore Challenge Belohnung für die Bewältigung aller verfügbaren Herausforderungen."/>
 </labels>

@@ -405,23 +405,23 @@
 <label key="1879101836" value="Fléau de Thrâng"/>
 <label key="1879101837" value="Sauveur / Sauveuse des Eldgangs"/>
 <label key="1879101993" value="Porteur / Porteuse d’espoir"/>
-<label key="1879115183" value="the Merciful"/>
-<label key="1879115186" value="Defender of Annúminas"/>
-<label key="1879115188" value="Protector of Annúminas"/>
-<label key="1879115190" value="the Righteous"/>
-<label key="1879115192" value="the Formidable"/>
-<label key="1879115197" value="Warden of Annúminas"/>
-<label key="1879115229" value="Sage of the Sunken City"/>
-<label key="1894514704" value="the Explorer"/>
-<label key="1894514705" value="Spear of Oromë"/>
-<label key="1894514706" value="the Learned"/>
-<label key="1894514707" value="Defender of Middle-Earth"/>
-<label key="1894514708" value="Liberator of Norbury"/>
-<label key="1894514709" value="Saviour of the Lady"/>
-<label key="1894514710" value="Sambrog's Bane"/>
+<label key="1879115183" value="le Clément / la Clémente"/>
+<label key="1879115186" value="défenseur / défenseuse d'Annuminas"/>
+<label key="1879115188" value="protecteur / protectrice d'Annuminas"/>
+<label key="1879115190" value="l'Intègre"/>
+<label key="1879115192" value="le / la Redoutable"/>
+<label key="1879115197" value="Gardien / Gardienne d'Annuminas"/>
+<label key="1879115229" value="sage de la cité engloutie"/>
+<label key="1894514704" value="L'Explorateur / L’Exploratrice"/>
+<label key="1894514705" value="La Lance d'Oromë"/>
+<label key="1894514706" value="Le Savant / La Savante"/>
+<label key="1894514707" value="Défenseur / Defenseure de la Terre du Milieu"/>
+<label key="1894514708" value="Liberateur / Libératrice des Portes de Norbury"/>
+<label key="1894514709" value="Sauveteur / Sauveteuse de la Dame"/>
+<label key="1894514710" value="Le Fléau de Sambrog"/>
 <label key="1894514711" value="Calantar"/>
-<label key="1894514712" value="the Legend"/>
-<label key="1894514713" value="the Insane"/>
+<label key="1894514712" value="La Légende"/>
+<label key="1894514713" value="Le Fou / La Folle"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Shiriffe honoraire"/>
 <label key="key:620758793:175532558" value="Vous avez grandement aidé les Frontaliers de la Comté et obtenu le titre de Shiriffe honoraire."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:apprenti érudit[m]|apprentie érudite[f]}"/>
@@ -701,7 +701,7 @@
 <label key="key:620774381:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Ennemi[m]|Ennemie[f]} de la nuit"/>
 <label key="key:620774381:175532558" value="Jadis, de nombreux princes et guerriers des Dunedain sont tombés dans les Champs de Fornost. Je ne sais pas s'ils se sont transformés en ces créatures, mais quoi qu'il en soit, vous leur avez permis de trouver le repos éternel."/>
 <label key="key:620774384:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Découpeur[m]|Découpeuse[f]} de trolls"/>
-<label key="key:620774384:175532558" value="Les trolls sont sans doute les serviteurs de l'ennemi les plus forts et les plus bêtes à la fois. Sans vous, ces bêtes sans pitié se seraient retrouvées partout dans les Hauts du Nord !"/>
+<label key="key:620774384:175532558" value="Les trolls sont sans doute les serviteurs de l'ennemi les plus forts et les plus bêtes à la fois. Sans vous, ces bêtes sans pitié se seraient retrouvées partout dans les Hauts du Nord !"/>
 <label key="key:620774387:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Ennemi[m]|Ennemie[f]} des ouargues"/>
 <label key="key:620774387:175532558" value="Partout où il y a des gobelins, il y a des chances qu'il y ait des ouargues. Grâce à vous, il y en a beaucoup moins dans les Hauts du Nord à présent."/>
 <label key="key:620774390:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de vers"/>
@@ -755,17 +755,17 @@
 <label key="key:620774462:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des vers"/>
 <label key="key:620774462:175532558" value="On raconte que les vers vivent depuis longtemps, loin au nord, dans les landes désolées et gelées. Hélas, il semble naturel que lorsque les portes d'Angmar ont été ouvertes, un grand nombre de créatures ont été libérées dans les pics gelés des Monts Brumeux, où elles se multiplient et terrorisent quiconque entreprend la périlleuse traversée."/>
 <label key="key:620774465:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Brise-chitine"/>
-<label key="key:620774465:175532558" value="Et vous qui pensiez qu'il n'y avait rien de pire que les vermines de l'Eau-aux-Cousins ! Ces horreurs aux nombreuses pattes vous ont fait changer d'avis sur le sujet, mais elles n'ont pas mis fin à votre combat pour la protection de la Terre du Milieu."/>
+<label key="key:620774465:175532558" value="Et vous qui pensiez qu'il n'y avait rien de pire que les vermines de l'Eau-aux-Cousins ! Ces horreurs aux nombreuses pattes vous ont fait changer d'avis sur le sujet, mais elles n'ont pas mis fin à votre combat pour la protection de la Terre du Milieu."/>
 <label key="key:620774468:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur de géants[m]|Tueuse de géants[f]}"/>
 <label key="key:620774468:175532558" value="Il a fallu plus qu'une tapette à mouches pour éliminer autant de ces prodigieux ennemis. Un exploit qui mérite une juste réputation."/>
 <label key="key:620774471:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur de trolls[m]|Tueuse de trolls[f]}"/>
-<label key="key:620774471:175532558" value="Ce n'est pas pour rien que cette région s'appelle la Trouée des Trolls. Vous n'avez pas manqué de ces brutes épaisses pour mettre votre courage à l'épreuve !"/>
+<label key="key:620774471:175532558" value="Ce n'est pas pour rien que cette région s'appelle la Trouée des Trolls. Vous n'avez pas manqué de ces brutes épaisses pour mettre votre courage à l'épreuve !"/>
 <label key="key:620774474:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:le Purificateur[m]|la Purificatrice[f]}"/>
 <label key="key:620774474:175532558" value="Même les Elfes de Fondcombe ne peuvent dire d'où viennent ces êtres hideux qui infestent la Trouée des Trolls. Cependant, vous avez renvoyé un bon nombre d'entre eux dans la terre dont ils s'étaient échappés."/>
 <label key="key:620774477:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Coupe-queue"/>
 <label key="key:620774477:175532558" value="Les loups qui vivent dans la Trouée des Trolls sont parmi les plus féroces et les plus puissants de leur race. Ne servant ni les Hommes ni les gobelins, ces loups s'attaquent à quiconque est assez fou pour s'aventurer sur leur territoire... mais pas à vous."/>
 <label key="key:620774480:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Découpeur de vers[m]|Découpeuse de vers[f]}"/>
-<label key="key:620774480:175532558" value="Où donc avaient pu se cacher un si grand nombre de ces terribles bêtes ? Dans les terres désolées du Nord ou bien sous les portes d'Angmar ? En vérité, peu importe d'où elles viennent tant que vous vous efforcez de leur faire quitter la Terre du Milieu."/>
+<label key="key:620774480:175532558" value="Où donc avaient pu se cacher un si grand nombre de ces terribles bêtes ? Dans les terres désolées du Nord ou bien sous les portes d'Angmar ? En vérité, peu importe d'où elles viennent tant que vous vous efforcez de leur faire quitter la Terre du Milieu."/>
 <label key="key:620774483:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME}, ${NAME:le[m]|la[f]} Néophyte"/>
 <label key="key:620774483:175532558" value="Vous êtes encore néophyte dans la bataille pour les Landes d’Etten."/>
 <label key="key:620774485:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME}, ${NAME:le Guerrier[m]|la Guerrière[f]}"/>
@@ -873,7 +873,7 @@
 <label key="key:620775367:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} des Forts"/>
 <label key="key:620775367:175532558" value="Les Forts furent les derniers hobbits à arriver dans la Comté, s'installant dans les marais à l'est. Ils sont généralement plus carrés et plus lourds que les autres hobbits."/>
 <label key="key:620775368:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} des Monts du Fer"/>
-<label key="key:620775368:175532558" value="Vous êtes originaire des Monts du Fer, utilisées par les nains comme refuge contre les drakes du froid ; c'est de là que vient Dain Piedefer, Roi sous la Montagne, compagnon du grand Thorin Ecu de Chêne."/>
+<label key="key:620775368:175532558" value="Vous êtes originaire des Monts du Fer, utilisées par les nains comme refuge contre les drakes du froid ; c'est de là que vient Dain Piedefer, Roi sous la Montagne, compagnon du grand Thorin Ecu de Chêne."/>
 <label key="key:620775369:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} du Mont Solitaire"/>
 <label key="key:620775369:175532558" value="Vous venez d'Erebor, le Mont Solitaire, où Smaug le Doré s'est installé jusqu'à ce que Thorin Ecu de Chêne revendique cette région pour son peuple. Dain Piedefer y règne à présent en tant que Roi sous la Montagne."/>
 <label key="key:620775370:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} des Montagnes Bleues"/>
@@ -939,7 +939,7 @@
 <label key="key:620775866:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:fondateur[m]|fondatrice[f]}"/>
 <label key="key:620775866:175532558" value="Vous avez fondé une confrérie."/>
 <label key="key:620778105:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Elu[m]|Elue[f]} de Mordirith"/>
-<label key="key:620778105:175532558" value="Mordirith, chef de l'Angmar à la place du Roi-Sorcier, vous considère comme un serviteur de confiance. Ses faveurs vous feront encore mieux voir des Lugburz !"/>
+<label key="key:620778105:175532558" value="Mordirith, chef de l'Angmar à la place du Roi-Sorcier, vous considère comme un serviteur de confiance. Ses faveurs vous feront encore mieux voir des Lugburz !"/>
 <label key="key:620778107:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Conquérant[m]|Conquérante[f]} de Ringdyr"/>
 <label key="key:620778107:175532558" value="Vous avez vaincu les capitaines de Ringdyr."/>
 <label key="key:620778109:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Conquérant[m]|Conquérante[f]} de Tol Ascarnen"/>
@@ -955,9 +955,9 @@
 <label key="key:620778119:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des ombres"/>
 <label key="key:620778119:175532558" value="Les cambrioleurs peuvent courir, mais ils ne peuvent pas vous échapper. Vous avez tué un très grand nombre de ces sales petits faux jetons."/>
 <label key="key:620778121:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fouette-filous"/>
-<label key="key:620778121:175532558" value="Retors et menteurs ? Bah ! Peu vous importe que les cambrioleurs soient retors quand ils grimacent de douleur en attendant que vous leur portiez le coup de grâce. A la fin, ça ne vous amuse même plus."/>
+<label key="key:620778121:175532558" value="Retors et menteurs ? Bah ! Peu vous importe que les cambrioleurs soient retors quand ils grimacent de douleur en attendant que vous leur portiez le coup de grâce. A la fin, ça ne vous amuse même plus."/>
 <label key="key:620778123:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Adversaire des capitaines"/>
-<label key="key:620778123:175532558" value="Ces crétins dirigent les forces des Hommes ? Eh bien qu'ils les dirigent depuis leur tombe !"/>
+<label key="key:620778123:175532558" value="Ces crétins dirigent les forces des Hommes ? Eh bien qu'ils les dirigent depuis leur tombe !"/>
 <label key="key:620778125:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de capitaines"/>
 <label key="key:620778125:175532558" value="Ils ont beau s'entourer d'alliés, vous avez découpé et tranché très largement dans les rangs de ces imbéciles de porte-étendard."/>
 <label key="key:620778127:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Destructeur[m]|Destructrice[f]} de bannières"/>
@@ -973,17 +973,17 @@
 <label key="key:620778137:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Briseur[m]|briseuse[f]} d'épée"/>
 <label key="key:620778137:175532558" value="Celui qui vit par l'épée doit s'attendre à mourir par l'épée.&#10;&#10;Vous ne manquez pas d'offrir à ces imbéciles de champions l'occasion de le faire en vous affrontant."/>
 <label key="key:620778139:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Poison des courageux"/>
-<label key="key:620778139:175532558" value="Que vaut le courage de quelqu'un qui gît, meurtri et en sang, sous vos pieds ? Qui pourrait le dire ?&#10;&#10;Peu importe."/>
+<label key="key:620778139:175532558" value="Que vaut le courage de quelqu'un qui gît, meurtri et en sang, sous vos pieds ? Qui pourrait le dire ?&#10;&#10;Peu importe."/>
 <label key="key:620778141:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Ruine des héros"/>
-<label key="key:620778141:175532558" value="Bah ! Pour des héros autoproclamés, ces champions tombent comme le blé sous les coups puissants de votre faux. Ils ne sont pas à votre hauteur et ne le seront jamais !"/>
+<label key="key:620778141:175532558" value="Bah ! Pour des héros autoproclamés, ces champions tombent comme le blé sous les coups puissants de votre faux. Ils ne sont pas à votre hauteur et ne le seront jamais !"/>
 <label key="key:620778143:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de gardiens"/>
 <label key="key:620778143:175532558" value="Ces gens qui se font appeler gardiens se dressent entre les villes et villages de l'ouest et vous-même. Or, ces villages n'attendent que d'être pillés.&#10;&#10;Plus vous en tuerez, plus vite la rapine pourra commencer."/>
 <label key="key:620778145:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de sentinelles"/>
-<label key="key:620778145:175532558" value="Pourquoi donc ces vauriens en armure devraient se tenir entre vous et les faibles ? Cela vous échappe totalement, mais vous avez montré qu'on pouvait tous les balayer aussi facilement les uns que les autres."/>
+<label key="key:620778145:175532558" value="Pourquoi donc ces vauriens en armure devraient se tenir entre vous et les faibles ? Cela vous échappe totalement, mais vous avez montré qu'on pouvait tous les balayer aussi facilement les uns que les autres."/>
 <label key="key:620778147:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Briseur[m]|Briseuse[f]} de bouclier"/>
 <label key="key:620778147:175532558" value="Ils ont beau porter de grands boucliers et s'habiller d'acier poli, ils sont comme tous les autres et ne peuvent rester en vie en s'opposant à la puissance de l'Angmar. Vous y veillez personnellement."/>
 <label key="key:620778149:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des gardiens"/>
-<label key="key:620778149:175532558" value="Ah ça pour sûr, ils défendent les faibles ! Mais alors, qui donc va les défendre, eux, quand ils tomberont sur vous ?&#10;&#10;Personne."/>
+<label key="key:620778149:175532558" value="Ah ça pour sûr, ils défendent les faibles ! Mais alors, qui donc va les défendre, eux, quand ils tomberont sur vous ?&#10;&#10;Personne."/>
 <label key="key:620778151:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Ruine des protecteurs"/>
 <label key="key:620778151:175532558" value="Ceux qui se dressent devant la marée sont condamnés à mourir noyés dans sa fureur.&#10;&#10;Vous menez la charge en première ligne des armées innombrables de l'Angmar et écrasez sans aucune pitié ni hésitation ces gardiens qui osent se tenir du côté des armées de l'ouest."/>
 <label key="key:620778153:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de chasseurs"/>
@@ -993,27 +993,27 @@
 <label key="key:620778157:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Briseur[m]|Briseuse[f]} d'arcs"/>
 <label key="key:620778157:175532558" value="Sans boucliers ni armures, les chasseurs sont des proies faciles sur le champ de bataille. Les flèches piquent un peu, c'est vrai, mais la douleur est la marque des grands guerriers."/>
 <label key="key:620778159:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des chasseurs"/>
-<label key="key:620778159:175532558" value="Quelle joie quand on inverse les rôles et que les chasseurs deviennent les proies ! Vous avez tant vaincu de ces mécréants que vous avez presque perdu le compte maintenant."/>
+<label key="key:620778159:175532558" value="Quelle joie quand on inverse les rôles et que les chasseurs deviennent les proies ! Vous avez tant vaincu de ces mécréants que vous avez presque perdu le compte maintenant."/>
 <label key="key:620778161:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Ruine des archers"/>
-<label key="key:620778161:175532558" value="Les arcs sont peut-être redoutables entre des mains expertes, mais ils ne peuvent pas empêcher ceux qui les portent de mourir vite et bien entre vos mains à vous. Ça fait juste un peu plus de petit bois pour les feux de joie de l'Angmar !"/>
+<label key="key:620778161:175532558" value="Les arcs sont peut-être redoutables entre des mains expertes, mais ils ne peuvent pas empêcher ceux qui les portent de mourir vite et bien entre vos mains à vous. Ça fait juste un peu plus de petit bois pour les feux de joie de l'Angmar !"/>
 <label key="key:620778163:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Adversaire des maîtres du savoir"/>
-<label key="key:620778163:175532558" value="Sages ? Bah ! Les vrais sages n'ont besoin de connaître que la force. Ceux qui prétendent que la sagesse est savoir meurent souvent en essayant de vous l'expliquer."/>
+<label key="key:620778163:175532558" value="Sages ? Bah ! Les vrais sages n'ont besoin de connaître que la force. Ceux qui prétendent que la sagesse est savoir meurent souvent en essayant de vous l'expliquer."/>
 <label key="key:620778165:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de sages"/>
 <label key="key:620778165:175532558" value="Aucune magie ne peut protéger ces gratte-papiers de votre furie. S'ils pouvaient comprendre ne serait-ce qu'une fraction de la puissance que commandent les seigneurs de l'Angmar, ils trembleraient lamentablement devant la mort qui les attend."/>
 <label key="key:620778167:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Briseur[m]|Briseuse[f]} de bâtons"/>
-<label key="key:620778167:175532558" value="Qu'est-ce qu'un bâton a de si spécial ? Ce n'est qu'une autre baguette à briser, juste avant de briser son porteur, comme vous savez si bien le faire."/>
+<label key="key:620778167:175532558" value="Qu'est-ce qu'un bâton a de si spécial ? Ce n'est qu'une autre baguette à briser, juste avant de briser son porteur, comme vous savez si bien le faire."/>
 <label key="key:620778169:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des sages"/>
-<label key="key:620778169:175532558" value="A quoi servent de vieux livres et un chapeau pointu quand on a un mètre d'acier planté dans les boyaux ? A rien du tout ! Vous avez maintes fois prouvé la sagesse de cette affirmation."/>
+<label key="key:620778169:175532558" value="A quoi servent de vieux livres et un chapeau pointu quand on a un mètre d'acier planté dans les boyaux ? A rien du tout ! Vous avez maintes fois prouvé la sagesse de cette affirmation."/>
 <label key="key:620778171:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Malédiction des érudits"/>
-<label key="key:620778171:175532558" value="Aucun de ces scribes prétentieux ne peut vous défier sur le champ de bataille.&#10;&#10;Parchemins, grimoires, baguettes, robes... Tout ça doit brûler pour l'Angmar !"/>
+<label key="key:620778171:175532558" value="Aucun de ces scribes prétentieux ne peut vous défier sur le champ de bataille.&#10;&#10;Parchemins, grimoires, baguettes, robes... Tout ça doit brûler pour l'Angmar !"/>
 <label key="key:620778173:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Adversaire des ménestrels"/>
-<label key="key:620778173:175532558" value="Quel genre d'idiot vient sur un champ de bataille pour chanter plutôt que pour se battre ?&#10;&#10;Un idiot mort."/>
+<label key="key:620778173:175532558" value="Quel genre d'idiot vient sur un champ de bataille pour chanter plutôt que pour se battre ?&#10;&#10;Un idiot mort."/>
 <label key="key:620778175:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de bardes"/>
 <label key="key:620778175:175532558" value="Les chansons de l'ouest sont bien plus agréables à votre oreille lorsqu'elles sortent d'une gorge tranchée et gargouillant."/>
 <label key="key:620778177:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Coupeur[m]|Coupeuse[f]} de harpes"/>
 <label key="key:620778177:175532558" value="Le claquement cacophonique des cordes qui se brisent, le bois qui éclate et les cris des mourants, voilà toute la musique dont vous avez besoin pour accompagner votre furie."/>
 <label key="key:620778179:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des troubadours"/>
-<label key="key:620778179:175532558" value="Ces vermines sans chefs venues de l'ouest semblent croire que le monde est né d'une chanson.&#10;&#10;Peut-être bien que oui, peut-être bien que non. En tout cas, la dernière musique qu'ils entendront avant de mourir sera celle des tambours de guerre de l'Angmar !"/>
+<label key="key:620778179:175532558" value="Ces vermines sans chefs venues de l'ouest semblent croire que le monde est né d'une chanson.&#10;&#10;Peut-être bien que oui, peut-être bien que non. En tout cas, la dernière musique qu'ils entendront avant de mourir sera celle des tambours de guerre de l'Angmar !"/>
 <label key="key:620778181:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, le Silence"/>
 <label key="key:620778181:175532558" value="Dans votre sillon, les champs de bataille s'immobilisent étrangement. Seuls les gémissements des mourants viennent perturber ce silence.&#10;&#10;Aucune chanson ne peut s'échapper des lèvres des déchus, car il ne reste en eux aucune vie."/>
 <label key="key:620779370:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, spécialiste du dévorage de tourtes"/>
@@ -1055,7 +1055,7 @@
 <label key="key:620782806:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, l'Instrument du destin"/>
 <label key="key:620782806:175532558" value="Les trompettes sonnent à votre arrivée, annonçant un funeste destin, car c'est par votre main que sont tombés bien des guerriers des Peuples Libres, surpassés par votre puissance."/>
 <label key="key:620782807:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} d'Elfes"/>
-<label key="key:620782807:175532558" value="Votre légende est maintenant si connue chez les Elfes que vous êtes coupable de tous leurs maux. Lorsque vous approchez d'eux, ils ne peuvent que courir !"/>
+<label key="key:620782807:175532558" value="Votre légende est maintenant si connue chez les Elfes que vous êtes coupable de tous leurs maux. Lorsque vous approchez d'eux, ils ne peuvent que courir !"/>
 <label key="key:620782808:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Ennemi[m]|Ennemie[f]} de la bravoure"/>
 <label key="key:620782808:175532558" value="La bravoure se dissipe à votre approche. Le courage des nains les abandonne aussi facilement que leurs entrailles, quand vous êtes dans les parages. La mort que vous délivrez annihile tout espoir."/>
 <label key="key:620782809:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Adversaire des Hommes"/>
@@ -1067,7 +1067,7 @@
 <label key="key:620782812:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fléau des Elfes"/>
 <label key="key:620782812:175532558" value="Votre nom est connu chez les Elfes. Ils s'en servent pour effrayer les plus jeunes d'entre eux."/>
 <label key="key:620782813:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Malédiction de la montagne"/>
-<label key="key:620782813:175532558" value="Lorsque l'armée de l'Angmar s'enfoncera sous terre pour affronter les nains chez eux, c'est vous qui serez à sa tête. Vous êtes parmi les plus doués dans l'art de massacrer les nains !"/>
+<label key="key:620782813:175532558" value="Lorsque l'armée de l'Angmar s'enfoncera sous terre pour affronter les nains chez eux, c'est vous qui serez à sa tête. Vous êtes parmi les plus doués dans l'art de massacrer les nains !"/>
 <label key="key:620782814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, chef de guerre."/>
 <label key="key:620782814:175532558" value="Vous avez un officier d'une tribu."/>
 <label key="key:620782815:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} de hobbits"/>
@@ -1077,7 +1077,7 @@
 <label key="key:620782817:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Messager[m]|Messagère[f]} des ténèbres"/>
 <label key="key:620782817:175532558" value="Vous venez de la part du Seigneur ténébreux. Vous avez éliminé un nombre incalculable d'ennemis au combat, aucun ne peut échapper à votre emprise."/>
 <label key="key:620782818:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Lanceur[m]|Lanceuse[f]} de nains"/>
-<label key="key:620782818:175532558" value="Les nains tremblent en vous voyant ! Vous les tuez et les broyez par centaines !"/>
+<label key="key:620782818:175532558" value="Les nains tremblent en vous voyant ! Vous les tuez et les broyez par centaines !"/>
 <label key="key:620782819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, chef"/>
 <label key="key:620782819:175532558" value="Vous êtes à la tête d'une tribu."/>
 <label key="key:620782820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:fondateur[m]|fondatrice[f]}"/>
@@ -1111,7 +1111,7 @@
 <label key="key:620782834:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, le Tourment"/>
 <label key="key:620782834:175532558" value="Vous êtes maintenant un véritable tourment pour les Peuples Libres."/>
 <label key="key:620782835:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Tueur[m]|Tueuse[f]} d'Hommes"/>
-<label key="key:620782835:175532558" value="Votre lame s'abreuve librement du sang des Hommes. Peu d'entre eux osent vous défier !"/>
+<label key="key:620782835:175532558" value="Votre lame s'abreuve librement du sang des Hommes. Peu d'entre eux osent vous défier !"/>
 <label key="key:620782836:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}"/>
 <label key="key:620782836:175532558" value="Vos rang, nom et surnom, sans titre."/>
 <label key="key:620782837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, maître de bataille"/>
@@ -1135,7 +1135,7 @@
 <label key="key:620782847:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, troufion"/>
 <label key="key:620782847:175532558" value="Vous faites partie de la piétaille de votre tribu."/>
 <label key="key:620782848:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Chien noir[m]|Chienne noire[f]}"/>
-<label key="key:620782848:175532558" value="L'Angmar vous regarde d'un bon œil, vous faites partie de l'élite de ses rangs. Parmi les Chiens noirs, vous êtes un molosse de Mordirith !"/>
+<label key="key:620782848:175532558" value="L'Angmar vous regarde d'un bon œil, vous faites partie de l'élite de ses rangs. Parmi les Chiens noirs, vous êtes un molosse de Mordirith !"/>
 <label key="key:620782849:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Malédiction des justes"/>
 <label key="key:620782849:175532558" value="Tous ceux qui, de près ou de loin, sont liés au peuple elfe craignent votre lame. Sur le champ de bataille, vous les éliminez en masse."/>
 <label key="key:620782850:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Ennemi[m]|Ennemie[f]} de l'innocence"/>
@@ -1147,7 +1147,7 @@
 <label key="key:620789004:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME}[Intendant d'Eriador[m]|Intendante d'Eriador[f]}"/>
 <label key="key:620789004:175532558" value="Titre d'intendant pour les administrateurs."/>
 <label key="key:620789049:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Serviteur de l'Angmar"/>
-<label key="key:620789049:175532558" value="Vous êtes à présent ${PLAYERNAME:conditionné[m]|conditionnée[f]} pour servir l'armée de l'Angmar !"/>
+<label key="key:620789049:175532558" value="Vous êtes à présent ${PLAYERNAME:conditionné[m]|conditionnée[f]} pour servir l'armée de l'Angmar !"/>
 <label key="key:620789509:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lumière de l'Ombre"/>
 <label key="key:620789509:175532558" value="Vous avez achevé le premier volume des Ombres d'Angmar."/>
 <label key="key:620789815:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gardien[m]|Gardienne[f]} de tombeau"/>
@@ -1236,38 +1236,38 @@
 <label key="key:620799641:175532558" value="Les combats que vous avez livrés au fond de la faille ont aidé les géants du clan des Eldgangs, qui luttent contre les puissances des ténèbres en ce terrible endroit."/>
 <label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Porteur[m]|Porteuse[f]} d’espoir"/>
 <label key="key:620799777:175532558" value="Vous avez terminé la première partie du deuxième volume des Ombres d’Angmar."/>
-<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Merciful"/>
-<label key="key:620809088:175532558" value="You have fearlessly stridden into Annúminas and slain many Angmarim in the defense of Eriador."/>
-<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Annúminas"/>
-<label key="key:620809091:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the mighty Guldurchir has fallen to your skill."/>
-<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Protector of Annúminas"/>
-<label key="key:620809093:175532558" value="You have confronted many foes within Annúminas and ably defeated them all - even the wretched Balhest has fallen to your skill."/>
-<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Righteous"/>
-<label key="key:620809095:175532558" value="You have fearlessly stridden into Annúminas and slain many of the Dead within in the defense of Eriador."/>
-<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Formidable"/>
-<label key="key:620809097:175532558" value="You have fearlessly stridden into Annúminas and slain many Gertheryg within in the defense of Eriador."/>
-<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Warden of Annúminas"/>
-<label key="key:620809101:175532558" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestowed upon you the title of Warden."/>
-<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sage of the Sunken City"/>
-<label key="key:620809126:175532558" value="You have found and protected the hidden lore of the city of Annúminas before it could be delivered to the hands of Amarthiel's captains."/>
-<label key="key:636223488:133344739" value="Hardcore challenge reward for completing quests in all zones."/>
-<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Insane"/>
-<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Saviour of the Lady"/>
-<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sambrog's Bane"/>
-<label key="key:636223488:159719968" value="Hardcore challenge reward for reaching level 50 without dying."/>
-<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Liberator of Norbury"/>
-<label key="key:636223488:18718558" value="Hardcore challenge reward for exploring all zones."/>
-<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Spear of Oromë"/>
-<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Legend"/>
-<label key="key:636223488:221492867" value="Hardcore challenge reward for completing all three leveling dungeons."/>
-<label key="key:636223488:236725557" value="Hardcore challenge reward for hunting rare monsters."/>
-<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Explorer"/>
-<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Middle-Earth"/>
-<label key="key:636223488:36742548" value="Hardcore challenge reward for completing Fornost."/>
-<label key="key:636223488:40850518" value="Hardcore challenge reward for completing Epic Volume I Books 1 through 6."/>
+<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:le Clément[m]|la Clémente[f]}"/>
+<label key="key:620809088:175532558" value="N'écoutant que votre courage, vous êtes ${PLAYERNAME:entré[m]|entrée[f]} dans Annuminas et avez vaincu de nombreux Angmarim pour défendre l'Eriador."/>
+<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:défenseur[m]|défenseuse[f]} d'Annuminas"/>
+<label key="key:620809091:175532558" value="Vous avez affronté de nombreux adversaires entre les murs d'Annuminas et tous sont tombés devant vous. Même le puissant Guldurchir n'était pas de taille à vous résister."/>
+<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:protecteur[m]|protectrice[f]} d'Annuminas"/>
+<label key="key:620809093:175532558" value="Vous avez affronté de nombreux adversaires entre les murs d'Annuminas et tous sont tombés devant vous. Même l'ignoble Balhest n'était pas de taille à vous résister."/>
+<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, l'Intègre"/>
+<label key="key:620809095:175532558" value="Faisant fi de toute peur, vous êtes ${PLAYERNAME:entré[m]|entrée[f]} dans Annuminas et y avez tué de nombreux Morts pour défendre l'Eriador."/>
+<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:le[m]|la[f]} Redoutable"/>
+<label key="key:620809097:175532558" value="Faisant fi de toute peur, vous êtes ${PLAYERNAME:entré[m]|entrée[f]} dans Annuminas et y avez tué de nombreux Gorthorogs pour défendre l'Eriador."/>
+<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gardien[m]|Gardienne[f]} d'Annuminas"/>
+<label key="key:620809101:175532558" value="Les efforts que vous avez déployés à Annuminas ont attiré l'attention des Rôdeurs. En raison de votre aide incessante pour défendre la cité des rois, ils vous ont conféré le titre de ${PLAYERNAME:Gardien[m]|Gardienne[f]}."/>
+<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, sage de la cité engloutie"/>
+<label key="key:620809126:175532558" value="Vous avez trouvé et protégé le savoir caché de la cité d'Annuminas avant qu'il ne puisse être remis aux mains des capitaines d'Amarthiel."/>
+<label key="key:636223488:133344739" value="Récompense du défi hardcore pour avoir terminé les quêtes dans toutes les zones."/>
+<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Le Fou[m]| La Folle[f]}"/>
+<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Sauveteur[m]| Sauveteuse[f]} de la Dame"/>
+<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Le Fléau de Sambrog"/>
+<label key="key:636223488:159719968" value="Récompense du défi hardcore pour avoir atteint le niveau 50 sans mourir."/>
+<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Liberateur[m]| Libératrice[f]} des Portes de Norbury"/>
+<label key="key:636223488:18718558" value="Récompense du défi hardcore pour avoir exploré toutes les zones."/>
+<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, La Lance d'Oromë"/>
+<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} La Légende"/>
+<label key="key:636223488:221492867" value="Récompense du défi hardcore pour avoir terminé les trois instances de mise à niveau."/>
+<label key="key:636223488:236725557" value="Récompense du défi hardcore pour la chasse aux monstres élites."/>
+<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:L'Explorateur[m]| L’Exploratrice[f]}"/>
+<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Défenseur[m]| Defenseure[f]} de la Terre du Milieu"/>
+<label key="key:636223488:36742548" value="Récompense du défi hardcore pour avoir terminé Fornost."/>
+<label key="key:636223488:40850518" value="Récompense du défi hardcore pour avoir terminé les Livres 1 à 6 du Volume 1 de la Quete Epique."/>
 <label key="key:636223488:66200070" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Calantar"/>
-<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Learned"/>
-<label key="key:636223488:75314017" value="Hardcore challenge reward for completing Garth Agarwen."/>
-<label key="key:636223488:75314018" value="Hardcore challenge reward for completing The Great Barrow."/>
-<label key="key:636223488:96594722" value="Hardcore challenge reward for completing all the availalble challenges."/>
+<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Le Savant[m]| La Savante[f]}"/>
+<label key="key:636223488:75314017" value="Récompense du défi hardcore pour avoir terminé Garth Agarwen."/>
+<label key="key:636223488:75314018" value="Récompense du défi hardcore pour avoir terminé Le Grand Galgal."/>
+<label key="key:636223488:96594722" value="Récompense du défi hardcore pour avoir terminé tous les défis disponibles."/>
 </labels>

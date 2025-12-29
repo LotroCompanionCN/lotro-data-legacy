@@ -533,17 +533,17 @@
 <label key="1879101824" value="Наставник менестрелей"/>
 <label key="1879101825" value="Легенда музыки"/>
 <label key="1879101991" value="Тени Ангмара. Часть II"/>
-<label key="1879115172" value="Invaders from Angmar"/>
-<label key="1879115173" value="Invaders from Angmar (Advanced)"/>
-<label key="1879115174" value="Leaders of the Invasion"/>
-<label key="1879115175" value="Leaders of the Invasion (Advanced)"/>
-<label key="1879115176" value="Spirits Aiding Angmar"/>
-<label key="1879115177" value="Brutes from the North"/>
-<label key="1879115178" value="Brutes from the North (Advanced)"/>
-<label key="1879115179" value="The City of the Kings"/>
-<label key="1879115180" value="Warden of Annúminas"/>
-<label key="1879115181" value="Markers of the Sunken City"/>
-<label key="1879115195" value="Spirits Aiding Angmar (Advanced)"/>
+<label key="1879115172" value="Ангмарские захватчики"/>
+<label key="1879115173" value="Ангмарские захватчики (продолжение)"/>
+<label key="1879115174" value="Вожди захватчиков"/>
+<label key="1879115175" value="Вожди захватчиков (продолжение)"/>
+<label key="1879115176" value="Духи на службе Ангмара"/>
+<label key="1879115177" value="Исполины с севера"/>
+<label key="1879115178" value="Исполины с севера (продолжение)"/>
+<label key="1879115179" value="Город королей"/>
+<label key="1879115180" value="Страж Аннуминаса"/>
+<label key="1879115181" value="Таблички затопленного города"/>
+<label key="1879115195" value="Духи на службе Ангмара (продолжение)"/>
 <label key="key:620758795:118018273" value="Стражи границ - это отряд ширрифов, который отвечает за охрану и защиту границ и помогает всем, кто оказался в беде."/>
 <label key="key:620758795:22075073" value="Выполнить задания обитателей Шира"/>
 <label key="key:620758795:228870261" value="Жизнь стража границ (окончание)"/>
@@ -4059,7 +4059,7 @@
 <label key="key:620797437:118018274" value="Странно: маленькая медная пуговица, очень грязная и непригодная для использования. Однако же очевидно, что прежде она была пришита к добротной куртке или жилету. Откуда у гоблинов такая вещица?"/>
 <label key="key:620797437:118018275" value="Старая медная пуговица едва ли пригодна для застегивания жилета, но какой-то пытливый гоблин отполировал ее до блеска. Должно быть, он носил ее как амулет."/>
 <label key="key:620797437:118018276" value="Странно: медная застежка для жилета - посреди города гоблинов! Судя по всему, когда-то давно эту пуговицу кто-то зачем-то сильно поцарапал о камень."/>
-<label key="key:620797437:118018277" value="Эта медная побрякушка точно изготовлена не в городе гоблинов. Она сильно погнута. Должно быть, это сделал тот, кто отрывал ее от жилета, к которому она некогда была пришита."/>
+<label key="key:620797437:118018277" value="Эта медная побрякушка точно изготовлена не в Городе гоблинов. Она сильно погнута. Должно быть, это сделал тот, кто отрывал ее от жилета, к которому она некогда была пришита."/>
 <label key="key:620797437:118018278" value="Эта медная пуговица сохранилась на удивление хорошо, и на ней можно разглядеть гравировку ширского мастера. Но что могло сподвигнуть хоббита в здравом уме отправиться в недра города гоблинов в одном жилете?"/>
 <label key="key:620797437:118018279" value="Любопытно… Это запонка, вероятно, из тех, что когда-то были писком моды среди хоббитов Шира. Но мода изменчива, а потому сейчас она ничего не стоит."/>
 <label key="key:620797437:118018280" value="Некогда эта запонка была достойным произведением ювелирного искусства - возможно, хоббичьего, - но она испортилась и почернела от огня. Видимо, какой-то неловкий гоблин уронил ее в костер."/>
@@ -4124,98 +4124,98 @@
 <label key="key:620799776:228870261" value="Тени Ангмара. Часть II"/>
 <label key="key:620799776:54354734" value="Узнайте захватывающую дух историю о Тенях Ангмара."/>
 <label key="key:620799776:94621393" value="Узнайте захватывающую дух историю о Тенях Ангмара."/>
-<label key="key:620809087:118018273" value="You have defeated many Angmarim in the defence of Annúminas."/>
-<label key="key:620809087:22075073" value="Defeat Angmarim in and around Annúminas"/>
-<label key="key:620809087:228870261" value="Invaders from Angmar"/>
-<label key="key:620809087:54354734" value="Defeat Angmarim in and around Annúminas."/>
-<label key="key:620809089:118018273" value="You have defeated many Angmarim in the defence of Annúminas."/>
-<label key="key:620809089:22075073" value="Defeat Angmarim in and around Annúminas"/>
-<label key="key:620809089:228870261" value="Invaders from Angmar (Advanced)"/>
-<label key="key:620809089:54354734" value="Defeat Angmarim in and around Annúminas."/>
-<label key="key:620809090:118018273" value="Agarochir is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809090:118018274" value="Guldurchir is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809090:118018275" value="Siridán is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809090:118018276" value="Unagh is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809090:118018277" value="Valtair is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809090:136263297" value="You have defeated Agarochir"/>
-<label key="key:620809090:136263298" value="You have defeated Guldurchir"/>
-<label key="key:620809090:136263299" value="You have defeated Siridán"/>
-<label key="key:620809090:136263300" value="You have defeated Unagh"/>
-<label key="key:620809090:136263301" value="You have defeated Valtair"/>
-<label key="key:620809090:22075073" value="Defeat Agarochir"/>
-<label key="key:620809090:22075074" value="Defeat Guldurchir"/>
-<label key="key:620809090:22075075" value="Defeat Siridán"/>
-<label key="key:620809090:22075076" value="Defeat Unagh"/>
-<label key="key:620809090:22075077" value="Defeat Valtair"/>
-<label key="key:620809090:228870261" value="Leaders of the Invasion"/>
-<label key="key:620809090:54354734" value="Defeat the leaders of the Angmarim invasion within Annúminas."/>
-<label key="key:620809092:118018273" value="Nengon is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809092:118018274" value="While not allied with the Angmarim, Shingrinder stalks Haudh Valindal, feeding upon the decay and refuse left by ages of desolation."/>
-<label key="key:620809092:118018275" value="Dolvaethor is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809092:118018276" value="Guloth is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809092:118018277" value="Balhest is one of the leaders of the invasion within Annúminas."/>
-<label key="key:620809092:136263297" value="You have defeated Nengon"/>
-<label key="key:620809092:136263298" value="You have defeated Shingrinder"/>
-<label key="key:620809092:136263299" value="You have defeated Dolvaethor"/>
-<label key="key:620809092:136263300" value="You have defeat Guloth"/>
-<label key="key:620809092:136263301" value="You have defeated Balhest"/>
-<label key="key:620809092:22075073" value="Defeat Nengon"/>
-<label key="key:620809092:22075074" value="Defeat Shingrinder"/>
-<label key="key:620809092:22075075" value="Defeat Dolvaethor"/>
-<label key="key:620809092:22075076" value="Defeat Guloth"/>
-<label key="key:620809092:22075077" value="Defeat Balhest"/>
-<label key="key:620809092:228870261" value="Leaders of the Invasion (Advanced)"/>
-<label key="key:620809092:54354734" value="Defeat the leaders of the Angmarim invasion within Annúminas."/>
-<label key="key:620809094:118018273" value="You have defeated many of the Dead in the defence of Annúminas."/>
-<label key="key:620809094:22075073" value="Defeat the Dead within Annúminas"/>
-<label key="key:620809094:228870261" value="Spirits Aiding Angmar"/>
-<label key="key:620809094:54354734" value="Defeat the Dead within Annúminas."/>
-<label key="key:620809096:118018273" value="You have defeated many Gertheryg in the defence of Annúminas."/>
-<label key="key:620809096:22075073" value="Defeat the Gertheryg within Annúminas"/>
-<label key="key:620809096:228870261" value="Brutes from the North"/>
-<label key="key:620809096:54354734" value="Defeat the Gertheryg within Annúminas."/>
-<label key="key:620809098:118018273" value="You have defeated many Gertheryg in the defence of Annúminas."/>
-<label key="key:620809098:22075073" value="Defeat the Gertheryg within Annúminas"/>
-<label key="key:620809098:228870261" value="Brutes from the North (Advanced)"/>
-<label key="key:620809098:54354734" value="Defeat the Gertheryg within Annúminas."/>
-<label key="key:620809099:118018273" value="You have discovered Gwaelband in Annúminas."/>
-<label key="key:620809099:118018274" value="You have discovered Gaerannon in Annúminas."/>
-<label key="key:620809099:118018275" value="You have discovered Echad Garthadir in Annúminas."/>
-<label key="key:620809099:118018276" value="You have discovered Menelband in Annúminas."/>
-<label key="key:620809099:118018277" value="You have discovered Clorhir in Annúminas."/>
-<label key="key:620809099:118018278" value="You have discovered Tirband in Annúminas."/>
-<label key="key:620809099:118018279" value="You have discovered Ariant in Annúminas."/>
-<label key="key:620809099:118018280" value="You have discovered Minathranc in Annúminas."/>
-<label key="key:620809099:136263297" value="You have discovered Gwaelband"/>
-<label key="key:620809099:136263298" value="You have discovered Gaerannon"/>
-<label key="key:620809099:136263299" value="You have discovered Echad Garthadir"/>
-<label key="key:620809099:136263300" value="You have discovered Menelband"/>
-<label key="key:620809099:136263301" value="You have discovered Clorhir"/>
-<label key="key:620809099:136263302" value="You have discovered Tirband"/>
-<label key="key:620809099:136263303" value="You have discovered Ariant"/>
-<label key="key:620809099:136263304" value="You have discovered Minathranc"/>
-<label key="key:620809099:228870261" value="The City of the Kings"/>
-<label key="key:620809099:54354734" value="Explore the ruins of the ancient city of Annúminas."/>
-<label key="key:620809099:94621393" value="NOT USED"/>
-<label key="key:620809100:22075073" value="Defend Annúminas from the forces of Angmar"/>
-<label key="key:620809100:22075074" value="Defend Annúminas from the forces of Angmar"/>
-<label key="key:620809100:228870261" value="Warden of Annúminas"/>
-<label key="key:620809100:54354734" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestown upon you the title of Warden."/>
-<label key="key:620809102:118018273" value="You have defeated many of the Dead in the defence of Annúminas."/>
-<label key="key:620809102:22075073" value="Defeat the Dead within Annúminas"/>
-<label key="key:620809102:228870261" value="Spirits Aiding Angmar (Advanced)"/>
-<label key="key:620809102:54354734" value="Defeat the Dead within Annúminas."/>
-<label key="key:620809125:118018276" value="This is one of the various plaques found in Annúminas denoting a place of import."/>
-<label key="key:620809125:118018277" value="This is one of the various plaques found in Annúminas denoting a place of import."/>
-<label key="key:620809125:118018278" value="This is one of the various plaques found in Annúminas denoting a place of import."/>
-<label key="key:620809125:136263297" value="You have found the Plaque of Menelband"/>
-<label key="key:620809125:136263298" value="You have found the Plaque of Minathranc"/>
-<label key="key:620809125:136263299" value="You have found the Plaque of Tirband"/>
-<label key="key:620809125:136263300" value="You have found the Plaque of Echad Garthadir"/>
-<label key="key:620809125:136263301" value="You have found the Plaque of Clorhir"/>
-<label key="key:620809125:136263302" value="You have found the Plaque of Ariant"/>
-<label key="key:620809125:228870261" value="Markers of the Sunken City"/>
-<label key="key:620809125:54354734" value="Find the marker plaques scattered throughout Annúminas."/>
-<label key="key:620809125:94621393" value="Find the marker plaques scattered throughout Annúminas."/>
-<label key="key:620809125:94621394" value="Find the marker plaques scattered throughout Annúminas."/>
+<label key="key:620809087:118018273" value="Вы одолели множество ангмарцев, защищая Аннуминас."/>
+<label key="key:620809087:22075073" value="Уничтожить ангмарцев в Аннуминасе"/>
+<label key="key:620809087:228870261" value="Ангмарские захватчики"/>
+<label key="key:620809087:54354734" value="Уничтожьте ангмарцев в Аннуминасе."/>
+<label key="key:620809089:118018273" value="Вы одолели множество ангмарцев, защищая Аннуминас."/>
+<label key="key:620809089:22075073" value="Уничтожить ангмарцев в Аннуминасе"/>
+<label key="key:620809089:228870261" value="Ангмарские захватчики (продолжение)"/>
+<label key="key:620809089:54354734" value="Уничтожьте ангмарцев в Аннуминасе."/>
+<label key="key:620809090:118018273" value="Агарохир - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809090:118018274" value="Гулдурхир - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809090:118018275" value="Сиридан - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809090:118018276" value="Унаг - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809090:118018277" value="Валтаир - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809090:136263297" value="Побежден Агарохир"/>
+<label key="key:620809090:136263298" value="Побежден Гулдуркир"/>
+<label key="key:620809090:136263299" value="Побежден Сиридан"/>
+<label key="key:620809090:136263300" value="Побежден Унаг"/>
+<label key="key:620809090:136263301" value="Побежден Валтаир"/>
+<label key="key:620809090:22075073" value="Победить Агарохира"/>
+<label key="key:620809090:22075074" value="Победить Гулдуркира"/>
+<label key="key:620809090:22075075" value="Победить Сиридана"/>
+<label key="key:620809090:22075076" value="Победить Унага"/>
+<label key="key:620809090:22075077" value="Победить Валтаира"/>
+<label key="key:620809090:228870261" value="Вожди захватчиков"/>
+<label key="key:620809090:54354734" value="Уничтожьте вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809092:118018273" value="Ненгон - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809092:118018274" value="Голеномол не служит Ангмару. Одиночка по своей природе, он рыщет по пустым залам Хауд Валандил и питается вековой падалью."/>
+<label key="key:620809092:118018275" value="Долваэтор - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809092:118018276" value="Гулот - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809092:118018277" value="Балгест - один из вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809092:136263297" value="Побежден Ненгон"/>
+<label key="key:620809092:136263298" value="Побежден Голеномол"/>
+<label key="key:620809092:136263299" value="Побежден Долваэтор"/>
+<label key="key:620809092:136263300" value="Побежден Гулот"/>
+<label key="key:620809092:136263301" value="Побежден Балгест"/>
+<label key="key:620809092:22075073" value="Убить Ненгона"/>
+<label key="key:620809092:22075074" value="Убить Голеномола"/>
+<label key="key:620809092:22075075" value="Победить Долваэтора"/>
+<label key="key:620809092:22075076" value="Победить Гулота"/>
+<label key="key:620809092:22075077" value="Победить Балгеста"/>
+<label key="key:620809092:228870261" value="Вожди захватчиков (продолжение)"/>
+<label key="key:620809092:54354734" value="Уничтожьте вождей ангмарского войска, вошедшего в Аннуминас."/>
+<label key="key:620809094:118018273" value="Вы уничтожили множество нежити во имя защиты Аннуминаса."/>
+<label key="key:620809094:22075073" value="Уничтожить нежить в Аннуминасе."/>
+<label key="key:620809094:228870261" value="Духи на службе Ангмара"/>
+<label key="key:620809094:54354734" value="Уничтожить нежить в Аннуминасе."/>
+<label key="key:620809096:118018273" value="Вы уничтожили множество горторогов во имя защиты Аннуминаса."/>
+<label key="key:620809096:22075073" value="Уничтожить горторогов в Аннуминасе"/>
+<label key="key:620809096:228870261" value="Исполины с севера"/>
+<label key="key:620809096:54354734" value="Уничтожьте горторогов в Аннуминасе."/>
+<label key="key:620809098:118018273" value="Вы уничтожили множество горторогов во имя защиты Аннуминаса."/>
+<label key="key:620809098:22075073" value="Уничтожить горторогов в Аннуминасе"/>
+<label key="key:620809098:228870261" value="Исполины с севера (продолжение)"/>
+<label key="key:620809098:54354734" value="Уничтожьте горторогов в Аннуминасе."/>
+<label key="key:620809099:118018273" value="Вы нашли Гваэльбанд в Аннуминасе."/>
+<label key="key:620809099:118018274" value="Вы нашли Гаэраннон в Аннуминасе."/>
+<label key="key:620809099:118018275" value="Вы нашли Эхад Гартадир в Аннуминасе."/>
+<label key="key:620809099:118018276" value="Вы нашли Менельбанд в Аннуминасе."/>
+<label key="key:620809099:118018277" value="Вы нашли Клорхир в Аннуминасе."/>
+<label key="key:620809099:118018278" value="Вы нашли Тирбанд в Аннуминасе."/>
+<label key="key:620809099:118018279" value="Вы нашли Ариант в Аннуминасе."/>
+<label key="key:620809099:118018280" value="Вы нашли Минатранк в Аннуминасе."/>
+<label key="key:620809099:136263297" value="Вы нашли Гваэльбанд"/>
+<label key="key:620809099:136263298" value="Вы нашли Гаэраннон"/>
+<label key="key:620809099:136263299" value="Вы нашли Эхад Гартадир"/>
+<label key="key:620809099:136263300" value="Вы нашли Менельбанд"/>
+<label key="key:620809099:136263301" value="Вы нашли Клорхир"/>
+<label key="key:620809099:136263302" value="Вы нашли Тирбанд"/>
+<label key="key:620809099:136263303" value="Вы нашли Ариант"/>
+<label key="key:620809099:136263304" value="Вы нашли Минатранк"/>
+<label key="key:620809099:228870261" value="Город королей"/>
+<label key="key:620809099:54354734" value="Исследуйте руины древнего города Аннуминаса."/>
+<label key="key:620809099:94621393" value="НЕ ИСПОЛЬЗУЕТСЯ"/>
+<label key="key:620809100:22075073" value="Защитить Аннуминас от сил Ангмара"/>
+<label key="key:620809100:22075074" value="Защитить Аннуминас от сил Ангмара"/>
+<label key="key:620809100:228870261" value="Страж Аннуминаса"/>
+<label key="key:620809100:54354734" value="Ваши подвиги в городе королей не остались незамеченными. Следопыты оценили их по заслугам. Теперь для них вы Страж Аннуминаса."/>
+<label key="key:620809102:118018273" value="Вы уничтожили множество нежити во имя защиты Аннуминаса."/>
+<label key="key:620809102:22075073" value="Уничтожить нежить в Аннуминасе."/>
+<label key="key:620809102:228870261" value="Духи на службе Ангмара (продолжение)"/>
+<label key="key:620809102:54354734" value="Уничтожить нежить в Аннуминасе."/>
+<label key="key:620809125:118018276" value="Это одна из табличек Аннуминаса, указывающая на то, что место это представляет значительную важность."/>
+<label key="key:620809125:118018277" value="Это одна из табличек Аннуминаса, указывающая на то, что место это представляет значительную важность."/>
+<label key="key:620809125:118018278" value="Это одна из табличек Аннуминаса, указывающая на то, что место это представляет значительную важность."/>
+<label key="key:620809125:136263297" value="Вы нашли табличку Менельбанда"/>
+<label key="key:620809125:136263298" value="Вы нашли табличку Минатранка"/>
+<label key="key:620809125:136263299" value="Вы нашли табличку Тирбанда"/>
+<label key="key:620809125:136263300" value="Вы нашли табличку Эхад Гартадир"/>
+<label key="key:620809125:136263301" value="Вы нашли табличку Клорхира"/>
+<label key="key:620809125:136263302" value="Вы нашли табличку Арианта"/>
+<label key="key:620809125:228870261" value="Таблички затопленного города"/>
+<label key="key:620809125:54354734" value="Отыскать таблички, находящиеся в Аннуминасе."/>
+<label key="key:620809125:94621393" value="Отыскать таблички, находящиеся в Аннуминасе."/>
+<label key="key:620809125:94621394" value="Отыскать таблички, находящиеся в Аннуминасе."/>
 </labels>

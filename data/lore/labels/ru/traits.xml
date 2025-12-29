@@ -595,34 +595,34 @@
 <label key="1879097466" value="Игра на волынке"/>
 <label key="1879097468" value="Умение звонить в колокольчик"/>
 <label key="1879097470" value="Умение звонить в вересковый колокольчик"/>
-<label key="1879097831" value="Front-line Fodder"/>
-<label key="1879097832" value="Rage of the Misbegotten"/>
-<label key="1879097833" value="Warrior Against the Deep"/>
-<label key="1879097834" value="Tireless Warrior"/>
-<label key="1879097835" value="Flayer of Flesh"/>
-<label key="1879097836" value="Eight-legged Menace"/>
-<label key="1879097837" value="Swallower of Light"/>
-<label key="1879097838" value="Ancient as the Stars"/>
-<label key="1879097839" value="Enemies of the First Children"/>
-<label key="1879097840" value="Drinker of Blood"/>
-<label key="1879097841" value="New Breed"/>
-<label key="1879097842" value="Leaders of the Orcs"/>
-<label key="1879097843" value="Favoured Servant of the Dark"/>
-<label key="1879097844" value="Tireless Warrior"/>
-<label key="1879097845" value="Brutal persuasion"/>
-<label key="1879097846" value="Four-legged Foe"/>
-<label key="1879097847" value="Pack Mentality"/>
-<label key="1879097848" value="Pack Elder"/>
-<label key="1879097849" value="Foe of the Light"/>
-<label key="1879097850" value="Pack Alpha"/>
-<label key="1879097853" value="Advanced Skill: Blood of Fire"/>
-<label key="1879097854" value="Advanced Skill: Undying Rage"/>
-<label key="1879097855" value="Advanced Skill: Born of Shadow"/>
-<label key="1879097856" value="Advanced Skill: Shelob's Gift"/>
-<label key="1879097857" value="Advanced Skill: Imposing Presence"/>
-<label key="1879097858" value="Advanced Skill: Get a Grip!"/>
-<label key="1879097859" value="Advanced Skill: Pack Hunters"/>
-<label key="1879097860" value="Advanced Skill: Eyes of Unnerving"/>
+<label key="1879097831" value="Боец из первых рядов"/>
+<label key="1879097832" value="Ярость презренных"/>
+<label key="1879097833" value="Борец с бездной"/>
+<label key="1879097834" value="Неутомимый воин"/>
+<label key="1879097835" value="Раздирающий плоть"/>
+<label key="1879097836" value="Восьминогий враг"/>
+<label key="1879097837" value="Пожиратель Света"/>
+<label key="1879097838" value="Древний как звезды"/>
+<label key="1879097839" value="Враг перворожденных"/>
+<label key="1879097840" value="Кровопийца"/>
+<label key="1879097841" value="Новое племя"/>
+<label key="1879097842" value="Вожди орков"/>
+<label key="1879097843" value="Любимый слуга Тьмы"/>
+<label key="1879097844" value="Неутомимый воин"/>
+<label key="1879097845" value="Силовое убеждение"/>
+<label key="1879097846" value="Четвероногий враг"/>
+<label key="1879097847" value="Стайное мышление"/>
+<label key="1879097848" value="Матерый хищник"/>
+<label key="1879097849" value="Враг Света"/>
+<label key="1879097850" value="Вожак стаи"/>
+<label key="1879097853" value="Улучшенное умение: Огонь в крови"/>
+<label key="1879097854" value="Улучшенное умение: Неугасимый гнев"/>
+<label key="1879097855" value="Улучшенное умение: Порождение Тьмы"/>
+<label key="1879097856" value="Улучшенное умение: Дар Шелоб"/>
+<label key="1879097857" value="Улучшенное умение: Присутствие вожака"/>
+<label key="1879097858" value="Улучшенное умение: А ну, за дело!"/>
+<label key="1879097859" value="Улучшенное умение: Охота в стае"/>
+<label key="1879097860" value="Улучшенное умение: Ужасающий взгляд"/>
 <label key="1879101492" value="Друг природы"/>
 <label key="1879101513" value="Дом в Бри"/>
 <label key="1879101514" value="Дом в Бри"/>
@@ -1562,7 +1562,7 @@
 <label key="key:620775284:191029568" value="Повышает боевой дух всех участников братства."/>
 <label key="key:620775284:54354734" value="Боевой дух всех участников братства повышается."/>
 <label key="key:620775289:191029568" value="Ваша воля крепче, чем у большинства ваших собратьев среди людей."/>
-<label key="key:620775289:54354734" value="Народ людей на редкость искусен в военном деле. Ваша воля повышена."/>
+<label key="key:620775289:54354734" value="Народ людей на редкость искусен в военном деле."/>
 <label key="key:620775291:191029568" value="Люди известны своей неоспоримой доблестью в бою."/>
 <label key="key:620775291:54354734" value="Люди известны своей неоспоримой доблестью в бою."/>
 <label key="key:620775294:191029568" value="Сильная вера. Из всех свободных народов людям уготована величайшая судьба, а потому их вера в собственное предназначение крепка."/>
@@ -1704,23 +1704,23 @@
 <label key="key:620796148:54354734" value="Позволяет звонить в колокольчик."/>
 <label key="key:620796151:191029568" value="Позволяет звонить в необычные колокольчики."/>
 <label key="key:620796151:54354734" value="Позволяет звонить в вересковый колокольчик."/>
-<label key="key:620796422:106251889" value="Increases your movement by ${PERCENTVALUE}."/>
-<label key="key:620796443:191029568" value="You can inspire the forces of darkness to even greater feats, even as they near the brink of defeat."/>
-<label key="key:620796443:54354734" value="You can inspire the forces of darkness to even greater feats, even as they near the brink of defeat."/>
-<label key="key:620796446:191029568" value="You are pack hunters and can call out one target, increasing the efficiency of your allies against that target."/>
-<label key="key:620796446:54354734" value="You are pack hunters and can call out one target, increasing the efficiency of your allies against that target."/>
-<label key="key:620796448:191029568" value="So great is the fear inspired by your eyes that you bring dread to those around you."/>
-<label key="key:620796448:54354734" value="So great is the fear inspired by your eyes that you bring dread to those around you."/>
-<label key="key:620796450:191029568" value="The rage of the orcs burns strong within you. You can draw upon your racial strength and make those that attack you suffer for their transgression."/>
-<label key="key:620796450:54354734" value="The rage of the orcs burns strong within you. You can draw upon your racial strength and make those that attack you suffer for their transgression."/>
-<label key="key:620796453:191029568" value="As death's shroud closes in upon you, you are able to enter one last frenzied rage before the end."/>
-<label key="key:620796453:54354734" value="As death's shroud closes in upon you, you are able to enter one last frenzied rage before the end."/>
-<label key="key:620796457:191029568" value="You are able to draw upon the darkness from whence the first of your kind was born and cloak yourself in harmful shadows."/>
-<label key="key:620796457:54354734" value="You are able to draw upon the darkness from whence the first of your kind was born and cloak yourself in harmful shadows."/>
-<label key="key:620796460:191029568" value="Upon defeating an opponent you are able to use their shattered husk for sustenance."/>
-<label key="key:620796460:54354734" value="Upon defeating an opponent you are able to use their shattered husk for sustenance."/>
-<label key="key:620796462:191029568" value="Your presence inspires the lesser beings around you to greater strength."/>
-<label key="key:620796462:54354734" value="Your presence inspires the lesser beings around you to greater strength."/>
+<label key="key:620796422:106251889" value="Скорость передвижения повышена на ${PERCENTVALUE}."/>
+<label key="key:620796443:191029568" value="Вы умеете вдохновить приспешников Тьмы на новые подвиги, даже если они находятся на гкраю гибели."/>
+<label key="key:620796443:54354734" value="Вы умеете вдохновить приспешников Тьмы на новые подвиги, даже если они находятся на гкраю гибели."/>
+<label key="key:620796446:191029568" value="Варги охотятся стаями. Вы можете выбрать врага, против которого удары ваших соратников будут особенно эффективны."/>
+<label key="key:620796446:54354734" value="Варги охотятся стаями. Вы можете выбрать врага, против которого удары ваших соратников будут особенно эффективны."/>
+<label key="key:620796448:191029568" value="Один ваш взгляд ужасает всех противников поблизости."/>
+<label key="key:620796448:54354734" value="Один ваш взгляд ужасает всех противников поблизости."/>
+<label key="key:620796450:191029568" value="В вашей крови пылает гнев орков, придавая вам сил. Те, кто напал на вас, горько об этом пожалеют."/>
+<label key="key:620796450:54354734" value="В вашей крови пылает гнев орков, придавая вам сил. Те, кто напал на вас, горько об этом пожалеют."/>
+<label key="key:620796453:191029568" value="Когда над вами нависает смерть, вас охватывает приступ безумного, неугасимого гнева."/>
+<label key="key:620796453:54354734" value="Когда над вами нависает смерть, вас охватывает приступ безумного, неугасимого гнева."/>
+<label key="key:620796457:191029568" value="Вы черпаете силу из Тьмы, в которой была рождена первая из вашего племени, и тени становятся вашим покровом."/>
+<label key="key:620796457:54354734" value="Вы черпаете силу из Тьмы, в которой была рождена первая из вашего племени, и тени становятся вашим покровом."/>
+<label key="key:620796460:191029568" value="Убив врага, вы можете подкрепиться его останками."/>
+<label key="key:620796460:54354734" value="Убив врага, вы можете подкрепиться его останками."/>
+<label key="key:620796462:191029568" value="Ваше присутствие вдохновляет и усиливает приспешников."/>
+<label key="key:620796462:54354734" value="Ваше присутствие вдохновляет и усиливает приспешников."/>
 <label key="key:620799379:191029568" value="Позволяет призывать мирных спутников."/>
 <label key="key:620799379:54354734" value="Позволяет призывать мирных спутников."/>
 <label key="key:620799396:191029568" value="Поселения в землях Бри"/>

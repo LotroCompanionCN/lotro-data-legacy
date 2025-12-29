@@ -30,7 +30,7 @@
 <label key="1879053068" value="A la défense de la Terre du Milieu"/>
 <label key="1879053115" value="Bravade"/>
 <label key="1879053127" value="Loyauté"/>
-<label key="1879054124" value=" ${PLAYERNAME:Conquérant|Conquérante} des pierres-sentinelles"/>
+<label key="1879054124" value="${PLAYERNAME:Conquérant|Conquérante} des pierres-sentinelles"/>
 <label key="1879054956" value="Connaissance approfondie de l'art de l'érudit, niveau 1"/>
 <label key="1879054957" value="Maîtrise approfondie de l'art de l'érudit, niveau 1"/>
 <label key="1879054966" value="Connaissance approfondie de l'art de l'érudit, niveau 2"/>
@@ -272,146 +272,146 @@
 <label key="1879064094" value="Armures légères"/>
 <label key="1879064095" value="Armures intermédiaires"/>
 <label key="1879064096" value="Utilisation de corne"/>
-<label key="1879064097" value="Parade : niveau 1"/>
-<label key="1879064098" value="Esquive : niveau 1"/>
+<label key="1879064097" value="Parade : niveau 1"/>
+<label key="1879064098" value="Esquive : niveau 1"/>
 <label key="1879064099" value="Haches à deux mains"/>
 <label key="1879064100" value="Marteaux à deux mains"/>
 <label key="1879064101" value="Epées à deux mains"/>
 <label key="1879064102" value="Epieux"/>
-<label key="1879064103" value="Critique au corps à corps : niveau 1"/>
-<label key="1879064104" value="Précision : niveau 1"/>
+<label key="1879064103" value="Critique au corps à corps : niveau 1"/>
+<label key="1879064104" value="Précision : niveau 1"/>
 <label key="1879064105" value="Boucliers"/>
-<label key="1879064106" value="Esquive : niveau 2"/>
-<label key="1879064107" value="Parade : niveau 2"/>
+<label key="1879064106" value="Esquive : niveau 2"/>
+<label key="1879064107" value="Parade : niveau 2"/>
 <label key="1879064108" value="Arcs"/>
 <label key="1879064109" value="Armures lourdes"/>
-<label key="1879064110" value="Blocage : niveau 1"/>
-<label key="1879064111" value="Critique au corps à corps : niveau 2"/>
-<label key="1879064112" value="Blocage : niveau 2"/>
-<label key="1879064113" value="Précision : niveau 2"/>
-<label key="1879064114" value="Parade : niveau 3"/>
-<label key="1879064115" value="Esquive : niveau 3"/>
-<label key="1879064116" value="Blocage : niveau 3"/>
-<label key="1879064118" value="Blocage : niveau 4"/>
-<label key="1879064119" value="Précision : niveau 3"/>
-<label key="1879064120" value="Parade : niveau 4"/>
-<label key="1879064121" value="Esquive : niveau 4"/>
-<label key="1879064122" value="Précision : niveau 4"/>
+<label key="1879064110" value="Blocage : niveau 1"/>
+<label key="1879064111" value="Critique au corps à corps : niveau 2"/>
+<label key="1879064112" value="Blocage : niveau 2"/>
+<label key="1879064113" value="Précision : niveau 2"/>
+<label key="1879064114" value="Parade : niveau 3"/>
+<label key="1879064115" value="Esquive : niveau 3"/>
+<label key="1879064116" value="Blocage : niveau 3"/>
+<label key="1879064118" value="Blocage : niveau 4"/>
+<label key="1879064119" value="Précision : niveau 3"/>
+<label key="1879064120" value="Parade : niveau 4"/>
+<label key="1879064121" value="Esquive : niveau 4"/>
+<label key="1879064122" value="Précision : niveau 4"/>
 <label key="1879064155" value="Gourdins à deux mains"/>
-<label key="1879064156" value="Critique au corps à corps : niveau 1"/>
-<label key="1879064157" value="Blocage : niveau 1"/>
-<label key="1879064158" value="Précision : niveau 1"/>
-<label key="1879064159" value="Esquive : niveau 1"/>
+<label key="1879064156" value="Critique au corps à corps : niveau 1"/>
+<label key="1879064157" value="Blocage : niveau 1"/>
+<label key="1879064158" value="Précision : niveau 1"/>
+<label key="1879064159" value="Esquive : niveau 1"/>
 <label key="1879064160" value="Hallebardes"/>
-<label key="1879064161" value="Blocage : niveau 2"/>
-<label key="1879064162" value="Critique au corps à corps : niveau 2"/>
-<label key="1879064163" value="Parade : niveau 1"/>
-<label key="1879064165" value="Blocage : niveau 3"/>
-<label key="1879064166" value="Parade : niveau 2"/>
-<label key="1879064168" value="Précision : niveau 2"/>
-<label key="1879064169" value="Parade : niveau 3"/>
-<label key="1879064170" value="Précision : niveau 3"/>
-<label key="1879064171" value="Précision : niveau 4"/>
-<label key="1879064172" value="Parade : niveau 4"/>
+<label key="1879064161" value="Blocage : niveau 2"/>
+<label key="1879064162" value="Critique au corps à corps : niveau 2"/>
+<label key="1879064163" value="Parade : niveau 1"/>
+<label key="1879064165" value="Blocage : niveau 3"/>
+<label key="1879064166" value="Parade : niveau 2"/>
+<label key="1879064168" value="Précision : niveau 2"/>
+<label key="1879064169" value="Parade : niveau 3"/>
+<label key="1879064170" value="Précision : niveau 3"/>
+<label key="1879064171" value="Précision : niveau 4"/>
+<label key="1879064172" value="Parade : niveau 4"/>
 <label key="1879064173" value="Utilisation de cor d'invocation"/>
 <label key="1879064210" value="Utilisation de luth"/>
 <label key="1879064211" value="Utilisation de clarinette"/>
 <label key="1879064212" value="Utilisation de flûte"/>
 <label key="1879064213" value="Utilisation de harpe"/>
-<label key="1879064214" value="Esquive : niveau 1"/>
-<label key="1879064215" value="Esquive : niveau 2"/>
-<label key="1879064216" value="Esquive : niveau 3"/>
-<label key="1879064217" value="Blocage : niveau 1"/>
-<label key="1879064218" value="Blocage : niveau 2"/>
-<label key="1879064219" value="Blocage : niveau 3"/>
-<label key="1879064220" value="Blocage : niveau 4"/>
-<label key="1879064221" value="Précision : niveau 1"/>
-<label key="1879064222" value="Précision : niveau 2"/>
-<label key="1879064223" value="Précision : niveau 3"/>
-<label key="1879064224" value="Précision : niveau 4"/>
-<label key="1879064225" value="Critique au corps à corps : niveau 1"/>
-<label key="1879064226" value="Critique au corps à corps : niveau 2"/>
-<label key="1879064227" value="Critique au corps à corps : niveau 3"/>
-<label key="1879064228" value="Critique au corps à corps : niveau 4"/>
-<label key="1879064229" value="Parade : niveau 1"/>
-<label key="1879064230" value="Parade : niveau 2"/>
-<label key="1879064231" value="Parade : niveau 3"/>
+<label key="1879064214" value="Esquive : niveau 1"/>
+<label key="1879064215" value="Esquive : niveau 2"/>
+<label key="1879064216" value="Esquive : niveau 3"/>
+<label key="1879064217" value="Blocage : niveau 1"/>
+<label key="1879064218" value="Blocage : niveau 2"/>
+<label key="1879064219" value="Blocage : niveau 3"/>
+<label key="1879064220" value="Blocage : niveau 4"/>
+<label key="1879064221" value="Précision : niveau 1"/>
+<label key="1879064222" value="Précision : niveau 2"/>
+<label key="1879064223" value="Précision : niveau 3"/>
+<label key="1879064224" value="Précision : niveau 4"/>
+<label key="1879064225" value="Critique au corps à corps : niveau 1"/>
+<label key="1879064226" value="Critique au corps à corps : niveau 2"/>
+<label key="1879064227" value="Critique au corps à corps : niveau 3"/>
+<label key="1879064228" value="Critique au corps à corps : niveau 4"/>
+<label key="1879064229" value="Parade : niveau 1"/>
+<label key="1879064230" value="Parade : niveau 2"/>
+<label key="1879064231" value="Parade : niveau 3"/>
 <label key="1879064259" value="Bâtons à deux mains"/>
-<label key="1879064260" value="Esquive : niveau 1"/>
-<label key="1879064261" value="Parade : niveau 1"/>
-<label key="1879064262" value="Précision : niveau 1"/>
-<label key="1879064263" value="Critique au corps à corps : niveau 1"/>
-<label key="1879064264" value="Parade : niveau 2"/>
-<label key="1879064265" value="Précision : niveau 2"/>
-<label key="1879064267" value="Critique au corps à corps : niveau 2"/>
-<label key="1879064268" value="Esquive : niveau 2"/>
-<label key="1879064269" value="Parade : niveau 3"/>
-<label key="1879064271" value="Précision : niveau 3"/>
-<label key="1879064273" value="Précision : niveau 4"/>
-<label key="1879064274" value="Esquive : niveau 3"/>
+<label key="1879064260" value="Esquive : niveau 1"/>
+<label key="1879064261" value="Parade : niveau 1"/>
+<label key="1879064262" value="Précision : niveau 1"/>
+<label key="1879064263" value="Critique au corps à corps : niveau 1"/>
+<label key="1879064264" value="Parade : niveau 2"/>
+<label key="1879064265" value="Précision : niveau 2"/>
+<label key="1879064267" value="Critique au corps à corps : niveau 2"/>
+<label key="1879064268" value="Esquive : niveau 2"/>
+<label key="1879064269" value="Parade : niveau 3"/>
+<label key="1879064271" value="Précision : niveau 3"/>
+<label key="1879064273" value="Précision : niveau 4"/>
+<label key="1879064274" value="Esquive : niveau 3"/>
 <label key="1879064298" value="Arbalètes"/>
 <label key="1879064299" value="Boucliers lourds"/>
-<label key="1879064300" value="Précision : niveau 1"/>
-<label key="1879064301" value="Précision : niveau 2"/>
-<label key="1879064302" value="Précision : niveau 3"/>
-<label key="1879064303" value="Précision : niveau 4"/>
-<label key="1879064304" value="Blocage : niveau 1"/>
-<label key="1879064305" value="Blocage : niveau 2"/>
-<label key="1879064306" value="Blocage : niveau 3"/>
-<label key="1879064307" value="Blocage : niveau 4"/>
-<label key="1879064308" value="Critique au corps à corps : niveau 1"/>
-<label key="1879064309" value="Critique au corps à corps : niveau 2"/>
-<label key="1879064312" value="Esquive : niveau 1"/>
-<label key="1879064313" value="Esquive : niveau 2"/>
-<label key="1879064314" value="Parade : niveau 1"/>
-<label key="1879064315" value="Parade : niveau 2"/>
-<label key="1879064316" value="Parade : niveau 3"/>
-<label key="1879064317" value="Parade : niveau 4"/>
-<label key="1879064344" value="Précision : niveau 1"/>
-<label key="1879064345" value="Précision : niveau 2"/>
-<label key="1879064346" value="Précision : niveau 3"/>
-<label key="1879064347" value="Précision : niveau 4"/>
-<label key="1879064348" value="Critique au corps à corps : niveau 1"/>
-<label key="1879064349" value="Critique au corps à corps : niveau 2"/>
-<label key="1879064350" value="Critique au corps à corps : niveau 3"/>
-<label key="1879064351" value="Critique au corps à corps : niveau 4"/>
-<label key="1879064352" value="Esquive : niveau 1"/>
-<label key="1879064353" value="Esquive : niveau 2"/>
-<label key="1879064354" value="Esquive : niveau 3"/>
-<label key="1879064355" value="Esquive : niveau 4"/>
-<label key="1879064356" value="Parade : niveau 1"/>
-<label key="1879064357" value="Parade : niveau 2"/>
-<label key="1879064358" value="Parade : niveau 3"/>
-<label key="1879064359" value="Parade : niveau 4"/>
+<label key="1879064300" value="Précision : niveau 1"/>
+<label key="1879064301" value="Précision : niveau 2"/>
+<label key="1879064302" value="Précision : niveau 3"/>
+<label key="1879064303" value="Précision : niveau 4"/>
+<label key="1879064304" value="Blocage : niveau 1"/>
+<label key="1879064305" value="Blocage : niveau 2"/>
+<label key="1879064306" value="Blocage : niveau 3"/>
+<label key="1879064307" value="Blocage : niveau 4"/>
+<label key="1879064308" value="Critique au corps à corps : niveau 1"/>
+<label key="1879064309" value="Critique au corps à corps : niveau 2"/>
+<label key="1879064312" value="Esquive : niveau 1"/>
+<label key="1879064313" value="Esquive : niveau 2"/>
+<label key="1879064314" value="Parade : niveau 1"/>
+<label key="1879064315" value="Parade : niveau 2"/>
+<label key="1879064316" value="Parade : niveau 3"/>
+<label key="1879064317" value="Parade : niveau 4"/>
+<label key="1879064344" value="Précision : niveau 1"/>
+<label key="1879064345" value="Précision : niveau 2"/>
+<label key="1879064346" value="Précision : niveau 3"/>
+<label key="1879064347" value="Précision : niveau 4"/>
+<label key="1879064348" value="Critique au corps à corps : niveau 1"/>
+<label key="1879064349" value="Critique au corps à corps : niveau 2"/>
+<label key="1879064350" value="Critique au corps à corps : niveau 3"/>
+<label key="1879064351" value="Critique au corps à corps : niveau 4"/>
+<label key="1879064352" value="Esquive : niveau 1"/>
+<label key="1879064353" value="Esquive : niveau 2"/>
+<label key="1879064354" value="Esquive : niveau 3"/>
+<label key="1879064355" value="Esquive : niveau 4"/>
+<label key="1879064356" value="Parade : niveau 1"/>
+<label key="1879064357" value="Parade : niveau 2"/>
+<label key="1879064358" value="Parade : niveau 3"/>
+<label key="1879064359" value="Parade : niveau 4"/>
 <label key="1879064400" value="Distance améliorée"/>
-<label key="1879064401" value="Esquive : niveau 1"/>
-<label key="1879064402" value="Critique à distance : niveau 1"/>
-<label key="1879064403" value="Esquive à distance : niveau 1"/>
-<label key="1879064404" value="Parade : niveau 1"/>
-<label key="1879064405" value="Précision : niveau 1"/>
-<label key="1879064406" value="Esquive à distance : niveau 2"/>
-<label key="1879064407" value="Esquive : niveau 2"/>
-<label key="1879064408" value="Esquive à distance : niveau 3"/>
-<label key="1879064409" value="Parade : niveau 2"/>
-<label key="1879064410" value="Précision : niveau 2"/>
-<label key="1879064411" value="Esquive à distance : niveau 4"/>
-<label key="1879064412" value="Critique à distance : niveau 2"/>
-<label key="1879064413" value="Précision : niveau 3"/>
-<label key="1879064414" value="Parade : niveau 3"/>
-<label key="1879064415" value="Esquive : niveau 3"/>
-<label key="1879064416" value="Précision : niveau 4"/>
-<label key="1879064417" value="Critique à distance : niveau 3"/>
-<label key="1879064418" value="Parade : niveau 4"/>
-<label key="1879064419" value="Critique à distance : niveau 4"/>
-<label key="1879064420" value="Esquive : niveau 4"/>
+<label key="1879064401" value="Esquive : niveau 1"/>
+<label key="1879064402" value="Critique à distance : niveau 1"/>
+<label key="1879064403" value="Esquive à distance : niveau 1"/>
+<label key="1879064404" value="Parade : niveau 1"/>
+<label key="1879064405" value="Précision : niveau 1"/>
+<label key="1879064406" value="Esquive à distance : niveau 2"/>
+<label key="1879064407" value="Esquive : niveau 2"/>
+<label key="1879064408" value="Esquive à distance : niveau 3"/>
+<label key="1879064409" value="Parade : niveau 2"/>
+<label key="1879064410" value="Précision : niveau 2"/>
+<label key="1879064411" value="Esquive à distance : niveau 4"/>
+<label key="1879064412" value="Critique à distance : niveau 2"/>
+<label key="1879064413" value="Précision : niveau 3"/>
+<label key="1879064414" value="Parade : niveau 3"/>
+<label key="1879064415" value="Esquive : niveau 3"/>
+<label key="1879064416" value="Précision : niveau 4"/>
+<label key="1879064417" value="Critique à distance : niveau 3"/>
+<label key="1879064418" value="Parade : niveau 4"/>
+<label key="1879064419" value="Critique à distance : niveau 4"/>
+<label key="1879064420" value="Esquive : niveau 4"/>
 <label key="1879072425" value="Bonus de Puissance"/>
 <label key="1879072426" value="Bonus de Résistance"/>
 <label key="1879072427" value="Coups rapides"/>
 <label key="1879072428" value="Lames brûlantes"/>
-<label key="1879072429" value="Compétence accrue : Plaie béante"/>
-<label key="1879072430" value="Compétence accrue : Gloire victorieuse"/>
-<label key="1879072431" value="Compétence accrue : Attaque dévastatrice"/>
-<label key="1879072432" value="Compétence avancée : Dureté"/>
+<label key="1879072429" value="Compétence accrue : Plaie béante"/>
+<label key="1879072430" value="Compétence accrue : Gloire victorieuse"/>
+<label key="1879072431" value="Compétence accrue : Attaque dévastatrice"/>
+<label key="1879072432" value="Compétence avancée : Dureté"/>
 <label key="1879072435" value="Apparence 1"/>
 <label key="1879072436" value="Apparence 2"/>
 <label key="1879072437" value="Apparence 3"/>
@@ -422,10 +422,10 @@
 <label key="1879072442" value="Bonus d'Armure"/>
 <label key="1879072443" value="Régénération"/>
 <label key="1879072444" value="Tissage rapide"/>
-<label key="1879072445" value="Compétence accrue : Attaque perçante"/>
+<label key="1879072445" value="Compétence accrue : Attaque perçante"/>
 <label key="1879072446" value="Compétence améliorée : Baiser contaminant"/>
 <label key="1879072447" value="Toiles d'acier"/>
-<label key="1879072448" value="Compétence avancée : Toiles collantes"/>
+<label key="1879072448" value="Compétence avancée : Toiles collantes"/>
 <label key="1879072451" value="Apparence 1"/>
 <label key="1879072452" value="Apparence 2"/>
 <label key="1879072453" value="Apparence 3"/>
@@ -436,10 +436,10 @@
 <label key="1879072458" value="Bonus de Résistance"/>
 <label key="1879072459" value="Visée mortelle"/>
 <label key="1879072460" value="Réactions étranges"/>
-<label key="1879072461" value="Compétence accrue : Tir retardateur"/>
+<label key="1879072461" value="Compétence accrue : Tir retardateur"/>
 <label key="1879072462" value="Flèches pénétrantes"/>
 <label key="1879072463" value="Vitesse de geste"/>
-<label key="1879072464" value="Compétence avancée : Pose de piège"/>
+<label key="1879072464" value="Compétence avancée : Pose de piège"/>
 <label key="1879072467" value="Apparence 1"/>
 <label key="1879072468" value="Apparence 2"/>
 <label key="1879072469" value="Apparence 3"/>
@@ -450,10 +450,10 @@
 <label key="1879072474" value="Bonus d'Echappement"/>
 <label key="1879072475" value="Renforcement"/>
 <label key="1879072476" value="Maîtrise du bouclier"/>
-<label key="1879072477" value="Compétence accrue : Renaissance"/>
+<label key="1879072477" value="Compétence accrue : Renaissance"/>
 <label key="1879072478" value="Agressivité verbale"/>
-<label key="1879072479" value="Compétence accrue : promotion de terrain"/>
-<label key="1879072480" value="Compétence avancée : Appel à réaction !"/>
+<label key="1879072479" value="Compétence accrue : promotion de terrain"/>
+<label key="1879072480" value="Compétence avancée : Appel à réaction !"/>
 <label key="1879072483" value="Apparence 1"/>
 <label key="1879072484" value="Apparence 2"/>
 <label key="1879072485" value="Apparence 3"/>
@@ -464,10 +464,10 @@
 <label key="1879072490" value="Bonus de Résistance"/>
 <label key="1879072491" value="Grandes enjambées"/>
 <label key="1879072492" value="Croc de l'ombre"/>
-<label key="1879072493" value="Compétence accrue : Discrétion"/>
-<label key="1879072494" value="Compétence accrue : Sprint"/>
+<label key="1879072493" value="Compétence accrue : Discrétion"/>
+<label key="1879072494" value="Compétence accrue : Sprint"/>
 <label key="1879072495" value="Elément de surprise"/>
-<label key="1879072496" value="Compétence avancée : Hurlement de ralliement"/>
+<label key="1879072496" value="Compétence avancée : Hurlement de ralliement"/>
 <label key="1879072499" value="Apparence 1"/>
 <label key="1879072500" value="Apparence 2"/>
 <label key="1879072501" value="Apparence 3"/>
@@ -566,7 +566,7 @@
 <label key="1879076104" value="Utilisation des armes et armures"/>
 <label key="1879076155" value="Cornes de bravoure"/>
 <label key="1879076358" value="Combat au bouclier"/>
-<label key="1879084084" value="Esquive : niveau 2"/>
+<label key="1879084084" value="Esquive : niveau 2"/>
 <label key="1879088470" value="Utilisation de tambour"/>
 <label key="1879088471" value="Utilisation de tuorbe"/>
 <label key="1879090925" value="Chants de l'arc"/>
@@ -643,10 +643,10 @@
 <label key="key:620757613:54354734" value="On vous considère comme quelqu'un qui pourrait un jour influencer directement le cours des évènements de la Terre du Milieu"/>
 <label key="key:620758784:191029568" value="Vous avez la capacité de chevaucher des montures."/>
 <label key="key:620758784:54354734" value="Vous avez la capacité de chevaucher des montures."/>
-<label key="key:620759125:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620759125:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620759125:191029568" value="Augmentation de l'affaiblissement d'armure avec la Révélation de faiblesse"/>
 <label key="key:620759125:54354734" value="Vous êtes capable de détecter la faiblesse la plus minuscule dans l'armure de votre ennemi lorsque vous utilisez votre compétence Révélation de faiblesse."/>
-<label key="key:620759129:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620759129:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620759129:191029568" value="Augmente les dégâts causés par votre arme de mains secondaire"/>
 <label key="key:620759129:54354734" value="Vous êtes capable de vous servir de votre arme de main secondaire, infligeant des dégâts plus importants à vos ennemis."/>
 <label key="key:620759159:191029568" value="Cet effet vous permet d'obtenir des réponses critiques des événements de combat à réponse critique et d'esquive."/>
@@ -656,7 +656,7 @@
 <label key="key:620759199:106251890" value="Réduit le délai entre deux utilisations de Croche-pied de ${VALUE} secondes"/>
 <label key="key:620759199:191029568" value="Croche-pied ne met plus fin à la discrétion et redevient disponible 40 secondes plus tôt."/>
 <label key="key:620759199:54354734" value="Croche-pied ne met plus fin à la Discrétion et son temps de récupération est réduit de 40 secondes."/>
-<label key="key:620759210:191029568" value="Après avoir utilisé votre Frappe à double tranchant, vous repérez une ouverture et l'exploitez ; vous infligez beaucoup de dégâts et avez l'occasion de déstabiliser totalement vos ennemis."/>
+<label key="key:620759210:191029568" value="Après avoir utilisé votre Frappe à double tranchant, vous repérez une ouverture et l'exploitez ; vous infligez beaucoup de dégâts et avez l'occasion de déstabiliser totalement vos ennemis."/>
 <label key="key:620759210:54354734" value="Après avoir utilisé Frappe à double tranchant, vous placez une attaque supplémentaire qui inflige des dégâts importants, tout en vous offrant la possibilité d'utiliser vos compétences de communauté contre l'ennemi."/>
 <label key="key:620759231:106251889" value="La fidélité de vos créatures apprivoisées est sans limites."/>
 <label key="key:620759231:191029568" value="Vos créatures apprivoisées ont un meilleur Moral et des capacités d'attaque et de défense améliorées. Vous devez invoquer de nouveau votre créature pour que ceci prenne effet."/>
@@ -665,19 +665,19 @@
 <label key="key:620759242:54354734" value="Seuls les Eldar et les magiciens rivalisent avec vous en matière de connaissance de la nature. Vous êtes capable de faire s'abattre toute la colère du monde naturel sur vos ennemis."/>
 <label key="key:620759255:191029568" value="Vous êtes l'ami des aigles et pouvez à présent en invoquer un pour vous aider."/>
 <label key="key:620759255:54354734" value="Les aigles sont vos amis et vous pouvez en appeler un si vous avez besoin d'aide."/>
-<label key="key:620759328:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
-<label key="key:620759328:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620759328:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620759328:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620759328:191029568" value="Vos compétences basées sur le feu causent plus de dégâts."/>
 <label key="key:620759328:54354734" value="Vos compétences basées sur le feu infligent des dégâts 10% plus importants."/>
-<label key="key:620759337:106251890" value="Bonus de ligne : ${PERCENTVALUE} des coûts de Puissance de toutes vos compétences de signe"/>
+<label key="key:620759337:106251890" value="Bonus de ligne : ${PERCENTVALUE} des coûts de Puissance de toutes vos compétences de signe"/>
 <label key="key:620759337:191029568" value="Vous pouvez invoquer un ours plus puissant."/>
 <label key="key:620759337:54354734" value="La Puissance de votre ami l'ours augmente."/>
-<label key="key:620759381:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
-<label key="key:620759381:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620759381:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620759381:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
 <label key="key:620759381:191029568" value="Gagnez 1 point de Concentration (visée) toutes les 10 secondes lorsque vous êtes en position de précision"/>
 <label key="key:620759381:54354734" value="Votre Concentration augmente d'1 toutes les 10 secondes lorsque vous êtes en position de précision."/>
-<label key="key:620759384:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
-<label key="key:620759384:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620759384:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620759384:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
 <label key="key:620759384:191029568" value="Réduction du temps de déclenchement de la Flèche barbelée et de la Flèche rapide"/>
 <label key="key:620759384:54354734" value="Vous êtes capable de décocher les Flèches barbelées et les Flèches rapides plus rapidement."/>
 <label key="key:620759397:191029568" value="Reconstitue votre Puissance à chaque flèche décochée."/>
@@ -694,10 +694,10 @@
 <label key="key:620759629:54354734" value="Ce chant vous permet de réduire l'effet d'effroi d'une zone pendant un court laps de temps."/>
 <label key="key:620759642:191029568" value="Cette compétence fait appel au chant pour écraser vos ennemis au moyen d'une lumière à zone d'effet qui ralentit les créatures qu'elle touche. Après avoir poussé un chant de niveau 3, une petite fenêtre apparaît pour vous proposer de le chanter. Votre compteur de ballade repassera au niveau initial."/>
 <label key="key:620759642:54354734" value="Cet hymne vous permet d'écraser vos ennemis au moyen d'une lumière à zone d'effet qui ralentit les ennemis qu'elle touche. Après avoir poussé un chant de niveau 3, une petite fenêtre apparaît pour vous proposer de le chanter . Votre compteur de ballade repassera au niveau initial."/>
-<label key="key:620759684:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620759684:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620759684:191029568" value="Augmente la durée de vos hymnes qui utilisent une durée"/>
 <label key="key:620759684:54354734" value="Augmentation de la durée de vos hymnes de 15 secondes."/>
-<label key="key:620759687:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620759687:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620759687:191029568" value="Vous pouvez porter une armure intermédiaire."/>
 <label key="key:620759687:54354734" value="Vous êtes capable de porter une armure intermédiaire."/>
 <label key="key:620759750:191029568" value="Votre aptitude à fuir les ténèbres est grandement améliorée et votre Cri de vengeance permettra de soigner un allié supplémentaire."/>
@@ -708,10 +708,10 @@
 <label key="key:620759778:54354734" value="Vous jetez une malédiction sur votre ennemi, ce qui augmente les dégâts que vous pouvez lui infliger."/>
 <label key="key:620759791:191029568" value="Votre seule présence pousse votre entourage à mieux se comporter au combat."/>
 <label key="key:620759791:54354734" value="Votre seule présence pousse votre entourage à être plus valeureux au combat."/>
-<label key="key:620759813:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759813:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620759813:191029568" value="Augmente la durée de Dernier combat et vous guérit à la fin de celui-ci"/>
 <label key="key:620759813:54354734" value="Votre compétence Dernier combat dure plus longtemps et vous êtes guéri lorsqu'elle prend fin."/>
-<label key="key:620759817:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759817:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620759817:191029568" value="Votre héraut est mieux protégé."/>
 <label key="key:620759817:54354734" value="Votre héraut revêt une armure plus épaisse."/>
 <label key="key:620760756:191029568" value="Vous pouvez passer les pierres-sentinelles sans mal."/>
@@ -856,10 +856,10 @@
 <label key="key:620764941:54354734" value="Vos chances augmentent de réussir un coup critique avec Coups sauvages, Attaques brutales, Frappes miséricordieuses et Assauts incessants."/>
 <label key="key:620764946:191029568" value="Permet d'utiliser les runes."/>
 <label key="key:620764946:54354734" value="Permet d'utiliser les runes."/>
-<label key="key:620765159:106251890" value="Bonus de ligne : votre effet de réaction de parade dure 3 secondes de plus."/>
+<label key="key:620765159:106251890" value="Bonus de ligne : votre effet de réaction de parade dure 3 secondes de plus."/>
 <label key="key:620765159:191029568" value="Une partie de votre Puissance se régénère toute fois que vous parez une attaque."/>
 <label key="key:620765159:54354734" value="Vous récupérez une partie de votre Puissance chaque fois que vous parez une attaque."/>
-<label key="key:620765162:106251890" value="Bonus de ligne : votre effet de réaction d'arrêt dure 3 secondes de plus."/>
+<label key="key:620765162:106251890" value="Bonus de ligne : votre effet de réaction d'arrêt dure 3 secondes de plus."/>
 <label key="key:620765162:191029568" value="Une partie de votre Puissance se régénère toute fois que vous arrêtez une attaque."/>
 <label key="key:620765162:54354734" value="Vous récupérez une partie de votre Puissance chaque fois que vous arrêtez une attaque."/>
 <label key="key:620765171:191029568" value="Utilisation de pointes pour bouclier"/>
@@ -872,7 +872,7 @@
 <label key="key:620765218:54354734" value="Vous faites tout pour provoquer la rage de vos ennemis."/>
 <label key="key:620765230:191029568" value="Vous savez comment pousser vos ennemis à vous attaquer, laissant le champ libre à vos alliés pour manoeuvrer. Cette compétence génère davantage de menace et Force les ennemis à proximité à vous attaquer tout en haussant votre vigilance de gardien."/>
 <label key="key:620765230:54354734" value="Vous savez comment pousser vos ennemis à vous attaquer, laissant le champ libre à vos alliés pour manoeuvrer. Cette compétence met en éveil votre vigilance de gardien."/>
-<label key="key:620765352:106251890" value="Bonus de ligne : Le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
+<label key="key:620765352:106251890" value="Bonus de ligne : Le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
 <label key="key:620765352:191029568" value="Augmente les effets de votre bannière de victoire"/>
 <label key="key:620765352:54354734" value="L'augmentation de Puissance conférée par votre héraut est plus efficace."/>
 <label key="key:620765357:191029568" value="Les serviteurs de l'anneau cherchent à entrer directement en conflit avec vous, de peur que vous n'entraviez leurs desseins."/>
@@ -881,44 +881,44 @@
 <label key="key:620765358:54354734" value="En tant que guerrier intrépide de la Terre du Mileu, vous avez participé à bien des combats."/>
 <label key="key:620765359:191029568" value="La route du salut de la Terre du Milieu est longue, mais vous marchez déjà dessus."/>
 <label key="key:620765359:54354734" value="La route du salut de la Terre du Milieu est longue, mais vous marchez déjà dessus."/>
-<label key="key:620765392:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765392:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765392:191029568" value="Les joueurs touchés par votre Fuite des ténèbres retrouveront tout leur moral et davantage de puissance."/>
 <label key="key:620765392:54354734" value="Les alliés soignés par votre Fuite des ténèbres retrouveront tout leur Moral et davantage de Puissance."/>
-<label key="key:620765399:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765399:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765399:191029568" value="Le cri de ralliement restitue également un peu de Puissance"/>
 <label key="key:620765399:54354734" value="En plus des effets normaux, votre cri de ralliement restitue une petite quantité de Puissance."/>
-<label key="key:620765406:106251890" value="Bonus de ligne : Le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
+<label key="key:620765406:106251890" value="Bonus de ligne : Le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
 <label key="key:620765406:191029568" value="Augmente le renfort de vitesse d'attaque du cri de guerre"/>
 <label key="key:620765406:54354734" value="Votre cri de guerre encourage vos alliés à attaquer encore plus rapidement."/>
-<label key="key:620765412:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765412:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765412:191029568" value="Votre Cri de déroute inflige plus de dégâts et étourdit tous ceux qu'il touche"/>
 <label key="key:620765412:54354734" value="Votre Cri de déroute étourdit vos ennemis et inflige des dégâts plus importants."/>
 <label key="key:620765416:106251889" value="Vous récupérez désormais Cri de bataille ${VALUE} secondes plus vite."/>
-<label key="key:620765416:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765416:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765416:191029568" value="Vous récupérez votre Cri de fureur plus vite qu'auparavant."/>
 <label key="key:620765416:54354734" value="Vous récupérez votre Cri de bataille plus vite qu'auparavant."/>
-<label key="key:620765425:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765425:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765425:191029568" value="Réduit votre modificateur de chances d'échec"/>
 <label key="key:620765425:54354734" value="Votre connaissance des armes réduit les probabilités d'échec de vos attaques."/>
-<label key="key:620765429:106251890" value="Bonus de ligne : Le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
+<label key="key:620765429:106251890" value="Bonus de ligne : Le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
 <label key="key:620765429:191029568" value="Augmente les effets de votre bannière de guerre"/>
 <label key="key:620765429:54354734" value="L'augmentation de Force et d'Agileté conférée par votre héraut est plus efficace."/>
-<label key="key:620765459:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765459:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765459:191029568" value="Vos mots de courage sont plus efficaces"/>
 <label key="key:620765459:54354734" value="Vos Mots de courage augmentent considérablement le Moral de vos alliés."/>
-<label key="key:620765465:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765465:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765465:191029568" value="Réduit le coût de pouvoir de vos cris"/>
 <label key="key:620765465:54354734" value="Les coûts de Puissance de vos cris sont réduits."/>
-<label key="key:620765476:106251890" value="Bonus de ligne : le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
+<label key="key:620765476:106251890" value="Bonus de ligne : le chronomètre de réinitialisation des compétences de marque est réduit de ${VALUE} par seconde."/>
 <label key="key:620765476:191029568" value="Augmente les effets de votre bannière d'espoir"/>
 <label key="key:620765476:54354734" value="L'augmentation de Moral conférée par votre héraut est plus efficace."/>
-<label key="key:620765507:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765507:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765507:191029568" value="Augmente les chances de coup critique des coups dévastateurs et attaques pressantes"/>
 <label key="key:620765507:54354734" value="Vos chances de porter un coup critique avec votre coup dévastateur et votre attaque pressante sont augmentées."/>
-<label key="key:620765511:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
+<label key="key:620765511:106251890" value="Bonus de ligne : ${PROPERTY} +${VALUE}"/>
 <label key="key:620765511:191029568" value="Augmente la menace générée par votre cri de menace"/>
 <label key="key:620765511:54354734" value="Votre cri de menace attire davantage la colère de l'ennemi sur vous."/>
-<label key="key:620765515:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765515:106251890" value="Bonus de ligne : +${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765515:191029568" value="Réduit la menace générée par vos cris et vos soins"/>
 <label key="key:620765515:54354734" value="Vos cris et vos compétences de guérison attirent moins l'attention de vos ennemis."/>
 <label key="key:620765562:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
@@ -964,11 +964,11 @@
 <label key="key:620765621:191029568" value="Votre Echange de coups est plus efficace, produit davantage de menace et diminue l'effet du malus de Ferveur"/>
 <label key="key:620765621:54354734" value="Votre Echange de coups prend effet plus souvent et attire davantage l'attention de l'ennemi."/>
 <label key="key:620765632:106251889" value="Temps de récupération d'aiguillon -3,0"/>
-<label key="key:620765632:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765632:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765632:106251891" value="Dégâts d'aiguillon +10,0%"/>
 <label key="key:620765632:191029568" value="La compétence Aiguillon inflige plus de dégâts et redevient disponible plus rapidement. Votre Force élémentaire augmente également."/>
 <label key="key:620765632:54354734" value="Votre compétence Aiguillon vous permet d'attaquer plus rapidement et d'infliger des dégâts plus importants."/>
-<label key="key:620765635:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765635:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765635:191029568" value="Faites subir des dégâts à votre assaillant à chaque fois que vous arrêtez une de ses attaques. Votre Force élémentaire augmente également."/>
 <label key="key:620765635:54354734" value="Vous faites subir des dégâts à votre assaillant à chaque fois que vous arrêtez une de ses attaques."/>
 <label key="key:620765640:106251890" value="Bonus de ligne : vos compétences génèrent davantage de menace"/>
@@ -977,19 +977,19 @@
 <label key="key:620765645:106251890" value="Bonus de ligne : vos compétences génèrent davantage de menace"/>
 <label key="key:620765645:191029568" value="Augmente le bonus de taux d'arrêt et de limitation offert par votre bouclier. Toutes vos attaques spéciales génèrent également davantage de menace."/>
 <label key="key:620765645:54354734" value="Vous êtes capable d'utiliser votre bouclier plus efficacement, arrêtant plus d'attaques et réduisant les dégâts que vous subissez."/>
-<label key="key:620765657:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765657:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765657:191029568" value="Votre compétence Reprise de souffle redonne du Moral et de la Puissance. Votre Vitalité élémentaire augmente également."/>
 <label key="key:620765657:54354734" value="Votre compétence Reprise de souffle redonne du Moral et de la Puissance."/>
-<label key="key:620765666:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765666:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765666:191029568" value="Votre Coup contrariant peut frapper jusqu'à deux cibles dans un arc de cercle de 90 degrés et redevient disponible plus rapidement. Votre Vitalité élémentaire augmente également."/>
 <label key="key:620765666:54354734" value="Votre Coup contrariant peut frapper deux cibles supplémentaires dans un arc de cercle de 90 degrés et redevient disponible 1,5 seconde plus tôt."/>
-<label key="key:620765670:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765670:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765670:191029568" value="Votre taux de déplacement élémentaire augmente de 5%. Votre Vitalité augmente également."/>
 <label key="key:620765670:54354734" value="Vous êtes capable de vous déplacer plus rapidement en combat et en dehors des combats."/>
-<label key="key:620765674:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765674:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765674:191029568" value="Augmente votre taux d'attaque élémentaire de 5%. Votre Force élémentaire augmente également."/>
 <label key="key:620765674:54354734" value="Votre vitesse d'attaque augmente au-delà de ses capacités normales."/>
-<label key="key:620765676:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765676:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765676:191029568" value="Vos compétences de Défi se réinitialisent plus rapidement. Votre Vitalité élémentaire augmente également."/>
 <label key="key:620765676:54354734" value="Vous récupérez votre compétence Défi 15 secondes plus tôt."/>
 <label key="key:620765679:106251890" value="Bonus de ligne : vos compétences génèrent davantage de menace"/>
@@ -998,13 +998,13 @@
 <label key="key:620765686:106251890" value="Bonus de ligne : vos compétences génèrent davantage de menace"/>
 <label key="key:620765686:191029568" value="Votre Vitalité et votre Destinée élémentaires augmentent. Toutes vos attaques spéciales génèrent également davantage de menace."/>
 <label key="key:620765686:54354734" value="Votre stoïcisme naturel augmente votre vitalité et votre destin élémentaires."/>
-<label key="key:620765690:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765690:106251890" value="Bonus de ligne : augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765690:191029568" value="Inspiration profonde plus longue et plus rapidement disponible. Votre Force élémentaire augmente également."/>
 <label key="key:620765690:54354734" value="Votre force pulmonaire vous permet de récupérer votre compétence Inspirations profondes 2,5 minutes plus tôt."/>
-<label key="key:620765694:106251890" value="Bonus de ligne : votre effet de réaction de Balayage au bouclier dure 3 secondes de plus."/>
+<label key="key:620765694:106251890" value="Bonus de ligne : votre effet de réaction de Balayage au bouclier dure 3 secondes de plus."/>
 <label key="key:620765694:191029568" value="Disponibilité plus rapide du Coeur de guerrier et activation de toutes vos compétences réactives."/>
 <label key="key:620765694:54354734" value="Votre Coeur de guerrier redevient disponible 90 secondes plus tôt et vous permet d'utiliser vos compétences réactives."/>
-<label key="key:620765700:106251890" value="Bonus de ligne : votre effet de réaction de Riposte dure 3 secondes de plus."/>
+<label key="key:620765700:106251890" value="Bonus de ligne : votre effet de réaction de Riposte dure 3 secondes de plus."/>
 <label key="key:620765700:191029568" value="Disponibilité plus rapide du Goût du danger et activation de toutes vos compétences réactives."/>
 <label key="key:620765700:54354734" value="Votre Goût du danger redevient disponible 2 minutes plus tôt et vous permet d'utiliser vos compétences réactives."/>
 <label key="key:620765706:106251890" value="Bonus de ligne : ${PERCENTVALUE} ${PROPERTY}"/>
@@ -1013,10 +1013,10 @@
 <label key="key:620765717:106251890" value="Bonus de ligne : ${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765717:191029568" value="Réduction du temps de récupération de toutes les compétences au corps à corps"/>
 <label key="key:620765717:54354734" value="Toutes vos compétences au corps à corps redeviennent disponibles plus rapidement qu'auparavant."/>
-<label key="key:620765719:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765719:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765719:191029568" value="Augmentation de l'ampleur DOT de Flèche barbelée"/>
 <label key="key:620765719:54354734" value="Les blessures causées par vos Flèches barbelées saignent plus abondamment."/>
-<label key="key:620765721:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765721:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765721:191029568" value="Augmentation des dégâts causés par l'Arc rapide"/>
 <label key="key:620765721:54354734" value="Votre Arc rapide inflige plus de dégâts à vos ennemis."/>
 <label key="key:620765723:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
@@ -1025,7 +1025,7 @@
 <label key="key:620765725:106251890" value="Bonus de ligne : ${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765725:191029568" value="Augmentation de la distance de traque, traque des monstres utilisant la discrétion et augmentation de la détection générale de discrétion"/>
 <label key="key:620765725:54354734" value="Vos sens exceptionnels vous permettent de traquer des créatures sur une grande distance, même si elles utilisent la discrétion, et de détecter plus facilement les créatures qui s'en servent."/>
-<label key="key:620765733:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765733:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765733:191029568" value="Pluie de flèches plus souvent critique"/>
 <label key="key:620765733:54354734" value="Vos chances de porter des coups critiques avec votre Pluie de flèches sont augmentées et vos coups critiques infligent plus de dégâts."/>
 <label key="key:620765737:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
@@ -1034,165 +1034,165 @@
 <label key="key:620765739:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
 <label key="key:620765739:191029568" value="La Concentration délibérée vous redonne également de la Puissance"/>
 <label key="key:620765739:54354734" value="En plus des effets normaux, votre Concentration délibérée vous redonne de la Puissance."/>
-<label key="key:620765744:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
-<label key="key:620765744:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
-<label key="key:620765744:191029568" value="NYI : les coups critiques à distance augmentent votre Concentration (Visée) d'un point"/>
+<label key="key:620765744:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620765744:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620765744:191029568" value="NYI : les coups critiques à distance augmentent votre Concentration (Visée) d'un point"/>
 <label key="key:620765744:54354734" value="Lorsque vous portez un coup critique à l'aide d'une attaque à distance, votre Concentration augmente d'1."/>
-<label key="key:620765748:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765748:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765748:191029568" value="Le Tir pénétrant surpasse davantage la limitation"/>
 <label key="key:620765748:54354734" value="Votre Tir pénétrant perce plus profondément l'armure de votre ennemi, ignorant sa réduction des dégâts d'armure."/>
 <label key="key:620765750:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
-<label key="key:620765750:191029568" value="La Position d'endurance réduit davantage le coût de Puissance des compétences : Flèche barbelée, Tir pénétrant, Tir miséricordieux, Arc rapide, Pluie de flèches et Tir rapide."/>
+<label key="key:620765750:191029568" value="La Position d'endurance réduit davantage le coût de Puissance des compétences : Flèche barbelée, Tir pénétrant, Tir miséricordieux, Arc rapide, Pluie de flèches et Tir rapide."/>
 <label key="key:620765750:54354734" value="Votre position d'endurance réduit davantage le coût de Puissance et la génération de menace de vos compétences à distance."/>
 <label key="key:620765752:106251890" value="Bonus de ligne : ${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765752:191029568" value="Insignifiance diminue davantage la menace"/>
 <label key="key:620765752:54354734" value="Insignifiance dure 10 secondes de plus et vous permet d'attirer encore moins l'attention de vos ennemis."/>
 <label key="key:620765758:106251889" value="Réduit le temps de récupération de ${VALUE}."/>
-<label key="key:620765758:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
-<label key="key:620765758:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620765758:106251891" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
+<label key="key:620765758:106251892" value="Bonus de ligne : ${PROPERTY} diminue de ${VALUE} s"/>
 <label key="key:620765758:191029568" value="Réduction du temps de récupération de la Hâte nécessaire et de la Concentration délibérée."/>
 <label key="key:620765758:54354734" value="Temps de récupération de votre Hâte nécessaire et de votre Concentration délibérée plus rapide."/>
 <label key="key:620765783:106251890" value="Augmentation du Moral de ${PERCENTVALUE}"/>
 <label key="key:620765783:106251891" value="Bonus de ligne : ${PROPERTY} augmenté de ${PERCENTVALUE}"/>
 <label key="key:620765783:191029568" value="Vous avez une possibilité d'étourdir un ennemi par la Force de votre coup de bâton et d'augmenter votre confiance et, par conséquent, votre Moral général également."/>
 <label key="key:620765783:54354734" value="Vos Coups de bâton sont plus efficaces, peuvent étourdir vos adversaires et infligent des dégâts bonus aux ennemis contournés. L'entraînement vous donne aussi plus de confiance au combat."/>
-<label key="key:620765789:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
-<label key="key:620765789:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765789:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765789:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765789:191029568" value="Ceci améliore les effets de votre Sagesse antique et vous permet d'utiliser votre Puissance du savoir pendant plus longtemps."/>
 <label key="key:620765789:54354734" value="Ceci augmente l'ampleur d'effet de votre Sagesse antique et vous permet d'utiliser votre Puissance du savoir pendant plus longtemps."/>
-<label key="key:620765798:106251889" value="Coût de Moral : 40,0%"/>
+<label key="key:620765798:106251889" value="Coût de Moral : 40,0%"/>
 <label key="key:620765798:106251891" value="Réduit le temps de tentative de ${VALUE} secondes."/>
 <label key="key:620765798:106251892" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
 <label key="key:620765798:191029568" value="Votre Lueur d'espoir vous coûte moins de Moral."/>
 <label key="key:620765798:54354734" value="Votre Lueur d'espoir vous coûte moins de Moral, vous la récupérez plus rapidement et son temps d'incantation est plus court."/>
 <label key="key:620765803:106251889" value="Coûts de Puissance réduits de 10%"/>
 <label key="key:620765803:106251890" value="Durées augmentées de 120 secondes"/>
-<label key="key:620765803:106251891" value="Bonus de ligne : coût de Puissance de ${PERCENTVALUE} pour toutes les compétences de signe"/>
+<label key="key:620765803:106251891" value="Bonus de ligne : coût de Puissance de ${PERCENTVALUE} pour toutes les compétences de signe"/>
 <label key="key:620765803:191029568" value="Votre connaissance des Signes des animaux vous donne plus de pouvoir sur eux, diminuant leur coût de compétence et augmentant leur durée."/>
 <label key="key:620765803:54354734" value="Votre connaissance des Signes sauvages vous donne plus de pouvoir sur eux, diminuant leur coût et augmentant leur durée."/>
 <label key="key:620765807:106251889" value="${PROPERTY} passé à ${VALUE}"/>
-<label key="key:620765807:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
+<label key="key:620765807:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
 <label key="key:620765807:191029568" value="Ceci vous permet d'atteindre plus de cibles avec vos Connaissances du feu, du vent et des plantes."/>
 <label key="key:620765807:54354734" value="Vos connaissances des plantes, du feu et du vent sont sans pareilles et votre capacité à les utiliser est augmentée."/>
 <label key="key:620765809:106251890" value="Réduit le temps de tentative de 50,0%"/>
-<label key="key:620765809:106251892" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
-<label key="key:620765809:106251893" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765809:106251892" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765809:106251893" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765809:191029568" value="Le coût et le temps d'exécution de vos compétences de remède diminuent. Ceci comprend Lueur d'espoir, Aide aux malades, Absorption des blessures, Partage du pouvoir et Feu intérieur"/>
 <label key="key:620765809:54354734" value="Ceci confère plusieurs bonus à vos compétences de guérison."/>
 <label key="key:620765815:106251889" value="La Santé et la Puissance de vos animaux augmentent. Leurs attaques sont plus rapides et infligent plus de dégâts."/>
-<label key="key:620765815:106251890" value="Bonus de ligne : ${PERCENTVALUE} des coûts de Puissance de toutes vos compétences de signe"/>
+<label key="key:620765815:106251890" value="Bonus de ligne : ${PERCENTVALUE} des coûts de Puissance de toutes vos compétences de signe"/>
 <label key="key:620765815:191029568" value="Les Prouesses de combat de vos créatures apprivoisées sont augmentées."/>
 <label key="key:620765815:54354734" value="Les Prouesses de combat de vos compagnons sont augmentées. Cela inclut l'attaque, la défense et la détection des créatures discrètes."/>
-<label key="key:620765822:106251890" value="Bonus de ligne : ${PERCENTVALUE} des coûts de Puissance de toutes vos compétences de signe"/>
+<label key="key:620765822:106251890" value="Bonus de ligne : ${PERCENTVALUE} des coûts de Puissance de toutes vos compétences de signe"/>
 <label key="key:620765822:191029568" value="Ceci confère un bonus à votre signe d'intégrité et à votre signe de vigilance."/>
 <label key="key:620765822:54354734" value="Maîtrisant bien le savoir des Dunedain, vous connaissez suffisamment leurs signes pour augmenter leur effet en durée et en efficacité. Ceci comprend : Signe d'intégrité et Signe de vigilance."/>
 <label key="key:620765824:106251890" value="Réduit le temps de tentative de 25,0%"/>
-<label key="key:620765824:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
-<label key="key:620765824:191029568" value="Ceci octroie un bonus à vos coûts de Puissance lors des démonstrations durables de Puissance magique. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
-<label key="key:620765824:54354734" value="Ceci réduit vos coûts de Puissance et le temps d'incantation lors des démonstrations durables de Puissance magique. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
-<label key="key:620765830:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
-<label key="key:620765830:191029568" value="Les coûts de Moral lors de vos démonstrations durables de Puissance magique diminuent. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
-<label key="key:620765830:54354734" value="Ceci vous octroie une réduction des coûts de Moral lors des démonstrations durables de Puissance magique. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
+<label key="key:620765824:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765824:191029568" value="Ceci octroie un bonus à vos coûts de Puissance lors des démonstrations durables de Puissance magique. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
+<label key="key:620765824:54354734" value="Ceci réduit vos coûts de Puissance et le temps d'incantation lors des démonstrations durables de Puissance magique. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
+<label key="key:620765830:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765830:191029568" value="Les coûts de Moral lors de vos démonstrations durables de Puissance magique diminuent. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
+<label key="key:620765830:54354734" value="Ceci vous octroie une réduction des coûts de Moral lors des démonstrations durables de Puissance magique. Ceci comprend : la Fissure terrestre, la Bourrasque, le Test de volonté, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
 <label key="key:620765835:106251889" value="Diminue votre niveau de menace lorsque vous utilisez vos compétences dévastatrices."/>
-<label key="key:620765835:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765835:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765835:191029568" value="Vous avez bien compris ce qu'être un gardien du savoir antique veut dire sur la Terre du Milieu et savez ne pas retenir l'attention lorsque vous choisissez de faire appel à vos connaissances."/>
 <label key="key:620765835:54354734" value="Vous savez exactement ce qu'être un gardien du savoir antique signifie sur la Terre du Milieu et passez souvent inaperçu lorsque vous décidez de faire appel à votre savoir."/>
-<label key="key:620765840:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
-<label key="key:620765840:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765840:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
+<label key="key:620765840:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765840:191029568" value="Votre Aide aux malades et votre Absorption des blessures peuvent agir sur un maximum de six cibles."/>
 <label key="key:620765840:54354734" value="Votre Aide aux malades et votre Absorption des blessures fonctionnent sur tous les alliés présents dans la zone d'effet. Cette compétence permet également d'utiliser Absorption des blessures au combat."/>
-<label key="key:620765846:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
+<label key="key:620765846:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
 <label key="key:620765846:191029568" value="Vos compétences ont une chance de restituer un peu de Puissance."/>
 <label key="key:620765846:54354734" value="Toutes vos compétences ont une chance de restituer un peu de Puissance."/>
-<label key="key:620765855:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
+<label key="key:620765855:106251890" value="Bonus de ligne : ${PROPERTY} augmente de ${VALUE}"/>
 <label key="key:620765855:191029568" value="Vos capacités magiques vous coûtent moins de Puissance. Ceci est valable pour les Signes, la Fissure terrestre, la Bourrasque, la Puissance du savoir, le Partage du pouvoir, la Lumière de l'aube naissante et la Marche guerrière des Ents."/>
 <label key="key:620765855:54354734" value="Toutes vos compétences magiques vous coûtent moins de Puissance."/>
-<label key="key:620765874:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765874:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765874:191029568" value="La durée de vos ballades de niveau 3 augmente"/>
 <label key="key:620765874:54354734" value="La durée de vos ballades augmente de 10 secondes."/>
-<label key="key:620765878:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765878:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765878:191029568" value="Effet de régénération au combat augmenté lorsque vous utilisez l'Hymne des Valar"/>
 <label key="key:620765878:54354734" value="Augmentation des effets de régénération au combat lorsque vous utilisez l'Hymne des Valar."/>
-<label key="key:620765883:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765883:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
 <label key="key:620765883:191029568" value="Augmente l'efficacité du Chant d'assistance"/>
 <label key="key:620765883:54354734" value="Votre Chant d'assistance dure 10 secondes de plus et se régénère 20% plus vite."/>
-<label key="key:620765895:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765895:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765895:191029568" value="Augmente la durée de chant de vos ballades de niveau supérieur."/>
 <label key="key:620765895:54354734" value="Vos occasions de chanter vos ballades de niveau supérieur durent 5 secondes de plus."/>
-<label key="key:620765897:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765897:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765897:191029568" value="Votre Attaque du héraut a plus de chances d'être critique."/>
 <label key="key:620765897:54354734" value="Votre attaque du héraut inflige des dégâts doublés."/>
-<label key="key:620765899:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765899:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765899:191029568" value="Cette compétence transforme votre Ballade de la vigueur et votre Ballade de l'équilibre en chants lents qui n'infligent plus de dégâts, mais qui agissent plus longtemps sur votre communauté."/>
 <label key="key:620765899:54354734" value="Cette compétence transforme votre Ballade de la vigueur et votre Ballade de l'équilibre en chants lents qui n'infligent plus de dégâts, mais qui agissent plus longtemps sur votre communauté."/>
-<label key="key:620765901:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765901:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765901:191029568" value="Réduit le coût de Puissance de tous vos cris."/>
 <label key="key:620765901:54354734" value="Réduction du coût de Puissance de tous vos cris."/>
-<label key="key:620765903:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765903:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765903:191029568" value="Diminue le coût de Puissance de toutes les compétences agissant sur le Moral."/>
 <label key="key:620765903:54354734" value="Le coût de Puissance de vos compétences renouvelant le Moral est réduit."/>
-<label key="key:620765905:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765905:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765905:191029568" value="Vous étourdissez votre ennemi lorsque vous portez un coup critique avec votre Cri perçant. Ce trait vous permet également de retrouver plus vite votre Cri perçant."/>
 <label key="key:620765905:54354734" value="Vous étourdissez votre ennemi lorsque vous portez un coup critique avec Cri perçant. Les chances de critique de Cri perçant sont augmentées de 25% et son temps de récupération est réduit de 3 secondes."/>
-<label key="key:620765907:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765907:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
 <label key="key:620765907:191029568" value="Vos déclenchements sont plus difficiles à interrompre."/>
 <label key="key:620765907:54354734" value="Vos compétences à déclenchement sont plus rapides à exécuter et plus difficiles à perturber."/>
-<label key="key:620765910:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765910:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765910:191029568" value="Vos ballades de niveau 1 et 2 infligent plus de dégâts à vos ennemis."/>
 <label key="key:620765910:54354734" value="Vos ballades de niveau 1 et 2 infligent plus de dégâts à vos ennemis."/>
-<label key="key:620765914:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765914:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
 <label key="key:620765914:191029568" value="Ceci redonne du Moral et de la Puissance aux compétences qui vous tirent de la défaite."/>
 <label key="key:620765914:54354734" value="Grâce vivifiante et Regroupement confèrent davantage de Moral et de Puissance. Le temps d'incantation de Regroupement est réduit de 2 secondes et son temps de récupération de 5 minutes."/>
-<label key="key:620765919:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765919:106251890" value="Bonus de ligne : ${PROPERTY} ${PERCENTVALUE}"/>
 <label key="key:620765919:191029568" value="Les compétences de chant se rechargent plus rapidement"/>
 <label key="key:620765919:54354734" value="Vous récupérez vos chants 20% plus vite."/>
-<label key="key:620765923:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
+<label key="key:620765923:106251890" value="Bonus de ligne : ${PROPERTY} ${VALUE}"/>
 <label key="key:620765923:191029568" value="Réduction de l'agressivité pour toutes les capacités spécifiques aux ménestrels."/>
 <label key="key:620765923:54354734" value="L'utilisation de vos compétences attire moins l'attention de vos ennemis."/>
-<label key="key:620765941:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765941:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765941:191029568" value="Augmentation de l'ampleur DOT d'attaque sournoise"/>
 <label key="key:620765941:54354734" value="Les blessures causées par vos attaques sournoises saignent plus abondamment."/>
-<label key="key:620765947:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765947:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765947:191029568" value="La subtilité du couteau inflige des dégâts plus importants"/>
 <label key="key:620765947:54354734" value="Vous êtes capable d'utiliser plus rapidement votre compétence Subtilité du poignard et infligez des dégâts plus importants."/>
-<label key="key:620765950:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765950:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765950:191029568" value="L'énigme étourdit avant d'hypnotiser"/>
 <label key="key:620765950:54354734" value="Vos énigmes plongent vos ennemis dans une profonde perplexité, les étourdissant et les hypnotisant."/>
 <label key="key:620765956:106251890" value="Diminue vos chances d'échec"/>
-<label key="key:620765956:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765956:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765956:191029568" value="Diminution des possibilités d'échec, de parade, d'arrêt et d'esquive de vos attaques discrètes"/>
 <label key="key:620765956:54354734" value="Vos attaques sont beaucoup plus précises lorsque vous vous servez de votre discrétion et les probabilités pour qu'elles échouent ou qu'elles soient évitées par votre ennemi sont réduites."/>
 <label key="key:620765958:106251889" value="Réduit le temps de récupération de la visée de ${VALUE} s."/>
-<label key="key:620765958:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765958:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765958:191029568" value="Réduit le délai entre deux visées"/>
 <label key="key:620765958:54354734" value="Vous êtes capable de viser plus rapidement qu'auparavant."/>
-<label key="key:620765961:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765961:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765961:191029568" value="Augmentation de la capacité d'esquive"/>
 <label key="key:620765961:54354734" value="Vous êtes capable d'éviter les attaques plus facilement qu'auparavant."/>
 <label key="key:620765963:106251889" value="Poussière dans les yeux est maintenant à zone d'effet."/>
-<label key="key:620765963:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
-<label key="key:620765963:191029568" value="Poussière dans les yeux : ennemis multiples"/>
+<label key="key:620765963:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
+<label key="key:620765963:191029568" value="Poussière dans les yeux : ennemis multiples"/>
 <label key="key:620765963:54354734" value="Votre compétence Poussière dans les yeux touche de multiples ennemis alentour."/>
-<label key="key:620765974:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765974:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765974:191029568" value="Augmentation des chances de coup critique lors des attaques discrètes"/>
 <label key="key:620765974:54354734" value="Vous êtes capable d'infliger des coups précis lorsque vous attaquez en vous servant de votre discrétion et augmentez vos chances de porter un coup critique en vous servant de l'Attaque par surprise, de l'Attaque sournoise ou de l'Exaspération."/>
-<label key="key:620765976:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765976:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765976:191029568" value="Augmentation du niveau de discrétion efficace"/>
 <label key="key:620765976:54354734" value="Votre capacité à vous déplacer discrètement s'est développée au-delà de vos prédispositions naturelles."/>
-<label key="key:620765980:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
-<label key="key:620765980:191029568" value="Incapacité : diminution supplémentaire de vitesse d'attaque"/>
+<label key="key:620765980:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
+<label key="key:620765980:191029568" value="Incapacité : diminution supplémentaire de vitesse d'attaque"/>
 <label key="key:620765980:54354734" value="Vous êtes capable d'utiliser votre compétence Incapacité pour réduire considérablement la rapidité de votre ennemi."/>
-<label key="key:620765986:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
-<label key="key:620765986:191029568" value="Contre-défense : augmentation de la vulnérabilité de la cible aux coups critiques"/>
+<label key="key:620765986:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
+<label key="key:620765986:191029568" value="Contre-défense : augmentation de la vulnérabilité de la cible aux coups critiques"/>
 <label key="key:620765986:54354734" value="Améliore votre compétence Contre-défense, ce qui accroît la vulnérabilité de votre adversaire face aux coups critiques."/>
-<label key="key:620765992:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
+<label key="key:620765992:106251890" value="Bonus de ligne : Augmente ${PROPERTY} de ${VALUE}."/>
 <label key="key:620765992:191029568" value="Augmentation de l'ampleur de vos affaiblissements durables de Trucs après votre participation à une conjonction réussie."/>
 <label key="key:620765992:54354734" value="Effectuer une manoeuvre de communauté fortifie le cambrioleur. L'effet varie en fonction de la manoeuvre effectuée."/>
-<label key="key:620765998:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
+<label key="key:620765998:106251891" value="Bonus de ligne : Augmente ${PROPERTY} de ${PERCENTVALUE}."/>
 <label key="key:620765998:191029568" value="Vous êtes capable de vous déplacer plus rapidement lorsque vous utilisez votre Discrétion."/>
 <label key="key:620765998:54354734" value="Votre Discrétion s'améliore, ce qui vous permet de vous déplacer plus rapidement lorsque vous l'utilisez."/>
-<label key="key:620766007:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
-<label key="key:620766007:191029568" value="Emportement : suppression des compétences à distance"/>
+<label key="key:620766007:106251890" value="Bonus de ligne : Augmente la guérison de la Jubilation malicieuse de ${PERCENTVALUE} et 1 pulsation."/>
+<label key="key:620766007:191029568" value="Emportement : suppression des compétences à distance"/>
 <label key="key:620766007:54354734" value="Lorsque vous utilisez l'emportement contre vos ennemis, il est probable qu'ils engagent un combat au corps à corps contre vous."/>
 <label key="key:620766329:191029568" value="Connaissance de niveau 1 obtenue"/>
 <label key="key:620766329:54354734" value="Achève la connaissance de niveau 1"/>
@@ -1535,7 +1535,7 @@
 <label key="key:620775252:54354734" value="Vous pouvez augmenter l'espoir de votre communauté à la manière traditionnelle des encouragements hobbits. Non cumulable avec les autres renforts d'espoir."/>
 <label key="key:620775257:191029568" value="Même sans entraînement, vous avez la capacité de vous déplacer sans vous faire voir, bien qu'il y ait toujours une chance que vos ennemis vous détectent, particulièrement lorsque vous vous trouvez en face d'eux."/>
 <label key="key:620775257:54354734" value="Même sans entraînement, vous avez l'aptitude naturelle à vous déplacer sans vous faire voir, bien qu'il y ait toujours une chance que vos ennemis vous détectent, particulièrement lorsque vous vous trouvez en face d'eux."/>
-<label key="key:620775261:191029568" value="Les hobbits couchés sur le ventre sont facilement ignorés lorsqu'ils sont considérés comme des en-cas de choix ; si bien que vos ennemis ne tiennent pas compte de vous."/>
+<label key="key:620775261:191029568" value="Les hobbits couchés sur le ventre sont facilement ignorés lorsqu'ils sont considérés comme des en-cas de choix ; si bien que vos ennemis ne tiennent pas compte de vous."/>
 <label key="key:620775261:54354734" value="Vous pouvez vous étendre face contre terre et demeurer silencieux, ce qui pousse les ennemis à vous ignorer."/>
 <label key="key:620775263:191029568" value="Force réduite - Les hobbits n'ont pas la Force physique des autres races."/>
 <label key="key:620775263:54354734" value="Force réduite - Les hobbits n'ont pas la Force physique des autres races."/>
@@ -1562,7 +1562,7 @@
 <label key="key:620775284:191029568" value="Donne un bonus de Moral à votre communauté."/>
 <label key="key:620775284:54354734" value="Vous donnez un bonus de Moral à votre communauté."/>
 <label key="key:620775289:191029568" value="Votre Volonté est plus importante que la plupart des autres hommes."/>
-<label key="key:620775289:54354734" value="Les Hommes font preuve d'une aptitude croissante dans l'art de la guerre. Votre Volonté est améliorée."/>
+<label key="key:620775289:54354734" value="Les Hommes font preuve d'une aptitude croissante dans l'art de la guerre."/>
 <label key="key:620775291:191029568" value="Au combat, la race des Hommes est connue pour sa motivation implacable."/>
 <label key="key:620775291:54354734" value="Au combat, la race des Hommes est connue pour son courage sans limite."/>
 <label key="key:620775294:191029568" value="Destinée amélioré - Les hommes ont le plus grand destin de tous les Peuples Libres."/>

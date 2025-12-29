@@ -472,7 +472,7 @@
 <label key="1879060994" value="Opportunist"/>
 <label key="1879060995" value="Trick: Verbessertes Abwehr reduzieren"/>
 <label key="1879060997" value="Trick: Abwehr reduzieren"/>
-<label key="1879061009" value="Improved Stealth"/>
+<label key="1879061009" value="Verbessertes Schleichen"/>
 <label key="1879061013" value="Einfaches Schleichen"/>
 <label key="1879061018" value="Bowbane"/>
 <label key="1879061019" value="Trick: Erzürnen (Trick)"/>
@@ -620,7 +620,7 @@
 <label key="1879072541" value="Angewurzelt (Behindernder Schuss)"/>
 <label key="1879072542" value="Festnagelnder Pfeil"/>
 <label key="1879072553" value="Mobilisieren"/>
-<label key="1879072564" value="Improved Stealth"/>
+<label key="1879072564" value="Verbessertes Schleichen"/>
 <label key="1879072566" value="Einfaches Schleichen"/>
 <label key="1879072970" value="Hope FX  10"/>
 <label key="1879072971" value="Hope FX  9"/>
@@ -1026,7 +1026,7 @@
 <label key="1879084527" value="Wiederhergestellte Lebensenergie"/>
 <label key="1879084529" value="Verbesserte Kraft"/>
 <label key="1879084530" value="Verbesserte Kraft"/>
-<label key="1879084540" value="Duty Bound"/>
+<label key="1879084540" value="Verpflichtet"/>
 <label key="1879084542" value="Mírdanants Inspiration[n]"/>
 <label key="1879084788" value="Hoffnung geben"/>
 <label key="1879084793" value="Eiskalte Luft"/>
@@ -1248,7 +1248,7 @@
 <label key="1879089502" value="Quälende Schatten"/>
 <label key="1879089503" value="Quälende Flammen"/>
 <label key="1879089555" value="Begebt Euch sofort zu einem Barden!"/>
-<label key="1879089620" value="Lesser Persistence"/>
+<label key="1879089620" value="Geringe Beharrlichkeit"/>
 <label key="1879089625" value="Inspirieren"/>
 <label key="1879089626" value="Combo Schlag des Helden/Schrei des Helden"/>
 <label key="1879089627" value="Schildbruder"/>
@@ -1262,12 +1262,12 @@
 <label key="1879089854" value="Aufsitzen beenden"/>
 <label key="1879089855" value="Aufsitzen beenden"/>
 <label key="1879089856" value="Aufsitzen beenden"/>
-<label key="1879089863" value="Hunter Travel to West Angmar"/>
-<label key="1879089864" value="Hunter Travel to East Angmar"/>
+<label key="1879089863" value="Jägerreise nach West-Angmar"/>
+<label key="1879089864" value="Jägerreise nach Ost-Angmar"/>
 <label key="1879089865" value="Zurück zum Lager"/>
-<label key="1879089866" value="Hunter Travel to Ost Guruth"/>
-<label key="1879089867" value="Hunter Travel to Michel Delving"/>
-<label key="1879089868" value="Hunter Travel to Evendim"/>
+<label key="1879089866" value="Jägerreise zur Feste Guruth"/>
+<label key="1879089867" value="Jägerreise nach Michelbinge"/>
+<label key="1879089868" value="Jägerreise nach Evendim"/>
 <label key="1879089879" value="Stärke der Erde"/>
 <label key="1879089968" value="Waldläufer-Wurzel"/>
 <label key="1879090229" value="Das große Wüten"/>
@@ -1763,7 +1763,7 @@
 <label key="1879117443" value="Dying Rage"/>
 <label key="key:620757391:181298206" value="Waffe führen: Eure Trefferwahrscheinlichkeit ist leicht erhöht."/>
 <label key="key:620757393:181298206" value="Waffe führen: Eure Trefferwahrscheinlichkeit ist leicht erhöht."/>
-<label key="key:620757396:181298206" value="Waffe führen: Eure automatischen Angriffe sind 5 % schwieriger zu blocken."/>
+<label key="key:620757396:181298206" value="Waffe führen: Eure automatischen Angriffe sind 5 % schwieriger zu blocken."/>
 <label key="key:620757398:181298206" value="Waffe führen: Eure Angriffe stellen eine größere Bedrohung dar."/>
 <label key="key:620757513:49260606" value="travel_exit (desc)"/>
 <label key="key:620757522:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qBlocken\q voraussetzt, kann nun eingesetzt werden."/>
@@ -1958,7 +1958,7 @@
 <label key="key:620765990:106251889" value="Verringert Parieren, Blocken und Ausweichen um ${PERCENTVALUE}"/>
 <label key="key:620765990:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620766001:106251889" value="Briefly undetectable in stealth"/>
-<label key="key:620766001:106251890" value="Your stealth is not broken by damage."/>
+<label key="key:620766001:106251890" value="Euer Schleichen wird nicht unterbrochen, wenn Ihr Schaden erleidet."/>
 <label key="key:620766010:106251890" value="Das Ziel greift willkürlich Feinde an."/>
 <label key="key:620766010:54354734" value="Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
 <label key="key:620766054:54354734" value="Der Elbenstein funkelt."/>
@@ -1998,7 +1998,7 @@
 <label key="key:620774682:54354734" value="Der Schnitter hat das Bein des Ziels getroffen, so dass es sich nicht mehr so schnell bewegen kann."/>
 <label key="key:620774701:106251889" value="Angriff nicht möglich."/>
 <label key="key:620774765:106251889" value="Briefly undetectable in stealth"/>
-<label key="key:620774765:106251890" value="Your stealth is not broken by damage."/>
+<label key="key:620774765:106251890" value="Euer Schleichen wird nicht unterbrochen, wenn Ihr Schaden erleidet."/>
 <label key="key:620774792:106251889" value="Bewegungsunfähig."/>
 <label key="key:620774792:54354734" value="Der Pfeil des Uruk verhindert, dass Ihr Euch bewegen könnt."/>
 <label key="key:620774799:106251889" value="Verringerte Bewegungsgeschwindigkeit"/>
@@ -2037,7 +2037,7 @@
 <label key="key:620775131:181298206" value="Betäubt 5 Sek. lang"/>
 <label key="key:620775133:106251889" value="Verdoppelt die Zeit, die das Ziel braucht, um eine Fertigkeit oder eine Fähigkeit anzuwenden."/>
 <label key="key:620775136:181298206" value="Betäubt 8 Sek. lang"/>
-<label key="key:620775142:54354734" value="Ziel erleidet bei einem Angriff einen um 10 % erhöhten Schaden."/>
+<label key="key:620775142:54354734" value="Ziel erleidet bei einem Angriff einen um 10 % erhöhten Schaden."/>
 <label key="key:620775143:54354734" value="Ziel erleidet bei einem Angriff einen um 8 % erhöhten Schaden."/>
 <label key="key:620775151:106251889" value="Aufspüren von Schätzen"/>
 <label key="key:620775183:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 50 %."/>
@@ -2218,8 +2218,8 @@
 <label key="key:620783959:181298206" value="Betäubt 3 Sek. lang"/>
 <label key="key:620783960:181298206" value="Betäubt 3 Sek. lang"/>
 <label key="key:620783961:181298206" value="Betäubt 3 Sek. lang"/>
-<label key="key:620784400:181298206" value="Adds a bonus to your fellowship's morale."/>
-<label key="key:620784400:54354734" value="The fellowship's morale is boosted."/>
+<label key="key:620784400:181298206" value="Gibt den Gefährten einen Moralbonus"/>
+<label key="key:620784400:54354734" value="Hebt die Moral Eurer Gefährten."/>
 <label key="key:620784435:181298206" value="Beschwört einen Jäger, der seinem Herren folgt."/>
 <label key="key:620784436:106251889" value="Erhöht Eure Gesamtmoral um ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="Die Ehre der Menschen erhöht die Moral."/>
@@ -2312,7 +2312,7 @@
 <label key="key:620790898:54354734" value="Überträgt Bedrohung vom Waffenmeister auf ein anderes Ziel."/>
 <label key="key:620790899:54354734" value="Überträgt Bedrohung auf den Waffenmeister."/>
 <label key="key:620790913:54354734" value="Der enorme Panzer der Schildkröte scheint den meisten Schaden abzufangen."/>
-<label key="key:620790923:106251889" value="+3 % Chance auf Ausweichen und Parieren"/>
+<label key="key:620790923:106251889" value="+3 % Chance auf Ausweichen und Parieren"/>
 <label key="key:620790930:181298206" value="Reduziert 15 Sekunden lang 100 % des erlittenen allgemeinen Schadens. Während dieser Zeit seid Ihr an einen Ort gebunden."/>
 <label key="key:620790930:54354734" value="Reduziert 15 Sekunden lang 100 % des erlittenen allgemeinen Schadens. Während dieser Zeit seid Ihr an einen Ort gebunden."/>
 <label key="key:620790939:54354734" value="Durch einen Spezialangriff verletzbar."/>
@@ -2335,7 +2335,7 @@
 <label key="key:620791434:54354734" value="Die Angst umschnürt Euer Herz fester und fester. Wenn dieser Zustand nicht bald kuriert wird, ist Eure Niederlage nicht mehr abzuwenden."/>
 <label key="key:620791436:106251889" value="Ziel kann weder parieren noch blocken oder ausweichen."/>
 <label key="key:620791436:54354734" value="Ihr fühlt eine zunehmende Hitze in Eurer Brust. Wenn dieser Zustand nicht bald kuriert wird, ist Eure Niederlage nicht mehr abzuwenden."/>
-<label key="key:620791508:106251889" value="+${VALUE} Armour Increase"/>
+<label key="key:620791508:106251889" value="+${VALUE}"/>
 <label key="key:620791513:181298206" value="Euer Angriff motiviert Euren Schildbruder und erhöht seine Moral."/>
 <label key="key:620791513:54354734" value="Ihr seid inspiriert!"/>
 <label key="key:620791516:54354734" value="Ihr seid der Schildbruder eines Hauptmanns, der ihm ermöglicht, spezielle Fähigkeiten auf Euch zu lenken."/>

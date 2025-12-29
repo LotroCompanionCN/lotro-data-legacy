@@ -1540,24 +1540,24 @@
 <label key="1879097779" value="Амбан"/>
 <label key="1879097780" value="Ародиннас"/>
 <label key="1879097781" value="Фарадвон"/>
-<label key="1879098008" value="Krûr"/>
-<label key="1879098009" value="Dûnud"/>
-<label key="1879098010" value="Shakh"/>
-<label key="1879098011" value="Rulum"/>
-<label key="1879098012" value="Falgashud"/>
-<label key="1879098013" value="Nâdar"/>
-<label key="1879098014" value="Haz"/>
-<label key="1879098015" value="Saethoniel"/>
-<label key="1879098016" value="Tûzantar"/>
-<label key="1879098017" value="Pâshnar"/>
-<label key="1879098018" value="Egbert Ditchins"/>
-<label key="1879098019" value="Cathorn"/>
-<label key="1879098020" value="Celoseth"/>
-<label key="1879098021" value="Halgils"/>
-<label key="1879098022" value="Tongdir"/>
-<label key="1879098023" value="Blythe"/>
-<label key="1879098024" value="Dayna"/>
-<label key="1879098025" value="Bellflower Pitts"/>
+<label key="1879098008" value="Крур"/>
+<label key="1879098009" value="Дунуд"/>
+<label key="1879098010" value="Шак"/>
+<label key="1879098011" value="Рулум"/>
+<label key="1879098012" value="Фалгашуд"/>
+<label key="1879098013" value="Надар"/>
+<label key="1879098014" value="Хаз"/>
+<label key="1879098015" value="Сетониель"/>
+<label key="1879098016" value="Тузантар"/>
+<label key="1879098017" value="Пашнар"/>
+<label key="1879098018" value="Эгберт Бросовик"/>
+<label key="1879098019" value="Каторн"/>
+<label key="1879098020" value="Келосет"/>
+<label key="1879098021" value="Халглис"/>
+<label key="1879098022" value="Тонгдир"/>
+<label key="1879098023" value="Блити"/>
+<label key="1879098024" value="Дейна"/>
+<label key="1879098025" value="Маргаритка Ямс"/>
 <label key="1879098206" value="Ислейф"/>
 <label key="1879098207" value="Баденнас"/>
 <label key="1879098208" value="Граланд Тополап"/>
@@ -1614,7 +1614,7 @@
 <label key="1879101883" value="Гаэльм, сын Эогара"/>
 <label key="1879101922" value="Салли Трешинг"/>
 <label key="1879102215" value="Твегги"/>
-<label key="1879102908" value="Alwuld"/>
+<label key="1879102908" value="Алвульд"/>
 <label key="key:620757644:229802005" value="Уважаемый фермер"/>
 <label key="key:620757737:229802005" value="Хозяин таверны"/>
 <label key="key:620757892:229802005" value="Хозяин таверны"/>
@@ -2256,24 +2256,24 @@
 <label key="key:620796387:229802005" value="Товары для охотников"/>
 <label key="key:620796388:229802005" value="Всякая всячина"/>
 <label key="key:620796389:229802005" value="Товары для хранителей мудрости"/>
-<label key="key:620796569:229802005" value="Jewelry Trader"/>
-<label key="key:620796570:229802005" value="Loremaster Trader"/>
-<label key="key:620796571:229802005" value="Minstrel Trader"/>
-<label key="key:620796602:229802005" value="Core Corruptions Trader"/>
-<label key="key:620796603:229802005" value="Resistance Corruptions Trader"/>
-<label key="key:620796604:229802005" value="Food Trader"/>
-<label key="key:620796605:229802005" value="Special Items Trader"/>
-<label key="key:620796606:229802005" value="Orc Corruptions Trader"/>
-<label key="key:620796607:229802005" value="Potions Trader"/>
-<label key="key:620796608:229802005" value="Defensive Potions Trader"/>
-<label key="key:620796609:229802005" value="Spider Corruptions Trader"/>
-<label key="key:620796610:229802005" value="Uruk Corruptions Trader"/>
-<label key="key:620796611:229802005" value="Warg Corruptions Trader"/>
-<label key="key:620796612:229802005" value="Burglar Trader"/>
-<label key="key:620796613:229802005" value="Captain Trader"/>
-<label key="key:620796614:229802005" value="Champion Trader"/>
-<label key="key:620796615:229802005" value="Guardian Trader"/>
-<label key="key:620796616:229802005" value="Hunter Trader"/>
+<label key="key:620796569:229802005" value="Ювелирные изделия"/>
+<label key="key:620796570:229802005" value="Товары для хранителей мудрости"/>
+<label key="key:620796571:229802005" value="Товары для менестрелей"/>
+<label key="key:620796602:229802005" value="Общие пороки"/>
+<label key="key:620796603:229802005" value="Пороки сопротивления"/>
+<label key="key:620796604:229802005" value="Припасы"/>
+<label key="key:620796605:229802005" value="Особые предметы"/>
+<label key="key:620796606:229802005" value="Орочьи пороки"/>
+<label key="key:620796607:229802005" value="Зелья"/>
+<label key="key:620796608:229802005" value="Защитные зелья"/>
+<label key="key:620796609:229802005" value="Паучьи пороки"/>
+<label key="key:620796610:229802005" value="Уручьи пороки"/>
+<label key="key:620796611:229802005" value="Варжьи пороки"/>
+<label key="key:620796612:229802005" value="Товары для взломщиков"/>
+<label key="key:620796613:229802005" value="Товары для рыцарей"/>
+<label key="key:620796614:229802005" value="Товары для воителей"/>
+<label key="key:620796615:229802005" value="Товары для стражей"/>
+<label key="key:620796616:229802005" value="Товары для охотников"/>
 <label key="key:620796833:229802005" value="Починка оружия"/>
 <label key="key:620796834:229802005" value="Товары"/>
 <label key="key:620796835:229802005" value="Обмен"/>
@@ -2302,5 +2302,5 @@
 <label key="key:620799678:229802005" value="Помощник коневода"/>
 <label key="key:620799713:229802005" value="Распорядительница скачек"/>
 <label key="key:620799958:229802005" value="Целитель"/>
-<label key="key:620800515:229802005" value="Item Trader"/>
+<label key="key:620800515:229802005" value="Торговец"/>
 </labels>

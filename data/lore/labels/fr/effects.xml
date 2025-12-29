@@ -8,7 +8,7 @@
 <label key="1879049270" value="Parry Response"/>
 <label key="1879049330" value="Peur du monstre"/>
 <label key="1879049334" value="Distraction"/>
-<label key="1879049335" value="Truc : fureur"/>
+<label key="1879049335" value="Truc : fureur"/>
 <label key="1879049336" value="Vulnérabilité de suppression"/>
 <label key="1879049339" value="Attaque dirigée"/>
 <label key="1879049342" value="Invoquer un loup apprivoisé de brigand"/>
@@ -139,7 +139,7 @@
 <label key="1879052296" value="Sacrifice"/>
 <label key="1879052297" value="Survivant"/>
 <label key="1879052299" value="Attisement des flammes"/>
-<label key="1879052300" value="Braises ardentes : brûlure lente"/>
+<label key="1879052300" value="Braises ardentes : brûlure lente"/>
 <label key="1879052302" value="Pris en tenaille !"/>
 <label key="1879052336" value="Sceau - Animal"/>
 <label key="1879052337" value="Appel - Nature"/>
@@ -173,7 +173,7 @@
 <label key="1879052899" value="Zone d'espoir"/>
 <label key="1879052913" value="Dissipation de sérénade"/>
 <label key="1879052915" value="Ballade niveau 3"/>
-<label key="1879052917" value="Hymne des mages : ralentissement"/>
+<label key="1879052917" value="Hymne des mages : ralentissement"/>
 <label key="1879052918" value="Ballade niveau 1"/>
 <label key="1879052919" value="Ballade niveau 2"/>
 <label key="1879052926" value="Espoir"/>
@@ -190,7 +190,7 @@
 <label key="1879053116" value="Provocant"/>
 <label key="1879053117" value="Dernier combat"/>
 <label key="1879053118" value="Compte à rebours curatif"/>
-<label key="1879053131" value="Trait : guérison de dernier combat"/>
+<label key="1879053131" value="Trait : guérison de dernier combat"/>
 <label key="1879053138" value="Armure légèrement renforcée"/>
 <label key="1879053143" value="Moral augmenté"/>
 <label key="1879053192" value="Dégâts de Puissance moyens"/>
@@ -315,7 +315,7 @@
 <label key="1879060118" value="Petites pointes pour bouclier"/>
 <label key="1879060119" value="Pointes d'Ouistrenesse"/>
 <label key="1879060134" value="Dissipation de Provocation au bouclier ou de Coup violent"/>
-<label key="1879060135" value="Au roi !"/>
+<label key="1879060135" value="Au roi !"/>
 <label key="1879060137" value="Réaction de déferlement ou de fente"/>
 <label key="1879060165" value="Dissipation de Provocation au bouclier ou de Coup violent"/>
 <label key="1879060167" value="Réaction de Coup violent ou de Provocation au bouclier"/>
@@ -335,11 +335,11 @@
 <label key="1879060288" value="Bannière de victoire"/>
 <label key="1879060289" value="Bannière de victoire"/>
 <label key="1879060295" value="Triomphe fortifiant"/>
-<label key="1879060296" value="Cri de victoire : Moral"/>
+<label key="1879060296" value="Cri de victoire : Moral"/>
 <label key="1879060297" value="Triomphe fortifiant"/>
 <label key="1879060301" value="Fuite des ténèbres"/>
 <label key="1879060305" value="Cri de ralliement amélioré"/>
-<label key="1879060306" value="Cri de victoire : Puissance"/>
+<label key="1879060306" value="Cri de victoire : Puissance"/>
 <label key="1879060308" value="Dispel Enemy Defeat"/>
 <label key="1879060310" value="Enemy Defeat Response"/>
 <label key="1879060314" value="Cri de guerre amélioré"/>
@@ -429,12 +429,12 @@
 <label key="1879060755" value="Contournement Coup de bâton amélioré"/>
 <label key="1879060762" value="Absorption de pouvoir"/>
 <label key="1879060763" value="Aspiration de puissance améliorée"/>
-<label key="1879060764" value="Vol de Puissance : amélioré (Aspiration)"/>
+<label key="1879060764" value="Vol de Puissance : amélioré (Aspiration)"/>
 <label key="1879060767" value="Vol de Puissance (Aspiration)"/>
 <label key="1879060776" value="Espoir"/>
-<label key="1879060782" value="Signe sauvage : protection"/>
+<label key="1879060782" value="Signe sauvage : protection"/>
 <label key="1879060790" value="Absorption des blessures"/>
-<label key="1879060796" value="Signe sauvage : rage"/>
+<label key="1879060796" value="Signe sauvage : rage"/>
 <label key="1879060808" value="Tremblements d'Arda"/>
 <label key="1879060809" value="Déclencher Enraciné"/>
 <label key="1879060813" value="Sagesse du Conseil"/>
@@ -463,19 +463,19 @@
 <label key="1879060957" value="Déclencher Hébété"/>
 <label key="1879060969" value="Fléau d'arc"/>
 <label key="1879060970" value="Puissance augmentée"/>
-<label key="1879060973" value="Truc :&#10;poussière dans les yeux"/>
+<label key="1879060973" value="Truc :&#10;poussière dans les yeux"/>
 <label key="1879060974" value="Quitter Hébété"/>
 <label key="1879060984" value="Distraction"/>
 <label key="1879060988" value="Attaque désactivée"/>
-<label key="1879060989" value="Truc : incapacité améliorée"/>
-<label key="1879060990" value="Truc : incapacité"/>
+<label key="1879060989" value="Truc : incapacité améliorée"/>
+<label key="1879060990" value="Truc : incapacité"/>
 <label key="1879060994" value="Opportuniste"/>
-<label key="1879060995" value="Truc : Contre-défense amélioré (Truc)"/>
-<label key="1879060997" value="Truc : Contre-défense"/>
-<label key="1879061009" value="Improved Stealth"/>
+<label key="1879060995" value="Truc : Contre-défense amélioré (Truc)"/>
+<label key="1879060997" value="Truc : Contre-défense"/>
+<label key="1879061009" value="Discrétion améliorée"/>
 <label key="1879061013" value="Discrétion simple"/>
 <label key="1879061018" value="Fléau d'arc"/>
-<label key="1879061019" value="Truc : fureur (Truc)"/>
+<label key="1879061019" value="Truc : fureur (Truc)"/>
 <label key="1879061081" value="Pierre elfique"/>
 <label key="1879061253" value="Four"/>
 <label key="1879061324" value="Feu de camp"/>
@@ -620,7 +620,7 @@
 <label key="1879072541" value="Racine de tir retardateur"/>
 <label key="1879072542" value="Immobilisation de flèche"/>
 <label key="1879072553" value="Mobilité"/>
-<label key="1879072564" value="Improved Stealth"/>
+<label key="1879072564" value="Discrétion améliorée"/>
 <label key="1879072566" value="Discrétion simple"/>
 <label key="1879072970" value="FX espoir 10"/>
 <label key="1879072971" value="FX espoir 9"/>
@@ -642,7 +642,7 @@
 <label key="1879073034" value="Défense soudaine"/>
 <label key="1879073042" value="Sprint"/>
 <label key="1879073050" value="Tir retardateur"/>
-<label key="1879073055" value="Hourra !"/>
+<label key="1879073055" value="Hourra !"/>
 <label key="1879073059" value="Attaque coupante"/>
 <label key="1879073061" value="Marque efficace"/>
 <label key="1879073063" value="Rapidité"/>
@@ -657,7 +657,7 @@
 <label key="1879073088" value="Exposition au danger"/>
 <label key="1879073089" value="Protection du capitaine"/>
 <label key="1879073090" value="Concentration"/>
-<label key="1879073091" value="A genou !"/>
+<label key="1879073091" value="A genou !"/>
 <label key="1879073093" value="Bénédiction de l'attaque du héraut"/>
 <label key="1879073097" value="Combo de baisse de chaîne de Noble cause"/>
 <label key="1879073098" value="Guérison de l'Attaque du héraut"/>
@@ -703,15 +703,15 @@
 <label key="1879073209" value="Ours"/>
 <label key="1879073211" value="Ours"/>
 <label key="1879073222" value="Ecrasement de bras"/>
-<label key="1879073228" value="Signe du pouvoir : Istari"/>
-<label key="1879073229" value="Signe du pouvoir : magie"/>
-<label key="1879073230" value="Signe du pouvoir : guérison Istari"/>
-<label key="1879073233" value="Signe du pouvoir : injonction"/>
+<label key="1879073228" value="Signe du pouvoir : Istari"/>
+<label key="1879073229" value="Signe du pouvoir : magie"/>
+<label key="1879073230" value="Signe du pouvoir : guérison Istari"/>
+<label key="1879073233" value="Signe du pouvoir : injonction"/>
 <label key="1879073235" value="Déclencher immunité"/>
 <label key="1879073236" value="Dissipation de silence"/>
 <label key="1879073237" value="Déclencher immunité améliorée"/>
-<label key="1879073239" value="Signe du pouvoir : vigilance"/>
-<label key="1879073240" value="Signe du pouvoir : vigilance"/>
+<label key="1879073239" value="Signe du pouvoir : vigilance"/>
+<label key="1879073240" value="Signe du pouvoir : vigilance"/>
 <label key="1879073242" value="Connaissance du feu"/>
 <label key="1879073244" value="Connaissance du vent"/>
 <label key="1879073247" value="Déclencher Enraciné"/>
@@ -763,12 +763,12 @@
 <label key="1879073427" value="Traque d'ennemi chasseur"/>
 <label key="1879073428" value="Traque des ombres chasseresses"/>
 <label key="1879073429" value="Camouflage"/>
-<label key="1879073433" value="Position : précision"/>
-<label key="1879073434" value="Position : force"/>
-<label key="1879073435" value="Amélioration de la posture de force : Coup invalidant"/>
+<label key="1879073433" value="Position : précision"/>
+<label key="1879073434" value="Position : force"/>
+<label key="1879073435" value="Amélioration de la posture de force : Coup invalidant"/>
 <label key="1879073436" value="Coup invalidant"/>
-<label key="1879073438" value="Position : endurance"/>
-<label key="1879073439" value="Position : endurance"/>
+<label key="1879073438" value="Position : endurance"/>
+<label key="1879073439" value="Position : endurance"/>
 <label key="1879073482" value="Aller à la Comté (hobbit)"/>
 <label key="1879073487" value="Espoir de Hobbit."/>
 <label key="1879073488" value="Récupération de hobbit"/>
@@ -788,7 +788,7 @@
 <label key="1879073690" value="Renouveau mineur"/>
 <label key="1879073708" value="Tir retardateur"/>
 <label key="1879073709" value="Cible mouvante"/>
-<label key="1879073731" value="Debout !"/>
+<label key="1879073731" value="Debout !"/>
 <label key="1879073732" value="Promotion sur le terrain"/>
 <label key="1879073747" value="Emmêlement"/>
 <label key="1879073759" value="Attaque sur les blessés"/>
@@ -1026,7 +1026,7 @@
 <label key="1879084527" value="Santé restaurée"/>
 <label key="1879084529" value="Puissance augmentée"/>
 <label key="1879084530" value="Puissance augmentée"/>
-<label key="1879084540" value="Duty Bound"/>
+<label key="1879084540" value="Lié par le devoir"/>
 <label key="1879084542" value="Mírdanant's Inspiration[n]"/>
 <label key="1879084788" value="Don d'espoir[n]"/>
 <label key="1879084793" value="Air froid"/>
@@ -1056,23 +1056,23 @@
 <label key="1879085385" value="Déclencher Effrayé"/>
 <label key="1879085397" value="Cor"/>
 <label key="1879085467" value="Vulnérabilité aux blessures"/>
-<label key="1879085490" value="Passages secrets : Pied de Gram"/>
+<label key="1879085490" value="Passages secrets : Pied de Gram"/>
 <label key="1879085510" value="Terreur mortelle"/>
 <label key="1879085522" value="Enfer brûlant"/>
 <label key="1879085535" value="Ecorce renforcée"/>
 <label key="1879085537" value="Racine écrasante"/>
 <label key="1879085538" value="Racine paralysante"/>
 <label key="1879085539" value="Invocation de racine"/>
-<label key="1879085667" value="Passages secrets : Bois Funeste, emplacement 2"/>
-<label key="1879085668" value="Passages secrets : Bois Funeste, emplacement 3"/>
-<label key="1879085669" value="Passages secrets : Grothum, emplacement 2"/>
-<label key="1879085670" value="Passages secrets : Grothum, emplacement 3"/>
-<label key="1879085671" value="Passages secrets : Lugazag, emplacement 2"/>
-<label key="1879085672" value="Passages secrets : Lugazag, emplacement 3"/>
-<label key="1879085673" value="Passages secrets : Tirith Rhaw, emplacement 2"/>
-<label key="1879085674" value="Passages secrets : Tirith Rhaw, emplacement 3"/>
-<label key="1879085675" value="Passages secrets : Tol Ascarnen, emplacement 2"/>
-<label key="1879085676" value="Passages secrets : Tol Ascarnen, emplacement 3"/>
+<label key="1879085667" value="Passages secrets : Bois Funeste, emplacement 2"/>
+<label key="1879085668" value="Passages secrets : Bois Funeste, emplacement 3"/>
+<label key="1879085669" value="Passages secrets : Grothum, emplacement 2"/>
+<label key="1879085670" value="Passages secrets : Grothum, emplacement 3"/>
+<label key="1879085671" value="Passages secrets : Lugazag, emplacement 2"/>
+<label key="1879085672" value="Passages secrets : Lugazag, emplacement 3"/>
+<label key="1879085673" value="Passages secrets : Tirith Rhaw, emplacement 2"/>
+<label key="1879085674" value="Passages secrets : Tirith Rhaw, emplacement 3"/>
+<label key="1879085675" value="Passages secrets : Tol Ascarnen, emplacement 2"/>
+<label key="1879085676" value="Passages secrets : Tol Ascarnen, emplacement 3"/>
 <label key="1879085740" value="Distorsion de chaleur"/>
 <label key="1879085777" value="Quitter Enraciné"/>
 <label key="1879085778" value="Quitter Etourdi et Hébété"/>
@@ -1248,7 +1248,7 @@
 <label key="1879089502" value="Affliction de l'ombre"/>
 <label key="1879089503" value="Affliction du feu"/>
 <label key="1879089555" value="Vous devriez aller voir un ménestrel sans tarder !"/>
-<label key="1879089620" value="Lesser Persistence"/>
+<label key="1879089620" value="Persévérance moindre"/>
 <label key="1879089625" value="Inspiration"/>
 <label key="1879089626" value="Combo Attaque héroïque/Cri héroïque"/>
 <label key="1879089627" value="Porté : confère une faible chance de renverser l'adversaire."/>
@@ -1262,12 +1262,12 @@
 <label key="1879089854" value="Quitter l'état Cheval"/>
 <label key="1879089855" value="Quitter l'état Cheval"/>
 <label key="1879089856" value="Quitter l'état Cheval"/>
-<label key="1879089863" value="Hunter Travel to West Angmar"/>
-<label key="1879089864" value="Hunter Travel to East Angmar"/>
+<label key="1879089863" value="Les chasseurs se rendent à l'ouest de l'Angmar"/>
+<label key="1879089864" value="Les chasseurs se rendent à l'est de l'Angmar"/>
 <label key="1879089865" value="Retour au campement"/>
-<label key="1879089866" value="Hunter Travel to Ost Guruth"/>
-<label key="1879089867" value="Hunter Travel to Michel Delving"/>
-<label key="1879089868" value="Hunter Travel to Evendim"/>
+<label key="1879089866" value="Voyage de Chasseur jusqu'à Ost Guruth"/>
+<label key="1879089867" value="Voyage de Chasseur jusqu'à Grand'Cave"/>
+<label key="1879089868" value="Aller à Evendim (chasseur)"/>
 <label key="1879089879" value="Force de la Terre"/>
 <label key="1879089968" value="Rôdeur enraciné"/>
 <label key="1879090229" value="Dévastation"/>
@@ -1291,8 +1291,8 @@
 <label key="1879090911" value="GrantSkillEffect"/>
 <label key="1879090926" value="Huile inflammable"/>
 <label key="1879090927" value="Huile lumineuse"/>
-<label key="1879090952" value="Chant de l'arc : sens du point faible"/>
-<label key="1879090953" value="Chant de l'arc : flèche chercheuse"/>
+<label key="1879090952" value="Chant de l'arc : sens du point faible"/>
+<label key="1879090953" value="Chant de l'arc : flèche chercheuse"/>
 <label key="1879090954" value="Chant de l'arc : contournement de bouclier"/>
 <label key="1879090955" value="Chant de l'arc : portance du vent"/>
 <label key="1879091312" value="Chant de l'arc : corde silencieuse"/>
@@ -1303,7 +1303,7 @@
 <label key="1879091597" value="Retrait d'huile"/>
 <label key="1879091598" value="Activation des étendards de bannières"/>
 <label key="1879091604" value="Repli"/>
-<label key="1879092058" value="Aux armes !"/>
+<label key="1879092058" value="Aux armes !"/>
 <label key="1879092192" value="Eveil"/>
 <label key="1879092291" value="Retrait"/>
 <label key="1879092466" value="Discrétion simple"/>
@@ -1320,8 +1320,8 @@
 <label key="1879092480" value="Brumes ralentissantes"/>
 <label key="1879092481" value="Air caustique"/>
 <label key="1879092622" value="Absorption de Puissance"/>
-<label key="1879092632" value="Aux armes !"/>
-<label key="1879092633" value="Combo Aux armes !"/>
+<label key="1879092632" value="Aux armes !"/>
+<label key="1879092633" value="Combo Aux armes !"/>
 <label key="1879092635" value="Lumière d'Elendil"/>
 <label key="1879092636" value="Dissipation d'endurcissement"/>
 <label key="1879092638" value="Endurci par le combat"/>
@@ -1420,9 +1420,9 @@
 <label key="1879094744" value="Aura de commandement"/>
 <label key="1879094786" value="Paranoia"/>
 <label key="1879094803" value="Dispersion du feu"/>
-<label key="1879094810" value="Zone protégée : créatures de la nature"/>
-<label key="1879094811" value="Zone protégée : morts"/>
-<label key="1879094812" value="Zone protégée : drakes"/>
+<label key="1879094810" value="Zone protégée : créatures de la nature"/>
+<label key="1879094811" value="Zone protégée : morts"/>
+<label key="1879094812" value="Zone protégée : drakes"/>
 <label key="1879094813" value="Connaissance de la protection"/>
 <label key="1879094822" value="Artisanat ancien"/>
 <label key="1879094829" value="Goudron collant"/>
@@ -1621,8 +1621,8 @@
 <label key="1879097875" value="Imposing Presence"/>
 <label key="1879097876" value="Born of Shadow"/>
 <label key="1879097877" value="Shadow Aura"/>
-<label key="1879097882" value="A l'attaque !"/>
-<label key="1879097886" value="Je te vois !"/>
+<label key="1879097882" value="A l'attaque !"/>
+<label key="1879097886" value="Je te vois !"/>
 <label key="1879097897" value=".."/>
 <label key="1879097901" value="Couvée"/>
 <label key="1879097902" value="Toiles importantes"/>
@@ -1958,7 +1958,7 @@
 <label key="key:620765990:106251889" value="Réduit la parade, le blocage et l'esquive de ${PERCENTVALUE}"/>
 <label key="key:620765990:54354734" value="Un Truc par cambrioleur uniquement."/>
 <label key="key:620766001:106251889" value="Briefly undetectable in stealth"/>
-<label key="key:620766001:106251890" value="Your stealth is not broken by damage."/>
+<label key="key:620766001:106251890" value="Les dégâts subis ne perturbent pas votre discrétion."/>
 <label key="key:620766010:106251890" value="La cible attaque les ennemis au hasard"/>
 <label key="key:620766010:54354734" value="Un Truc par cambrioleur uniquement."/>
 <label key="key:620766054:54354734" value="La pierre elfique scintille."/>
@@ -1968,7 +1968,7 @@
 <label key="key:620766467:106251891" value="Ajoute ${VALUE} en Effroi"/>
 <label key="key:620766467:54354734" value="Votre coeur s'alourdit devant de tels maléfices."/>
 <label key="key:620767299:54354734" value=".."/>
-<label key="key:620767303:54354734" value=":Vous êtes #-1{couvert[m]|couverte[f]} de goudron gluant, attention aux flammes !"/>
+<label key="key:620767303:54354734" value=":Vous êtes #-1{couvert[m]|couverte[f]} de goudron gluant, attention aux flammes !"/>
 <label key="key:620767744:106251889" value="Pour repérer les mines"/>
 <label key="key:620767779:106251889" value="Pour repérer le bois"/>
 <label key="key:620767805:54354734" value="Permet la réalisation des méthodes de préparation nécessitant une terre à herbe à pipe."/>
@@ -1977,7 +1977,7 @@
 <label key="key:620767854:106251889" value="Pour repérer les récoltes"/>
 <label key="key:620768920:54354734" value="Une blessure qui infligera de nouveaux dégâts si on ne la soigne pas."/>
 <label key="key:620768962:106251890" value="Enraciné"/>
-<label key="key:620768962:54354734" value="Plonge la cible dans un certain nombre d'états d'immobilisation : inconscience, étourdissement, enracinement et hébètement"/>
+<label key="key:620768962:54354734" value="Plonge la cible dans un certain nombre d'états d'immobilisation : inconscience, étourdissement, enracinement et hébètement"/>
 <label key="key:620768964:54354734" value="La cible est invulnérable à toutes les attaques."/>
 <label key="key:620770185:106251889" value="Ralentit la vitesse de déplacement de 25%"/>
 <label key="key:620770190:181298206" value="Renverse pendant 4 s"/>
@@ -1998,14 +1998,14 @@
 <label key="key:620774682:54354734" value="La taille du faucheur ouvre la jambe de la cible, ce qui ralentit son mouvement."/>
 <label key="key:620774701:106251889" value="Ne peut pas être attaqué."/>
 <label key="key:620774765:106251889" value="Briefly undetectable in stealth"/>
-<label key="key:620774765:106251890" value="Your stealth is not broken by damage."/>
+<label key="key:620774765:106251890" value="Les dégâts subis ne perturbent pas votre discrétion."/>
 <label key="key:620774792:106251889" value="Impossible de bouger."/>
 <label key="key:620774792:54354734" value="La flèche de l'Ourouk-haï vous empêche de bouger."/>
 <label key="key:620774799:106251889" value="Vitesse de déplacement réduite."/>
 <label key="key:620774876:106251891" value="Esquive, parade et blocage impossibles"/>
 <label key="key:620774882:54354734" value="Inflige des dégâts aux assaillants."/>
 <label key="key:620774902:106251889" value="Ralentit la vitesse de déplacement de 10%"/>
-<label key="key:620774907:54354734" value="Incite la cible à se réjouir !"/>
+<label key="key:620774907:54354734" value="Incite la cible à se réjouir !"/>
 <label key="key:620774916:54354734" value="Augmente tous les dégâts portés à la cible marquée."/>
 <label key="key:620774926:106251889" value="Moral maximum +5 %"/>
 <label key="key:620774933:54354734" value="Les dégâts infligés à la cible marquée ont des vertus régénératrices pour l'attaquant."/>
@@ -2198,7 +2198,7 @@
 <label key="key:620782228:181298206" value="Invoque un ours polaire apprivoisé"/>
 <label key="key:620782236:54354734" value="Un regard sinistre tombe sur vous, il ne vous reste que peu de temps pour échapper à une mort certaine."/>
 <label key="key:620782370:106251890" value="Enraciné"/>
-<label key="key:620782370:54354734" value="La cible est couverte de goudron gluant, attention aux flammes !"/>
+<label key="key:620782370:54354734" value="La cible est couverte de goudron gluant, attention aux flammes !"/>
 <label key="key:620782399:106251889" value="Enraciné"/>
 <label key="key:620782399:54354734" value="Piégé et incapable de bouger."/>
 <label key="key:620782578:54354734" value="Vous êtes ${PLAYERNAME:protégé[m]|protégée[f]}."/>
@@ -2218,8 +2218,8 @@
 <label key="key:620783959:181298206" value="Etourdit pendant 3 s"/>
 <label key="key:620783960:181298206" value="Etourdit pendant 3 s"/>
 <label key="key:620783961:181298206" value="Etourdit pendant 3 s"/>
-<label key="key:620784400:181298206" value="Adds a bonus to your fellowship's morale."/>
-<label key="key:620784400:54354734" value="The fellowship's morale is boosted."/>
+<label key="key:620784400:181298206" value="Ajoute un bonus au Moral de votre communauté."/>
+<label key="key:620784400:54354734" value="Le Moral de la communauté est regonflé."/>
 <label key="key:620784435:181298206" value="Invoque un chasseur pour qu'il suive son chef."/>
 <label key="key:620784436:106251889" value="Augmente votre Moral total de ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="L'honneur des Hommes augmente le Moral."/>
@@ -2335,9 +2335,9 @@
 <label key="key:620791434:54354734" value="La terreur étreint votre coeur. Sans soins, elle vous terrassera bientôt."/>
 <label key="key:620791436:106251889" value="La cible ne peut plus parer, bloquer ou esquiver"/>
 <label key="key:620791436:54354734" value="Une chaleur intense enfle dans votre poitrine. Sans soins, elle vous terrassera bientôt."/>
-<label key="key:620791508:106251889" value="+${VALUE} Armour Increase"/>
+<label key="key:620791508:106251889" value="+${VALUE}"/>
 <label key="key:620791513:181298206" value="Votre attaque inspire votre frère de bouclier et lui remonte le moral."/>
-<label key="key:620791513:54354734" value="Vous avez de l'inspiration !"/>
+<label key="key:620791513:54354734" value="Vous avez de l'inspiration !"/>
 <label key="key:620791516:54354734" value="Vous êtes un frère de bouclier du capitaine, ce qui leur permet de vous prendre pour cible pour ses aptitudes spéciales."/>
 <label key="key:620791663:54354734" value="Quitte l'état Port de torche"/>
 <label key="key:620791691:54354734" value="Quitte l'état A cheval"/>
@@ -2348,7 +2348,7 @@
 <label key="key:620791696:54354734" value="Quitte l'état A cheval"/>
 <label key="key:620791697:54354734" value="Quitte l'état A cheval"/>
 <label key="key:620791699:54354734" value="Quitte l'état A cheval"/>
-<label key="key:620791708:181298206" value="Camp actuel : ${DESTINATION}."/>
+<label key="key:620791708:181298206" value="Camp actuel : ${DESTINATION}."/>
 <label key="key:620791778:181298206" value="Enracine pendant 10 s"/>
 <label key="key:620791979:106251891" value="Ralentit la vitesse de déplacement de 50%"/>
 <label key="key:620791981:54354734" value="Afficher les conseils du didacticiel d'emotes PNJ"/>
@@ -2386,7 +2386,7 @@
 <label key="key:620793032:54354734" value="La créature est entourée d'un nuage sombre."/>
 <label key="key:620793033:54354734" value="Des vents néfastes vous affectent."/>
 <label key="key:620793041:181298206" value="Les attaques de votre frère de bouclier provoquent 25 % de dégâts supplémentaires."/>
-<label key="key:620793041:54354734" value="Vos attaques provoquent 25 % de dégâts supplémentaires."/>
+<label key="key:620793041:54354734" value="Vos attaques provoquent 25 % de dégâts supplémentaires."/>
 <label key="key:620793045:181298206" value="Votre attaque donne l'opportunité à votre communauté d'invoquer la Lumière d'Elendil."/>
 <label key="key:620793047:54354734" value="Coup dévastateur ou Attaque pressante a déclenché votre état Endurci par le combat."/>
 <label key="key:620793058:54354734" value="Vous êtes un frère de bouclier du capitaine, ce qui lui permet de vous prendre pour cible pour ses aptitudes spéciales."/>
@@ -2399,7 +2399,7 @@
 <label key="key:620793130:106251890" value="Dégâts augmentés de ${PERCENTVALUE}"/>
 <label key="key:620793130:54354734" value="Nimbée d'ombres, la créature semble perdre de sa substance et la plupart de vos coups passent au travers sans l'affecter."/>
 <label key="key:620793365:106251889" value="Permet de détecter les artefacts"/>
-<label key="key:620793408:54354734" value="Vous détectez les monticules de terre prometteurs. Ils pourraient bien abriter un petit ver délicieux !"/>
+<label key="key:620793408:54354734" value="Vous détectez les monticules de terre prometteurs. Ils pourraient bien abriter un petit ver délicieux !"/>
 <label key="key:620793409:106251890" value="Ajoute ${PERCENTVALUE} supplémentaires à votre évitement des attaques à distance."/>
 <label key="key:620793431:54354734" value="..."/>
 <label key="key:620793460:54354734" value="La grande force de l'Angmar est celle du nombre."/>
@@ -2407,8 +2407,8 @@
 <label key="key:620793497:54354734" value="Quelques coups de fouet donnent toujours du coeur à l'ouvrage, mais savoir que Lugbûrz vous surveille vaut tous les maîtres-fouets du monde."/>
 <label key="key:620793499:54354734" value="Le roulement lointain des tambours orques dissuade tous ceux qui voudraient s'opposer à une telle armée."/>
 <label key="key:620793549:181298206" value="Votre frère de bouclier récupère 5 % de Moral supplémentaire durant la guérison."/>
-<label key="key:620793549:54354734" value="Vous récupérez 5 % de Moral supplémentaire grâce à la guérison."/>
-<label key="key:620793551:54354734" value="+5 % de Moral supplémentaire grâce à la guérison"/>
+<label key="key:620793549:54354734" value="Vous récupérez 5 % de Moral supplémentaire grâce à la guérison."/>
+<label key="key:620793551:54354734" value="+5 % de Moral supplémentaire grâce à la guérison"/>
 <label key="key:620793667:54354734" value="L'air est plein d'insectes et de vapeurs infâmes, qui amoindrissent la volonté de l'ennemi d'Angmar."/>
 <label key="key:620793720:54354734" value="Vous avez la possibilité d'infliger des dégâts légers supplémentaires à votre adversaire."/>
 <label key="key:620793722:54354734" value="Ne peut pas être affecté par le Sacrifice de l'aigle."/>
@@ -2435,14 +2435,14 @@
 <label key="key:620794022:181298206" value="Utilisation : vous vérifiez qu'il n'y a pas de hobbit indiscret à proximité, puis vous sortez votre sacoche de courrier."/>
 <label key="key:620794023:181298206" value="Utilisation : Vous puisez dans le pouvoir de volaille de cette cape puissante."/>
 <label key="key:620794037:181298206" value="Renversé pour 15 s"/>
-<label key="key:620794123:106251889" value="Moral maximum +20 %"/>
-<label key="key:620794124:106251889" value="Moral maximum +15 %"/>
-<label key="key:620794125:106251889" value="Puissance maximum +5 %"/>
-<label key="key:620794126:106251889" value="Puissance maximum +10 %"/>
+<label key="key:620794123:106251889" value="Moral maximum +20 %"/>
+<label key="key:620794124:106251889" value="Moral maximum +15 %"/>
+<label key="key:620794125:106251889" value="Puissance maximum +5 %"/>
+<label key="key:620794126:106251889" value="Puissance maximum +10 %"/>
 <label key="key:620794142:54354734" value="La créature semble bien protégée, mais il y a peut-être une arme capable de percer ses défenses."/>
 <label key="key:620794143:54354734" value="La créature semble bien protégée, mais il y a peut-être une arme capable de percer ses défenses."/>
 <label key="key:620794199:54354734" value="Vous faites un opossum très convaincant quand vous vous en donnez la peine."/>
-<label key="key:620794210:181298206" value="Utilisation : il ne vaut sans doute mieux pas manger ce fromage."/>
+<label key="key:620794210:181298206" value="Utilisation : il ne vaut sans doute mieux pas manger ce fromage."/>
 <label key="key:620794210:54354734" value="Mauvaise idée."/>
 <label key="key:620794508:54354734" value="Votre présence vous permet de contrôler les actions de vos serviteurs."/>
 <label key="key:620794511:54354734" value="L'allié du troll lui ordonne d'attaquer tous les adversaires de manière aléatoire."/>
@@ -2457,19 +2457,19 @@
 <label key="key:620794981:54354734" value="Les gorthorogs trouvent vos actions amicales plus menaçantes."/>
 <label key="key:620795342:54354734" value="Cet effet fait subir des dégâts aux assaillants, donne une chance de paralyser les ennemis et peut quelquefois absorber toute une attaque."/>
 <label key="key:620795343:54354734" value=".."/>
-<label key="key:620795364:106251889" value="+10,0 % de guérison et de dégâts pour toutes les compétences de communauté"/>
+<label key="key:620795364:106251889" value="+10,0 % de guérison et de dégâts pour toutes les compétences de communauté"/>
 <label key="key:620795430:54354734" value="Cette blessure s’infectera si elle n’est pas soignée."/>
 <label key="key:620795442:106251889" value="${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620795442:106251890" value="${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620795443:106251889" value="${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620795443:106251890" value="${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620795449:54354734" value="Cette blessure s’infectera si elle n’est pas soignée."/>
-<label key="key:620795454:106251890" value="-10 s de temps de récupération du Cri perçant"/>
-<label key="key:620795454:106251891" value="+25 % de chance critique du Cri perçant"/>
+<label key="key:620795454:106251890" value="-10 s de temps de récupération du Cri perçant"/>
+<label key="key:620795454:106251891" value="+25 % de chance critique du Cri perçant"/>
 <label key="key:620795455:54354734" value="Tout dégât courant reçu au Moral est transformé en dégât de Puissance."/>
 <label key="key:620795456:54354734" value=".."/>
-<label key="key:620795518:106251889" value="-3 % de résistance aux chants et aux cris"/>
-<label key="key:620795519:54354734" value="-3 % de résistance aux chants et aux cris"/>
+<label key="key:620795518:106251889" value="-3 % de résistance aux chants et aux cris"/>
+<label key="key:620795519:54354734" value="-3 % de résistance aux chants et aux cris"/>
 <label key="key:620795524:54354734" value="Sous sa bannière de détermination, le chef des morts gelés ne peut pas être renversé, étourdi, ni rendu vulnérable à une manoeuvre de confrérie."/>
 <label key="key:620795525:54354734" value="Lorsqu'il se tient solidement campé sur ses pattes, le dragon ne peut pas être assommé, étourdi ou rendu vulnérable par une manoeuvre de confrérie."/>
 <label key="key:620795526:54354734" value="L'être spectral agonisant a émis un nuage contagieux, et vous en avez trop respiré."/>
@@ -2480,8 +2480,8 @@
 <label key="key:620795644:54354734" value="Le courroux de Zurm est sur Barz."/>
 <label key="key:620795645:54354734" value="Le courroux de Barz est sur Zurm."/>
 <label key="key:620795667:54354734" value="Cette chose informe bouge et agit de manière fort dérangeante."/>
-<label key="key:620795676:106251889" value="-5 % de résistance aux chants et aux cris"/>
-<label key="key:620795677:54354734" value="-5 % de résistance aux chants et aux cris"/>
+<label key="key:620795676:106251889" value="-5 % de résistance aux chants et aux cris"/>
+<label key="key:620795677:54354734" value="-5 % de résistance aux chants et aux cris"/>
 <label key="key:620795680:54354734" value="Fait danser la cible."/>
 <label key="key:620795683:181298206" value="Invoque une chauve-souris apprivoisée pour le morroval."/>
 <label key="key:620795787:54354734" value="Cette blessure s’infectera si elle n’est pas soignée."/>
@@ -2512,12 +2512,12 @@
 <label key="key:620796204:106251889" value="Transforme l'apparence de votre lynx en lynx du givre."/>
 <label key="key:620796206:106251889" value="Transforme l'apparence de votre lynx en lynx tacheté."/>
 <label key="key:620796246:54354734" value="Il émane du Balrog une aura presque palpable qui augmente sa puissance et celle de ses alliés proches."/>
-<label key="key:620796247:106251889" value="La cible inflige 10 % de dégâts en plus"/>
+<label key="key:620796247:106251889" value="La cible inflige 10 % de dégâts en plus"/>
 <label key="key:620796248:54354734" value="Il émane du Balrog une aura presque palpable qui augmente sa puissance et celle de ses alliés proches."/>
 <label key="key:620796251:106251889" value="Meilleur évitement des attaques à distance"/>
 <label key="key:620796251:54354734" value="Le soufre soulevé par le Balrog fournit une couverture."/>
 <label key="key:620796252:54354734" value="Il émane du Balrog une aura presque palpable qui augmente sa puissance et celle de ses alliés proches."/>
-<label key="key:620796253:106251889" value="La cible souffre 50 % de dégâts en moins"/>
+<label key="key:620796253:106251889" value="La cible souffre 50 % de dégâts en moins"/>
 <label key="key:620796253:106251892" value="Moins de chances de subir un coup critique."/>
 <label key="key:620796254:54354734" value="Il émane du Balrog une aura presque palpable qui augmente sa puissance et celle de ses alliés proches."/>
 <label key="key:620796255:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
@@ -2530,8 +2530,8 @@
 <label key="key:620796258:54354734" value="La force de l'attaque du Balrog vous expose grandement aux attaques dévastatrices à suivre."/>
 <label key="key:620796259:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
 <label key="key:620796259:54354734" value="La force de l'attaque du Balrog vous expose énormément aux attaques dévastatrices à suivre."/>
-<label key="key:620796285:181298206" value="5 % de chances de paralyser les cibles qui vous font subir des dégâts."/>
-<label key="key:620796285:54354734" value="5 % de chances de paralyser les cibles qui vous font subir des dégâts."/>
+<label key="key:620796285:181298206" value="5 % de chances de paralyser les cibles qui vous font subir des dégâts."/>
+<label key="key:620796285:54354734" value="5 % de chances de paralyser les cibles qui vous font subir des dégâts."/>
 <label key="key:620796343:54354734" value="Le fait d'attaquer cette créature vous blesse vous aussi. La douleur est parfois telle que la terreur vous paralyse."/>
 <label key="key:620796344:181298206" value="Utilisation : inflige de légers dégâts à la cible, tout en vous accordant de la Puissance."/>
 <label key="key:620796360:54354734" value="Envoie l'ordre aux drakes de Zogtark d'attaquer une cible de son choix."/>
