@@ -595,6 +595,34 @@
 <label key="1879097466" value="Utilisation de cornemuse"/>
 <label key="1879097468" value="Utilisation des cloches de vache de base"/>
 <label key="1879097470" value="Utilisation des cloches de vache des landes"/>
+<label key="1879097831" value="Front-line Fodder"/>
+<label key="1879097832" value="Rage of the Misbegotten"/>
+<label key="1879097833" value="Warrior Against the Deep"/>
+<label key="1879097834" value="Tireless Warrior"/>
+<label key="1879097835" value="Flayer of Flesh"/>
+<label key="1879097836" value="Eight-legged Menace"/>
+<label key="1879097837" value="Swallower of Light"/>
+<label key="1879097838" value="Ancient as the Stars"/>
+<label key="1879097839" value="Enemies of the First Children"/>
+<label key="1879097840" value="Drinker of Blood"/>
+<label key="1879097841" value="New Breed"/>
+<label key="1879097842" value="Leaders of the Orcs"/>
+<label key="1879097843" value="Favoured Servant of the Dark"/>
+<label key="1879097844" value="Tireless Warrior"/>
+<label key="1879097845" value="Brutal persuasion"/>
+<label key="1879097846" value="Four-legged Foe"/>
+<label key="1879097847" value="Pack Mentality"/>
+<label key="1879097848" value="Pack Elder"/>
+<label key="1879097849" value="Foe of the Light"/>
+<label key="1879097850" value="Pack Alpha"/>
+<label key="1879097853" value="Advanced Skill: Blood of Fire"/>
+<label key="1879097854" value="Advanced Skill: Undying Rage"/>
+<label key="1879097855" value="Advanced Skill: Born of Shadow"/>
+<label key="1879097856" value="Advanced Skill: Shelob's Gift"/>
+<label key="1879097857" value="Advanced Skill: Imposing Presence"/>
+<label key="1879097858" value="Advanced Skill: Get a Grip!"/>
+<label key="1879097859" value="Advanced Skill: Pack Hunters"/>
+<label key="1879097860" value="Advanced Skill: Eyes of Unnerving"/>
 <label key="1879101492" value="Ami de la nature"/>
 <label key="1879101513" value="Maison dans le Pays de Bree"/>
 <label key="1879101514" value="Maison dans le Pays de Bree"/>
@@ -1676,6 +1704,23 @@
 <label key="key:620796148:54354734" value="Permet l'utilisation des cloches de vache."/>
 <label key="key:620796151:191029568" value="Permet l'utilisation des cloches de vache perfectionnées."/>
 <label key="key:620796151:54354734" value="Permet l'utilisation des cloches de vache des landes spéciales."/>
+<label key="key:620796422:106251889" value="Increases your movement by ${PERCENTVALUE}."/>
+<label key="key:620796443:191029568" value="You can inspire the forces of darkness to even greater feats, even as they near the brink of defeat."/>
+<label key="key:620796443:54354734" value="You can inspire the forces of darkness to even greater feats, even as they near the brink of defeat."/>
+<label key="key:620796446:191029568" value="You are pack hunters and can call out one target, increasing the efficiency of your allies against that target."/>
+<label key="key:620796446:54354734" value="You are pack hunters and can call out one target, increasing the efficiency of your allies against that target."/>
+<label key="key:620796448:191029568" value="So great is the fear inspired by your eyes that you bring dread to those around you."/>
+<label key="key:620796448:54354734" value="So great is the fear inspired by your eyes that you bring dread to those around you."/>
+<label key="key:620796450:191029568" value="The rage of the orcs burns strong within you. You can draw upon your racial strength and make those that attack you suffer for their transgression."/>
+<label key="key:620796450:54354734" value="The rage of the orcs burns strong within you. You can draw upon your racial strength and make those that attack you suffer for their transgression."/>
+<label key="key:620796453:191029568" value="As death's shroud closes in upon you, you are able to enter one last frenzied rage before the end."/>
+<label key="key:620796453:54354734" value="As death's shroud closes in upon you, you are able to enter one last frenzied rage before the end."/>
+<label key="key:620796457:191029568" value="You are able to draw upon the darkness from whence the first of your kind was born and cloak yourself in harmful shadows."/>
+<label key="key:620796457:54354734" value="You are able to draw upon the darkness from whence the first of your kind was born and cloak yourself in harmful shadows."/>
+<label key="key:620796460:191029568" value="Upon defeating an opponent you are able to use their shattered husk for sustenance."/>
+<label key="key:620796460:54354734" value="Upon defeating an opponent you are able to use their shattered husk for sustenance."/>
+<label key="key:620796462:191029568" value="Your presence inspires the lesser beings around you to greater strength."/>
+<label key="key:620796462:54354734" value="Your presence inspires the lesser beings around you to greater strength."/>
 <label key="key:620799379:191029568" value="Permet l'utilisation de compagnons hors combat."/>
 <label key="key:620799379:54354734" value="Permet l'utilisation de compagnons hors combat."/>
 <label key="key:620799396:191029568" value="Résidence du Pays de Bree"/>

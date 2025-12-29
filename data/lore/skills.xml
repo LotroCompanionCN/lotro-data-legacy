@@ -3498,7 +3498,7 @@
 <combos propertyID="268436349">
 <combo value="37" skillID="1879060663" skillName="Improved Thrill of Danger"/>
 </combos>
-<details actionDurationContribution="2.0" cooldown="420.0" cooldownMods="268436865" flags="64" maxTargets="3">
+<details actionDurationContribution="2.0" cooldown="420.0" cooldownMods="268436865,268442674" flags="64" maxTargets="3">
 <geometry detectionAnchor="3" shape="sphere" radius="10.0"/>
 <attack damageQualifier="1">
 <effectsMgr>
@@ -3508,7 +3508,7 @@
 </details>
 </skill>
 <skill identifier="1879060663" name="Improved Thrill of Danger" category="13" iconId="1090541184" description="key:620765704:228830419">
-<details actionDurationContribution="2.0" cooldown="300.0" cooldownMods="268436865" flags="64" maxTargets="5">
+<details actionDurationContribution="2.0" cooldown="300.0" cooldownMods="268436865,268442674" flags="64" maxTargets="5">
 <geometry detectionAnchor="3" shape="sphere" radius="10.0"/>
 <effectsMgr type="USER">
 <effect id="1879049269" name="Block Response" spellcraft="9.0"/>
@@ -3982,7 +3982,7 @@
 </details>
 </skill>
 <skill identifier="1879061005" name="Hide in Plain Sight" category="37" iconId="1090541274" description="key:620766000:228830419">
-<details actionDurationContribution="1.0" cooldown="600.0" flags="1">
+<details actionDurationContribution="1.0" cooldown="600.0" cooldownMods="268442659" flags="1">
 <powerCost pointsProgression="1879061008" mods="268440385"/>
 <attack>
 <effectsMgr>
@@ -4539,7 +4539,7 @@
 </details>
 </skill>
 <skill identifier="1879064148" name="Last Stand" category="47" iconId="1090533270" description="key:620774929:228830419">
-<details actionDurationContribution="0.5" cooldown="900.0" flags="1">
+<details actionDurationContribution="0.5" cooldown="900.0" cooldownMods="268442663" flags="1">
 <powerCost pointsProgression="1879073074"/>
 <attack>
 <effectsMgr override="268438454">
@@ -4632,7 +4632,7 @@
 <skill identifier="1879064187" name="Raise the Spirit" category="23" iconId="1090553793" description="key:620774961:228830419">
 <details actionDurationContribution="2.0" inductionId="1879073109" cooldown="1.5" flags="1">
 <geometry maxRange="25.0"/>
-<powerCost pointsProgression="1879073108" mods="268438244"/>
+<powerCost pointsProgression="1879073108" mods="268442666,268438244"/>
 <attack damageQualifier="2">
 <effectsMgr>
 <effect id="1879073110" name="Lesser Raise the Spirit"/>
@@ -4705,7 +4705,7 @@
 <skill identifier="1879064193" name="Inspire Fellows" category="23" iconId="1090553799" description="key:620774976:228830419">
 <details actionDurationContribution="2.0" inductionId="1879073125" cooldown="5.0">
 <geometry detectionAnchor="3" shape="sphere" radius="20.0"/>
-<powerCost pointsProgression="1879073124" mods="268438244"/>
+<powerCost pointsProgression="1879073124" mods="268442666,268438244"/>
 <attack damageQualifier="2">
 <effectsMgr>
 <effect id="1879073126" name="Inspire Fellows Bonus"/>
@@ -4757,7 +4757,7 @@
 <skill identifier="1879064197" name="Bolster Courage" category="23" iconId="1090553801" description="key:620774987:228830419">
 <details actionDurationContribution="2.0" inductionId="1879073138">
 <geometry maxRange="25.0"/>
-<powerCost pointsProgression="1879073137" mods="268438244"/>
+<powerCost pointsProgression="1879073137" mods="268442666,268438244"/>
 <attack damageQualifier="2">
 <effectsMgr>
 <effect id="1879073139" name="Greater Raise the Spirit"/>
@@ -5223,7 +5223,7 @@
 </skill>
 <skill identifier="1879064296" name="Turn the Tables" category="13" iconId="1090553907" description="key:620775111:228830419">
 <requiredEffect id="1879064672" name="Immobilize"/>
-<details actionDurationContribution="0.0" cooldown="300.0" flags="65">
+<details actionDurationContribution="0.0" cooldown="300.0" cooldownMods="268442673" flags="65">
 <geometry maxRange="2.5"/>
 <effectsMgr type="USER">
 <effect id="1879085988" name="Exit All Harmful States Except Dread"/>
@@ -7510,7 +7510,7 @@
 <powerCost pointsProgression="1879072529"/>
 <attack damageQualifier="3" damageType="1">
 <effectsMgr>
-<effect id="1879073746" name="Snaring Webs"/>
+<effect id="1879103773" name="Induce Rooted"/>
 </effectsMgr>
 </attack>
 </details>
@@ -10574,7 +10574,7 @@
 </details>
 </skill>
 <skill identifier="1879089875" name="Heart Seeker" category="34" iconId="1091388859" description="key:620791718:228830419">
-<details actionDurationContribution="0.0" inductionId="1879089885" cooldown="300.0" flags="64">
+<details actionDurationContribution="0.0" inductionId="1879089885" cooldown="300.0" cooldownMods="268442679" flags="64">
 <geometry maxRange="40.0"/>
 <effectsMgr type="USER" override="268438945"/>
 <powerCost pointsProgression="1879089880" mods="268438686,268442040"/>
@@ -13137,7 +13137,7 @@
 <skill identifier="1879096321" name="Chord of Salvation" category="23" iconId="1091401065" description="key:620795674:228830419">
 <details actionDurationContribution="2.5" cooldown="30.0" flags="1">
 <geometry maxRange="25.0"/>
-<powerCost pointsProgression="1879096318"/>
+<powerCost pointsProgression="1879096318" mods="268442666,268438244"/>
 <attack damageQualifier="2">
 <effectsMgr>
 <effect id="1879096315" name="Chord of Salvation"/>
@@ -14177,6 +14177,103 @@
 </attack>
 </details>
 </skill>
+<skill identifier="1879097861" name="Get a Grip!" category="7" iconId="1091465866" description="key:620796444:228830419">
+<requiredTrait id="1879097858" name="Advanced Skill: Get a Grip!"/>
+<details actionDurationContribution="2.0" cooldown="900.0" flags="1" maxTargets="6">
+<geometry detectionAnchor="3" shape="sphere" radius="20.0"/>
+<powerCost pointsProgression="1879073687"/>
+<attack>
+<effectsMgr>
+<effect id="1879097862" name="Get a Grip!"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879097863" name="Pack Hunters" category="42" iconId="1091465868" description="key:620796447:228830419">
+<requiredTrait id="1879097859" name="Advanced Skill: Pack Hunters"/>
+<details actionDurationContribution="2.0" cooldown="30.0" flags="96">
+<geometry maxRange="20.0"/>
+<effectsMgr type="TOGGLE">
+<effect id="1879097864" name="Pack Hunters"/>
+</effectsMgr>
+<powerCost pointsProgression="1879072561"/>
+<attack/>
+</details>
+</skill>
+<skill identifier="1879097865" name="Eyes of Unnerving" category="42" iconId="1091424050" description="key:620796449:228830419">
+<requiredTrait id="1879097860" name="Advanced Skill: Eyes of Unnerving"/>
+<details actionDurationContribution="2.0" inductionId="1879072559" cooldown="60.0" flags="32">
+<effectsMgr type="TOGGLE">
+<effect id="1879061521" name="Dread Aura"/>
+</effectsMgr>
+<effectsMgr type="USER_TOGGLE">
+<effect id="1879103782" name="Eyes of Unnerving"/>
+</effectsMgr>
+<powerCost pointsProgression="1879072561"/>
+<attack/>
+</details>
+</skill>
+<skill identifier="1879097866" name="Blood of Fire" category="7" iconId="1091459331" description="key:620796451:228830419">
+<requiredTrait id="1879097853" name="Advanced Skill: Blood of Fire"/>
+<details actionDurationContribution="2.0" cooldown="90.0" flags="33">
+<effectsMgr type="TOGGLE">
+<effect id="1879097867" name="Blood of Fire"/>
+</effectsMgr>
+<powerCost pointsProgression="1879072526"/>
+<attack/>
+</details>
+</skill>
+<skill identifier="1879097868" name="Dying Rage" category="11" iconId="1091456476" description="key:620796454:228830419">
+<requiredTrait id="1879097854" name="Advanced Skill: Undying Rage"/>
+<details actionDurationContribution="0.5" cooldown="600.0" flags="1">
+<powerCost pointsProgression="1879072526"/>
+<attack>
+<effectsMgr>
+<effect id="1879097869" name="Dying Rage"/>
+<effect id="1879097870" name="Fury's Price"/>
+<effect id="1879117443" name="Dying Rage"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879097871" name="Born of Shadow" category="11" iconId="1091459329" description="key:620796458:228830419">
+<requiredTrait id="1879097855" name="Advanced Skill: Born of Shadow"/>
+<details actionDurationContribution="2.0" cooldown="60.0" flags="32">
+<effectsMgr type="TOGGLE">
+<effect id="1879097872" name="Born of Shadow[e]"/>
+<effect id="1879097877" name="Shadow Aura"/>
+</effectsMgr>
+<powerCost pointsProgression="1879072529"/>
+<attack/>
+</details>
+</skill>
+<skill identifier="1879097873" name="Shelob's Gift" category="11" iconId="1091459330" description="key:620796461:228830419">
+<requiredTrait id="1879097856" name="Advanced Skill: Shelob's Gift"/>
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
+<details actionDurationContribution="2.0" cooldown="45.0">
+<effectsMgr type="USER">
+<effect id="1879060308" name="Dispel Enemy Defeat"/>
+</effectsMgr>
+<powerCost pointsProgression="1879073687"/>
+<attack>
+<effectsMgr>
+<effect id="1879057763" name="Healing"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879097874" name="Imposing Presence" category="7" iconId="1091465870" description="key:620796463:228830419">
+<requiredTrait id="1879097857" name="Advanced Skill: Imposing Presence"/>
+<details actionDurationContribution="2.0" cooldown="60.0" flags="1" maxTargets="6">
+<geometry detectionAnchor="3" shape="sphere" radius="15.0"/>
+<powerCost pointsProgression="1879073687"/>
+<attack>
+<effectsMgr>
+<effect id="1879097875" name="Imposing Presence"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
 <skill identifier="1879097878" name="Tendon Shred" category="42" iconId="1091405164" description="key:620796467:228830419">
 <details actionDurationContribution="2.0" cooldown="300.0" flags="64">
 <geometry maxRange="3.0"/>
@@ -14898,6 +14995,17 @@
 <details actionDurationContribution="2.0" flags="64">
 <geometry maxRange="120.0"/>
 <attack damageQualifier="3" damageType="16" maxDamageProgression="1879050062" damageModifier="3.0"/>
+</details>
+</skill>
+<skill identifier="1879102630" name="Super Heal" iconId="1090524209">
+<details actionDurationContribution="1.5">
+<geometry detectionAnchor="3"/>
+<attack>
+<effectsMgr>
+<effect id="1879087518" name="Increased Morale"/>
+<effect id="1879087521" name="Increased Power"/>
+</effectsMgr>
+</attack>
 </details>
 </skill>
 </skills>

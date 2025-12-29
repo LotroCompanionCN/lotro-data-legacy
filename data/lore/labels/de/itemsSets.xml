@@ -52,6 +52,24 @@
 <label key="1879102190" value="Waldwandler-Kleidung"/>
 <label key="1879102191" value="Roben des Hains"/>
 <label key="1879102192" value="Gewand des Waldes"/>
+<label key="1879102594" value="Burglar of the Free People"/>
+<label key="1879102595" value="Captain of the Free People"/>
+<label key="1879102596" value="Champion of the Free People"/>
+<label key="1879102597" value="Guardian of the Free People"/>
+<label key="1879102598" value="Kappwin Armour"/>
+<label key="1879102599" value="Hlifworth Armour"/>
+<label key="1879102600" value="Threkkappi Armour"/>
+<label key="1879102601" value="Hunter of the Free People"/>
+<label key="1879102602" value="Feldskyn Armour"/>
+<label key="1879102603" value="Anganskáld Armour"/>
+<label key="1879102604" value="Ally of the Free People"/>
+<label key="1879102605" value="Hlifherór Armour"/>
+<label key="1879102606" value="Thagallthrek Armour"/>
+<label key="1879102607" value="Supporter of the Free People"/>
+<label key="1879102682" value="Trinkets of Quenching"/>
+<label key="1879102683" value="Trinkets of Thorns"/>
+<label key="1879102684" value="Trinkets of the Ettendeep"/>
+<label key="1879111445" value="Blight of Gramsfoot"/>
 <label key="key:620790390:108054836" value="Balladenschaden +5 %"/>
 <label key="key:620790390:108054838" value="Heileffekt +5 %"/>
 <label key="key:620790390:54354734" value="Diese edle Rüstung ist mit Beryllen beschlagen, die auch als Elbensteine bekannt sind. Die Elben schmiedeten sie für einen angesehenen Barden."/>
@@ -125,4 +143,27 @@
 <label key="key:620794565:108120372" value="+10 % auf Ruhmbedrohung"/>
 <label key="key:620794565:108120374" value="+5 % auf Ruhmnahkampf-Schaden"/>
 <label key="key:620794565:54354734" value="Diese Rüstung wurde als Belohnung für die Verteidigung von Eriador gegen den Schrecken von Nûrz Gâshu verliehen."/>
+<label key="key:620800265:108054836" value="-25% Turn the Tables Recovery Time"/>
+<label key="key:620800265:108054838" value="-15% Thrill of Danger Recovery Time"/>
+<label key="key:620800265:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
+<label key="key:620800266:108054836" value="+50% Hamstring Duration"/>
+<label key="key:620800266:108054838" value="-5% AOE Skills Power Cost"/>
+<label key="key:620800266:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
+<label key="key:620800267:108054836" value="+10% Test of Will Critical Hit Chance"/>
+<label key="key:620800267:108054838" value="-5% Blinding Flash Resist Chance"/>
+<label key="key:620800267:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
+<label key="key:620800268:108054836" value="+5% Ballad Damage"/>
+<label key="key:620800268:108054838" value="-5% Healing Power Cost"/>
+<label key="key:620800268:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
+<label key="key:620800269:108054836" value="+50% Low Cut Duration"/>
+<label key="key:620800269:108054838" value="-10% Heart Seeker Recovery Time"/>
+<label key="key:620800269:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
+<label key="key:620800270:108054838" value="-25% Hide In Plain Sight Recovery Time"/>
+<label key="key:620800270:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
+<label key="key:620800271:108054836" value="-25% Last Stand Recovery Time"/>
+<label key="key:620800271:108054838" value="-25% Escape from Darkness Recovery Time"/>
+<label key="key:620800271:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
+<label key="key:620800333:54354734" value="The warming sensations from this jewelry calms your spirit."/>
+<label key="key:620800334:54354734" value="The trinkets are adorned with bristling metal thorns having the potential to harm those who harm you."/>
+<label key="key:620800335:54354734" value="The Trinkets of the Ettendeep are known for their great protection against evil forces."/>
 </labels>

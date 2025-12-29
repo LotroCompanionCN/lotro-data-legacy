@@ -767,4 +767,256 @@
 <stat name="AGILITY" scaling="1879050221"/>
 </bonus>
 </set>
+<set id="1879102594" name="Burglar of the Free People" level="50" description="">
+<item id="1879102577" name="Dornhigil"/>
+<item id="1879102576" name="Bronwehigil"/>
+<bonus nbItems="2">
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102595" name="Captain of the Free People" level="50" description="">
+<item id="1879102581" name="Bronwenaith"/>
+<item id="1879102591" name="Móthskold"/>
+<bonus nbItems="2">
+<stat name="POWER" scaling="1879049946"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102596" name="Champion of the Free People" level="50" description="">
+<item id="1879102580" name="Tordram"/>
+<item id="1879102578" name="Dagorhigil"/>
+<bonus nbItems="2">
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102597" name="Guardian of the Free People" level="50" description="">
+<item id="1879102574" name="Thalionhathol"/>
+<item id="1879102593" name="Skotrand"/>
+<bonus nbItems="2">
+<stat name="PARRY_PERCENTAGE" scaling="1879051217"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102598" name="Kappwin Armour" level="50" description="key:620800271:54354734">
+<item id="1879102487" name="Kappwin Gloves"/>
+<item id="1879102488" name="Kappwin Boots"/>
+<item id="1879102489" name="Kappwin Leggings"/>
+<item id="1879102490" name="Kappwin Guard"/>
+<item id="1879102491" name="Kappwin Shoulders"/>
+<item id="1879102492" name="Kappwin Helm"/>
+<bonus nbItems="2">
+<stat name="VITALITY" scaling="1879049943"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="Skill_RecoveryTime_LastStand" descriptionOverride="key:620800271:108054836" constant="-225.0"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="Skill_RecoveryTime_EscapefromDarkness" descriptionOverride="key:620800271:108054838" constant="-450.0"/>
+</bonus>
+</set>
+<set id="1879102599" name="Hlifworth Armour" level="50" description="key:620800265:54354734">
+<item id="1879102493" name="Hlifworth Gloves"/>
+<item id="1879102494" name="Hlifworth Boots"/>
+<item id="1879102495" name="Hlifworth Leggings"/>
+<item id="1879102496" name="Hlifworth Guard"/>
+<item id="1879102497" name="Hlifworth Shoulders"/>
+<item id="1879102498" name="Hlifworth Helm"/>
+<bonus nbItems="2">
+<stat name="VITALITY" scaling="1879049943"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="Skill_RecoveryTime_TurnTables" descriptionOverride="key:620800265:108054836" constant="-75.0"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="Skill_RecoveryTime_ThrillDanger" descriptionOverride="key:620800265:108054838" constant="-63.0"/>
+</bonus>
+</set>
+<set id="1879102600" name="Threkkappi Armour" level="50" description="key:620800266:54354734">
+<item id="1879102499" name="Threkkappi Gloves"/>
+<item id="1879102500" name="Threkkappi Boots"/>
+<item id="1879102501" name="Threkkappi Leggings"/>
+<item id="1879102502" name="Threkkappi Guard"/>
+<item id="1879102503" name="Threkkappi Shoulders"/>
+<item id="1879102504" name="Threkkappi Helm"/>
+<bonus nbItems="2">
+<stat name="MIGHT" scaling="1879049945"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="Skill_Duration_Champion_Hamstring" descriptionOverride="key:620800266:108054836" constant="10.0"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="key:620800266:108054838" scaling="1879089174"/>
+</bonus>
+</set>
+<set id="1879102601" name="Hunter of the Free People" level="50" description="">
+<item id="1879102575" name="Cudúr"/>
+<item id="1879102579" name="Filigodrist"/>
+<bonus nbItems="2">
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102602" name="Feldskyn Armour" level="50" description="key:620800267:54354734">
+<item id="1879102463" name="Feldskyn Gloves"/>
+<item id="1879102464" name="Feldskyn Shoes"/>
+<item id="1879102465" name="Feldskyn Leggings"/>
+<item id="1879102466" name="Feldskyn Guard"/>
+<item id="1879102467" name="Feldskyn Shoulders"/>
+<item id="1879102468" name="Feldskyn Hat"/>
+<bonus nbItems="2">
+<stat name="WILL" scaling="1879049503"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="Skill_CriticalChance_TestofWill" descriptionOverride="key:620800267:108054836" constant="10.0"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="Skill_ResistanceChance_Loremaster_BlindingFlash" descriptionOverride="key:620800267:108054838" scaling="1879089017"/>
+</bonus>
+</set>
+<set id="1879102603" name="Anganskáld Armour" level="50" description="key:620800268:54354734">
+<item id="1879102469" name="Anganskáld Gloves"/>
+<item id="1879102470" name="Anganskáld Shoes"/>
+<item id="1879102471" name="Anganskáld Leggings"/>
+<item id="1879102472" name="Anganskáld Guard"/>
+<item id="1879102473" name="Anganskáld Shoulders"/>
+<item id="1879102474" name="Anganskáld Hat"/>
+<bonus nbItems="2">
+<stat name="FATE" scaling="1879049801"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" descriptionOverride="key:620800268:108054836" scaling="1879089018"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="Minstrel_HealingPowerReduce" descriptionOverride="key:620800268:108054838" constant="-5.0"/>
+</bonus>
+</set>
+<set id="1879102604" name="Ally of the Free People" level="50" description="">
+<item id="1879102583" name="Golumagol"/>
+<item id="1879102582" name="Balanis"/>
+<bonus nbItems="2">
+<stat name="FATE" scaling="1879051140"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102605" name="Hlifherór Armour" level="50" description="key:620800269:54354734">
+<item id="1879102475" name="Hlifherór Gloves"/>
+<item id="1879102476" name="Hlifherór Boots"/>
+<item id="1879102477" name="Hlifherór Leggings"/>
+<item id="1879102478" name="Hlifherór Guard"/>
+<item id="1879102479" name="Hlifherór Shoulders"/>
+<item id="1879102480" name="Hlifherór Helm"/>
+<bonus nbItems="2">
+<stat name="AGILITY" scaling="1879049909"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="Skill_Duration_Hunter_LowCut" descriptionOverride="key:620800269:108054836" constant="5.0"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="Skill_RecoveryTime_HeartSeeker" descriptionOverride="key:620800269:108054838" constant="-30.0"/>
+</bonus>
+</set>
+<set id="1879102606" name="Thagallthrek Armour" level="50" description="key:620800270:54354734">
+<item id="1879102481" name="Thagallthrek Gloves"/>
+<item id="1879102482" name="Thagallthrek Boots"/>
+<item id="1879102483" name="Thagallthrek Leggings"/>
+<item id="1879102484" name="Thagallthrek Guard"/>
+<item id="1879102485" name="Thagallthrek Shoulders"/>
+<item id="1879102486" name="Thagallthrek Helm"/>
+<bonus nbItems="2">
+<stat name="AGILITY" scaling="1879049909"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="STEALTH_LEVEL" scaling="1879052068"/>
+</bonus>
+<bonus nbItems="6">
+<stat name="Skill_RecoveryTime_HideInPlainSight" descriptionOverride="key:620800270:108054838" constant="-150.0"/>
+</bonus>
+</set>
+<set id="1879102607" name="Supporter of the Free People" level="50" description="">
+<item id="1879102584" name="Romegil"/>
+<item id="1879102592" name="Luthskold"/>
+<bonus nbItems="2">
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
+<set id="1879102682" name="Trinkets of Quenching" level="50" description="key:620800333:54354734">
+<item id="1879102673" name="Snúa-men"/>
+<item id="1879102679" name="Sterk-baug"/>
+<item id="1879102670" name="Angechor"/>
+<item id="1879102676" name="Ancient Flasket"/>
+<bonus nbItems="2">
+<stat name="WILL" scaling="1879085572"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="VITALITY" scaling="1879049943"/>
+</bonus>
+</set>
+<set id="1879102683" name="Trinkets of Thorns" level="50" description="key:620800334:54354734">
+<item id="1879102674" name="Edhelharnhigil"/>
+<item id="1879102680" name="Lorchor"/>
+<item id="1879102671" name="Edhelharnechor"/>
+<item id="1879102677" name="Pouch of Thorns"/>
+<bonus nbItems="2">
+<stat name="FATE" scaling="1879085574"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="POWER" scaling="1879049946"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="POWER" scaling="1879049946"/>
+</bonus>
+</set>
+<set id="1879102684" name="Trinkets of the Ettendeep" level="50" description="key:620800335:54354734">
+<item id="1879102675" name="Narinn"/>
+<item id="1879102681" name="Filigodringor"/>
+<item id="1879102672" name="Iorechor"/>
+<item id="1879102678" name="Quartz Figurine"/>
+<bonus nbItems="2">
+<stat name="MORALE" scaling="1879093525"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="ICPR" scaling="1879049910"/>
+</bonus>
+<bonus nbItems="4">
+<stat name="FATE" scaling="1879049801"/>
+</bonus>
+</set>
+<set id="1879111445" name="Blight of Gramsfoot" level="50" description="">
+<item id="1879111444" name="Carbuncle Earring"/>
+<item id="1879110743" name="Ettendeep's Bane"/>
+<bonus nbItems="2">
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879052100"/>
+<stat name="OCPR" scaling="1879050223"/>
+</bonus>
+<bonus nbItems="3">
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+</bonus>
+</set>
 </sets>

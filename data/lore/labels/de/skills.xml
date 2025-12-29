@@ -1293,6 +1293,14 @@
 <label key="1879097785" value="Wurm beschwören"/>
 <label key="1879097826" value="Feuerball"/>
 <label key="1879097828" value="Flammenexplosion"/>
+<label key="1879097861" value="Get a Grip!"/>
+<label key="1879097863" value="Pack Hunters"/>
+<label key="1879097865" value="Eyes of Unnerving"/>
+<label key="1879097866" value="Blood of Fire"/>
+<label key="1879097868" value="Dying Rage"/>
+<label key="1879097871" value="Born of Shadow"/>
+<label key="1879097873" value="Shelob's Gift"/>
+<label key="1879097874" value="Imposing Presence"/>
 <label key="1879097878" value="Sehnenfetzen"/>
 <label key="1879097879" value="Augen auskratzen"/>
 <label key="1879097880" value="Angriff!"/>
@@ -1359,6 +1367,7 @@
 <label key="1879102223" value="Fluch des Kundigen"/>
 <label key="1879102224" value="Gurthuls Rache"/>
 <label key="1879102439" value="Finaler Wurf"/>
+<label key="1879102630" value="Super Heal"/>
 <label key="key:620757890:228830419" value="Diese Fertigkeit ist eine schnelle Version von 'Schleichen'."/>
 <label key="key:620759186:228830419" value="Nachdem Ihr 'Zweischneidiger Schlag' eingesetzt habt, könnt Ihr ein paar sehr wirkungsvollen Angriff gegen das Ziel führen."/>
 <label key="key:620759211:228830419" value="Nachdem Ihr den 'Zweischneidigen Schlag' eingesetzt habt, führt Ihr einen Angriff aus, der großen Schaden verursacht und außerdem eine gewisse Wahrscheinlichkeit besitzt, 6 Sek. lang Gefährten-Fertigkeiten einzusetzen, falls Ihr Euch in einer Gefährten-Gruppe befinden solltet."/>
@@ -1938,6 +1947,14 @@
 <label key="key:620795938:228830419" value="Euer Verständnis der Eichhörnchensprache erlaubt es Euch, ein Eichhörnchen herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
 <label key="key:620795997:228830419" value="Euer Verständnis der Schildkrötensprache erlaubt es Euch, eine Schildkröte herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
 <label key="key:620796000:228830419" value="Nach sorgfältiger Überlegung kann der Kundige einen gefallenen Kameraden so wiederherstellen, dass dieser erneut kämpfen kann. Die Wiederbelebung eines besiegten Verbündeten erfolgt gegen geringe Kosten durch Einsatz duftender Kräuter."/>
+<label key="key:620796444:228830419" value="As an Uruk you are adept at whipping those lesser beasts in Sauron's army back into shape."/>
+<label key="key:620796447:228830419" value="Wargs are pack hunters. You can target a foe and increase the damage dealt by all members of your war party."/>
+<label key="key:620796449:228830419" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
+<label key="key:620796451:228830419" value="Rage seething beneath the surface of your flesh takes on a physical manifestation and any daring to attack you will feel the wrath of the orcs!"/>
+<label key="key:620796454:228830419" value="When death nears, you gain the ability to call on the power of your blood and become a powerful force of destruction before your flame is extinguished. Most offensive skills are reset when this skill is activated."/>
+<label key="key:620796458:228830419" value="Your heritage extends to the fabric of shadow and you harness a piece of that black energy to damage foes who trespass near you."/>
+<label key="key:620796461:228830419" value="Your ancestry affords you incredible powers of recovery. After successfully defeating an opponent you can immediately drain them of vitality and restore your health."/>
+<label key="key:620796463:228830419" value="Your presence inspires those around you to greater strength; mostly through fear."/>
 <label key="key:620796467:228830419" value="Ihr treibt Eure Fänge tief ins Fleisch des Feindes, zerfetzt eine Sehne und eröffnet eine Gelegenheit für eine Aktion Eures Kampftrupps."/>
 <label key="key:620796468:228830419" value="Ein schneller Streich zu den Augen des Gegners hin, stört dessen Konzentration."/>
 <label key="key:620796469:228830419" value="Wenn die Zeit gekommen ist, sich in das Schlachtgewühl zu stürzen, liegt es an den Orks, die Schlachtreihen zu durchbrechen. Ihr erlangt eine kurze Immunität vor Anwurzeln, Betäubung und Benommenheit. Eure Geschwindigkeit erhöht sich für kurze Zeit."/>

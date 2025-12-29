@@ -12119,7 +12119,7 @@
 <actionTable id="1879087859"/>
 <startupEffect id="1879087858" name="Blinding Glare"/>
 </mob>
-<mob id="1879092071" name="Shingrinder" division="164" alignment="3" class="51" classFilter="2" genus="14" species="88" barterTrophyListId="1879092881" remoteLootable="false">
+<mob id="1879092071" name="Shingrinder" division="164" alignment="3" class="51" classFilter="2" genus="14" species="88" barterTrophyListId="1879092881" trophyListId="1879093232" remoteLootable="false">
 <actionTable id="1879049301"/>
 <actionTable id="1879080423"/>
 <actionTable id="1879087435"/>
@@ -13257,12 +13257,12 @@
 <actionTable id="1879049349" minLevel="5"/>
 </mob>
 <mob id="1879095546" name="Active Fumarole" division="175" alignment="3" class="51" classFilter="2" genus="8" species="58" subSpecies="132"/>
-<mob id="1879095547" name="Iarwen" division="175" alignment="3" class="51" classFilter="2" genus="5" species="37" barterTrophyListId="1879097189" remoteLootable="false">
+<mob id="1879095547" name="Iarwen" division="175" alignment="3" class="51" classFilter="2" genus="5" species="37" barterTrophyListId="1879097189" trophyListId="1879094010" remoteLootable="false">
 <actionTable id="1879049347"/>
 <actionTable id="1879096799"/>
 <actionTable id="1879051256" minLevel="15"/>
 </mob>
-<mob id="1879095548" name="Rimgurthil" division="175" alignment="3" class="51" classFilter="2" genus="5" species="37" barterTrophyListId="1879097189" remoteLootable="false">
+<mob id="1879095548" name="Rimgurthil" division="175" alignment="3" class="51" classFilter="2" genus="5" species="37" barterTrophyListId="1879097189" trophyListId="1879094010" remoteLootable="false">
 <actionTable id="1879049347"/>
 <actionTable id="1879096800"/>
 <actionTable id="1879051256" minLevel="15"/>
@@ -13282,12 +13282,12 @@
 <actionTable id="1879096802"/>
 <actionTable id="1879051256" minLevel="15"/>
 </mob>
-<mob id="1879095552" name="Gaergoth, the Unbound" division="175" alignment="3" class="10" classFilter="2" genus="5" species="21" barterTrophyListId="1879097187" remoteLootable="false">
+<mob id="1879095552" name="Gaergoth, the Unbound" division="175" alignment="3" class="10" classFilter="2" genus="5" species="21" barterTrophyListId="1879097187" trophyListId="1879094017" remoteLootable="false">
 <actionTable id="1879057738"/>
 <actionTable id="1879097057"/>
 <actionTable id="1879052649" minLevel="15"/>
 <startupEffect id="1879084434" name="Protection from Fear"/>
-<startupEffect id="1879056899" name="Dread Aura"/>
+<startupEffect id="1879052866" name="Dread Aura"/>
 </mob>
 <mob id="1879095553" name="Moss-patch Tangler" division="175" alignment="3" class="51" classFilter="2" genus="10" species="29" barterTrophyListId="1879097185" remoteLootable="false">
 <actionTable id="1879078380"/>
@@ -13295,13 +13295,13 @@
 <mob id="1879095554" name="Rottenroot's Root" division="175" alignment="3" class="51" classFilter="2" genus="10" species="29">
 <actionTable id="1879078380"/>
 </mob>
-<mob id="1879095556" name="Uidhelos" division="175" alignment="3" class="51" classFilter="2" genus="11" species="53" subSpecies="321" barterTrophyListId="1879097186" remoteLootable="false">
+<mob id="1879095556" name="Uidhelos" division="175" alignment="3" class="51" classFilter="2" genus="11" species="53" subSpecies="321" barterTrophyListId="1879097186" trophyListId="1879094016" remoteLootable="false">
 <actionTable id="1879052674"/>
 <actionTable id="1879052675"/>
 <actionTable id="1879052649" minLevel="15"/>
 <startupEffect id="1879085980" name="Dread Aura"/>
 </mob>
-<mob id="1879095557" name="Gortheblin" division="175" alignment="3" class="51" classFilter="2" genus="11" species="53" subSpecies="321" barterTrophyListId="1879097186" remoteLootable="false">
+<mob id="1879095557" name="Gortheblin" division="175" alignment="3" class="51" classFilter="2" genus="11" species="53" subSpecies="321" barterTrophyListId="1879097186" trophyListId="1879094016" remoteLootable="false">
 <actionTable id="1879052674"/>
 <actionTable id="1879052675"/>
 <actionTable id="1879052649" minLevel="15"/>
@@ -13399,7 +13399,7 @@
 <actionTable id="1879049526" minLevel="15"/>
 <startupEffect id="1879051483" name="Shadow Aura"/>
 </mob>
-<mob id="1879095574" name="Gâth" division="175" alignment="3" class="51" classFilter="2" genus="7" species="17" barterTrophyListId="1879097189" remoteLootable="false">
+<mob id="1879095574" name="Gâth" division="175" alignment="3" class="51" classFilter="2" genus="7" species="17" barterTrophyListId="1879097189" trophyListId="1879094010" remoteLootable="false">
 <actionTable id="1879057738"/>
 <actionTable id="1879085377"/>
 <actionTable id="1879085378"/>
@@ -13422,11 +13422,11 @@
 <actionTable id="1879058399"/>
 <actionTable id="1879062358"/>
 </mob>
-<mob id="1879095579" name="Húrlug" division="175" alignment="3" class="51" classFilter="2" genus="6" species="70" barterTrophyListId="1879097186" remoteLootable="false">
+<mob id="1879095579" name="Húrlug" division="175" alignment="3" class="51" classFilter="2" genus="6" species="70" barterTrophyListId="1879097186" trophyListId="1879094010" remoteLootable="false">
 <actionTable id="1879058399"/>
 <actionTable id="1879062358"/>
 </mob>
-<mob id="1879095580" name="Núrlug" division="175" alignment="3" class="51" classFilter="2" genus="6" species="70" barterTrophyListId="1879097186" remoteLootable="false">
+<mob id="1879095580" name="Núrlug" division="175" alignment="3" class="51" classFilter="2" genus="6" species="70" barterTrophyListId="1879097186" trophyListId="1879094010" remoteLootable="false">
 <actionTable id="1879058399"/>
 <actionTable id="1879062358"/>
 </mob>
@@ -13435,7 +13435,7 @@
 <actionTable id="1879059948"/>
 <actionTable id="1879049526" minLevel="15"/>
 </mob>
-<mob id="1879095582" name="Munglug, The Egg-keeper" division="175" alignment="3" class="51" classFilter="2" genus="6" species="70" barterTrophyListId="1879097189" remoteLootable="false">
+<mob id="1879095582" name="Munglug, The Egg-keeper" division="175" alignment="3" class="51" classFilter="2" genus="6" species="70" barterTrophyListId="1879097189" trophyListId="1879094010" remoteLootable="false">
 <actionTable id="1879049347"/>
 <actionTable id="1879059948"/>
 <actionTable id="1879049526" minLevel="15"/>

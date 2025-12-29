@@ -3951,9 +3951,6 @@
 </actionTableEntry>
 </actionTable>
 <actionTable id="1879097056">
-<actionTableEntry probability="65.0" cooldown="7.0">
-<action skillId="1879095792" name="Bursting Flame"/>
-</actionTableEntry>
 <actionTableEntry probability="65.0" cooldown="12.0" disallowedHints="32" targetRequiredHints="9">
 <action skillId="1879049732" name="Melee Double"/>
 </actionTableEntry>
@@ -3963,7 +3960,7 @@
 <actionTableEntry probability="25.0" cooldown="30.0" disallowedHints="32" targetRequiredHints="9">
 <action skillId="1879056911" name="Tail Swipe"/>
 </actionTableEntry>
-<actionTableEntry probability="-1.0" cooldown="15.0" requiredHints="2">
+<actionTableEntry probability="-1.0" cooldown="15.0" requiredHints="32">
 <action skillId="1879095793" name="Engulfing Flames"/>
 </actionTableEntry>
 <actionTableEntry probability="65.0" cooldown="20.0">
@@ -3972,19 +3969,18 @@
 <actionTableEntry probability="-1.0" cooldown="5.0" requiredHints="27">
 <action skillId="1879096312" name="Reflexive Bite"/>
 </actionTableEntry>
-<actionTableEntry probability="-1.0" cooldown="5.0" requiredHints="32">
-<action skillId="1879096311" name="Hide of the Wintersebb"/>
+<actionTableEntry probability="-1.0" cooldown="8.0" requiredHints="32">
+<action skillId="1879097826" name="Fire Ball"/>
 </actionTableEntry>
-<actionTableEntry probability="-1.0" cooldown="300.0" requiredHints="2" disallowedHints="32">
-<action skillId="1879097058" name="Remove Mitigation Buff"/>
-</actionTableEntry>
-<actionTableEntry probability="-1.0" cooldown="5.0" requiredHints="32">
+<actionTableEntry probability="-1.0" cooldown="46.0" requiredHints="32" disallowedHints="2" cooldownChannel="22">
 <action skillId="1879096309" name="Conjunction Invulnerability State"/>
+<action skillId="1879098150" name="Hovering"/>
 </actionTableEntry>
-<actionTableEntry probability="-1.0" cooldown="300.0" requiredHints="2" disallowedHints="32">
+<actionTableEntry probability="-1.0" cooldown="50.0" requiredHints="32" disallowedHints="2" cooldownChannel="22">
 <action skillId="1879096310" name="ExitConjunction Invulnerability State"/>
+<action skillId="1879098210" name="Remove Hovering"/>
 </actionTableEntry>
-<actionTableEntry probability="25.0" cooldown="30.0">
+<actionTableEntry probability="25.0" cooldown="30.0" disallowedHints="32">
 <action skillId="1879095793" name="Engulfing Flames"/>
 </actionTableEntry>
 </actionTable>

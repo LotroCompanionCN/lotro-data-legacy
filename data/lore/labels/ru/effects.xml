@@ -790,7 +790,6 @@
 <label key="1879073709" value="Движущаяся мишень"/>
 <label key="1879073731" value="Подъем!"/>
 <label key="1879073732" value="Под защитой вожака"/>
-<label key="1879073746" value="Опутывающие силки"/>
 <label key="1879073747" value="В путах"/>
 <label key="1879073759" value="Прыжок на раненого"/>
 <label key="1879073760" value="Калека"/>
@@ -1003,9 +1002,11 @@
 <label key="1879084325" value="Эффект от пищи"/>
 <label key="1879084326" value="Эффект от пищи"/>
 <label key="1879084327" value="Эффект от пищи"/>
+<label key="1879084328" value="Эффект от пищи"/>
 <label key="1879084330" value="Эффект от пищи"/>
 <label key="1879084331" value="Эффект от пищи"/>
 <label key="1879084332" value="Эффект от пищи"/>
+<label key="1879084333" value="Эффект от пищи"/>
 <label key="1879084345" value="Вы больше не можете проглотить ни кусочка"/>
 <label key="1879084346" value="Вы больше не можете проглотить ни кусочка"/>
 <label key="1879084347" value="Вы больше не можете проглотить ни кусочка"/>
@@ -1611,11 +1612,38 @@
 <label key="1879097796" value="Защитное пламя"/>
 <label key="1879097822" value="Loremaster Temporary Analyze Skill Effect"/>
 <label key="1879097823" value="Восстановление ледяной нежити"/>
+<label key="1879097862" value="Get a Grip!"/>
+<label key="1879097864" value="Pack Hunters"/>
+<label key="1879097867" value="Blood of Fire"/>
+<label key="1879097869" value="Dying Rage"/>
+<label key="1879097870" value="Fury's Price"/>
+<label key="1879097872" value="Born of Shadow[e]"/>
+<label key="1879097875" value="Imposing Presence"/>
+<label key="1879097876" value="Born of Shadow"/>
+<label key="1879097877" value="Shadow Aura"/>
 <label key="1879097882" value="В атаку!"/>
 <label key="1879097886" value="Вот ты где!"/>
 <label key="1879097897" value=".."/>
 <label key="1879097901" value="Молодые пауки"/>
 <label key="1879097902" value="Тяжелая паутина"/>
+<label key="1879097956" value="Immunity"/>
+<label key="1879097959" value="Restored Health"/>
+<label key="1879097960" value="Increased Power"/>
+<label key="1879097961" value="Increased Power"/>
+<label key="1879097962" value="Increased Power"/>
+<label key="1879097963" value="Strengthened Hide"/>
+<label key="1879097964" value="Hardened Hide"/>
+<label key="1879097965" value="Troll-like Hide"/>
+<label key="1879097966" value="Quick Movements"/>
+<label key="1879097967" value="Fluid Movements"/>
+<label key="1879097968" value="Elusive Movements"/>
+<label key="1879097969" value="Speed of the Wolf"/>
+<label key="1879097970" value="Speed of the Warg"/>
+<label key="1879097971" value="Speed of the Pack"/>
+<label key="1879097972" value="Mazauk's Blessing"/>
+<label key="1879097973" value="Mazauk's Grace"/>
+<label key="1879097974" value="Gorgoris' Blessing"/>
+<label key="1879097975" value="Gorgoris' Grace"/>
 <label key="1879098038" value="Рассеять Тьму"/>
 <label key="1879098101" value="Огненная плеть"/>
 <label key="1879098108" value="Парение"/>
@@ -1723,6 +1751,16 @@
 <label key="1879102276" value="Применить призрачное оглушение"/>
 <label key="1879102277" value="Подсказка о Гуртуле"/>
 <label key="1879102280" value="Крик сокола"/>
+<label key="1879102518" value="Increased Morale"/>
+<label key="1879102519" value="Increased Morale"/>
+<label key="1879102520" value="Increased Morale"/>
+<label key="1879102521" value="Increased Power"/>
+<label key="1879102522" value="Increased Power"/>
+<label key="1879102523" value="Increased Power"/>
+<label key="1879103773" value="Induce Rooted"/>
+<label key="1879103782" value="Eyes of Unnerving"/>
+<label key="1879103966" value="Immunity"/>
+<label key="1879117443" value="Dying Rage"/>
 <label key="key:620757391:181298206" value="При экипировке: Незначительно повышается вероятность попадания по врагу."/>
 <label key="key:620757393:181298206" value="При экипировке: Незначительно повышается вероятность попадания по врагу."/>
 <label key="key:620757396:181298206" value="При экипировке: -5% к блокированию противником автоатак."/>
@@ -1919,6 +1957,7 @@
 <label key="key:620765988:54354734" value="Каждый взломщик может использовать не более одной уловки."/>
 <label key="key:620765990:106251889" value="Снижает вероятность парирования, блокирования и уклонения на ${PERCENTVALUE}"/>
 <label key="key:620765990:54354734" value="Каждый взломщик может использовать не более одной уловки."/>
+<label key="key:620766001:106251889" value="Briefly undetectable in stealth"/>
 <label key="key:620766001:106251890" value="Получение урона не выводит вас из режима скрытности."/>
 <label key="key:620766010:106251890" value="Цель будет атаковать случайно выбранных противников"/>
 <label key="key:620766010:54354734" value="Каждый взломщик может использовать не более одной уловки."/>
@@ -1958,6 +1997,7 @@
 <label key="key:620774682:106251889" value="Замедляет скорость движения на 25%"/>
 <label key="key:620774682:54354734" value="Удар, рассекающий поджилки цели, замедляя ее движение."/>
 <label key="key:620774701:106251889" value="Атака невозможна."/>
+<label key="key:620774765:106251889" value="Briefly undetectable in stealth"/>
 <label key="key:620774765:106251890" value="Получение урона не выводит вас из скрытности."/>
 <label key="key:620774792:106251889" value="Невозможно двигаться."/>
 <label key="key:620774792:54354734" value="Стрела урука останавливает вас."/>
@@ -2033,7 +2073,6 @@
 <label key="key:620775400:106251889" value="Замедляет скорость движения на 40%"/>
 <label key="key:620775403:106251890" value="Добавляет ${PERCENTVALUE} к вероятности уклониться от атак дальнего боя."/>
 <label key="key:620775412:54354734" value="Почти полная невосприимчивость к повреждениям."/>
-<label key="key:620775421:54354734" value="Удерживается на месте паутиной."/>
 <label key="key:620775431:106251889" value="Снижает скорость движения цели на 25%"/>
 <label key="key:620775766:54354734" value="Больной вепрь укусил вас и заразил своей болезнью."/>
 <label key="key:620775797:54354734" value="Цель не может уходить в режим скрытности."/>
@@ -2500,12 +2539,23 @@
 <label key="key:620796400:54354734" value="Уменьшает защиту от огня. Накапливаемый эффект."/>
 <label key="key:620796401:54354734" value="Навстречу атакующим вырывается жаркое пламя, защищающее того, кто скрывается в его сердце."/>
 <label key="key:620796415:54354734" value="Под воздействием этого эффекта ледяная нежить быстрее восполняет боевой дух."/>
+<label key="key:620796452:181298206" value="Damages attackers."/>
+<label key="key:620796452:54354734" value="Attackers beware the fury of the orcs. It burns so deeply that those attacking the orc will feel the wrath of the orc's blood."/>
+<label key="key:620796455:106251893" value="You become immune to Stun, Daze, Knockdown and Fear effects for the duration of this skill."/>
+<label key="key:620796455:54354734" value="Fury overwhlems you and you spend the last vestige of your battlefury to conquer your enemies."/>
+<label key="key:620796456:54354734" value="Unleashing the rage within you comes with a hefty price."/>
+<label key="key:620796464:54354734" value="Your presence inspires those beneath you."/>
+<label key="key:620796465:54354734" value="Light is swallowed by the spider's tie to darkness and shadow."/>
+<label key="key:620796466:181298206" value="Damages attackers."/>
+<label key="key:620796466:54354734" value="Attackers will soon learn that your tie to the shadow gives you great strength."/>
 <label key="key:620796470:106251890" value="Во время атакующего рывка вы не можете менять стойки."/>
 <label key="key:620796470:54354734" value="Скорость бега существенно увеличивается. Вы неуязвимы для обездвиживания, ошеломления и оглушения."/>
 <label key="key:620796474:54354734" value="Вы лучше замечаете скрывающихся противников."/>
 <label key="key:620796482:54354734" value=".."/>
 <label key="key:620796491:106251889" value="Замедляет движения на 40%"/>
 <label key="key:620796491:54354734" value="Паучья паутина замедляет движения."/>
+<label key="key:620796505:106251889" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
+<label key="key:620796505:54354734" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
 <label key="key:620796679:181298206" value="Рассеять Тьму: Вероятность частичного поглощения урона Тьмой."/>
 <label key="key:620796679:54354734" value="Повышенная вероятность поглощения урона Тьмой."/>
 <label key="key:620796685:181298206" value="Вероятность отразить часть урона на нападающего в форме урона огнем."/>
@@ -2550,4 +2600,10 @@
 <label key="key:620799667:54354734" value="Начинающий всадник"/>
 <label key="key:620799781:54354734" value="Из-под земли вырывается корень и отбрасывает вас ближе к противнику."/>
 <label key="key:620799982:181298206" value="Снимает с цели все виды неуязвимости"/>
+<label key="key:620800568:54354734" value="Damage dealt to the marked target is increased from all sources."/>
+<label key="key:620801140:181298206" value="Roots for up to 16s"/>
+<label key="key:620801145:54354734" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
+<label key="key:620801689:106251890" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
+<label key="key:620801689:54354734" value="You are immune to all negative combat states."/>
+<label key="key:620811020:54354734" value="Offensive skills are reset."/>
 </labels>

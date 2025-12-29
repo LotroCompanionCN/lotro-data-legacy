@@ -472,7 +472,7 @@
 <label key="1879060994" value="Opportuniste"/>
 <label key="1879060995" value="Truc : Contre-défense amélioré (Truc)"/>
 <label key="1879060997" value="Truc : Contre-défense"/>
-<label key="1879061009" value="Discrétion améliorée"/>
+<label key="1879061009" value="Improved Stealth"/>
 <label key="1879061013" value="Discrétion simple"/>
 <label key="1879061018" value="Fléau d'arc"/>
 <label key="1879061019" value="Truc : fureur (Truc)"/>
@@ -620,7 +620,7 @@
 <label key="1879072541" value="Racine de tir retardateur"/>
 <label key="1879072542" value="Immobilisation de flèche"/>
 <label key="1879072553" value="Mobilité"/>
-<label key="1879072564" value="Discrétion améliorée"/>
+<label key="1879072564" value="Improved Stealth"/>
 <label key="1879072566" value="Discrétion simple"/>
 <label key="1879072970" value="FX espoir 10"/>
 <label key="1879072971" value="FX espoir 9"/>
@@ -790,7 +790,6 @@
 <label key="1879073709" value="Cible mouvante"/>
 <label key="1879073731" value="Debout !"/>
 <label key="1879073732" value="Promotion sur le terrain"/>
-<label key="1879073746" value="Toiles d'immobilisation"/>
 <label key="1879073747" value="Emmêlement"/>
 <label key="1879073759" value="Attaque sur les blessés"/>
 <label key="1879073760" value="Handicap"/>
@@ -1003,9 +1002,11 @@
 <label key="1879084325" value="Bonus de nourriture"/>
 <label key="1879084326" value="Bonus de nourriture"/>
 <label key="1879084327" value="Bonus de nourriture"/>
+<label key="1879084328" value="Bonus de nourriture"/>
 <label key="1879084330" value="Bonus de nourriture"/>
 <label key="1879084331" value="Bonus de nourriture"/>
 <label key="1879084332" value="Bonus de nourriture"/>
+<label key="1879084333" value="Bonus de nourriture"/>
 <label key="1879084345" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879084346" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879084347" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
@@ -1611,11 +1612,38 @@
 <label key="1879097796" value="Flamme protectrice"/>
 <label key="1879097822" value="Loremaster Temporary Analyze Skill Effect"/>
 <label key="1879097823" value="Restauration gelée"/>
+<label key="1879097862" value="Get a Grip!"/>
+<label key="1879097864" value="Pack Hunters"/>
+<label key="1879097867" value="Blood of Fire"/>
+<label key="1879097869" value="Dying Rage"/>
+<label key="1879097870" value="Fury's Price"/>
+<label key="1879097872" value="Born of Shadow[e]"/>
+<label key="1879097875" value="Imposing Presence"/>
+<label key="1879097876" value="Born of Shadow"/>
+<label key="1879097877" value="Shadow Aura"/>
 <label key="1879097882" value="A l'attaque !"/>
 <label key="1879097886" value="Je te vois !"/>
 <label key="1879097897" value=".."/>
 <label key="1879097901" value="Couvée"/>
 <label key="1879097902" value="Toiles importantes"/>
+<label key="1879097956" value="Immunity"/>
+<label key="1879097959" value="Restored Health"/>
+<label key="1879097960" value="Increased Power"/>
+<label key="1879097961" value="Increased Power"/>
+<label key="1879097962" value="Increased Power"/>
+<label key="1879097963" value="Strengthened Hide"/>
+<label key="1879097964" value="Hardened Hide"/>
+<label key="1879097965" value="Troll-like Hide"/>
+<label key="1879097966" value="Quick Movements"/>
+<label key="1879097967" value="Fluid Movements"/>
+<label key="1879097968" value="Elusive Movements"/>
+<label key="1879097969" value="Speed of the Wolf"/>
+<label key="1879097970" value="Speed of the Warg"/>
+<label key="1879097971" value="Speed of the Pack"/>
+<label key="1879097972" value="Mazauk's Blessing"/>
+<label key="1879097973" value="Mazauk's Grace"/>
+<label key="1879097974" value="Gorgoris' Blessing"/>
+<label key="1879097975" value="Gorgoris' Grace"/>
 <label key="1879098038" value="Dispersion de l'ombre"/>
 <label key="1879098101" value="Fouet de feu"/>
 <label key="1879098108" value="Voltige"/>
@@ -1723,6 +1751,16 @@
 <label key="1879102276" value="Déclencher Etourdissement d’esprit spectral"/>
 <label key="1879102277" value="Gurthul Advanced Hint"/>
 <label key="1879102280" value="Cri du faucon"/>
+<label key="1879102518" value="Increased Morale"/>
+<label key="1879102519" value="Increased Morale"/>
+<label key="1879102520" value="Increased Morale"/>
+<label key="1879102521" value="Increased Power"/>
+<label key="1879102522" value="Increased Power"/>
+<label key="1879102523" value="Increased Power"/>
+<label key="1879103773" value="Induce Rooted"/>
+<label key="1879103782" value="Eyes of Unnerving"/>
+<label key="1879103966" value="Immunity"/>
+<label key="1879117443" value="Dying Rage"/>
 <label key="key:620757391:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
 <label key="key:620757393:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
 <label key="key:620757396:181298206" value="Porté : vos attaques automatiques sont 5% plus difficiles à bloquer."/>
@@ -1919,7 +1957,8 @@
 <label key="key:620765988:54354734" value="Un Truc par cambrioleur uniquement."/>
 <label key="key:620765990:106251889" value="Réduit la parade, le blocage et l'esquive de ${PERCENTVALUE}"/>
 <label key="key:620765990:54354734" value="Un Truc par cambrioleur uniquement."/>
-<label key="key:620766001:106251890" value="Les dégâts subis ne perturbent pas votre discrétion."/>
+<label key="key:620766001:106251889" value="Briefly undetectable in stealth"/>
+<label key="key:620766001:106251890" value="Your stealth is not broken by damage."/>
 <label key="key:620766010:106251890" value="La cible attaque les ennemis au hasard"/>
 <label key="key:620766010:54354734" value="Un Truc par cambrioleur uniquement."/>
 <label key="key:620766054:54354734" value="La pierre elfique scintille."/>
@@ -1958,7 +1997,8 @@
 <label key="key:620774682:106251889" value="Ralentit les mouvements de 25%"/>
 <label key="key:620774682:54354734" value="La taille du faucheur ouvre la jambe de la cible, ce qui ralentit son mouvement."/>
 <label key="key:620774701:106251889" value="Ne peut pas être attaqué."/>
-<label key="key:620774765:106251890" value="Les dégâts subis ne perturbent pas votre discrétion."/>
+<label key="key:620774765:106251889" value="Briefly undetectable in stealth"/>
+<label key="key:620774765:106251890" value="Your stealth is not broken by damage."/>
 <label key="key:620774792:106251889" value="Impossible de bouger."/>
 <label key="key:620774792:54354734" value="La flèche de l'Ourouk-haï vous empêche de bouger."/>
 <label key="key:620774799:106251889" value="Vitesse de déplacement réduite."/>
@@ -2033,7 +2073,6 @@
 <label key="key:620775400:106251889" value="Ralentit la vitesse de déplacement de 40%"/>
 <label key="key:620775403:106251890" value="Vous confère un ${PERCENTVALUE} de chances supplémentaires d'éviter les attaques à distance."/>
 <label key="key:620775412:54354734" value="Presque invulnérable aux dégâts."/>
-<label key="key:620775421:54354734" value="Immobilisé sur place par une toile d'araignée."/>
 <label key="key:620775431:106251889" value="Ralentit les mouvements de 25%"/>
 <label key="key:620775766:54354734" value=":La morsure infectieuse du sanglier vous a #-1{contaminé[m]|contaminée[f]}."/>
 <label key="key:620775797:54354734" value="La cible de cet effet ne peut plus passer en discrétion."/>
@@ -2500,12 +2539,23 @@
 <label key="key:620796400:54354734" value="Réduit la limitation des dégâts de feu. Cet effect est cumulable."/>
 <label key="key:620796401:54354734" value="Un feu tourbillonnant répond à chaque attaque et protège le personnage en son sein."/>
 <label key="key:620796415:54354734" value="Les morts gelés regagnent rapidement leur Moral lorsqu'ils sont sous cet effet."/>
+<label key="key:620796452:181298206" value="Damages attackers."/>
+<label key="key:620796452:54354734" value="Attackers beware the fury of the orcs. It burns so deeply that those attacking the orc will feel the wrath of the orc's blood."/>
+<label key="key:620796455:106251893" value="You become immune to Stun, Daze, Knockdown and Fear effects for the duration of this skill."/>
+<label key="key:620796455:54354734" value="Fury overwhlems you and you spend the last vestige of your battlefury to conquer your enemies."/>
+<label key="key:620796456:54354734" value="Unleashing the rage within you comes with a hefty price."/>
+<label key="key:620796464:54354734" value="Your presence inspires those beneath you."/>
+<label key="key:620796465:54354734" value="Light is swallowed by the spider's tie to darkness and shadow."/>
+<label key="key:620796466:181298206" value="Damages attackers."/>
+<label key="key:620796466:54354734" value="Attackers will soon learn that your tie to the shadow gives you great strength."/>
 <label key="key:620796470:106251890" value="Lorsque vous chargez, vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} contre tous les états de combat."/>
 <label key="key:620796470:54354734" value="Le fait de vous lancer dans le combat vous permet de bénéficier d'une vitesse de course plus importante et d'une immunité contre racine, hébètement et paralysie."/>
 <label key="key:620796474:54354734" value="Augmente votre détection de discrétion."/>
 <label key="key:620796482:54354734" value=".."/>
 <label key="key:620796491:106251889" value="Ralentit les mouvements de 40%"/>
 <label key="key:620796491:54354734" value="Ralenti par les toiles d'araignée."/>
+<label key="key:620796505:106251889" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
+<label key="key:620796505:54354734" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
 <label key="key:620796679:181298206" value="Dispersion de l'ombre : vous avez une chance d'absorber une partie des dégâts d'ombre que vous recevez."/>
 <label key="key:620796679:54354734" value="Chance accrue d'absorber des dégâts de type ombre que vous recevez."/>
 <label key="key:620796685:181298206" value="Vous avez une chance de renvoyer une partie des dégâts à l'attaquant sous forme de dégâts de type feu."/>
@@ -2550,4 +2600,10 @@
 <label key="key:620799667:54354734" value="Novice en équitation"/>
 <label key="key:620799781:54354734" value="Une racine jaillit du sol et vous envoie vers la source de l’attaque."/>
 <label key="key:620799982:181298206" value="Quitte tous les états d’immunité"/>
+<label key="key:620800568:54354734" value="Damage dealt to the marked target is increased from all sources."/>
+<label key="key:620801140:181298206" value="Roots for up to 16s"/>
+<label key="key:620801145:54354734" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
+<label key="key:620801689:106251890" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
+<label key="key:620801689:54354734" value="You are immune to all negative combat states."/>
+<label key="key:620811020:54354734" value="Offensive skills are reset."/>
 </labels>

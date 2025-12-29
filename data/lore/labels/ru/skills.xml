@@ -1293,6 +1293,14 @@
 <label key="1879097785" value="Призыв ящера"/>
 <label key="1879097826" value="Огненный шар"/>
 <label key="1879097828" value="Взрывное пламя"/>
+<label key="1879097861" value="Get a Grip!"/>
+<label key="1879097863" value="Pack Hunters"/>
+<label key="1879097865" value="Eyes of Unnerving"/>
+<label key="1879097866" value="Blood of Fire"/>
+<label key="1879097868" value="Dying Rage"/>
+<label key="1879097871" value="Born of Shadow"/>
+<label key="1879097873" value="Shelob's Gift"/>
+<label key="1879097874" value="Imposing Presence"/>
 <label key="1879097878" value="Вырванное сухожилие"/>
 <label key="1879097879" value="Выцарапать глаза"/>
 <label key="1879097880" value="В атаку!"/>
@@ -1359,6 +1367,7 @@
 <label key="1879102223" value="Гроза хранителей мудрости"/>
 <label key="1879102224" value="Возмездие Гуртула"/>
 <label key="1879102439" value="Последний бросок"/>
+<label key="1879102630" value="Super Heal"/>
 <label key="key:620757890:228830419" value="Разновидность скрытности, позволяющая передвигаться быстрее."/>
 <label key="key:620759186:228830419" value="Нанеся \qДвойной удар\q, вы получаете возможность провести против врага две дополнительных мощных атаки."/>
 <label key="key:620759211:228830419" value="Нанеся врагу \qДвойной удар\q, вы проводите новую мощную атаку с вероятностью на 6 секунд оглушить противника и открыть возможность для комбо-приема."/>
@@ -1938,6 +1947,14 @@
 <label key="key:620795938:228830419" value="Знание языка белок позволяет вам подозвать к себе симпатичную белочку, чтобы на душе стало немного теплее."/>
 <label key="key:620795997:228830419" value="Знание языка черепах позволяет вам подозвать к себе симпатичную черепашку, чтобы на душе стало немного теплее."/>
 <label key="key:620796000:228830419" value="Умелый хранитель мудрости способен вернуть в строй павшего соратника с помощью пучка душистых трав."/>
+<label key="key:620796444:228830419" value="As an Uruk you are adept at whipping those lesser beasts in Sauron's army back into shape."/>
+<label key="key:620796447:228830419" value="Wargs are pack hunters. You can target a foe and increase the damage dealt by all members of your war party."/>
+<label key="key:620796449:228830419" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
+<label key="key:620796451:228830419" value="Rage seething beneath the surface of your flesh takes on a physical manifestation and any daring to attack you will feel the wrath of the orcs!"/>
+<label key="key:620796454:228830419" value="When death nears, you gain the ability to call on the power of your blood and become a powerful force of destruction before your flame is extinguished. Most offensive skills are reset when this skill is activated."/>
+<label key="key:620796458:228830419" value="Your heritage extends to the fabric of shadow and you harness a piece of that black energy to damage foes who trespass near you."/>
+<label key="key:620796461:228830419" value="Your ancestry affords you incredible powers of recovery. After successfully defeating an opponent you can immediately drain them of vitality and restore your health."/>
+<label key="key:620796463:228830419" value="Your presence inspires those around you to greater strength; mostly through fear."/>
 <label key="key:620796467:228830419" value="Ваши зубы вонзаются в плоть врага и вырывают сухожилие, открывая возможность комбо-приема."/>
 <label key="key:620796468:228830419" value="Быстрый сильный удар, нацеленный в глаза врага и сбивающий его концентрацию."/>
 <label key="key:620796469:228830419" value="Когда наступает время битвы, идти на прорыв выпадает оркам. Вы ненадолго обретаете неуязвимость к обездвиживанию, оглушению и ошеломлению. Ваша скорость временно увеличивается."/>

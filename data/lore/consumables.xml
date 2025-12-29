@@ -927,6 +927,138 @@
 <consumable identifier="1879097063" name="Torchathol">
 <stat name="HOPE" descriptionOverride="-" constant="1.0"/>
 </consumable>
+<consumable identifier="1879097907" name="Steamed Leg of Man">
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
+</consumable>
+<consumable identifier="1879097908" name="Charred and Crusty Leg of Man">
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
+</consumable>
+<consumable identifier="1879097909" name="Marinated Leg of Man">
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
+</consumable>
+<consumable identifier="1879097913" name="Bowl of Gukthor's Stew">
+<stat name="OCMR" constant="450.0"/>
+<stat name="OCPR" constant="90.0"/>
+</consumable>
+<consumable identifier="1879097914" name="Bowl of Gukthor's Seasoned Gruel">
+<stat name="OCMR" constant="1080.0"/>
+<stat name="OCPR" constant="225.0"/>
+</consumable>
+<consumable identifier="1879097915" name="Bowl of Gukthor's Gruel Surprise">
+<stat name="OCMR" constant="1500.0"/>
+<stat name="OCPR" constant="360.0"/>
+</consumable>
+<consumable identifier="1879097916" name="Elf Ear Chew">
+<stat name="OCMR" constant="2166.0"/>
+<stat name="OCPR" constant="2580.0"/>
+</consumable>
+<consumable identifier="1879097917" name="Charred Elf Ear Chew">
+<stat name="OCMR" constant="3707.0"/>
+<stat name="OCPR" constant="2838.0"/>
+</consumable>
+<consumable identifier="1879097918" name="Dried Elf Ear Jerky">
+<stat name="OCMR" constant="3707.0"/>
+<stat name="OCPR" constant="2838.0"/>
+</consumable>
+<consumable identifier="1879097919" name="Seasoned Toes">
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
+</consumable>
+<consumable identifier="1879097920" name="Boiled Little Folk Toes">
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
+</consumable>
+<consumable identifier="1879097921" name="Grothum's Own Little Folk Toes">
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
+</consumable>
+<consumable identifier="1879097922" name="Aged Blood of the Stone Folk">
+<stat name="Combat_Agent_Armor_Value" constant="50.0"/>
+</consumable>
+<consumable identifier="1879097923" name="Blood of the Stone Folk">
+<stat name="Combat_Agent_Armor_Value" constant="100.0"/>
+</consumable>
+<consumable identifier="1879097924" name="Fresh Blood of the Stone Folk">
+<stat name="Combat_Agent_Armor_Value" constant="150.0"/>
+</consumable>
+<consumable identifier="1879097925" name="Aged Blood of the Little Folk">
+<stat name="EVADE_PERCENTAGE" constant="0.5"/>
+</consumable>
+<consumable identifier="1879097926" name="Blood of the Little Folk">
+<stat name="EVADE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879097927" name="Fresh Blood of the Little Folk">
+<stat name="EVADE_PERCENTAGE" constant="1.5"/>
+</consumable>
+<consumable identifier="1879097934" name="Draught of Troll Bile">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.1"/>
+</consumable>
+<consumable identifier="1879097935" name="Draught of War-tyrant Spittle">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.15"/>
+</consumable>
+<consumable identifier="1879097936" name="Draught of Mordirith's Ire">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.2"/>
+</consumable>
+<consumable identifier="1879097937" name="Phial of Mazauk's Saliva">
+<stat name="Resist_Additional_Resistance_Fear" constant="0.5"/>
+</consumable>
+<consumable identifier="1879097938" name="Phial of Mazauk's Blood">
+<stat name="Resist_Additional_Resistance_Fear" constant="2.5"/>
+</consumable>
+<consumable identifier="1879097939" name="Phial of Gorgoris' Bile">
+<stat name="Resist_Additional_Resistance_Poison" constant="0.5"/>
+</consumable>
+<consumable identifier="1879097940" name="Phial of Gorgoris' Blood">
+<stat name="Resist_Additional_Resistance_Poison" constant="2.5"/>
+</consumable>
+<consumable identifier="1879097941" name="Akúlhun's Brand of the Tracker">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097942" name="Akúlhun's Brand of the Lieutenant">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097943" name="Akúlhun's Brand of the Commander">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097944" name="Akúlhun's Brand of the Chieftain">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097945" name="Akúlhun's Brand of the High Chieftain">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097946" name="Akúlhun's Brand of the Overlord">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097947" name="Akúlhun's Brand of the Tyrant">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097948" name="Akúlhun's Brand of the Scout">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097949" name="Akúlhun's Brand of the Skirmisher">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097950" name="Akúlhun's Brand of the Fighter">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097951" name="Akúlhun's Brand of the Soldier">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097952" name="Akúlhun's Brand of the Sentry">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097953" name="Akúlhun's Brand of the Chief Guard">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097954" name="Akúlhun's Brand of the Chief Warrior">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
+<consumable identifier="1879097955" name="Akúlhun's Brand of the Taskmaster">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</consumable>
 <consumable identifier="1879098878" name="Pumpkin Ale">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>

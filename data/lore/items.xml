@@ -90915,7 +90915,7 @@
 <item key="1879091379" name="Adamant Shard" pluralName="key:620792444:98907573" icon="1090641795-1090519043-1090640816" level="35" category="ITEM" class="47" quality="RARE" description="key:620792444:54354734" valueTableId="1879052084" stackMax="10">
 <stats/>
 </item>
-<item key="1879091391" name="Physical Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" description="key:620792467:54354734" valueTableId="1879091532">
+<item key="1879091391" name="Song Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072517" description="key:620792467:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091366"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
@@ -90950,27 +90950,27 @@
 <grants type="TRAIT" id="1879091356"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091398" name="Common Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072514" description="key:620792458:54354734" valueTableId="1879091532">
+<item key="1879091398" name="Ancient Dwarf Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072514" description="key:620792458:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091357"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091399" name="Fire Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="3" requiredTrait="1879072515" description="key:620792459:54354734" valueTableId="1879091532">
+<item key="1879091399" name="Beleriand Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="3" requiredTrait="1879072515" description="key:620792459:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091358"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091400" name="Light Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="3" requiredTrait="1879072511" description="key:620792460:54354734" valueTableId="1879091532">
+<item key="1879091400" name="Common Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="3" requiredTrait="1879072511" description="key:620792460:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091359"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091401" name="Ancient Dwarf Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="2" requiredTrait="1879072512" description="key:620792461:54354734" valueTableId="1879091532">
+<item key="1879091401" name="Fire Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="2" requiredTrait="1879072512" description="key:620792461:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091360"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091402" name="Beleriand Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="2" requiredTrait="1879072513" description="key:620792462:54354734" valueTableId="1879091532">
+<item key="1879091402" name="Light Mitigation Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="2" requiredTrait="1879072513" description="key:620792462:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091361"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
@@ -90980,17 +90980,17 @@
 <grants type="TRAIT" id="1879091362"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091404" name="Song Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072518" description="key:620792464:54354734" valueTableId="1879091532">
+<item key="1879091404" name="Cry Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072518" description="key:620792464:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091363"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091405" name="Cry Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072519" description="key:620792465:54354734" valueTableId="1879091532">
+<item key="1879091405" name="Tactical Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072519" description="key:620792465:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091364"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
-<item key="1879091406" name="Magic Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072520" description="key:620792466:54354734" valueTableId="1879091532">
+<item key="1879091406" name="Physical Resistance Boost (Rank 2)" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="4" requiredTrait="1879072520" description="key:620792466:54354734" valueTableId="1879091532">
 <stats/>
 <grants type="TRAIT" id="1879091365"/>
 <effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
@@ -91204,7 +91204,7 @@
 <stat name="ARMOUR" scaling="1879055459"/>
 </stats>
 </item>
-<item key="1879091500" name="Shield of the West-tower" icon="1090523247-1090519044-1090523248-1090523249" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_EQUIP" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050497" armourType="HEAVY_SHIELD">
+<item key="1879091500" name="Shield of the West-tower" icon="1090523247-1090519044-1090523248-1090523249" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_ACQUIRE" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" valueTableId="1879050497" armourType="HEAVY_SHIELD">
 <stats>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="ICPR" scaling="1879053130"/>
@@ -94795,13 +94795,13 @@
 <item key="1879095694" name="Large Ornate Lever" icon="0-1090519041" category="ITEM" class="53">
 <stats/>
 </item>
-<item key="1879095717" name="Dull Spirit Stone" pluralName="key:620795521:98907573" icon="1090531809-1091388958" level="50" category="ITEM" class="47" quality="UNCOMMON" description="key:620795521:54354734" valueTableId="1879052015" stackMax="50">
+<item key="1879095717" name="Dull Spirit Stone" pluralName="key:620795521:98907573" icon="1091426057-1091388958" level="50" category="ITEM" class="47" quality="UNCOMMON" description="key:620795521:54354734" valueTableId="1879049581" stackMax="50">
 <stats/>
 </item>
-<item key="1879095718" name="Glimmering Spirit Sone" pluralName="key:620795522:98907573" icon="1090531809-1091388958" level="50" category="ITEM" class="47" quality="RARE" description="key:620795522:54354734" valueTableId="1879052015" stackMax="50">
+<item key="1879095718" name="Glimmering Spirit Sone" pluralName="key:620795522:98907573" icon="1091426053-1091388958" level="50" category="ITEM" class="47" quality="RARE" description="key:620795522:54354734" valueTableId="1879049581" stackMax="50">
 <stats/>
 </item>
-<item key="1879095719" name="Luminous Spirit Stone" pluralName="key:620795523:98907573" icon="1090531809-1091388958" level="50" category="ITEM" class="47" quality="RARE" description="key:620795523:54354734" valueTableId="1879052015" stackMax="50">
+<item key="1879095719" name="Luminous Spirit Stone" pluralName="key:620795523:98907573" icon="1091426055-1091388958" level="50" category="ITEM" class="47" quality="INCOMPARABLE" description="key:620795523:54354734" valueTableId="1879049581" stackMax="50">
 <stats/>
 </item>
 <item key="1879095733" name="Blackened Mammoth Hoof" pluralName="key:620795542:98907573" icon="1090553056-1090531524" level="13" category="ITEM" class="47" quality="COMMON" description="key:620795542:54354734" valueTableId="1879055073" stackMax="10">
@@ -98081,6 +98081,421 @@
 </item>
 <item key="1879097824" name="Door" icon="0-1090519041" category="ITEM" class="53">
 <stats/>
+</item>
+<item key="1879097903" name="Vial of Gundzor's Breath" pluralName="key:620796531:98907573" icon="1090526136-1090519042-1090526137" level="48" category="ITEM" class="28" quality="UNCOMMON" minLevel="50" requiredGloryRank="1" description="key:620796531:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="68"/>
+<effect type="ON_USE" id="1879085778" name="Exit Dazed and Stunned"/>
+</item>
+<item key="1879097904" name="Phial of Mazauk's Resolve" pluralName="key:620796533:98907573" icon="1091428830-1090519043-1091428831" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="1" description="key:620796533:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879050501" name="Remove Fear"/>
+</item>
+<item key="1879097905" name="Phial of Gorgoris' Kiss" pluralName="key:620796535:98907573" icon="1091428833-1090519043-1091428834" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="1" description="key:620796535:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879050499" name="Remove Poison"/>
+</item>
+<item key="1879097906" name="Vial of Bûrzgoth's Strength" pluralName="key:620796537:98907573" icon="1090526132-1090519042-1090526133" level="48" category="ITEM" class="28" quality="UNCOMMON" minLevel="50" requiredGloryRank="1" description="key:620796537:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="69"/>
+<effect type="ON_USE" id="1879085777" name="Exit Rooted"/>
+</item>
+<item key="1879097907" name="Steamed Leg of Man" pluralName="key:620796539:98907573" icon="1091417910-1090519041-1091417911" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="10" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084346" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084328" name="Food Bonus" spellcraft="45.0"/>
+<effect type="ON_USE" id="1879084333" name="Food Bonus" spellcraft="45.0"/>
+</item>
+<item key="1879097908" name="Charred and Crusty Leg of Man" pluralName="key:620796541:98907573" icon="1091417913-1090519041-1091417914" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="11" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084346" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084328" name="Food Bonus" spellcraft="47.0"/>
+<effect type="ON_USE" id="1879084333" name="Food Bonus" spellcraft="47.0"/>
+</item>
+<item key="1879097909" name="Marinated Leg of Man" pluralName="key:620796542:98907573" icon="1091417916-1090519041-1091417917" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="12" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084346" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084328" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084333" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097913" name="Bowl of Gukthor's Stew" pluralName="key:620796547:98907573" icon="1090522690-1090519041-1090522691" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="1" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084487" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084325" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084330" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097914" name="Bowl of Gukthor's Seasoned Gruel" pluralName="key:620796548:98907573" icon="1091417886-1090519041-1091417887" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="2" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084488" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084325" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084330" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097915" name="Bowl of Gukthor's Gruel Surprise" pluralName="key:620796549:98907573" icon="1091417889-1090519041-1091417890" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="3" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084489" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084325" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084330" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097916" name="Elf Ear Chew" pluralName="key:620796551:98907573" icon="1091417892-1090519041-1091417893" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="4" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879049658" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084325" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084330" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097917" name="Charred Elf Ear Chew" pluralName="key:620796553:98907573" icon="1091417895-1090519041-1091417896" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="5" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879054316" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084326" name="Food Bonus" spellcraft="47.0"/>
+<effect type="ON_USE" id="1879084331" name="Food Bonus" spellcraft="47.0"/>
+</item>
+<item key="1879097918" name="Dried Elf Ear Jerky" pluralName="key:620796555:98907573" icon="1091417898-1090519041-1091417899" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="6" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879054316" name="Full" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084326" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084331" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097919" name="Seasoned Toes" pluralName="key:620796557:98907573" icon="1091417901-1090519041-1091417902" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="7" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084346" name="Full" spellcraft="45.0"/>
+<effect type="ON_USE" id="1879084327" name="Food Bonus" spellcraft="45.0"/>
+<effect type="ON_USE" id="1879084332" name="Food Bonus" spellcraft="45.0"/>
+</item>
+<item key="1879097920" name="Boiled Little Folk Toes" pluralName="key:620796559:98907573" icon="1091417904-1090519041-1091417905" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="8" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084346" name="Full" spellcraft="45.0"/>
+<effect type="ON_USE" id="1879084327" name="Food Bonus" spellcraft="47.0"/>
+<effect type="ON_USE" id="1879059499" spellcraft="47.0"/>
+</item>
+<item key="1879097921" name="Grothum's Own Little Folk Toes" pluralName="key:620796561:98907573" icon="1091417907-1090519041-1091417908" level="40" category="ITEM" class="55" quality="COMMON" minLevel="50" requiredGloryRank="9" valueTableId="1879049656" stackMax="20">
+<stats/>
+<cooldown duration="300.0" channelID="60"/>
+<effect type="ON_USE" id="1879084346" name="Full" spellcraft="45.0"/>
+<effect type="ON_USE" id="1879084327" name="Food Bonus" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879084332" name="Food Bonus" spellcraft="50.0"/>
+</item>
+<item key="1879097922" name="Aged Blood of the Stone Folk" pluralName="key:620796562:98907573" icon="1091417984-1090519043-1091417985" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="1" description="key:620796562:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097963" name="Strengthened Hide"/>
+</item>
+<item key="1879097923" name="Blood of the Stone Folk" pluralName="key:620796563:98907573" icon="1091417987-1090519043-1091417988" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="3" description="key:620796563:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097964" name="Hardened Hide"/>
+</item>
+<item key="1879097924" name="Fresh Blood of the Stone Folk" pluralName="key:620796564:98907573" icon="1091417990-1090519043-1091417991" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="6" description="key:620796564:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097965" name="Troll-like Hide"/>
+</item>
+<item key="1879097925" name="Aged Blood of the Little Folk" pluralName="key:620796565:98907573" icon="1091417993-1090519043-1091417994" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="1" description="key:620796565:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097966" name="Quick Movements"/>
+</item>
+<item key="1879097926" name="Blood of the Little Folk" pluralName="key:620796566:98907573" icon="1091417996-1090519043-1091417997" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="3" description="key:620796566:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097967" name="Fluid Movements"/>
+</item>
+<item key="1879097927" name="Fresh Blood of the Little Folk" pluralName="key:620796567:98907573" icon="1091417999-1090519043-1091418000" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="6" description="key:620796567:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097968" name="Elusive Movements"/>
+</item>
+<item key="1879097928" name="Aged Blood of Man" pluralName="key:620796568:98907573" icon="1091417960-1090519043-1091417961" level="48" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="3" description="key:620796568:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="120.0" channelID="7"/>
+<effect type="ON_USE" id="1879097957" spellcraft="50.0"/>
+</item>
+<item key="1879097929" name="Blood of Man" pluralName="key:620796494:98907573" icon="1091417963-1090519043-1091417964" level="48" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="7" description="key:620796494:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="120.0" channelID="7"/>
+<effect type="ON_USE" id="1879097958" spellcraft="50.0"/>
+</item>
+<item key="1879097930" name="Fresh Blood of Man" pluralName="key:620796498:98907573" icon="1091417963-1090519043-1091417964" level="48" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="9" description="key:620796498:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="120.0" channelID="7"/>
+<effect type="ON_USE" id="1879097959" name="Restored Health" spellcraft="50.0"/>
+</item>
+<item key="1879097931" name="Aged Blood of the Fair Folk" pluralName="key:620796502:98907573" icon="1091417966-1090519043-1091417967" level="48" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="3" description="key:620796502:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="120.0" channelID="9"/>
+<effect type="ON_USE" id="1879097960" name="Increased Power" spellcraft="50.0"/>
+</item>
+<item key="1879097932" name="Blood of the Fair Folk" pluralName="key:620796506:98907573" icon="1091417969-1090519043-1091417970" level="48" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="7" description="key:620796506:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="120.0" channelID="9"/>
+<effect type="ON_USE" id="1879097961" name="Increased Power" spellcraft="50.0"/>
+</item>
+<item key="1879097933" name="Fresh Blood of the Fair Folk" pluralName="key:620796508:98907573" icon="1091417969-1090519043-1091417970" level="48" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="9" description="key:620796508:54354734" valueTableId="1879052135" stackMax="20">
+<stats/>
+<cooldown duration="120.0" channelID="9"/>
+<effect type="ON_USE" id="1879097962" name="Increased Power" spellcraft="50.0"/>
+</item>
+<item key="1879097934" name="Draught of Troll Bile" pluralName="key:620796510:98907573" icon="1091418002-1090519043-1091418003" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" description="key:620796510:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097969" name="Speed of the Wolf"/>
+</item>
+<item key="1879097935" name="Draught of War-tyrant Spittle" pluralName="key:620796511:98907573" icon="1091418005-1090519043-1091418006" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="2" description="key:620796511:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097970" name="Speed of the Warg"/>
+</item>
+<item key="1879097936" name="Draught of Mordirith's Ire" pluralName="key:620796512:98907573" icon="1091418008-1090519043-1091418009" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" requiredGloryRank="4" description="key:620796512:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097971" name="Speed of the Pack"/>
+</item>
+<item key="1879097937" name="Phial of Mazauk's Saliva" pluralName="key:620796513:98907573" icon="1091417972-1090519043-1091417973" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" description="key:620796513:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097972" name="Mazauk's Blessing"/>
+</item>
+<item key="1879097938" name="Phial of Mazauk's Blood" pluralName="key:620796515:98907573" icon="1091417975-1090519043-1091417976" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" description="key:620796515:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097973" name="Mazauk's Grace"/>
+</item>
+<item key="1879097939" name="Phial of Gorgoris' Bile" pluralName="key:620796517:98907573" icon="1091417978-1090519043-1091417979" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" description="key:620796517:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097974" name="Gorgoris' Blessing"/>
+</item>
+<item key="1879097940" name="Phial of Gorgoris' Blood" pluralName="key:620796519:98907573" icon="1091417981-1090519043-1091417982" level="45" category="ITEM" class="28" quality="RARE" minLevel="50" description="key:620796519:54354734" valueTableId="1879052135" stackMax="10">
+<stats/>
+<cooldown duration="60.0" channelID="63"/>
+<effect type="ON_USE" id="1879097975" name="Gorgoris' Grace"/>
+</item>
+<item key="1879097941" name="Akúlhun's Brand of the Tracker" pluralName="key:620796521:98907573" icon="1091417919-1090519043-1091417920" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="1" description="key:620796521:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="14400.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097942" name="Akúlhun's Brand of the Lieutenant" pluralName="key:620796522:98907573" icon="1091417946-1090519043-1091417947" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="10" description="key:620796522:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="1800.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097943" name="Akúlhun's Brand of the Commander" pluralName="key:620796523:98907573" icon="1091417949-1090519043-1091417950" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="11" description="key:620796523:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="1500.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097944" name="Akúlhun's Brand of the Chieftain" pluralName="key:620796524:98907573" icon="1091417952-1090519043-1091417953" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="12" description="key:620796524:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="1200.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097945" name="Akúlhun's Brand of the High Chieftain" pluralName="key:620796525:98907573" icon="1091424178-1090519043-1091424179" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="13" description="key:620796525:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="900.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097946" name="Akúlhun's Brand of the Overlord" pluralName="key:620796526:98907573" icon="1091424181-1090519043-1091424182" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="14" description="key:620796526:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="600.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097947" name="Akúlhun's Brand of the Tyrant" pluralName="key:620796527:98907573" icon="1091424184-1090519043-1091424185" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="15" description="key:620796527:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="600.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+<effect type="ON_USE" id="1879072527" name="Exit All Harmful States"/>
+</item>
+<item key="1879097948" name="Akúlhun's Brand of the Scout" pluralName="key:620796528:98907573" icon="1091417922-1090519043-1091417923" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="2" description="key:620796528:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="10800.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097949" name="Akúlhun's Brand of the Skirmisher" pluralName="key:620796529:98907573" icon="1091417925-1090519043-1091417926" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="3" description="key:620796529:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="7200.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097950" name="Akúlhun's Brand of the Fighter" pluralName="key:620796530:98907573" icon="1091417928-1090519043-1091417929" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="4" description="key:620796530:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="3600.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097951" name="Akúlhun's Brand of the Soldier" pluralName="key:620796532:98907573" icon="1091417931-1090519043-1091417932" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="5" description="key:620796532:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="3300.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097952" name="Akúlhun's Brand of the Sentry" pluralName="key:620796534:98907573" icon="1091417934-1090519043-1091417935" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="6" description="key:620796534:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="3000.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097953" name="Akúlhun's Brand of the Chief Guard" pluralName="key:620796536:98907573" icon="1091417937-1090519043-1091417938" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="7" description="key:620796536:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="2700.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097954" name="Akúlhun's Brand of the Chief Warrior" pluralName="key:620796538:98907573" icon="1091417940-1090519043-1091417941" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="8" description="key:620796538:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="2400.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097955" name="Akúlhun's Brand of the Taskmaster" pluralName="key:620796540:98907573" icon="1091417943-1090519043-1091417944" level="50" category="ITEM" class="37" binding="BIND_ON_ACQUIRE" unique="true" quality="RARE" minLevel="50" requiredGloryRank="9" description="key:620796540:54354734" valueTableId="1879052135">
+<stats/>
+<cooldown duration="2100.0" channelID="165"/>
+<effect type="ON_USE" id="1879097956" name="Immunity" spellcraft="14.0"/>
+</item>
+<item key="1879097980" name="Racial Trait: Front-line Fodder" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="5" description="key:620796574:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097831"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097981" name="Racial Trait: Rage of the Misbegotten" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="7" description="key:620796575:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097832"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097982" name="Racial Trait: Warrior Against the Deep" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="8" description="key:620796576:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097833"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097983" name="Racial Trait: Tireless Warrior" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="11" description="key:620796577:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097834"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097984" name="Racial Trait: Flayer of Flesh" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="10" description="key:620796578:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097835"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097985" name="Racial Trait: Eight-legged Foe" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="5" description="key:620796581:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097836"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097986" name="Racial Trait: Swallower of Light" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="7" description="key:620796582:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097837"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097987" name="Racial Trait: Ancient as the Stars" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="8" description="key:620796583:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097838"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097988" name="Racial Trait: Enemy of the First Children" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="10" description="key:620796584:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097839"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097989" name="Racial Trait: Drinker of Blood" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="11" description="key:620796585:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097840"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097990" name="Racial Trait: New Breed" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="5" description="key:620796588:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097841"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097991" name="Racial Trait: Leaders of the Orcs" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="7" description="key:620796589:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097842"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097992" name="Racial Trait: Favoured Servant of the Dark" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="8" description="key:620796590:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097843"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097993" name="Racial Trait: Tireless Warrior" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="11" description="key:620796591:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097844"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097994" name="Racial Trait: Brutal Persuasion" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="10" description="key:620796592:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097845"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097995" name="Racial Trait: Four-legged Foe" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="5" description="key:620796595:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097846"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097996" name="Racial Trait: Pack Mentality" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="7" description="key:620796596:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097847"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097997" name="Racial Trait: Pack Elder" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="8" description="key:620796597:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097848"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097998" name="Racial Trait: Foe of the Light" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="10" description="key:620796598:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097849"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879097999" name="Racial Trait: Pack Alpha" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="11" description="key:620796599:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097850"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098000" name="Racial Skill: Blood of Fire" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="6" description="key:620796579:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097853"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098001" name="Racial Skill:  Undying Rage" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="9" description="key:620796580:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097854"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098002" name="Racial Skill:  Born of Shadow" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="6" description="key:620796586:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097855"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098003" name="Racial Skill:  Shelob's Gift" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="9" description="key:620796587:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097856"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098004" name="Racial Skill:  Imposing Presence" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="6" description="key:620796593:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097857"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098005" name="Racial Skill:  Get a Grip!" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="9" description="key:620796594:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097858"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098006" name="Racial Skill: Pack Hunters" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="6" description="key:620796600:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097859"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
+</item>
+<item key="1879098007" name="Racial Skill: Eyes of Unnerving" icon="1090531744-1090519041-1090531745" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" requiredGloryRank="9" description="key:620796601:54354734" valueTableId="1879091532">
+<stats/>
+<grants type="TRAIT" id="1879097860"/>
+<effect type="ON_USE" id="1879091322" name="GrantTraitEffect"/>
 </item>
 <item key="1879098039" name="Defender's Axe" icon="1090528326-1090519043-1090528327-1090528328" level="22" slot="EITHER_HAND" category="WEAPON" class="12" equipmentCategory="24" binding="BIND_ON_ACQUIRE" durability="100" sturdiness="TOUGH" quality="RARE" minLevel="20" description="key:620796617:54354734" valueTableId="1879049944" dps="12.290625" dpsTableId="1879049778" minDamage="24" maxDamage="35" damageType="COMMON" weaponType="ONE_HANDED_AXE" speed="1">
 <stats>
@@ -108149,6 +108564,726 @@
 <item key="1879102292" name="Strange Chicken Nest" pluralName="key:620800012:98907573" icon="1090522701-1090519041-1090522702" level="19" category="ITEM" class="53" quality="COMMON" description="key:620800012:54354734" valueTableId="1879052135">
 <stats/>
 <effect type="ON_USE" id="1879102252" name="Chicken Travel - Evendim"/>
+</item>
+<item key="1879102463" name="Feldskyn Gloves" icon="1090520031-1090519044-1090520032-1090526862" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="7" description="key:620800173:54354734" valueTableId="1879049295" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="ICMR" scaling="1879051157"/>
+<stat name="ARMOUR" scaling="1879055736"/>
+</stats>
+</item>
+<item key="1879102464" name="Feldskyn Shoes" icon="1090524300-1090519044-1090524301-1090524361" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="6" description="key:620800174:54354734" valueTableId="1879050219" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="POWER" scaling="1879051152"/>
+<stat name="ARMOUR" scaling="1879055744"/>
+</stats>
+</item>
+<item key="1879102465" name="Feldskyn Leggings" icon="1090523823-1090519044-1090523825-1090523824" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="3" description="key:620800175:54354734" valueTableId="1879050117" armourType="LIGHT">
+<stats>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="POWER" scaling="1879051152"/>
+<stat name="ICMR" scaling="1879051210"/>
+<stat name="ARMOUR" scaling="1879055752"/>
+</stats>
+</item>
+<item key="1879102466" name="Feldskyn Guard" icon="1090527513-1090519044-1090527515-1090526926" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="2" description="key:620800176:54354734" valueTableId="1879050690" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049917"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="ARMOUR" scaling="1879055740"/>
+</stats>
+</item>
+<item key="1879102467" name="Feldskyn Shoulders" icon="1090523360-1090519044-1090523362-1090523361" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="5" description="key:620800177:54354734" valueTableId="1879049947" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="FATE" scaling="1879051158"/>
+<stat name="POWER" scaling="1879051152"/>
+<stat name="ARMOUR" scaling="1879055748"/>
+</stats>
+</item>
+<item key="1879102468" name="Feldskyn Hat" icon="1090524578-1090519044-1090524580-1090524579" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="8" description="key:620800178:54354734" valueTableId="1879050068" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="ARMOUR" scaling="1879055484"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102469" name="Anganskáld Gloves" icon="1090527094-1090519044-1090527096-1090527095" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="7" description="key:620800179:54354734" valueTableId="1879049295" armourType="LIGHT">
+<stats>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="TACTICAL_CRITICAL_MULTIPLIER" scaling="1879089132"/>
+<stat name="ARMOUR" scaling="1879055736"/>
+</stats>
+</item>
+<item key="1879102470" name="Anganskáld Shoes" icon="1090527292-1090519044-1090527294-1090527293" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="30" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="6" description="key:620800180:54354734" valueTableId="1879050219" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="POWER" scaling="1879051152"/>
+<stat name="ARMOUR" scaling="1879055744"/>
+</stats>
+</item>
+<item key="1879102471" name="Anganskáld Leggings" icon="1090527164-1090519044-1090527166-1090527165" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="40" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="3" description="key:620800181:54354734" valueTableId="1879050117" armourType="LIGHT">
+<stats>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="WILL" scaling="1879049917"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055752"/>
+</stats>
+</item>
+<item key="1879102472" name="Anganskáld Guard" icon="1090527199-1090519044-1090527201-1090527128" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="2" description="key:620800182:54354734" valueTableId="1879050690" armourType="LIGHT">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="TACTICAL_CRITICAL_MULTIPLIER" scaling="1879089134"/>
+<stat name="ARMOUR" scaling="1879055740"/>
+</stats>
+</item>
+<item key="1879102473" name="Anganskáld Shoulders" icon="1090527325-1090519044-1090527327-1090527326" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="5" description="key:620800183:54354734" valueTableId="1879049947" armourType="LIGHT">
+<stats>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="FATE" scaling="1879051158"/>
+<stat name="POWER" scaling="1879051152"/>
+<stat name="ARMOUR" scaling="1879055748"/>
+</stats>
+</item>
+<item key="1879102474" name="Anganskáld Hat" icon="1090526120-1090519044-1090526122-1090526121" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="18" binding="BIND_ON_ACQUIRE" unique="true" durability="35" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="8" description="key:620800184:54354734" valueTableId="1879050068" armourType="LIGHT">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="Resist_Additional_Resistance_Fear" scaling="1879051220"/>
+<stat name="ARMOUR" scaling="1879055484"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102475" name="Hlifherór Gloves" icon="1090526244-1090519044-1090526246-1090526245" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="7" description="key:620800185:54354734" valueTableId="1879050491" armourType="MEDIUM">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="ARMOUR" scaling="1879055760"/>
+</stats>
+</item>
+<item key="1879102476" name="Hlifherór Boots" icon="1090520000-1090519044-1090520001-1090526178" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="6" description="key:620800186:54354734" valueTableId="1879049290" armourType="MEDIUM">
+<stats>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="ARMOUR" scaling="1879055768"/>
+</stats>
+</item>
+<item key="1879102477" name="Hlifherór Leggings" icon="1090526315-1090519044-1090526317-1090526316" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="3" description="key:620800187:54354734" valueTableId="1879049915" armourType="MEDIUM">
+<stats>
+<stat name="ICMR" scaling="1879051210"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055776"/>
+</stats>
+</item>
+<item key="1879102478" name="Hlifherór Guard" icon="1090526278-1090519044-1090526280-1090526279" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="2" description="key:620800188:54354734" valueTableId="1879049799" armourType="MEDIUM">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055764"/>
+</stats>
+</item>
+<item key="1879102479" name="Hlifherór Shoulders" icon="1090523513-1090519044-1090523515-1090523514" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="5" description="key:620800189:54354734" valueTableId="1879049985" armourType="MEDIUM">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="FATE" scaling="1879051158"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="ARMOUR" scaling="1879055772"/>
+</stats>
+</item>
+<item key="1879102480" name="Hlifherór Helm" icon="1090524578-1090519044-1090524580-1090524579" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="8" description="key:620800190:54354734" valueTableId="1879050493" armourType="MEDIUM">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="ARMOUR" scaling="1879055756"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102481" name="Thagallthrek Gloves" icon="1090526588-1090519044-1090526590-1090526589" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="7" description="key:620800191:54354734" valueTableId="1879050491" armourType="MEDIUM">
+<stats>
+<stat name="ICMR" scaling="1879051157"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="ARMOUR" scaling="1879055760"/>
+</stats>
+</item>
+<item key="1879102482" name="Thagallthrek Boots" icon="1090526543-1090519044-1090526545-1090526544" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="6" description="key:620800192:54354734" valueTableId="1879049290" armourType="MEDIUM">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="ARMOUR" scaling="1879055768"/>
+</stats>
+</item>
+<item key="1879102483" name="Thagallthrek Leggings" icon="1090526655-1090519044-1090526657-1090526656" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="3" description="key:620800193:54354734" valueTableId="1879049915" armourType="MEDIUM">
+<stats>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="Resist_Additional_Resistance_Poison" scaling="1879052868"/>
+<stat name="ARMOUR" scaling="1879055776"/>
+</stats>
+</item>
+<item key="1879102484" name="Thagallthrek Guard" icon="1090526622-1090519044-1090526624-1090526623" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="2" description="key:620800194:54354734" valueTableId="1879049799" armourType="MEDIUM">
+<stats>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055764"/>
+</stats>
+</item>
+<item key="1879102485" name="Thagallthrek Shoulders" icon="1090526841-1090519044-1090526843-1090526842" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="5" description="key:620800195:54354734" valueTableId="1879049985" armourType="MEDIUM">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="FATE" scaling="1879051158"/>
+<stat name="ARMOUR" scaling="1879055772"/>
+</stats>
+</item>
+<item key="1879102486" name="Thagallthrek Helm" icon="1090526120-1090519044-1090526122-1090526121" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="9" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="8" description="key:620800196:54354734" valueTableId="1879050493" armourType="MEDIUM">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="ARMOUR" scaling="1879055756"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102487" name="Kappwin Gloves" icon="1090525063-1090519044-1090525065-1090525064" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="7" description="key:620800197:54354734" valueTableId="1879050484" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="TACTICAL_CRITICAL_MULTIPLIER" scaling="1879089132"/>
+<stat name="ARMOUR" scaling="1879055446"/>
+</stats>
+</item>
+<item key="1879102488" name="Kappwin Boots" icon="1090524812-1090519044-1090524814-1090524813" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="6" description="key:620800144:54354734" valueTableId="1879050480" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="ARMOUR" scaling="1879055455"/>
+</stats>
+</item>
+<item key="1879102489" name="Kappwin Leggings" icon="1090528171-1090519044-1090528173-1090528172" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="3" description="key:620800145:54354734" valueTableId="1879049956" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055464"/>
+</stats>
+</item>
+<item key="1879102490" name="Kappwin Guard" icon="1090524828-1090519044-1090524830-1090524829" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="95" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="2" description="key:620800146:54354734" valueTableId="1879050482" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+<stat name="ARMOUR" scaling="1879055451"/>
+</stats>
+</item>
+<item key="1879102491" name="Kappwin Shoulders" icon="1090525016-1090519044-1090525018-1090525017" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="5" description="key:620800147:54354734" valueTableId="1879050489" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="FATE" scaling="1879051158"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055459"/>
+</stats>
+</item>
+<item key="1879102492" name="Kappwin Helm" icon="1090524578-1090519044-1090524580-1090524579" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="8" description="key:620800148:54354734" valueTableId="1879050486" armourType="HEAVY">
+<stats>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="WILL" scaling="1879049917"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="ARMOUR" scaling="1879055441"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102493" name="Hlifworth Gloves" icon="1090526117-1090519044-1090526119-1090526118" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="7" description="key:620800149:54354734" valueTableId="1879050484" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="ICMR" scaling="1879051157"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
+<stat name="ARMOUR" scaling="1879055446"/>
+</stats>
+</item>
+<item key="1879102494" name="Hlifworth Boots" icon="1090526108-1090519044-1090526110-1090526109" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="6" description="key:620800150:54354734" valueTableId="1879050480" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055455"/>
+</stats>
+</item>
+<item key="1879102495" name="Hlifworth Leggings" icon="1090526123-1090519044-1090526125-1090526124" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="3" description="key:620800151:54354734" valueTableId="1879049956" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="ICMR" scaling="1879049958"/>
+<stat name="ARMOUR" scaling="1879055464"/>
+</stats>
+</item>
+<item key="1879102496" name="Hlifworth Guard" icon="1090525742-1090519044-1090525744-1090525743" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="95" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="2" description="key:620800152:54354734" valueTableId="1879050482" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+<stat name="ARMOUR" scaling="1879055451"/>
+</stats>
+<effect type="ON_EQUIP" id="1879056861" name="Damage Absorption"/>
+</item>
+<item key="1879102497" name="Hlifworth Shoulders" icon="1090526126-1090519044-1090526128-1090526127" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="5" description="key:620800153:54354734" valueTableId="1879050489" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055459"/>
+</stats>
+</item>
+<item key="1879102498" name="Hlifworth Helm" icon="1090526120-1090519044-1090526122-1090526121" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="8" description="key:620800154:54354734" valueTableId="1879050486" armourType="HEAVY">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879055169"/>
+<stat name="ARMOUR" scaling="1879055441"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102499" name="Threkkappi Gloves" icon="1090527666-1090519044-1090527668-1090527667" level="50" slot="HAND" category="ARMOUR" class="5" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="7" description="key:620800155:54354734" valueTableId="1879050484" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051156"/>
+<stat name="ARMOUR" scaling="1879055446"/>
+</stats>
+</item>
+<item key="1879102500" name="Threkkappi Boots" icon="1090527777-1090519044-1090527779-1090527778" level="50" slot="FEET" category="ARMOUR" class="23" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="65" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="6" description="key:620800156:54354734" valueTableId="1879050480" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="ARMOUR" scaling="1879055455"/>
+</stats>
+</item>
+<item key="1879102501" name="Threkkappi Leggings" icon="1090528431-1090519044-1090528433-1090528432" level="50" slot="LEGS" category="ARMOUR" class="15" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="3" description="key:620800157:54354734" valueTableId="1879049956" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="Resist_Additional_Resistance_Poison" scaling="1879052868"/>
+<stat name="ICMR" scaling="1879049958"/>
+<stat name="ARMOUR" scaling="1879055464"/>
+</stats>
+</item>
+<item key="1879102502" name="Threkkappi Guard" icon="1090528483-1090519044-1090528485-1090528484" level="50" slot="CHEST" category="ARMOUR" class="3" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="95" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="2" description="key:620800158:54354734" valueTableId="1879050482" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="ARMOUR" scaling="1879055451"/>
+</stats>
+<effect type="ON_EQUIP" id="1879056861" name="Damage Absorption"/>
+</item>
+<item key="1879102503" name="Threkkappi Shoulders" icon="1090533860-1090519044-1090533862-1090533861" level="50" slot="SHOULDER" category="ARMOUR" class="6" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="5" description="key:620800159:54354734" valueTableId="1879050489" armourType="HEAVY">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="ARMOUR" scaling="1879055459"/>
+</stats>
+</item>
+<item key="1879102504" name="Threkkappi Helm" icon="1090525163-1090519044-1090525165-1090525164" level="50" slot="HEAD" category="ARMOUR" class="7" equipmentCategory="10" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="8" description="key:620800160:54354734" valueTableId="1879050486" armourType="HEAVY">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879062213"/>
+<stat name="ARMOUR" scaling="1879055441"/>
+</stats>
+<cooldown duration="1200.0" channelID="166"/>
+<skill id="1879102630" name="Super Heal" level="50"/>
+</item>
+<item key="1879102512" name="Enhanced Essence of Athelas" pluralName="key:620800198:98907573" icon="1091417960-1090519041-1091417961" level="25" category="ITEM" class="28" binding="BIND_ON_ACQUIRE" quality="COMMON" minLevel="25" requiredGloryRank="2" description="key:620800198:54354734" valueTableId="1879049654" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="7"/>
+<effect type="ON_USE" id="1879102518" name="Increased Morale"/>
+</item>
+<item key="1879102513" name="Concentrated Essence of Athelas" pluralName="key:620800200:98907573" icon="1091417963-1090519042-1091417964" level="26" category="ITEM" class="28" binding="BIND_ON_ACQUIRE" quality="UNCOMMON" minLevel="25" requiredGloryRank="3" description="key:620800200:54354734" valueTableId="1879049654" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="7"/>
+<effect type="ON_USE" id="1879102519" name="Increased Morale"/>
+</item>
+<item key="1879102514" name="Elixir of Twice Purified Athelas" pluralName="key:620800202:98907573" icon="1091417963-1090519043-1091417964" level="27" category="ITEM" class="28" binding="BIND_ON_ACQUIRE" quality="RARE" minLevel="25" requiredGloryRank="4" description="key:620800202:54354734" valueTableId="1879049654" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="7"/>
+<effect type="ON_USE" id="1879102520" name="Increased Morale"/>
+</item>
+<item key="1879102515" name="Enhanced Celebrant Water" pluralName="key:620800204:98907573" icon="1091417966-1090519041-1091417967" level="25" category="ITEM" class="28" binding="BIND_ON_ACQUIRE" quality="COMMON" minLevel="25" requiredGloryRank="2" description="key:620800204:54354734" valueTableId="1879049654" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="9"/>
+<effect type="ON_USE" id="1879102521" name="Increased Power"/>
+</item>
+<item key="1879102516" name="Concentrated Celebrant Water" pluralName="key:620800206:98907573" icon="1091417969-1090519042-1091417970" level="26" category="ITEM" class="28" binding="BIND_ON_ACQUIRE" quality="UNCOMMON" minLevel="25" requiredGloryRank="3" description="key:620800206:54354734" valueTableId="1879049654" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="9"/>
+<effect type="ON_USE" id="1879102522" name="Increased Power"/>
+</item>
+<item key="1879102517" name="Elixir of Twice Purified Celebrant" pluralName="key:620800208:98907573" icon="1091417969-1090519043-1091417970" level="27" category="ITEM" class="28" binding="BIND_ON_ACQUIRE" quality="RARE" minLevel="25" requiredGloryRank="4" description="key:620800208:54354734" valueTableId="1879049654" stackMax="20">
+<stats/>
+<cooldown duration="60.0" channelID="9"/>
+<effect type="ON_USE" id="1879102523" name="Increased Power"/>
+</item>
+<item key="1879102525" name="Lainedhal's Insignia of the Footman" icon="1091418788-1090519041-1091418789" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="1" description="key:620800211:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="14400.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102545" name="Lainedhal's Insignia of the Lieutenant" icon="1091418791-1090519041-1091418792" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="10" description="key:620800223:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="1800.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102546" name="Lainedhal's Insignia of the Commander" icon="1091418794-1090519041-1091418795" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="11" description="key:620800224:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="1500.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102547" name="Lainedhal's Insignia of the Third Marshal" icon="1091418797-1090519041-1091418798" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="12" description="key:620800225:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="1200.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102548" name="Lainedhal's Insignia of the Second Marshal" icon="1091418800-1090519041-1091418801" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="13" description="key:620800226:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="900.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102549" name="Lainedhal's Insignia of the First Marshal" icon="1091418803-1090519041-1091418804" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="14" description="key:620800227:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="600.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102550" name="Lainedhal's Insignia of the Captain-General" icon="1091418806-1090519041-1091418807" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="15" description="key:620800228:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="600.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+<effect type="ON_USE" id="1879072527" name="Exit All Harmful States"/>
+</item>
+<item key="1879102551" name="Lainedhal's Insignia of the Esquire" icon="1091418809-1090519041-1091418810" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="2" description="key:620800229:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="10800.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102552" name="Lainedhal's Insignia of the Guardsman" icon="1091418812-1090519041-1091418813" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="3" description="key:620800230:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="7200.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102553" name="Lainedhal's Insignia of the Man-at-Arms" icon="1091418815-1090519041-1091418816" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="4" description="key:620800231:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="3600.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102554" name="Lainedhal's Insignia of the Sergeant of the Guard" icon="1091418818-1090519041-1091418819" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="5" description="key:620800232:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="3300.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102555" name="Lainedhal's Insignia of the Sergeant-at-Arms" icon="1091418821-1090519041-1091418822" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="6" description="key:620800233:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="3000.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102556" name="Lainedhal's Insignia of the Master Guardsman" icon="1091418824-1090519041-1091418825" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="7" description="key:620800234:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="2700.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102557" name="Lainedhal's Insignia of the Master-at-Arms" icon="1091418827-1090519041-1091418828" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="8" description="key:620800235:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="2400.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102558" name="Lainedhal's Insignia of the High Warden" icon="1091418830-1090519041-1091418831" level="50" category="ITEM" class="50" binding="BIND_ON_ACQUIRE" unique="true" quality="COMMON" minLevel="50" requiredGloryRank="9" description="key:620800236:54354734" valueTableId="1879049581">
+<stats/>
+<cooldown duration="2100.0" channelID="165"/>
+<effect type="ON_USE" id="1879103966" name="Immunity" spellcraft="50.0"/>
+</item>
+<item key="1879102574" name="Thalionhathol" icon="1090557004-1090519044-1090557005-1090557006" level="50" slot="EITHER_HAND" category="WEAPON" class="12" equipmentCategory="24" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="4" valueTableId="1879049944" dps="27.503687" dpsTableId="1879049778" minDamage="56" maxDamage="76" damageType="ANCIENT_DWARF" weaponType="ONE_HANDED_AXE" speed="1">
+<stats>
+<stat name="PARRY_PERCENTAGE" scaling="1879051217"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="WILL" scaling="1879049503"/>
+</stats>
+<slayer value="6.9483" genus="14"/>
+</item>
+<item key="1879102575" name="Cudúr" icon="1090524310-1090519044-1090524311-1090524312" level="50" slot="RANGED_ITEM" category="WEAPON" class="1" equipmentCategory="8" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="4" valueTableId="1879050210" dps="31.354204" dpsTableId="1879049506" minDamage="58" maxDamage="92" damageType="BELERIAND" weaponType="BOW" speed="1">
+<stats>
+<stat name="ALL_SKILL_INDUCTION" scaling="1879051221"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" scaling="1879089123"/>
+</stats>
+<slayer value="6.9483" genus="14"/>
+</item>
+<item key="1879102576" name="Bronwehigil" icon="1090556606-1090519044-1090556607-1090556608" level="50" slot="EITHER_HAND" category="WEAPON" class="10" equipmentCategory="20" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="7" valueTableId="1879049802" dps="27.503687" dpsTableId="1879049778" minDamage="41" maxDamage="53" damageType="WESTERNESSE" weaponType="DAGGER" speed="1">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879051169"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="PARRY_PERCENTAGE" scaling="1879051217"/>
+</stats>
+<slayer value="4.9217124" genus="1"/>
+</item>
+<item key="1879102577" name="Dornhigil" icon="1090556606-1090519044-1090556607-1090556608" level="50" slot="EITHER_HAND" category="WEAPON" class="10" equipmentCategory="20" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Burglar" requiredGloryRank="4" valueTableId="1879049802" dps="27.503687" dpsTableId="1879049778" minDamage="41" maxDamage="53" damageType="BELERIAND" weaponType="DAGGER" speed="1">
+<stats>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879051169"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="FATE" scaling="1879049801"/>
+</stats>
+<slayer value="4.9217124" genus="4"/>
+</item>
+<item key="1879102578" name="Dagorhigil" icon="1090531636-1090519044-1090531637-1090531638" level="50" slot="EITHER_HAND" category="WEAPON" class="10" equipmentCategory="20" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="7" valueTableId="1879049802" dps="27.503687" dpsTableId="1879049778" minDamage="41" maxDamage="53" damageType="WESTERNESSE" weaponType="DAGGER" speed="1">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879051169"/>
+<stat name="VITALITY" scaling="1879049943"/>
+</stats>
+<slayer value="4.9217124" genus="1"/>
+</item>
+<item key="1879102579" name="Filigodrist" icon="1090531636-1090519044-1090531637-1090531638" level="50" slot="EITHER_HAND" category="WEAPON" class="10" equipmentCategory="20" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Hunter" requiredGloryRank="7" valueTableId="1879049802" dps="27.503687" dpsTableId="1879049778" minDamage="41" maxDamage="53" damageType="ANCIENT_DWARF" weaponType="DAGGER" speed="1">
+<stats>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="POWER" scaling="1879049946"/>
+</stats>
+<slayer value="4.9217124" genus="1"/>
+</item>
+<item key="1879102580" name="Tordram" icon="1090541473-1090519044-1090541474-1090541475" level="50" slot="EITHER_HAND" category="WEAPON" class="30" equipmentCategory="27" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Champion" requiredGloryRank="4" valueTableId="1879049777" dps="27.503687" dpsTableId="1879049778" minDamage="51" maxDamage="76" damageType="BELERIAND" weaponType="ONE_HANDED_MACE" speed="1">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879051169"/>
+<stat name="MORALE" scaling="1879049941"/>
+</stats>
+<slayer value="6.6587873" genus="1"/>
+</item>
+<item key="1879102581" name="Bronwenaith" icon="1090520848-1090519044-1090520849-1090520850" level="50" slot="MAIN_HAND" category="WEAPON" class="46" equipmentCategory="13" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="4" valueTableId="1879049942" dps="27.503687" dpsTableId="1879049778" minDamage="44" maxDamage="60" damageType="BELERIAND" weaponType="SPEAR" speed="1">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879051169"/>
+<stat name="MORALE" scaling="1879049941"/>
+</stats>
+<slayer value="5.500737" genus="1"/>
+</item>
+<item key="1879102582" name="Balanis" icon="1090556664-1090519044-1090556665-1090556666" level="50" slot="MAIN_HAND" category="WEAPON" class="34" equipmentCategory="22" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="7" valueTableId="1879050277" dps="31.354204" dpsTableId="1879049506" minDamage="66" maxDamage="90" damageType="BELERIAND" weaponType="STAFF" speed="1">
+<stats>
+<stat name="VITALITY" scaling="1879051159"/>
+<stat name="MORALE" scaling="1879051137"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" scaling="1879089127"/>
+</stats>
+<slayer value="7.237812" genus="1"/>
+</item>
+<item key="1879102583" name="Golumagol" icon="1090538248-1090519044-1090538249-1090538250" level="50" slot="EITHER_HAND" category="WEAPON" class="44" equipmentCategory="28" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Lore-master" requiredGloryRank="4" valueTableId="1879049944" dps="27.503687" dpsTableId="1879049778" minDamage="45" maxDamage="65" damageType="WESTERNESSE" weaponType="ONE_HANDED_SWORD" speed="1">
+<stats>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" scaling="1879089126"/>
+</stats>
+<slayer value="5.79025" genus="4"/>
+</item>
+<item key="1879102584" name="Romegil" icon="1090557028-1090519044-1090557029-1090557030" level="50" slot="EITHER_HAND" category="WEAPON" class="44" equipmentCategory="28" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="4" valueTableId="1879049944" dps="27.503687" dpsTableId="1879049778" minDamage="45" maxDamage="65" damageType="WESTERNESSE" weaponType="ONE_HANDED_SWORD" speed="1">
+<stats>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="WILL" scaling="1879049503"/>
+</stats>
+<slayer value="5.79025" genus="1"/>
+</item>
+<item key="1879102591" name="Móthskold" icon="1090523245-1090519044-1090523246-1090523330" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="7" valueTableId="1879050589" armourType="SHIELD">
+<stats>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ARMOUR" scaling="1879055470"/>
+</stats>
+</item>
+<item key="1879102592" name="Luthskold" icon="1090523245-1090519044-1090523246-1090523330" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="17" binding="BIND_ON_ACQUIRE" unique="true" durability="90" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Minstrel" requiredGloryRank="7" valueTableId="1879050589" armourType="SHIELD">
+<stats>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="POWER" scaling="1879051152"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="ARMOUR" scaling="1879055470"/>
+</stats>
+</item>
+<item key="1879102593" name="Skotrand" icon="1090523247-1090519044-1090523248-1090523249" level="50" slot="OFF_HAND" category="ARMOUR" class="33" equipmentCategory="11" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="TOUGH" quality="INCOMPARABLE" minLevel="50" requiredClass="Guardian" requiredGloryRank="7" valueTableId="1879050497" armourType="HEAVY_SHIELD">
+<stats>
+<stat name="BLOCK_PERCENTAGE" scaling="1879086449"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="ARMOUR" scaling="1879055475"/>
+</stats>
+</item>
+<item key="1879102670" name="Angechor" icon="1090524758-1090519044-1090524759-1090528040" level="50" slot="WRIST" category="ITEM" class="49" equipmentCategory="30" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="4" valueTableId="1879049907">
+<stats>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="ICPR" scaling="1879052101"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="VITALITY" scaling="1879049943"/>
+</stats>
+</item>
+<item key="1879102671" name="Edhelharnechor" icon="1090523224-1090519044-1090523226-1090523225" level="50" slot="WRIST" category="ITEM" class="49" equipmentCategory="30" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="4" valueTableId="1879049907">
+<stats>
+<stat name="ICPR" scaling="1879052101"/>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+</stats>
+<effect type="ON_EQUIP" id="1879068709" name="Damage Reflection"/>
+</item>
+<item key="1879102672" name="Iorechor" icon="1090524756-1090519044-1090524757-1090527699" level="50" slot="WRIST" category="ITEM" class="49" equipmentCategory="30" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="4" valueTableId="1879049907">
+<stats>
+<stat name="AGILITY" scaling="1879050221"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="MIGHT" scaling="1879049945"/>
+</stats>
+</item>
+<item key="1879102673" name="Snúa-men" icon="1090528465-1090519044-1090528467-1090528466" level="50" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="4" valueTableId="1879050115">
+<stats>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879056724"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="FATE" scaling="1879049801"/>
+</stats>
+</item>
+<item key="1879102674" name="Edhelharnhigil" icon="1090523202-1090519044-1090523203-1090528575" level="50" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="4" valueTableId="1879050115">
+<stats>
+<stat name="MIGHT" scaling="1879051150"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" scaling="1879089128"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="WILL" scaling="1879049503"/>
+</stats>
+</item>
+<item key="1879102675" name="Narinn" icon="1091420318-1090519044-1091420319-1091420320" level="50" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_ACQUIRE" unique="true" durability="80" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="4" valueTableId="1879050115">
+<stats>
+<stat name="EVADE_PERCENTAGE" scaling="1879086448"/>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051149"/>
+<stat name="INCOMING_HEALING_PERCENTAGE" scaling="1879051162"/>
+</stats>
+</item>
+<item key="1879102676" name="Ancient Flasket" icon="1091414988-1090519044-1091414989-1091414990" level="50" slot="POCKET" category="ITEM" class="49" equipmentCategory="2" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="8" valueTableId="1879052641">
+<stats>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="OCMR" scaling="1879053970"/>
+<stat name="FATE" scaling="1879051158"/>
+</stats>
+</item>
+<item key="1879102677" name="Pouch of Thorns" icon="1091414991-1090519044-1091414992-1091414993" level="50" slot="POCKET" category="ITEM" class="49" equipmentCategory="2" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="8" valueTableId="1879052641">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="MORALE" scaling="1879049941"/>
+<stat name="OCPR" scaling="1879061559"/>
+</stats>
+<effect type="ON_EQUIP" id="1879068709" name="Damage Reflection"/>
+</item>
+<item key="1879102678" name="Quartz Figurine" icon="1091414994-1090519044-1091414995-1091414996" level="50" slot="POCKET" category="ITEM" class="49" equipmentCategory="2" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="8" valueTableId="1879052641">
+<stats>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" scaling="1879071260"/>
+<stat name="MELEE_DEFENCE_PERCENTAGE" scaling="1879086060"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" scaling="1879062447"/>
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
+<stat name="Resist_Additional_Resistance_Poison" scaling="1879052868"/>
+<stat name="Resist_Additional_Resistance_Disease" scaling="1879051154"/>
+</stats>
+</item>
+<item key="1879102679" name="Sterk-baug" icon="1090537742-1090519044-1090537744-1090537743" level="50" slot="FINGER" category="ITEM" class="49" equipmentCategory="19" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="8" valueTableId="1879050476">
+<stats>
+<stat name="MORALE" scaling="1879051225"/>
+<stat name="OCMR" scaling="1879051222"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="VITALITY" scaling="1879049943"/>
+</stats>
+</item>
+<item key="1879102680" name="Lorchor" icon="1090524763-1090519044-1090524764-1090527704" level="50" slot="FINGER" category="ITEM" class="49" equipmentCategory="19" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="8" valueTableId="1879050476">
+<stats>
+<stat name="WILL" scaling="1879049917"/>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="TACTICAL_CRITICAL_MULTIPLIER" scaling="1879089131"/>
+</stats>
+</item>
+<item key="1879102681" name="Filigodringor" icon="1090530263-1090519044-1090530264-1090536002" level="50" slot="FINGER" category="ITEM" class="49" equipmentCategory="19" binding="BIND_ON_ACQUIRE" unique="true" durability="50" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredGloryRank="8" valueTableId="1879050476">
+<stats>
+<stat name="VITALITY" scaling="1879051151"/>
+<stat name="WILL" scaling="1879049917"/>
+<stat name="FATE" scaling="1879049801"/>
+<stat name="Resist_Additional_Resistance_Poison" scaling="1879054052"/>
+</stats>
+</item>
+<item key="1879110743" name="Ettendeep's Bane" icon="1090556974-1090519044-1090556975-1090556976" level="50" slot="MAIN_HAND" precludedSlots="OFF_HAND" category="WEAPON" class="36" equipmentCategory="16" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="7" valueTableId="1879050473" dps="31.354204" dpsTableId="1879049506" minDamage="87" maxDamage="114" damageType="BELERIAND" weaponType="HALBERD" speed="1">
+<stats>
+<stat name="MIGHT" scaling="1879050116"/>
+<stat name="AGILITY" scaling="1879051160"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879052865"/>
+<stat name="MORALE" scaling="1879105948"/>
+</stats>
+<slayer value="9.2644" genus="1"/>
+</item>
+<item key="1879111444" name="Carbuncle Earring" icon="1091455190-1090519044-1091455191-1091455192" level="50" slot="EAR" category="ITEM" class="49" equipmentCategory="1" binding="BIND_ON_ACQUIRE" unique="true" durability="60" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="4" valueTableId="1879050475">
+<stats>
+<stat name="MIGHT" scaling="1879049945"/>
+<stat name="AGILITY" scaling="1879049909"/>
+<stat name="VITALITY" scaling="1879049943"/>
+<stat name="WILL" scaling="1879049503"/>
+<stat name="POWER" scaling="1879049946"/>
+<stat name="ICMR" scaling="1879051449"/>
+</stats>
 </item>
 <item key="1879115221" name="Plaque of Echad Garthadir" pluralName="key:620809118:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809118:54354734" valueTableId="1879049280">
 <stats/>

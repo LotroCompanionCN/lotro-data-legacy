@@ -1662,6 +1662,24 @@
 <NPC id="1879097779" name="Amban" gender="MALE" title="key:620796388:229802005"/>
 <NPC id="1879097780" name="Arodinnas" gender="MALE" title="key:620796389:229802005"/>
 <NPC id="1879097781" name="Faradwon" gender="MALE" title="key:620796381:229802005"/>
+<NPC id="1879098008" name="Krûr" gender="MALE" title="key:620796602:229802005"/>
+<NPC id="1879098009" name="Dûnud" gender="MALE" title="key:620796603:229802005"/>
+<NPC id="1879098010" name="Shakh" gender="MALE" title="key:620796604:229802005"/>
+<NPC id="1879098011" name="Rulum" gender="MALE" title="key:620796605:229802005"/>
+<NPC id="1879098012" name="Falgashud" gender="MALE" title="key:620796606:229802005"/>
+<NPC id="1879098013" name="Nâdar" gender="MALE" title="key:620796607:229802005"/>
+<NPC id="1879098014" name="Haz" gender="MALE" title="key:620796608:229802005"/>
+<NPC id="1879098015" name="Saethoniel" gender="FEMALE" title="key:620796609:229802005"/>
+<NPC id="1879098016" name="Tûzantar" gender="MALE" title="key:620796610:229802005"/>
+<NPC id="1879098017" name="Pâshnar" gender="MALE" title="key:620796611:229802005"/>
+<NPC id="1879098018" name="Egbert Ditchins" gender="MALE" title="key:620796612:229802005"/>
+<NPC id="1879098019" name="Cathorn" gender="MALE" title="key:620796613:229802005"/>
+<NPC id="1879098020" name="Celoseth" gender="FEMALE" title="key:620796614:229802005"/>
+<NPC id="1879098021" name="Halgils" gender="MALE" title="key:620796615:229802005"/>
+<NPC id="1879098022" name="Tongdir" gender="MALE" title="key:620796616:229802005"/>
+<NPC id="1879098023" name="Blythe" gender="FEMALE" title="key:620796569:229802005"/>
+<NPC id="1879098024" name="Dayna" gender="FEMALE" title="key:620796570:229802005"/>
+<NPC id="1879098025" name="Bellflower Pitts" gender="FEMALE" title="key:620796571:229802005"/>
 <NPC id="1879098206" name="Ísleif" gender="MALE"/>
 <NPC id="1879098207" name="Badennas" gender="FEMALE"/>
 <NPC id="1879098208" name="Graland Whitfoot" gender="MALE"/>
@@ -1718,4 +1736,5 @@
 <NPC id="1879101883" name="Gaelm, son of Éogar" title="key:620799678:229802005"/>
 <NPC id="1879101922" name="Sally Threshing" gender="FEMALE" title="key:620799713:229802005"/>
 <NPC id="1879102215" name="Tweggi" gender="MALE" title="key:620799958:229802005"/>
+<NPC id="1879102908" name="Alwuld" gender="MALE" title="key:620800515:229802005"/>
 </NPCs>

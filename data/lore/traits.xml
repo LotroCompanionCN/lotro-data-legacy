@@ -2010,6 +2010,121 @@
 <trait identifier="1879097466" name="Bagpipe Use" iconId="1091401279" category="32" nature="1" cosmetic="true" tooltip="key:620796145:191029568" description="key:620796145:54354734"/>
 <trait identifier="1879097468" name="Basic Cowbell Use" iconId="1091401282" category="32" nature="1" cosmetic="true" tooltip="key:620796148:191029568" description="key:620796148:54354734"/>
 <trait identifier="1879097470" name="Moor Cowbell Use" iconId="1091401286" category="32" nature="1" cosmetic="true" tooltip="key:620796151:191029568" description="key:620796151:54354734"/>
+<trait identifier="1879097831" name="Front-line Fodder" iconId="1091417955" category="45" nature="4">
+<stat name="PARRY_PERCENTAGE" constant="1.0"/>
+<stat name="EVADE_PERCENTAGE" constant="1.0"/>
+<stat name="BLOCK_PERCENTAGE" constant="1.0"/>
+</trait>
+<trait identifier="1879097832" name="Rage of the Misbegotten" iconId="1091417956" category="45" nature="4">
+<stat name="CRITICAL_MELEE_PERCENTAGE" constant="1.0"/>
+<stat name="MORALE" operator="MULTIPLY" constant="1.1"/>
+</trait>
+<trait identifier="1879097833" name="Warrior Against the Deep" iconId="1091417957" category="45" nature="4">
+<stat name="Combat_MitigationPercentage_AncientDwarf" constant="1.0"/>
+<stat name="Stealth_StealthDetectionLevelModifier" constant="2.0"/>
+</trait>
+<trait identifier="1879097834" name="Tireless Warrior" iconId="1091417958" category="45" nature="4">
+<stat name="ICMR" constant="600.0"/>
+<stat name="ICPR" constant="480.0"/>
+</trait>
+<trait identifier="1879097835" name="Flayer of Flesh" iconId="1091417959" category="45" nature="4">
+<stat name="CRITICAL_MELEE_PERCENTAGE" constant="2.0"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="1.0"/>
+</trait>
+<trait identifier="1879097836" name="Eight-legged Menace" iconId="1091417881" category="45" nature="4">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="key:620796422:106251889" constant="10.0"/>
+<stat name="PARRY_PERCENTAGE" constant="2.0"/>
+</trait>
+<trait identifier="1879097837" name="Swallower of Light" iconId="1091417882" category="45" nature="4">
+<stat name="Combat_MitigationPercentage_Light" constant="1.0"/>
+<stat name="STEALTH_LEVEL" constant="3.0"/>
+<stat name="Combat_MitigationPercentage_Westernesse" constant="1.0"/>
+</trait>
+<trait identifier="1879097838" name="Ancient as the Stars" iconId="1091417883" category="45" nature="4">
+<stat name="Combat_MitigationPercentage_AncientDwarf" constant="2.0"/>
+<stat name="Combat_MitigationPercentage_Beleriand" constant="1.0"/>
+<stat name="Combat_MitigationPercentage_Westernesse" constant="1.0"/>
+<stat name="Combat_AttackerCriticalHitChanceAddMod" operator="SUBSTRACT" constant="2.0"/>
+</trait>
+<trait identifier="1879097839" name="Enemies of the First Children" iconId="1091417884" category="45" nature="4">
+<stat name="CRITICAL_MELEE_PERCENTAGE" descriptionOverride="-" constant="1.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="1.0"/>
+</trait>
+<trait identifier="1879097840" name="Drinker of Blood" iconId="1091417885" category="45" nature="4">
+<stat name="ICMR" constant="600.0"/>
+<stat name="ICPR" constant="480.0"/>
+</trait>
+<trait identifier="1879097841" name="New Breed" iconId="1091418011" category="45" nature="4">
+<stat name="Combat_Agent_Armor_Value" constant="50.0"/>
+<stat name="MORALE" constant="250.0"/>
+<stat name="POWER" constant="50.0"/>
+</trait>
+<trait identifier="1879097842" name="Leaders of the Orcs" iconId="1091418012" category="45" nature="4">
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="1.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" constant="1.0"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="1.0"/>
+</trait>
+<trait identifier="1879097843" name="Favoured Servant of the Dark" iconId="1091418013" category="45" nature="4">
+<stat name="Combat_MitigationPercentage_AncientDwarf" constant="1.0"/>
+<stat name="Combat_MitigationPercentage_Westernesse" constant="1.0"/>
+<stat name="Combat_MitigationPercentage_Beleriand" constant="1.0"/>
+</trait>
+<trait identifier="1879097844" name="Tireless Warrior" iconId="1091417958" category="45" nature="4">
+<stat name="ICMR" constant="600.0"/>
+<stat name="ICPR" constant="480.0"/>
+</trait>
+<trait identifier="1879097845" name="Brutal persuasion" iconId="1091418014" category="45" nature="4">
+<stat name="CRITICAL_MELEE_PERCENTAGE" constant="2.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="2.0"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="2.0"/>
+</trait>
+<trait identifier="1879097846" name="Four-legged Foe" iconId="1091418015" category="45" nature="4">
+<stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
+<stat name="EVADE_PERCENTAGE" constant="1.0"/>
+</trait>
+<trait identifier="1879097847" name="Pack Mentality" iconId="1091418016" category="45" nature="4">
+<stat name="PARRY_PERCENTAGE" constant="1.0"/>
+<stat name="EVADE_PERCENTAGE" constant="1.0"/>
+<stat name="Resist_Additional_Resistance_Physical" constant="3.0"/>
+<stat name="Resist_Additional_Resistance_Magic" constant="3.0"/>
+</trait>
+<trait identifier="1879097848" name="Pack Elder" iconId="1091418017" category="45" nature="4">
+<stat name="Combat_MitigationPercentage_AncientDwarf" constant="1.0"/>
+<stat name="Combat_MitigationPercentage_Westernesse" constant="1.0"/>
+<stat name="Combat_MitigationPercentage_Beleriand" constant="1.0"/>
+</trait>
+<trait identifier="1879097849" name="Foe of the Light" iconId="1091418018" category="45" nature="4">
+<stat name="Combat_MitigationPercentage_Light" constant="1.0"/>
+<stat name="STEALTH_LEVEL" constant="2.0"/>
+</trait>
+<trait identifier="1879097850" name="Pack Alpha" iconId="1091418019" category="45" nature="4">
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="2.0"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" constant="2.0"/>
+</trait>
+<trait identifier="1879097853" name="Advanced Skill: Blood of Fire" iconId="1091427803" category="7" nature="4" tooltip="key:620796450:191029568" description="key:620796450:54354734">
+<skill id="1879097866" name="Blood of Fire"/>
+</trait>
+<trait identifier="1879097854" name="Advanced Skill: Undying Rage" iconId="1091465872" category="11" nature="4" tooltip="key:620796453:191029568" description="key:620796453:54354734">
+<skill id="1879097868" name="Dying Rage"/>
+</trait>
+<trait identifier="1879097855" name="Advanced Skill: Born of Shadow" iconId="1091465873" category="11" nature="4" tooltip="key:620796457:191029568" description="key:620796457:54354734">
+<skill id="1879097871" name="Born of Shadow"/>
+</trait>
+<trait identifier="1879097856" name="Advanced Skill: Shelob's Gift" iconId="1091465874" category="7" nature="4" tooltip="key:620796460:191029568" description="key:620796460:54354734">
+<skill id="1879097873" name="Shelob's Gift"/>
+</trait>
+<trait identifier="1879097857" name="Advanced Skill: Imposing Presence" iconId="1091465871" category="7" nature="4" tooltip="key:620796462:191029568" description="key:620796462:54354734">
+<skill id="1879097874" name="Imposing Presence"/>
+</trait>
+<trait identifier="1879097858" name="Advanced Skill: Get a Grip!" iconId="1091465865" category="7" nature="4" tooltip="key:620796443:191029568" description="key:620796443:54354734">
+<skill id="1879097861" name="Get a Grip!"/>
+</trait>
+<trait identifier="1879097859" name="Advanced Skill: Pack Hunters" iconId="1091465867" category="11" nature="4" tooltip="key:620796446:191029568" description="key:620796446:54354734">
+<skill id="1879097863" name="Pack Hunters"/>
+</trait>
+<trait identifier="1879097860" name="Advanced Skill: Eyes of Unnerving" iconId="1091465869" category="7" nature="4" tooltip="key:620796448:191029568" description="key:620796448:54354734">
+<skill id="1879097865" name="Eyes of Unnerving"/>
+</trait>
 <trait identifier="1879101492" name="Friend of the Wild" iconId="1091404130" category="29" nature="1" cosmetic="true" tooltip="key:620799379:191029568" description="key:620799379:54354734"/>
 <trait identifier="1879101513" name="Bree-land Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799396:191029568" description="key:620799396:54354734">
 <effectGenerator id="1879101901" name="Bree-land Homestead"/>

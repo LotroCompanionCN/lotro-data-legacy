@@ -14479,6 +14479,11 @@
 <itemsTableEntry weight="100" itemId="1879090945" name="Tollang"/>
 <itemsTableEntry weight="100" itemId="1879090946" name="Great Hammer of Heart"/>
 </itemsTable>
+<itemsTable id="1879093233">
+<itemsTableEntry weight="100" itemId="1879090971" name="Golden Spear-head"/>
+<itemsTableEntry weight="100" itemId="1879091320" name="Ring of Fulfillment"/>
+<itemsTableEntry weight="100" itemId="1879090993" name="Club of the Strong-arm"/>
+</itemsTable>
 <itemsTable id="1879093234">
 <itemsTableEntry weight="100" itemId="1879090947" name="Mirhigil"/>
 <itemsTableEntry weight="100" itemId="1879090948" name="Bronwebadanir"/>
@@ -27688,6 +27693,9 @@
 <trophyListEntry dropFrequency="0.01" treasureGroupProfileId="1879054603"/>
 <trophyListEntry dropFrequency="0.1" treasureGroupProfileId="1879054604"/>
 <trophyListEntry dropFrequency="0.01" treasureGroupProfileId="1879064806"/>
+</trophyList>
+<trophyList id="1879093232">
+<trophyListEntry dropFrequency="1.0" treasureGroupProfileId="1879093233"/>
 </trophyList>
 <trophyList id="1879093235">
 <trophyListEntry dropFrequency="1.0" itemId="1879092851" name="Broken Arnorian Leggings"/>

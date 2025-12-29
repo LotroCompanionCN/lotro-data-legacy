@@ -853,6 +853,7 @@
 <effect id="1879057836" name="Dread"/>
 </auraEffect>
 <effect id="1879059058" name="Knockback" baseFlags="4126"/>
+<effect id="1879059499" baseFlags="4124"/>
 <propertyModEffect id="1879059587" name="Shattered Armour" appliedDescription="key:620764689:54354734" iconId="1090531635" duration="10.0" pulseCount="3" baseFlags="4606">
 <stat name="Combat_Agent_Armor_Value" scaling="1879059588"/>
 </propertyModEffect>
@@ -1413,7 +1414,7 @@
 <stat name="Combat_AttackerCriticalHitChanceAddMod" constant="3.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879061009" name="Improved Stealth" iconId="1090541274" duration="10.0" baseFlags="4540">
-<stat name="STEALTH_LEVEL" constant="10.0"/>
+<stat name="Stealth_GameplayUndetectable" operator="SET" descriptionOverride="key:620766001:106251889" value="true"/>
 <stat name="Stealth_ResistBreakModifier" operator="SET" descriptionOverride="key:620766001:106251890" value="true"/>
 </propertyModEffect>
 <propertyModEffect id="1879061013" name="Simple Stealth" iconId="1090519170" baseFlags="6332">
@@ -1878,7 +1879,7 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="15.000001"/>
 </propertyModEffect>
 <propertyModEffect id="1879072564" name="Improved Stealth" iconId="1090553331" duration="10.0" baseFlags="4540">
-<stat name="STEALTH_LEVEL" constant="10.0"/>
+<stat name="Stealth_GameplayUndetectable" operator="SET" descriptionOverride="key:620774765:106251889" value="true"/>
 <stat name="Stealth_ResistBreakModifier" operator="SET" descriptionOverride="key:620774765:106251890" value="true"/>
 </propertyModEffect>
 <propertyModEffect id="1879072566" name="Simple Stealth" iconId="1090519170" baseFlags="6332">
@@ -2256,7 +2257,7 @@
 <initialChange progressionID="1879073367"/>
 <overTimeChange progressionID="1879073367"/>
 </vitalOverTimeEffect>
-<propertyModEffect id="1879073391" name="Slowing Cut" iconId="1090553356" duration="10.0" pulseCount="1" baseFlags="4542">
+<propertyModEffect id="1879073391" name="Slowing Cut" iconId="1090553356" duration="10.0" durationMods="268442658" pulseCount="1" baseFlags="4542">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620775183:106251889" constant="0.5"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.5"/>
 </propertyModEffect>
@@ -2388,10 +2389,6 @@
 <auraEffect id="1879073734" iconId="1090519170" baseFlags="6204" type="2">
 <effect id="1879051278" name="Aura of Command"/>
 </auraEffect>
-<propertyModEffect id="1879073746" name="Snaring Webs" appliedDescription="key:620775421:54354734" iconId="1090555726" duration="8.0" durationMods="268440270" baseFlags="4542">
-<stat name="Movement_ActiveMovementFrozen_ByEffect" operator="SET" descriptionOverride="-" value="true"/>
-<stat name="AI_Hints" descriptionOverride="-" value="(27)"/>
-</propertyModEffect>
 <propertyModEffect id="1879073747" name="Entangled" iconId="1090555727" duration="30.0" baseFlags="4542">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="30.000002"/>
 </propertyModEffect>
@@ -2964,6 +2961,9 @@
 <vitalOverTimeEffect id="1879084327" name="Food Bonus" iconId="1090641236" duration="30.0" pulseCount="10" baseFlags="4540" stat="Health_MaxLevel">
 <overTimeChange progressionID="1879084212"/>
 </vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879084328" name="Food Bonus" iconId="1090641236" duration="30.0" pulseCount="10" baseFlags="4540" stat="Health_MaxLevel">
+<overTimeChange progressionID="1879084213"/>
+</vitalOverTimeEffect>
 <vitalOverTimeEffect id="1879084330" name="Food Bonus" iconId="1090641237" duration="30.0" pulseCount="10" baseFlags="4540" stat="Power_MaxLevel">
 <overTimeChange progressionID="1879084205"/>
 </vitalOverTimeEffect>
@@ -2972,6 +2972,9 @@
 </vitalOverTimeEffect>
 <vitalOverTimeEffect id="1879084332" name="Food Bonus" iconId="1090641237" duration="30.0" pulseCount="10" baseFlags="4540" stat="Power_MaxLevel">
 <overTimeChange progressionID="1879084207"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879084333" name="Food Bonus" iconId="1090641237" duration="30.0" pulseCount="10" baseFlags="4540" stat="Power_MaxLevel">
+<overTimeChange progressionID="1879084208"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879084345" name="Full" iconId="1090640715" duration="25.0" baseFlags="4540">
 <stat name="OCMR" scaling="1879054317"/>
@@ -3164,7 +3167,7 @@
 <stat name="POWER" scaling="1879086303"/>
 <onExpire id="1879049496" name="Induce Stunned"/>
 </countdownEffect>
-<propertyModEffect id="1879086398" name="Hamstring" iconId="1090553765" duration="20.0" baseFlags="4542">
+<propertyModEffect id="1879086398" name="Hamstring" iconId="1090553765" duration="20.0" durationMods="268442668" baseFlags="4542">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620789473:106251889" constant="0.7"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.7"/>
 </propertyModEffect>
@@ -4810,9 +4813,47 @@
 <initialChange progressionID="1879056994" modifiers="268440271"/>
 <overTimeChange progressionID="1879056994" modifiers="268440271"/>
 </vitalOverTimeEffect>
+<instantVitalEffect id="1879097862" name="Get a Grip!" baseFlags="4124" stat="Health_MaxLevel" multiplicative="true">
+<vitalChange constant="0.5"/>
+</instantVitalEffect>
+<reactiveVitalEffect id="1879097864" name="Pack Hunters" appliedDescription="key:620800568:54354734" iconId="1090553784" baseFlags="6590" damageTypes="127" vitalTypes="1">
+<defender>
+<reactiveVital constant="-18.0" probability="1.0"/>
+</defender>
+</reactiveVitalEffect>
+<reactiveVitalEffect id="1879097867" name="Blood of Fire" description="key:620796452:181298206" appliedDescription="key:620796452:54354734" iconId="1091459331" baseFlags="6572" damageTypes="127" damageTypeOverride="1" vitalTypes="1">
+<attacker>
+<reactiveVital progressionID="1879060945" probability="1.0"/>
+</attacker>
+</reactiveVitalEffect>
+<propertyModEffect id="1879097869" name="Dying Rage" appliedDescription="key:620796455:54354734" iconId="1091456476" duration="15.0" baseFlags="4540">
+<stat name="MELEE_DAMAGE_PERCENTAGE" operator="MULTIPLY" constant="1.5"/>
+<stat name="CRITICAL_MELEE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+<stat name="PARRY_PERCENTAGE" constant="100.0"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="40.0"/>
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796455:106251893" value="(2,6,7,8,12,14,19,21)"/>
+</propertyModEffect>
+<countdownEffect id="1879097870" name="Fury's Price" appliedDescription="key:620796456:54354734" iconId="1091456476" duration="10.0" baseFlags="4540">
+<onExpire id="1879079637" name="Smite Player"/>
+</countdownEffect>
+<auraEffect id="1879097872" name="Born of Shadow[e]" iconId="1091417880" baseFlags="6204" type="2">
+<effect id="1879097876" name="Born of Shadow"/>
+</auraEffect>
+<propertyModEffect id="1879097875" name="Imposing Presence" appliedDescription="key:620796464:54354734" iconId="1091465870" duration="1800.0" pulseCount="1" baseFlags="4540">
+<stat name="MORALE" constant="250.0"/>
+<stat name="POWER" constant="50.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097876" name="Born of Shadow" appliedDescription="key:620796465:54354734" iconId="1091459329" baseFlags="6588">
+<stat name="Combat_MitigationPercentage_Light" constant="10.0"/>
+</propertyModEffect>
+<reactiveVitalEffect id="1879097877" name="Shadow Aura" description="key:620796466:181298206" appliedDescription="key:620796466:54354734" iconId="1090527700" baseFlags="6572" damageTypes="127" damageTypeOverride="32" vitalTypes="1">
+<attacker>
+<reactiveVital progressionID="1879060945" probability="1.0"/>
+</attacker>
+</reactiveVitalEffect>
 <propertyModEffect id="1879097882" name="Charge!" appliedDescription="key:620796470:54354734" iconId="1091405165" duration="8.0" baseFlags="4540">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="2.0"/>
-<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796470:106251890" value="(2,4,6,7,8,9,12,14,17)"/>
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796470:106251890" value="(1,2,4,6,7,8,9,12,14,17)"/>
 </propertyModEffect>
 <propertyModEffect id="1879097886" name="I See You!" appliedDescription="key:620796474:54354734" iconId="1091405156" duration="1800.0" baseFlags="4540">
 <stat name="Stealth_StealthDetectionLevelModifier" constant="4.0"/>
@@ -4828,6 +4869,66 @@
 <propertyModEffect id="1879097902" name="Heavy Webbing" appliedDescription="key:620796491:54354734" iconId="1090555726" duration="6.0" baseFlags="4542">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620796491:106251889" constant="0.6"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="MULTIPLY" descriptionOverride="-" constant="0.6"/>
+</propertyModEffect>
+<propertyModEffect id="1879097956" name="Immunity" appliedDescription="key:620796505:54354734" iconId="1090555733" duration="15.0" pulseCount="1" baseFlags="4540">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796505:106251889" value="(1,2,6,8,9,10,12,14,19,21)"/>
+</propertyModEffect>
+<instantVitalEffect id="1879097957" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange min="988.0" max="988.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879097958" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange min="1580.0" max="1580.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879097959" name="Restored Health" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange min="2822.0" max="2822.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879097960" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
+<vitalChange min="194.0" max="194.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879097961" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
+<vitalChange min="310.0" max="310.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879097962" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
+<vitalChange min="554.0" max="554.0"/>
+</instantVitalEffect>
+<propertyModEffect id="1879097963" name="Strengthened Hide" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Combat_Agent_Armor_Value" constant="50.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097964" name="Hardened Hide" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Combat_Agent_Armor_Value" constant="100.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097965" name="Troll-like Hide" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Combat_Agent_Armor_Value" constant="150.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097966" name="Quick Movements" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="EVADE_PERCENTAGE" constant="0.5"/>
+</propertyModEffect>
+<propertyModEffect id="1879097967" name="Fluid Movements" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="EVADE_PERCENTAGE" constant="1.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097968" name="Elusive Movements" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="EVADE_PERCENTAGE" constant="1.5"/>
+</propertyModEffect>
+<propertyModEffect id="1879097969" name="Speed of the Wolf" iconId="1090555733" duration="900.0" baseFlags="4540">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.1"/>
+</propertyModEffect>
+<propertyModEffect id="1879097970" name="Speed of the Warg" iconId="1090555733" duration="900.0" baseFlags="4540">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.15"/>
+</propertyModEffect>
+<propertyModEffect id="1879097971" name="Speed of the Pack" iconId="1090555733" duration="900.0" baseFlags="4540">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" constant="1.2"/>
+</propertyModEffect>
+<propertyModEffect id="1879097972" name="Mazauk's Blessing" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Resist_Additional_Resistance_Fear" constant="0.5"/>
+</propertyModEffect>
+<propertyModEffect id="1879097973" name="Mazauk's Grace" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Resist_Additional_Resistance_Fear" constant="2.5"/>
+</propertyModEffect>
+<propertyModEffect id="1879097974" name="Gorgoris' Blessing" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Resist_Additional_Resistance_Poison" constant="0.5"/>
+</propertyModEffect>
+<propertyModEffect id="1879097975" name="Gorgoris' Grace" iconId="1090555733" duration="1800.0" baseFlags="4540">
+<stat name="Resist_Additional_Resistance_Poison" constant="2.5"/>
 </propertyModEffect>
 <reactiveVitalEffect id="1879098038" name="Disperse Shadow" description="key:620796679:181298206" appliedDescription="key:620796679:54354734" iconId="1091399282" duration="900.0" baseFlags="4524" damageTypes="32" vitalTypes="1">
 <defender>
@@ -5127,4 +5228,28 @@
 <stat name="AI_Hints" descriptionOverride="-" value="(1)"/>
 </propertyModEffect>
 <effect id="1879102280" name="Falcon Cry" baseFlags="4124"/>
+<instantVitalEffect id="1879102518" name="Increased Morale" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange min="350.0" max="350.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879102519" name="Increased Morale" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange min="380.0" max="380.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879102520" name="Increased Morale" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange min="410.0" max="410.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879102521" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
+<vitalChange min="325.0" max="325.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879102522" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
+<vitalChange min="355.0" max="355.0"/>
+</instantVitalEffect>
+<instantVitalEffect id="1879102523" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
+<vitalChange min="380.0" max="380.0"/>
+</instantVitalEffect>
+<induceCombatState id="1879103773" name="Induce Rooted" description="key:620801140:181298206" baseFlags="4126"/>
+<flagEffect id="1879103782" name="Eyes of Unnerving" appliedDescription="key:620801145:54354734" iconId="1091424050" baseFlags="6572"/>
+<propertyModEffect id="1879103966" name="Immunity" appliedDescription="key:620801689:54354734" iconId="1090541176" duration="15.0" baseFlags="4540">
+<stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620801689:106251890" value="(2,4,6,7,8,9,12,14,17)"/>
+</propertyModEffect>
+<effect id="1879117443" name="Dying Rage" appliedDescription="key:620811020:54354734" baseFlags="4124"/>
 </effects>

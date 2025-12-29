@@ -1293,6 +1293,14 @@
 <label key="1879097785" value="Summon Worm"/>
 <label key="1879097826" value="Fire Ball"/>
 <label key="1879097828" value="Bursting Flame"/>
+<label key="1879097861" value="Get a Grip!"/>
+<label key="1879097863" value="Pack Hunters"/>
+<label key="1879097865" value="Eyes of Unnerving"/>
+<label key="1879097866" value="Blood of Fire"/>
+<label key="1879097868" value="Dying Rage"/>
+<label key="1879097871" value="Born of Shadow"/>
+<label key="1879097873" value="Shelob's Gift"/>
+<label key="1879097874" value="Imposing Presence"/>
 <label key="1879097878" value="Tendon Shred"/>
 <label key="1879097879" value="Eye Rake"/>
 <label key="1879097880" value="Charge!"/>
@@ -1359,6 +1367,7 @@
 <label key="1879102223" value="Lore-master's Bane"/>
 <label key="1879102224" value="Gurthul's Retribution"/>
 <label key="1879102439" value="Final Throw"/>
+<label key="1879102630" value="Super Heal"/>
 <label key="key:620757890:228830419" value="This skill is a fast version of stealth."/>
 <label key="key:620759186:228830419" value="After using your Double-edged Strike, you can make a pair of powerful attack against your target."/>
 <label key="key:620759211:228830419" value="After using your Double-edged Strike, you make an attack which inflicts high damage, with a chance of creating a 6s opportunity to use Fellowship skills if you are in a Fellowship."/>
@@ -1938,6 +1947,14 @@
 <label key="key:620795938:228830419" value="Your understanding of the speech of cat allows you to call one to make the dark times a little brighter."/>
 <label key="key:620795997:228830419" value="Your understanding of the speech of turtle allows you to call one to make the dark times a little brighter."/>
 <label key="key:620796000:228830419" value="With some careful thought, the Lore-master can restore a fallen comrade to fighting trim, reviving a defeated ally at a small cost of fragrant herbs."/>
+<label key="key:620796444:228830419" value="As an Uruk you are adept at whipping those lesser beasts in Sauron's army back into shape."/>
+<label key="key:620796447:228830419" value="Wargs are pack hunters. You can target a foe and increase the damage dealt by all members of your war party."/>
+<label key="key:620796449:228830419" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
+<label key="key:620796451:228830419" value="Rage seething beneath the surface of your flesh takes on a physical manifestation and any daring to attack you will feel the wrath of the orcs!"/>
+<label key="key:620796454:228830419" value="When death nears, you gain the ability to call on the power of your blood and become a powerful force of destruction before your flame is extinguished. Most offensive skills are reset when this skill is activated."/>
+<label key="key:620796458:228830419" value="Your heritage extends to the fabric of shadow and you harness a piece of that black energy to damage foes who trespass near you."/>
+<label key="key:620796461:228830419" value="Your ancestry affords you incredible powers of recovery. After successfully defeating an opponent you can immediately drain them of vitality and restore your health."/>
+<label key="key:620796463:228830419" value="Your presence inspires those around you to greater strength; mostly through fear."/>
 <label key="key:620796467:228830419" value="Your teeth bite deeply of your foe, tearing a tendon and opening a chance for a warband manoeuver."/>
 <label key="key:620796468:228830419" value="A swift swipe meant for the eyes breaks your opponent's concentration."/>
 <label key="key:620796469:228830419" value="When the time comes to enter the fray it falls to the orcs to break battle lines. You gain a short immunity to root, stun and daze effects. Your speed increases for a brief period of time."/>

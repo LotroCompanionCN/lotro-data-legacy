@@ -485,6 +485,16 @@
 <label key="268442489" value="Rally Skill Recharger"/>
 <label key="268442490" value="Song Skill Recharge"/>
 <label key="268442491" value="Song Skill Recharge"/>
+<label key="268442658" value="Low Cut Duration"/>
+<label key="268442659" value="Hide In Plain Sight Recovery Time"/>
+<label key="268442663" value="Last Stand Recovery Time"/>
+<label key="268442666" value="Healing Power Cost"/>
+<label key="268442668" value="Hamstring Duration"/>
+<label key="268442670" value="Test of Will Critical Chance"/>
+<label key="268442673" value="Turn the Tables Recovery Time"/>
+<label key="268442674" value="Thrill of Danger Recovery Time"/>
+<label key="268442679" value="Heart Seeker Recovery Time"/>
+<label key="268442916" value="Can not be detected"/>
 <label key="legacy:268435993" value="Cook Critical Chance"/>
 <label key="legacy:268436396" value="Forester Chopping Duration (s)"/>
 <label key="legacy:268436462" value="Weaponsmith Critical Chance"/>
