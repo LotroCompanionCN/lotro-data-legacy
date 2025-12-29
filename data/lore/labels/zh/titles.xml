@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="zh">
+<label key="1879051517" value="荣誉治安官"/>
+<label key="1879054954" value="学者学徒"/>
+<label key="1879054955" value="精英级学者学徒"/>
+<label key="1879054964" value="见习学者"/>
+<label key="1879054965" value="精英级见习学者"/>
+<label key="1879054972" value="中级学者"/>
+<label key="1879054973" value="精英级中级学者"/>
+<label key="1879054982" value="高级学者"/>
+<label key="1879054983" value="精英级高级学者"/>
+<label key="1879054990" value="学者大师"/>
+<label key="1879054991" value="精英级学者大师"/>
+<label key="1879055087" value="冶炼师学徒"/>
+<label key="1879055088" value="精英级冶炼师学徒"/>
+<label key="1879055100" value="见习冶炼师"/>
+<label key="1879055101" value="精英级见习冶炼师"/>
+<label key="1879055114" value="中级冶炼师"/>
+<label key="1879055115" value="精英级中级冶炼师"/>
+<label key="1879055129" value="高级冶炼师"/>
+<label key="1879055130" value="精英级高级冶炼师"/>
+<label key="1879055144" value="冶炼大师"/>
+<label key="1879055145" value="精英级冶炼大师"/>
+<label key="1879055309" value="珠宝匠学徒"/>
+<label key="1879055310" value="精英级珠宝匠学徒"/>
+<label key="1879055319" value="见习珠宝匠"/>
+<label key="1879055320" value="精英级见习珠宝匠"/>
+<label key="1879055329" value="中级珠宝匠"/>
+<label key="1879055330" value="精英级中级珠宝匠"/>
+<label key="1879055339" value="高级珠宝匠"/>
+<label key="1879055340" value="精英级高级珠宝匠"/>
+<label key="1879055348" value="珠宝大师"/>
+<label key="1879055349" value="精英级珠宝大师"/>
+<label key="1879055486" value="裁缝学徒"/>
+<label key="1879055487" value="精英级裁缝学徒"/>
+<label key="1879055504" value="见习裁缝"/>
+<label key="1879055505" value="精英级见习裁缝"/>
+<label key="1879055523" value="中级裁缝"/>
+<label key="1879055524" value="精英级中级裁缝"/>
+<label key="1879055543" value="高级裁缝"/>
+<label key="1879055544" value="精英级高级裁缝"/>
+<label key="1879055563" value="裁缝大师"/>
+<label key="1879055564" value="精英级裁缝大师"/>
+<label key="1879055785" value="锻造师学徒"/>
+<label key="1879055786" value="精英级锻造师学徒"/>
+<label key="1879055796" value="见习锻造师"/>
+<label key="1879055797" value="精英级见习锻造师"/>
+<label key="1879055808" value="中级锻造师"/>
+<label key="1879055809" value="精英级中级锻造师"/>
+<label key="1879055821" value="高级锻造师"/>
+<label key="1879055822" value="精英级高级锻造师"/>
+<label key="1879055834" value="锻造大师"/>
+<label key="1879055835" value="精英级锻造大师"/>
+<label key="1879055949" value="木工学徒"/>
+<label key="1879055950" value="精英级木工学徒"/>
+<label key="1879055960" value="见习木工"/>
+<label key="1879055961" value="精英级见习木工"/>
+<label key="1879055972" value="中级木工"/>
+<label key="1879055973" value="精英级中级木工"/>
+<label key="1879055985" value="高级木工"/>
+<label key="1879055986" value="精英级高级木工"/>
+<label key="1879055998" value="木工大师"/>
+<label key="1879055999" value="精英级木工大师"/>
+<label key="1879061261" value=" 厨师学徒"/>
+<label key="1879061262" value="精英级厨师学徒"/>
+<label key="1879061272" value="见习厨师"/>
+<label key="1879061273" value="精英级见习厨师"/>
+<label key="1879061284" value="中级厨师"/>
+<label key="1879061285" value="精英级中级厨师"/>
+<label key="1879061296" value="高级厨师"/>
+<label key="1879061297" value="精英级高级厨师"/>
+<label key="1879061308" value="厨艺大师"/>
+<label key="1879061309" value="精英级厨艺大师"/>
+<label key="1879062820" value="勘探师学徒"/>
+<label key="1879062821" value="精英级勘探师学徒"/>
+<label key="1879062826" value="见习勘探师"/>
+<label key="1879062827" value="精英级见习勘探师"/>
+<label key="1879062833" value="中级勘探师"/>
+<label key="1879062834" value="精英级中级勘探师"/>
+<label key="1879062841" value="高级勘探师"/>
+<label key="1879062842" value="精英级高级勘探师"/>
+<label key="1879062849" value="勘探大师"/>
+<label key="1879062850" value="精英级勘探大师"/>
+<label key="1879062871" value="伐木工学徒"/>
+<label key="1879062872" value="精英级伐木工学徒"/>
+<label key="1879062877" value="见习伐木工"/>
+<label key="1879062878" value="精英级见习伐木工"/>
+<label key="1879062883" value="中级伐木工"/>
+<label key="1879062884" value="精英级中级伐木工"/>
+<label key="1879062889" value="高级伐木工"/>
+<label key="1879062890" value="精英级高级伐木工"/>
+<label key="1879062895" value="伐木大师"/>
+<label key="1879062896" value="精英级伐木大师"/>
+<label key="1879062910" value="农夫学徒"/>
+<label key="1879062911" value="精英级农夫学徒"/>
+<label key="1879062923" value="见习农夫"/>
+<label key="1879062924" value="精英级见习农夫"/>
+<label key="1879062933" value="中级农夫"/>
+<label key="1879062934" value="精英级中级农夫"/>
+<label key="1879062943" value="高级农夫"/>
+<label key="1879062944" value="精英级高级农夫"/>
+<label key="1879062950" value="农艺大师"/>
+<label key="1879062951" value="精英级农艺大师"/>
+<label key="1879071845" value="，万人迷"/>
+<label key="1879071848" value="，小古怪"/>
+<label key="1879071851" value="，心肝宝贝"/>
+<label key="1879071854" value="，倒霉蛋"/>
+<label key="1879071857" value="，笑柄"/>
+<label key="1879071860" value="，沉闷乏味"/>
+<label key="1879071927" value="，热心肠"/>
+<label key="1879071930" value="，讨厌鬼"/>
+<label key="1879071932" value="，受辱者"/>
+<label key="1879071934" value="，凶神恶煞"/>
+<label key="1879071937" value="，淘气鬼"/>
+<label key="1879071940" value="，常胜将军"/>
+<label key="1879071942" value="早餐专家"/>
+<label key="1879071945" value="肉食爱好者"/>
+<label key="1879071947" value="馅饼专家"/>
+<label key="1879071949" value="素食者"/>
+<label key="1879071951" value="，机警高手"/>
+<label key="1879071953" value="，不败高手"/>
+<label key="1879071955" value="，不屈高手"/>
+<label key="1879071957" value="，无恙高手"/>
+<label key="1879071959" value="，不灭高手"/>
+<label key="1879072112" value="古墓岗猎手"/>
+<label key="1879072115" value="守路人"/>
+<label key="1879072118" value="除根者"/>
+<label key="1879072121" value="碎壳者"/>
+<label key="1879072124" value="布雷兰卫士"/>
+<label key="1879072127" value="，灭蝇者"/>
+<label key="1879072130" value="，蜘蛛仇敌"/>
+<label key="1879072133" value="，古墓清扫者"/>
+<label key="1879072136" value="，沼泽猎手"/>
+<label key="1879072139" value="，僵尸的敌人"/>
+<label key="1879072142" value="，哥布林杀手"/>
+<label key="1879072145" value="，孤土战士"/>
+<label key="1879072148" value="，蜘蛛毁灭者"/>
+<label key="1879072151" value="，座狼猎手"/>
+<label key="1879072155" value="，哥布林杀戮者"/>
+<label key="1879072158" value="，北岗的英雄"/>
+<label key="1879072161" value="，夜之敌"/>
+<label key="1879072164" value="，巨魔猎手"/>
+<label key="1879072167" value="，座狼死敌"/>
+<label key="1879072170" value="，地龙杀手"/>
+<label key="1879072173" value="边境警卫之友"/>
+<label key="1879072176" value="夏尔保卫者"/>
+<label key="1879072179" value="庄稼救星"/>
+<label key="1879072182" value="灭虫英雄"/>
+<label key="1879072185" value="灭蛛英雄"/>
+<label key="1879072188" value="灭狼英雄"/>
+<label key="1879072191" value="，大厅保卫者"/>
+<label key="1879072194" value="埃雷德鲁因卫士"/>
+<label key="1879072197" value="魔鹰死敌"/>
+<label key="1879072200" value="，蛛网绞杀者"/>
+<label key="1879072203" value="，驯狼者"/>
+<label key="1879072206" value="安格玛的末日"/>
+<label key="1879072209" value="兽人死敌"/>
+<label key="1879072212" value="食人魔死敌"/>
+<label key="1879072215" value="安格玛的督军"/>
+<label key="1879072218" value=" 利牙之主"/>
+<label key="1879072221" value="被诅咒者的命运"/>
+<label key="1879072224" value="地龙的厄运"/>
+<label key="1879072228" value="，斗熊者"/>
+<label key="1879072231" value="，巨人死敌"/>
+<label key="1879072234" value="，雪怪猎手"/>
+<label key="1879072237" value="，巨魔征服者"/>
+<label key="1879072240" value="，座狼猎手"/>
+<label key="1879072243" value="，地龙死敌"/>
+<label key="1879072247" value="，坚壳粉碎者"/>
+<label key="1879072250" value="，巨人杀手"/>
+<label key="1879072253" value="，巨魔杀手"/>
+<label key="1879072256" value="，净化者"/>
+<label key="1879072259" value="，尾刃"/>
+<label key="1879072262" value="，地龙砍杀者"/>
+<label key="1879072265" value="新手"/>
+<label key="1879072267" value="勇士"/>
+<label key="1879072269" value="老手"/>
+<label key="1879072271" value="作战能手"/>
+<label key="1879072273" value="督军"/>
+<label key="1879072275" value="伊顿荒原的英雄"/>
+<label key="1879072277" value="传奇英雄"/>
+<label key="1879072279" value="黑箭的死敌"/>
+<label key="1879072281" value="黑箭的敌人"/>
+<label key="1879072283" value="黑箭的杀戮者"/>
+<label key="1879072285" value="黑箭的心腹大患"/>
+<label key="1879072287" value="黑箭的死刑执行人"/>
+<label key="1879072289" value="，掠夺者的死敌"/>
+<label key="1879072291" value="，掠夺者的敌人"/>
+<label key="1879072293" value="，掠夺者的杀戮者"/>
+<label key="1879072295" value="，掠夺者的心腹大患"/>
+<label key="1879072297" value="，掠夺者的终结"/>
+<label key="1879072299" value="，诅咒者的死敌"/>
+<label key="1879072301" value="，诅咒者的敌人"/>
+<label key="1879072303" value="，诅咒者杀手"/>
+<label key="1879072305" value="，诅咒者的心腹大患"/>
+<label key="1879072307" value="诅咒者的厄运"/>
+<label key="1879072309" value="，潜行者的死敌"/>
+<label key="1879072311" value="，潜行者的敌人"/>
+<label key="1879072313" value="，潜行者杀手"/>
+<label key="1879072315" value="，潜行者的心腹大患"/>
+<label key="1879072317" value="，潜行者的毁灭之神"/>
+<label key="1879072319" value="，战争头领的死敌"/>
+<label key="1879072321" value="，战争头领的敌人"/>
+<label key="1879072323" value="，战争头领杀手"/>
+<label key="1879072325" value="，战争头领劲敌"/>
+<label key="1879072327" value="，战争头领的末日"/>
+<label key="1879072329" value="，织网者的死敌"/>
+<label key="1879072331" value="，织网者的敌人"/>
+<label key="1879072333" value="，织网者的杀手"/>
+<label key="1879072335" value="，织网者的心腹大患"/>
+<label key="1879072337" value="，织网者的灭绝者"/>
+<label key="1879072343" value="，托拉斯卡南的征服者"/>
+<label key="1879072349" value="，达尔戈扎格的征服者"/>
+<label key="1879072355" value="，双塔征服者"/>
+<label key="1879072363" value="，伊顿荒原的征服者"/>
+<label key="1879072365" value="夏尔酿酒专家"/>
+<label key="1879072996" value="，创立者"/>
+<label key="1879072997" value="，领袖"/>
+<label key="1879072998" value="官员"/>
+<label key="1879072999" value="，家族女子 / 家族男子"/>
+<label key="1879073639" value="布雷兰人"/>
+<label key="1879073640" value="戴尔人"/>
+<label key="1879073641" value="刚铎人"/>
+<label key="1879073642" value="罗翰人"/>
+<label key="1879073643" value="法洛海德族"/>
+<label key="1879073644" value="哈福特族"/>
+<label key="1879073645" value="斯图尔族"/>
+<label key="1879073646" value="铁山矮人"/>
+<label key="1879073647" value="孤山矮人"/>
+<label key="1879073648" value="蓝山矮人"/>
+<label key="1879073649" value="灰山矮人"/>
+<label key="1879073650" value="白山矮人"/>
+<label key="1879073651" value="林顿精灵"/>
+<label key="1879073652" value="萝林精灵"/>
+<label key="1879073653" value="幽暗密林的"/>
+<label key="1879073654" value="瑞文戴尔精灵"/>
+<label key="1879073655" value="埃德海隆德的"/>
+<label key="1879073764" value="的儿子 / 女儿"/>
+<label key="1879073765" value="的继子 / 继女"/>
+<label key="1879073766" value="的父亲 / 母亲"/>
+<label key="1879073767" value="的父亲 / 母亲"/>
+<label key="1879073768" value="的继父 / 继母"/>
+<label key="1879073769" value="的继父 / 继母"/>
+<label key="1879073770" value="的丈夫 / 妻子"/>
+<label key="1879074181" value="，父亲"/>
+<label key="1879074182" value="，首领"/>
+<label key="1879074183" value="管家"/>
+<label key="1879074184" value="，家族女子 / 家族男子"/>
+<label key="1879074186" value="，埃尼奥"/>
+<label key="1879074187" value="，图尔"/>
+<label key="1879074188" value="，考恩"/>
+<label key="1879074189" value="，家族女子 / 家族男子"/>
+<label key="1879074191" value="，创立者"/>
+<label key="1879074192" value="，长者"/>
+<label key="1879074193" value="，导师"/>
+<label key="1879074194" value="，家族女子 / 家族男子"/>
+<label key="1879074196" value="，创立者"/>
+<label key="1879074197" value="，长官"/>
+<label key="1879074198" value="，首领"/>
+<label key="1879074199" value="，家族女子 / 家族男子"/>
+<label key="1879077125" value="魔迪里斯的宠臣"/>
+<label key="1879077131" value="伦戴尔的征服者"/>
+<label key="1879077133" value="，托拉斯卡南的征服者"/>
+<label key="1879077135" value="，双塔征服者"/>
+<label key="1879077137" value="告密者的杀手"/>
+<label key="1879077139" value="，刺客的杀戮者"/>
+<label key="1879077141" value="刺客的打击者"/>
+<label key="1879077143" value="，刺客的心腹大患"/>
+<label key="1879077145" value="骗子的克星"/>
+<label key="1879077147" value="旗手的对头"/>
+<label key="1879077149" value="旗手的杀戮者"/>
+<label key="1879077151" value="旗手的毁灭者"/>
+<label key="1879077153" value="军令的克星"/>
+<label key="1879077155" value="领袖的清除者"/>
+<label key="1879077157" value="战士的对头"/>
+<label key="1879077159" value="战士的杀戮者"/>
+<label key="1879077161" value="折剑者"/>
+<label key="1879077163" value="勇气的克星"/>
+<label key="1879077165" value="英雄的末日"/>
+<label key="1879077167" value="盾卫者杀手"/>
+<label key="1879077169" value="哨兵的杀戮者"/>
+<label key="1879077171" value="盾牌的击碎者"/>
+<label key="1879077173" value="盾卫者的心腹大患"/>
+<label key="1879077175" value="城堡的的末日"/>
+<label key="1879077177" value="猎人杀手"/>
+<label key="1879077179" value="侦察兵的克星"/>
+<label key="1879077181" value="长弓的劈裂者"/>
+<label key="1879077183" value="猎手的心腹大患"/>
+<label key="1879077185" value="，弓箭手的末日"/>
+<label key="1879077187" value="贤者的对头"/>
+<label key="1879077189" value="智者的杀戮者"/>
+<label key="1879077191" value="法杖的毁灭者"/>
+<label key="1879077193" value="智者的心腹大患"/>
+<label key="1879077195" value="博学者的灾难"/>
+<label key="1879077197" value="，吟游诗人的对头"/>
+<label key="1879077199" value="，吟游诗人的杀戮者"/>
+<label key="1879077201" value="，乐器的毁灭者"/>
+<label key="1879077203" value="，吟游诗人的心腹大患"/>
+<label key="1879077205" value="，歌声的制止者"/>
+<label key="1879079012" value="吃馅饼冠军"/>
+<label key="1879082937" value="冈德兹奥尔的苦工"/>
+<label key="1879082940" value="冈德兹奥尔的奴才"/>
+<label key="1879082943" value="冈德兹奥尔的拳头"/>
+<label key="1879082946" value="布尔兹高斯的奴仆"/>
+<label key="1879082949" value="布尔兹高斯的马屁精"/>
+<label key="1879082952" value="布尔兹高斯的谄媚者"/>
+<label key="1879082955" value="萨比尔的奴才"/>
+<label key="1879082958" value="萨比尔的哈巴狗"/>
+<label key="1879082961" value="萨比尔的马鞭"/>
+<label key="1879082964" value="巴拉氏石的仆人"/>
+<label key="1879082967" value="巴拉氏石的猎狗"/>
+<label key="1879082970" value="巴拉氏石的利刃"/>
+<label key="1879082973" value="垂恩特鲁的讨好者"/>
+<label key="1879082976" value="垂恩特鲁的谄媚者"/>
+<label key="1879082979" value="，垂恩特鲁的哈巴狗"/>
+<label key="1879083984" value="送馅饼者"/>
+<label key="1879083985" value="最佳邮递员"/>
+<label key="1879083996" value="，末日之手"/>
+<label key="1879083997" value="精灵的杀戮者"/>
+<label key="1879083998" value="英武的敌人"/>
+<label key="1879083999" value="，人类的死敌"/>
+<label key="1879084000" value="霍比特人的心腹大患"/>
+<label key="1879084001" value="，光明的杀戮者"/>
+<label key="1879084002" value="精灵的心腹大患"/>
+<label key="1879084003" value="矮人的克星"/>
+<label key="1879084004" value="，战争指挥官"/>
+<label key="1879084005" value="霍比特人的杀戮者"/>
+<label key="1879084006" value="，占卜师"/>
+<label key="1879084007" value="，黑暗的先导"/>
+<label key="1879084008" value="矮人的抛掷者"/>
+<label key="1879084009" value="，酋长"/>
+<label key="1879084010" value="追踪者"/>
+<label key="1879084011" value="，西方的心腹大患"/>
+<label key="1879084012" value="矮人的心腹大患"/>
+<label key="1879084013" value="，野战指挥官"/>
+<label key="1879084014" value="霍比特人的死敌"/>
+<label key="1879084015" value="，哨兵"/>
+<label key="1879084016" value="矮人的死敌"/>
+<label key="1879084017" value="，荣誉的敌人"/>
+<label key="1879084018" value="，人类的灾难"/>
+<label key="1879084019" value="精灵的对头"/>
+<label key="1879084020" value="头领"/>
+<label key="1879084021" value="，人类的剥皮者"/>
+<label key="1879084022" value="，步兵"/>
+<label key="1879084023" value="，步兵"/>
+<label key="1879084024" value="，迫害者"/>
+<label key="1879084025" value="，人类的杀戮者"/>
+<label key="1879084027" value="，战斗指挥官"/>
+<label key="1879084028" value="先祖"/>
+<label key="1879084029" value="，好战者"/>
+<label key="1879084030" value="，步兵"/>
+<label key="1879084032" value="监督者"/>
+<label key="1879084033" value="，黑箭收获者"/>
+<label key="1879084034" value="优雅的的敌人"/>
+<label key="1879084035" value="霍比特人的灾难"/>
+<label key="1879084036" value="，督导"/>
+<label key="1879084037" value="，步兵"/>
+<label key="1879084038" value="，黑犬"/>
+<label key="1879084039" value="精灵的灾难"/>
+<label key="1879084040" value="淳朴的敌人"/>
+<label key="1879084198" value="埃里阿多尔守望者"/>
+<label key="1879084199" value="埃里阿多尔大元帅"/>
+<label key="1879084200" value="埃里阿多尔摄政王"/>
+<label key="1879084408" value="安格玛的仆人"/>
+<label key="1879086560" value="黑暗力量之光"/>
+<label key="1879087032" value="墓穴守卫"/>
+<label key="1879087033" value="守秘者"/>
+<label key="1879087034" value="高瑞丹杀手"/>
+<label key="1879087035" value="，巨人之敌"/>
+<label key="1879087036" value="哥布林之敌"/>
+<label key="1879087037" value="地穴怪死敌"/>
+<label key="1879087038" value="灭焰者"/>
+<label key="1879088050" value="酒馆联盟成员"/>
+<label key="1879088137" value="飞羽冠军"/>
+<label key="1879088138" value="赶鸡王"/>
+<label key="1879088665" value="再生索龙的末日"/>
+<label key="1879088666" value="米尔达南特的索求者"/>
+<label key="1879088667" value="四奴仆杀手"/>
+<label key="1879088668" value="，克库尔的敌人"/>
+<label key="1879088669" value="安格玛的敌人"/>
+<label key="1879088670" value="，用毒高手"/>
+<label key="1879088671" value="饶都之恨"/>
+<label key="1879088672" value="，饶都征服者"/>
+<label key="1879088673" value="斯多瓦刚终结者"/>
+<label key="1879088674" value="，巨人追债者"/>
+<label key="1879088675" value="龙巢袭击者"/>
+<label key="1879088676" value="，无私者"/>
+<label key="1879093986" value="惩恶判官"/>
+<label key="1879093987" value="，邪灵惩罚者"/>
+<label key="1879093988" value="清巢猎手"/>
+<label key="1879093989" value="，墓穴挖掘者"/>
+<label key="1879093990" value="野兽大师"/>
+<label key="1879093991" value="萨满的心腹大患"/>
+<label key="1879093992" value="萨姆尔的复仇者"/>
+<label key="1879093993" value="，巨魔杀手"/>
+<label key="1879094070" value="，愚钝者"/>
+<label key="1879094073" value="，规章制度的公仆"/>
+<label key="1879094074" value="，鸡行者"/>
+<label key="1879098910" value="野性之友"/>
+<label key="1879099327" value="飞禽毁灭者"/>
+<label key="1879099328" value="，巨魔克星"/>
+<label key="1879101828" value="歌谣导师"/>
+<label key="1879101829" value="歌谣楷模"/>
+<label key="1879101834" value="，索尔拉奇征服者"/>
+<label key="1879101835" value="断锁征服者"/>
+<label key="1879101836" value="斯朗终结者"/>
+<label key="1879101837" value="埃尔德冈的拯救者"/>
+<label key="1879101993" value="一线希望"/>
+<label key="1879115183" value="，仁慈的杀手"/>
+<label key="1879115186" value="安努米纳斯保卫者"/>
+<label key="1879115188" value="安努米纳斯保护神"/>
+<label key="1879115190" value="，正义战士"/>
+<label key="1879115192" value="，无畏勇士"/>
+<label key="1879115197" value="安努米纳斯卫士"/>
+<label key="1879115229" value="沦陷之城的游侠"/>
+<label key="1894514704" value="探险家"/>
+<label key="1894514705" value="欧洛米长矛"/>
+<label key="1894514706" value="博学者"/>
+<label key="1894514707" value="势不可挡"/>
+<label key="1894514708" value="诺伯利解放者"/>
+<label key="1894514709" value="少女救星"/>
+<label key="1894514710" value="萨姆布罗格死敌"/>
+<label key="1894514711" value="光予者"/>
+<label key="1894514712" value="不败者"/>
+<label key="1894514713" value="疯子"/>
+<label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 荣誉治安官"/>
+<label key="key:620758793:175532558" value="你给夏尔的边境警卫帮了大忙了，你被授予荣誉治安官称号。"/>
+<label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 学者学徒"/>
+<label key="key:620761098:175532558" value="你已成为学者学徒。"/>
+<label key="key:620761099:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级学者学徒"/>
+<label key="key:620761099:175532558" value="你已成为精英级学者学徒。"/>
+<label key="key:620761114:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习学者"/>
+<label key="key:620761114:175532558" value="你已成为见习学者。"/>
+<label key="key:620761115:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习学者"/>
+<label key="key:620761115:175532558" value="你已成为精英级见习学者。"/>
+<label key="key:620761120:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级学者"/>
+<label key="key:620761120:175532558" value="你已成为中级学者。"/>
+<label key="key:620761121:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级学者"/>
+<label key="key:620761121:175532558" value="你已成为精英级中级学者。"/>
+<label key="key:620761132:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级学者"/>
+<label key="key:620761132:175532558" value="你已成为高级学者。"/>
+<label key="key:620761133:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级学者"/>
+<label key="key:620761133:175532558" value="你已成为精英级高级学者。"/>
+<label key="key:620761138:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 学者大师"/>
+<label key="key:620761138:175532558" value="你已成为学者大师。"/>
+<label key="key:620761139:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级学者大师"/>
+<label key="key:620761139:175532558" value="你已成为精英级学者大师。"/>
+<label key="key:620761184:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 冶炼师学徒"/>
+<label key="key:620761184:175532558" value="你已成为冶炼师学徒。"/>
+<label key="key:620761185:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级冶炼师学徒"/>
+<label key="key:620761185:175532558" value="你已成为精英级冶炼师学徒。"/>
+<label key="key:620761203:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习冶炼师"/>
+<label key="key:620761203:175532558" value="你已成为见习冶炼师。"/>
+<label key="key:620761204:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习冶炼师"/>
+<label key="key:620761204:175532558" value="你已成为精英级见习冶炼师。"/>
+<label key="key:620761222:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级冶炼师"/>
+<label key="key:620761222:175532558" value="你已成为中级冶炼师。"/>
+<label key="key:620761223:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级冶炼师"/>
+<label key="key:620761223:175532558" value="你已成为精英级中级冶炼师。"/>
+<label key="key:620761242:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级冶炼师"/>
+<label key="key:620761242:175532558" value="你已成为高级冶炼师。"/>
+<label key="key:620761243:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级冶炼师"/>
+<label key="key:620761243:175532558" value="你已成为精英级高级冶炼师。"/>
+<label key="key:620761262:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 冶炼大师"/>
+<label key="key:620761262:175532558" value="你已成为冶炼大师。"/>
+<label key="key:620761263:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级冶炼大师"/>
+<label key="key:620761263:175532558" value="你已成为精英级冶炼大师。"/>
+<label key="key:620761356:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 珠宝匠学徒"/>
+<label key="key:620761356:175532558" value="你已成为珠宝匠学徒。"/>
+<label key="key:620761357:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级珠宝匠学徒"/>
+<label key="key:620761357:175532558" value="你已成为精英级珠宝匠学徒。"/>
+<label key="key:620761368:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习珠宝匠"/>
+<label key="key:620761368:175532558" value="你已成为见习珠宝匠。"/>
+<label key="key:620761369:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习珠宝匠"/>
+<label key="key:620761369:175532558" value="你已成为精英级见习珠宝匠。"/>
+<label key="key:620761380:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级珠宝匠"/>
+<label key="key:620761380:175532558" value="你已成为中级珠宝匠。"/>
+<label key="key:620761381:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级珠宝匠"/>
+<label key="key:620761381:175532558" value="你已成为精英级中级珠宝匠。"/>
+<label key="key:620761391:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级珠宝匠"/>
+<label key="key:620761391:175532558" value="你已成为高级珠宝匠。"/>
+<label key="key:620761392:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级珠宝匠"/>
+<label key="key:620761392:175532558" value="你已成为精英级高级珠宝匠。"/>
+<label key="key:620761402:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 珠宝大师"/>
+<label key="key:620761402:175532558" value="你已成为珠宝大师。"/>
+<label key="key:620761403:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级珠宝大师"/>
+<label key="key:620761403:175532558" value="你已成为精英级珠宝大师。"/>
+<label key="key:620761491:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 裁缝学徒"/>
+<label key="key:620761491:175532558" value="你已成为裁缝学徒。"/>
+<label key="key:620761492:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级裁缝学徒"/>
+<label key="key:620761492:175532558" value="你已成为精英级裁缝学徒。"/>
+<label key="key:620761519:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习裁缝"/>
+<label key="key:620761519:175532558" value="你已成为见习裁缝。"/>
+<label key="key:620761520:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习裁缝"/>
+<label key="key:620761520:175532558" value="你已成为精英级见习裁缝。"/>
+<label key="key:620761547:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级裁缝"/>
+<label key="key:620761547:175532558" value="你已成为中级裁缝。"/>
+<label key="key:620761548:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级裁缝"/>
+<label key="key:620761548:175532558" value="你已成为精英级中级裁缝。"/>
+<label key="key:620761575:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级裁缝"/>
+<label key="key:620761575:175532558" value="你已成为高级裁缝。"/>
+<label key="key:620761576:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级裁缝"/>
+<label key="key:620761576:175532558" value="你已成为精英级高级裁缝。"/>
+<label key="key:620761605:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 裁缝大师"/>
+<label key="key:620761605:175532558" value="你已成为裁缝大师。"/>
+<label key="key:620761606:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级裁缝大师"/>
+<label key="key:620761606:175532558" value="你已成为精英级裁缝大师。"/>
+<label key="key:620761694:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 锻造师学徒"/>
+<label key="key:620761694:175532558" value="你已成为锻造师学徒。"/>
+<label key="key:620761695:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级锻造师学徒"/>
+<label key="key:620761695:175532558" value="你已成为精英级锻造师学徒。"/>
+<label key="key:620761710:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习锻造师"/>
+<label key="key:620761710:175532558" value="你已成为见习锻造师。"/>
+<label key="key:620761711:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习锻造师"/>
+<label key="key:620761711:175532558" value="你已成为精英级见习锻造师。"/>
+<label key="key:620761725:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级锻造师"/>
+<label key="key:620761725:175532558" value="你已成为中级锻造师。"/>
+<label key="key:620761726:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级锻造师"/>
+<label key="key:620761726:175532558" value="你已成为精英级中级锻造师。"/>
+<label key="key:620761741:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级锻造师"/>
+<label key="key:620761741:175532558" value="你已成为高级锻造师。"/>
+<label key="key:620761742:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级锻造师"/>
+<label key="key:620761742:175532558" value="你已成为精英级高级锻造师。"/>
+<label key="key:620761757:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 锻造大师"/>
+<label key="key:620761757:175532558" value="你已成为锻造大师。"/>
+<label key="key:620761758:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级锻造大师"/>
+<label key="key:620761758:175532558" value="你已成为精英级锻造大师。"/>
+<label key="key:620761813:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 木工学徒"/>
+<label key="key:620761813:175532558" value="你已成为木工学徒。"/>
+<label key="key:620761814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级木工学徒"/>
+<label key="key:620761814:175532558" value="你已成为精英级木工学徒。"/>
+<label key="key:620761827:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习木工"/>
+<label key="key:620761827:175532558" value="你已成为见习木工。"/>
+<label key="key:620761828:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习木工"/>
+<label key="key:620761828:175532558" value="你已成为精英级见习木工。"/>
+<label key="key:620761842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级木工"/>
+<label key="key:620761842:175532558" value="你已成为中级木工。"/>
+<label key="key:620761843:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级木工"/>
+<label key="key:620761843:175532558" value="你已成为精英级中级木工。"/>
+<label key="key:620761858:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级木工"/>
+<label key="key:620761858:175532558" value="你已成为高级木工。"/>
+<label key="key:620761859:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级木工"/>
+<label key="key:620761859:175532558" value="你已成为精英级高级木工。"/>
+<label key="key:620761874:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 木工大师"/>
+<label key="key:620761874:175532558" value="你已成为木工大师。"/>
+<label key="key:620761875:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级木工大师"/>
+<label key="key:620761875:175532558" value="你已成为精英级木工大师。"/>
+<label key="key:620766248:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 厨师学徒"/>
+<label key="key:620766248:175532558" value="你已成为厨师学徒。"/>
+<label key="key:620766249:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级厨师学徒"/>
+<label key="key:620766249:175532558" value="你已成为精英级厨师学徒。"/>
+<label key="key:620766264:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习厨师"/>
+<label key="key:620766264:175532558" value="你已成为见习厨师。"/>
+<label key="key:620766265:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习厨师"/>
+<label key="key:620766265:175532558" value="你已成为精英级见习厨师。"/>
+<label key="key:620766280:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级厨师"/>
+<label key="key:620766280:175532558" value="你已成为中级厨师。"/>
+<label key="key:620766281:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级厨师"/>
+<label key="key:620766281:175532558" value="你已成为精英级中级厨师。"/>
+<label key="key:620766296:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级厨师"/>
+<label key="key:620766296:175532558" value="你已成为高级厨师。"/>
+<label key="key:620766297:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级厨师"/>
+<label key="key:620766297:175532558" value="你已成为精英级高级厨师。"/>
+<label key="key:620766313:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 厨艺大师"/>
+<label key="key:620766313:175532558" value="你已成为厨艺大师。"/>
+<label key="key:620766314:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级厨艺大师"/>
+<label key="key:620766314:175532558" value="你已成为精英级厨艺大师。"/>
+<label key="key:620767732:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 勘探师学徒"/>
+<label key="key:620767732:175532558" value="你已成为勘探师学徒。"/>
+<label key="key:620767733:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级勘探师学徒"/>
+<label key="key:620767733:175532558" value="你已成为精英级勘探师学徒。"/>
+<label key="key:620767734:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习勘探师"/>
+<label key="key:620767734:175532558" value="你已成为见习勘探师。"/>
+<label key="key:620767735:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习勘探师"/>
+<label key="key:620767735:175532558" value="你已成为精英级见习勘探师。"/>
+<label key="key:620767736:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级勘探师"/>
+<label key="key:620767736:175532558" value="你已成为中级勘探师。"/>
+<label key="key:620767737:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级勘探师"/>
+<label key="key:620767737:175532558" value="你已成为精英级中级勘探师。"/>
+<label key="key:620767738:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级勘探师"/>
+<label key="key:620767738:175532558" value="你已成为高级勘探师。"/>
+<label key="key:620767739:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级勘探师"/>
+<label key="key:620767739:175532558" value="你已成为精英级高级勘探师。"/>
+<label key="key:620767740:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 勘探大师"/>
+<label key="key:620767740:175532558" value="你已成为勘探大师。"/>
+<label key="key:620767741:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级勘探大师"/>
+<label key="key:620767741:175532558" value="你已成为精英级勘探大师。"/>
+<label key="key:620767767:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 伐木工学徒"/>
+<label key="key:620767767:175532558" value="你已成为伐木学徒。"/>
+<label key="key:620767768:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级伐木工学徒"/>
+<label key="key:620767768:175532558" value="你已成为精英级伐木工学徒。"/>
+<label key="key:620767769:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习伐木工"/>
+<label key="key:620767769:175532558" value="你已成为见习伐木工。"/>
+<label key="key:620767770:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习伐木工"/>
+<label key="key:620767770:175532558" value="你已成为精英级见习伐木工。"/>
+<label key="key:620767771:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级伐木工"/>
+<label key="key:620767771:175532558" value="你已成为中级伐木工。"/>
+<label key="key:620767772:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级伐木工"/>
+<label key="key:620767772:175532558" value="你已成为精英级中级伐木工。"/>
+<label key="key:620767773:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级伐木工"/>
+<label key="key:620767773:175532558" value="你已成为高级伐木工。"/>
+<label key="key:620767774:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级伐木工"/>
+<label key="key:620767774:175532558" value="你已成为精英级高级伐木工。"/>
+<label key="key:620767775:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 伐木大师"/>
+<label key="key:620767775:175532558" value="你已成为伐木大师。"/>
+<label key="key:620767776:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级伐木大师"/>
+<label key="key:620767776:175532558" value="你已成为精英级伐木大师。"/>
+<label key="key:620767800:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 农夫学徒"/>
+<label key="key:620767800:175532558" value="你已成为农夫学徒。"/>
+<label key="key:620767801:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级农夫学徒"/>
+<label key="key:620767801:175532558" value="你已成为精英级农夫学徒。"/>
+<label key="key:620767819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 见习农夫"/>
+<label key="key:620767819:175532558" value="你已成为见习农夫。"/>
+<label key="key:620767820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级见习农夫"/>
+<label key="key:620767820:175532558" value="你已成为精英级见习农夫。"/>
+<label key="key:620767830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 中级农夫"/>
+<label key="key:620767830:175532558" value="你已成为中级农夫。"/>
+<label key="key:620767831:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级中级农夫"/>
+<label key="key:620767831:175532558" value="你已成为精英级中级农夫。"/>
+<label key="key:620767841:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高级农夫"/>
+<label key="key:620767841:175532558" value="你已成为高级农夫。"/>
+<label key="key:620767842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级高级农夫"/>
+<label key="key:620767842:175532558" value="你已成为精英级高级农夫。"/>
+<label key="key:620767847:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 农艺大师"/>
+<label key="key:620767847:175532558" value="你已成为农艺大师。"/>
+<label key="key:620767848:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精英级农艺大师"/>
+<label key="key:620767848:175532558" value="你已成为精英级农艺大师。"/>
+<label key="key:620774139:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，万人迷"/>
+<label key="key:620774139:175532558" value="人们发现你很有吸引力。"/>
+<label key="key:620774142:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，小古怪"/>
+<label key="key:620774142:175532558" value="人们发现你很令人费解。"/>
+<label key="key:620774145:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，心肝宝贝"/>
+<label key="key:620774145:175532558" value="你受到宠爱。"/>
+<label key="key:620774148:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，倒霉蛋"/>
+<label key="key:620774148:175532558" value="你经常受到骚扰。"/>
+<label key="key:620774151:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，笑柄"/>
+<label key="key:620774151:175532558" value="你经常被嘲笑。"/>
+<label key="key:620774154:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，沉闷乏味"/>
+<label key="key:620774154:175532558" value="人们似乎觉得你有点沉闷乏味。"/>
+<label key="key:620774222:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，热心肠"/>
+<label key="key:620774222:175532558" value="许多人发现你很喜欢助人为乐。"/>
+<label key="key:620774225:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，讨厌鬼"/>
+<label key="key:620774225:175532558" value="有人觉得你是个让人恼火的家伙。"/>
+<label key="key:620774227:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，受辱者"/>
+<label key="key:620774227:175532558" value="你经常遭人辱骂。"/>
+<label key="key:620774229:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，凶神恶煞"/>
+<label key="key:620774229:175532558" value="你让对手们感到胆怯。"/>
+<label key="key:620774232:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，淘气鬼"/>
+<label key="key:620774232:175532558" value="很多人觉得你很调皮，或者说很淘气。"/>
+<label key="key:620774235:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，常胜将军"/>
+<label key="key:620774235:175532558" value="你看起来就是个赢家。"/>
+<label key="key:620774237:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 早餐专家"/>
+<label key="key:620774237:175532558" value="你追求美味的上等早餐。"/>
+<label key="key:620774239:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 肉食爱好者"/>
+<label key="key:620774239:175532558" value="你喜欢吃肉。"/>
+<label key="key:620774241:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 馅饼专家"/>
+<label key="key:620774241:175532558" value="你对馅饼很在行。"/>
+<label key="key:620774243:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 素食者"/>
+<label key="key:620774243:175532558" value="你喜欢吃水果和蔬菜。"/>
+<label key="key:620774245:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，机警高手"/>
+<label key="key:620774245:175532558" value="你升到了第5级，从来没有战败过。"/>
+<label key="key:620774247:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，不败高手"/>
+<label key="key:620774247:175532558" value="你升到了第10级，从来没有战败过。"/>
+<label key="key:620774249:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，不屈高手"/>
+<label key="key:620774249:175532558" value="你升到了第14级，从来没有战败过。"/>
+<label key="key:620774251:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，无恙高手"/>
+<label key="key:620774251:175532558" value="你升到了第17级，从来没有战败过。"/>
+<label key="key:620774253:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME}，不灭高手"/>
+<label key="key:620774253:175532558" value="你升到了第20级，从来没有战败过。"/>
+<label key="key:620774333:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 古墓岗猎手"/>
+<label key="key:620774333:175532558" value="你追击并杀死了许多一直在古墓岗附近出没的犬魔。"/>
+<label key="key:620774336:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 守路人"/>
+<label key="key:620774336:175532558" value="你为保护大路免受强盗骚扰做出了贡献，布雷兰人为你欢呼。"/>
+<label key="key:620774339:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 除根者"/>
+<label key="key:620774339:175532558" value="老林子里的树木非常痛恨中土两只脚的家伙，你在它们面前证明了自己完全可以平息它们这种恨意。"/>
+<label key="key:620774342:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 碎壳者"/>
+<label key="key:620774342:175532558" value="谁会想到那只唧唧虫会长那么大？"/>
+<label key="key:620774345:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 布雷兰卫士"/>
+<label key="key:620774345:175532558" value="在反抗入侵北部布雷的兽人的战斗中，你证明了自己的勇气。"/>
+<label key="key:620774348:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，灭蝇者"/>
+<label key="key:620774348:175532558" value="人们也许会窃笑，但是他们当中有多少人曾经和如此巨大的吸血鬼战斗过呢？"/>
+<label key="key:620774351:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，蜘蛛仇敌"/>
+<label key="key:620774351:175532558" value="蜘蛛怪最近成为了布雷的一大威胁，但是你对它们的痛击是众所周知的。"/>
+<label key="key:620774354:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，古墓清扫者"/>
+<label key="key:620774354:175532558" value="你再也不畏惧古墓岗的尸妖。 你发现极度惶恐不安的反而是它们。"/>
+<label key="key:620774357:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，沼泽猎手"/>
+<label key="key:620774357:175532558" value="这些粘乎乎的怪物正在整个孤土地区蔓延，没人知道它们从哪儿来的，但你必须要采取行动了。"/>
+<label key="key:620774360:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，僵尸的敌人"/>
+<label key="key:620774360:175532558" value="尸妖首领已经注意到你在行动了...."/>
+<label key="key:620774363:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，哥布林杀手"/>
+<label key="key:620774363:175532558" value="即使你杀再多的哥布林，它们在孤土中还是越来越多。"/>
+<label key="key:620774366:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，孤土战士"/>
+<label key="key:620774366:175532558" value="没有你的力量，孤土或许已经被兽人攻占了。"/>
+<label key="key:620774369:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，蜘蛛毁灭者"/>
+<label key="key:620774369:175532558" value="这些八条腿的怪物也在孤土中四处繁殖，一个比一个长得强壮！不过它们还是倒在了你的面前。"/>
+<label key="key:620774372:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，座狼猎手"/>
+<label key="key:620774372:175532558" value="座狼和哥布林一起转移到了孤土。 只要你顽强对抗它们，它们就不会有活路！"/>
+<label key="key:620774375:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，哥布林杀戮者"/>
+<label key="key:620774375:175532558" value="哥布林重新占领了北岗群山中的各处洞穴，并在里面继续挖掘。 尽管你已经令他们闻风丧胆，但你似乎并未对他们造成重大的打击。"/>
+<label key="key:620774378:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，北岗的英雄"/>
+<label key="key:620774378:175532558" value="兽人的入侵迫使大多数的北岗居民逃离了家园，但留下的人尊崇你的威名，把你作为反抗残忍入侵者的救星。"/>
+<label key="key:620774381:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，夜之敌"/>
+<label key="key:620774381:175532558" value="很久以前，很多杜内丹王子和勇士死在了佛诺斯特的原野上——你不敢断定那些幽灵就是他们，但不管怎样，你已经让他们当中很多人瞑目了。"/>
+<label key="key:620774384:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨魔猎手"/>
+<label key="key:620774384:175532558" value="巨魔或许是敌人最强大的、也是最弱智的仆人。 如果你不教训他们，这些巨大的怪兽就会在北岗四处横行无忌。"/>
+<label key="key:620774387:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，座狼死敌"/>
+<label key="key:620774387:175532558" value="有哥布林出没的地方，你很可能会遭遇座狼。 但是，多亏了你的勇敢和智慧，现在北岗的座狼少多了。"/>
+<label key="key:620774390:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，地龙杀手"/>
+<label key="key:620774390:175532558" value="据说敌人花费了大量的时间和精力制造巨大的龙，用它们来威胁中土世界。 地龙是半途被抛弃的较弱品种——但是它们依然是致命的敌人，且比其它的龙更常见。"/>
+<label key="key:620774393:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 边境警卫之友"/>
+<label key="key:620774393:175532558" value="夏尔边境警卫指望着你能帮助解决最近强盗带来的麻烦。"/>
+<label key="key:620774396:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 夏尔保卫者"/>
+<label key="key:620774396:175532558" value="高尔夫裘的同类危害夏尔已经很长时间了，但是现在他们得问问你答应不答应了。"/>
+<label key="key:620774399:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 庄稼救星"/>
+<label key="key:620774399:175532558" value="这些秋蝇不仅是对夏尔人，更是对庄稼巨大的威胁；农夫们对你努力清除它们的行为表示感谢。"/>
+<label key="key:620774402:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 灭虫英雄"/>
+<label key="key:620774402:175532558" value="当你踏上冒险的征程时，你也不确定自己想要的原来是这样的头衔..."/>
+<label key="key:620774405:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 灭蛛英雄"/>
+<label key="key:620774405:175532558" value="就像中土的很多地方一样，夏尔最近被险恶的蜘蛛侵袭，然而你的利剑已经令它们胆寒！"/>
+<label key="key:620774408:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 灭狼英雄"/>
+<label key="key:620774408:175532558" value="就像古时一样，狼群又一次威胁着夏尔，但是你给了它们一个永生难忘的教训。"/>
+<label key="key:620774411:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，大厅保卫者"/>
+<label key="key:620774411:175532558" value="杜林人已经不再尊重和信任杜尔汉矮人。事实证明，杜尔汉矮人已经成了杜林矮人的肉中刺。"/>
+<label key="key:620774414:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 埃雷德鲁因卫士"/>
+<label key="key:620774414:175532558" value="哥布林是矮人和精灵的世仇。现在他们再次威胁埃雷德鲁因，但你已经准备好抗击他们。"/>
+<label key="key:620774417:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 魔鹰死敌"/>
+<label key="key:620774417:175532558" value="刁滑的汉德拉沃魔鹰不同于高贵的鹰，它们是黑暗首领的间谍，监视着包括埃雷德鲁因在内的多个地方。"/>
+<label key="key:620774420:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，蛛网绞杀者"/>
+<label key="key:620774420:175532558" value="很久以来，蜘蛛潜伏在中土所有的黑暗角落，但是至少埃雷德鲁因的蜘蛛现在有理由惧怕你。"/>
+<label key="key:620774423:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，驯狼者"/>
+<label key="key:620774423:175532558" value="狼来自寒冷的北方，一直以来都是埃雷德鲁因人的威胁，但是它们已经屈服于你的威力之下。"/>
+<label key="key:620774426:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安格玛的末日"/>
+<label key="key:620774426:175532558" value="这些邪恶的人拥有黑魁首赐予他们的可怕力量，但是当你把他们赶到位于北方强大要塞里的最深处时，这种魔法就会失效。"/>
+<label key="key:620774429:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 兽人死敌"/>
+<label key="key:620774429:175532558" value="由于人数多达数万，兽人一直都是敌人军队的中坚力量。 很久以前，你就忘记了你杀死了多少兽人，但是他们的数量似乎并未减少。"/>
+<label key="key:620774432:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 食人魔死敌"/>
+<label key="key:620774432:175532558" value="安格玛的巨魔是你见过的敌人中最可怕的一种。 这些巨魔装备了敌人锻造的盔甲和武器，并且非常残忍狡猾，即使是伟大的英雄也曾被他们杀死过。"/>
+<label key="key:620774435:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安格玛的督军"/>
+<label key="key:620774435:175532558" value="强大的强兽人构成了安格玛军队的精锐部队。 由于在战斗中打败了众多的强兽人，你的名字在他们中间非常受尊重，当然也引起了更深的仇恨。"/>
+<label key="key:620774438:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 利牙之主"/>
+<label key="key:620774438:175532558" value="在安格玛的狗舍中饲养的可怕座狼不听其他主人的指挥，这种情况直到最近才有所改变。 但即使是现在，它们也并不驯服。"/>
+<label key="key:620774441:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 被诅咒者的命运"/>
+<label key="key:620774441:175532558" value="安格玛有一处恐怖的峡谷，里面住着沉迷于巫王力量的邪灵，当巫王离开时，他们就代他执行命令。 在整个中土，没有地方比那些大厅更让人恐惧，兽人和哥布林布满了那个地方，只有最狂热的安格玛人才会进入那里举行黑暗仪式。"/>
+<label key="key:620774444:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 地龙的厄运"/>
+<label key="key:620774444:175532558" value="安格玛地龙是古代龙族的杂交后代，它们拥有龙类兄长相当一部分的力量和狡猾。 但你战胜了它们，证明了自己的强大。"/>
+<label key="key:620774447:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，斗熊者"/>
+<label key="key:620774447:175532558" value="你曾经听说过，巨人有时候把最大的熊当成宠物养——这应该不会让你吃惊了。 他们在迷雾山脉中把熊养大——真的很大。"/>
+<label key="key:620774450:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨人死敌"/>
+<label key="key:620774450:175532558" value="你曾经认为，这些巨大的怪物都只是父母讲给你听的传说故事罢了。 现在你已不这么认为了。 他们的力量和个头一样大，他们的勇气无可匹敌。 尽管如此，你和你的同伴还是在战争中勇敢地杀死了很多巨人。"/>
+<label key="key:620774453:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，雪怪猎手"/>
+<label key="key:620774453:175532558" value="居住在迷雾山脉的雪怪是种奇怪的动物。 来这里以前，你可能只听过关于它们的那些含糊不清的故事，大部分人都认为那是虚构的故事，但是你已经和很多雪怪战斗过，你现在可以肯定它们是真实存在的。&#10;&#10; 至于它们的来历，谁也不知道，都只是猜测。 可能敌人是在北部、远远超出了人类和精灵的边界的地方发现了它们。"/>
+<label key="key:620774456:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨魔征服者"/>
+<label key="key:620774456:175532558" value="似乎迷雾山脉的刺骨寒冷还不是最坏的，这苦寒之地又孳生出一种特别令人厌恶的巨魔。 这些怪物生活在冰霜当中，它们潜伏在暗处，有倒霉的旅行者路过就扑倒并吃掉他们。"/>
+<label key="key:620774459:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，座狼猎手"/>
+<label key="key:620774459:175532558" value="哪里有哥布林哪里就有座狼，在迷雾山脉中也不例外。 极度寒冷的苛刻条件使座狼变得特别凶猛，你发现它们只是勉强过得去的对手，但是最好还是保持警觉，因为一群座狼可以把一位强壮的英雄撕成碎片。"/>
+<label key="key:620774462:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，地龙死敌"/>
+<label key="key:620774462:175532558" value="据说地龙生活在北部很远的冰冻荒漠之中。 安格玛的黑门洞开，它们就被放到了迷雾山脉冰冻的山顶上。唉，这一点也不奇怪。"/>
+<label key="key:620774465:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，坚壳粉碎者"/>
+<label key="key:620774465:175532558" value="你想不出还有什么比蠓水沼泽中的那些虫子更可怕。 这些长着许多脚的怪物虽然能让你感到棘手，但不能阻止你保卫中土的战斗。"/>
+<label key="key:620774468:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨人杀手"/>
+<label key="key:620774468:175532558" value="把这么多庞大的怪物撂倒可不是花拳绣腿能办到的——能有此战绩，你果然名不虚传啊。"/>
+<label key="key:620774471:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨魔杀手"/>
+<label key="key:620774471:175532558" value="这些地方之所以叫巨魔树林自有它的道理。 你一定发现这里到处都有可以用来考验你的勇气的畜生。"/>
+<label key="key:620774474:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，净化者"/>
+<label key="key:620774474:175532558" value="就连瑞文戴尔的精灵们都说他们不知道这些出没在巨魔树林中的恐怖生物来自何方。 但现在你已经把他们都送回地底，它们老家里去了。"/>
+<label key="key:620774477:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，尾刃"/>
+<label key="key:620774477:175532558" value="在巨魔树林中出没的狼是最凶残、最疯狂的。 既是人类的敌人，也不亲近哥布林，那些狼专吃闯入它们领地的傻瓜——当然，除了你。"/>
+<label key="key:620774480:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，地龙砍杀者"/>
+<label key="key:620774480:175532558" value="这些可怕的怪兽到底是从哪里钻出来的？ 从北边的荒野那儿，还是从安格玛大门下的泥土里？ 但它们从哪来并不重要，只要你奋勇地将它们赶出中土就行了。"/>
+<label key="key:620774483:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} 新手"/>
+<label key="key:620774483:175532558" value="在伊顿荒原战争中，你还是一个新手。"/>
+<label key="key:620774485:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} 勇士"/>
+<label key="key:620774485:175532558" value="在伊顿荒原战争中，你现在成为一个勇士。"/>
+<label key="key:620774487:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} 老手"/>
+<label key="key:620774487:175532558" value="在伊顿荒原战争中，你现在成为一位老手。"/>
+<label key="key:620774489:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} 作战能手"/>
+<label key="key:620774489:175532558" value="在伊顿荒原战争中，你现在成为一个作战能手。"/>
+<label key="key:620774491:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} 督军"/>
+<label key="key:620774491:175532558" value="在伊顿荒原战争中，你现在成为一个督军。"/>
+<label key="key:620774493:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 伊顿荒原的英雄"/>
+<label key="key:620774493:175532558" value="在伊顿荒原战争中，你现在成为一个英雄。"/>
+<label key="key:620774495:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 传奇英雄"/>
+<label key="key:620774495:175532558" value="你现在是伊顿荒原的传奇英雄。"/>
+<label key="key:620774497:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 黑箭的死敌"/>
+<label key="key:620774497:175532558" value="你杀死了许多黑箭士兵。"/>
+<label key="key:620774499:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 黑箭的敌人"/>
+<label key="key:620774499:175532558" value="你杀死了许多黑箭士兵。"/>
+<label key="key:620774501:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 黑箭的杀戮者"/>
+<label key="key:620774501:175532558" value="你杀死了许多黑箭士兵。"/>
+<label key="key:620774503:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 黑箭的心腹大患"/>
+<label key="key:620774503:175532558" value="你杀死了许多黑箭士兵。"/>
+<label key="key:620774505:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 黑箭的死刑执行人"/>
+<label key="key:620774505:175532558" value="你杀死了许多黑箭士兵。"/>
+<label key="key:620774507:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，掠夺者的死敌"/>
+<label key="key:620774507:175532558" value="你杀戮了许多掠夺者。"/>
+<label key="key:620774509:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，掠夺者的敌人"/>
+<label key="key:620774509:175532558" value="你杀戮了许多掠夺者。"/>
+<label key="key:620774511:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，掠夺者的杀戮者"/>
+<label key="key:620774511:175532558" value="你杀戮了许多掠夺者。"/>
+<label key="key:620774513:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，掠夺者的心腹大患"/>
+<label key="key:620774513:175532558" value="你杀戮了许多掠夺者。"/>
+<label key="key:620774515:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，掠夺者的终结"/>
+<label key="key:620774515:175532558" value="你杀戮了许多掠夺者。"/>
+<label key="key:620774517:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，诅咒者的死敌"/>
+<label key="key:620774517:175532558" value="许多诅咒者死于你的刀下。"/>
+<label key="key:620774519:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，诅咒者的敌人"/>
+<label key="key:620774519:175532558" value="许多诅咒者死于你的刀下。"/>
+<label key="key:620774521:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，诅咒者杀手"/>
+<label key="key:620774521:175532558" value="许多诅咒者死于你的刀下。"/>
+<label key="key:620774523:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，诅咒者的心腹大患"/>
+<label key="key:620774523:175532558" value="许多诅咒者死于你的刀下。"/>
+<label key="key:620774525:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 诅咒者的厄运"/>
+<label key="key:620774525:175532558" value="许多诅咒者死于你的刀下。"/>
+<label key="key:620774527:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，潜行者的死敌"/>
+<label key="key:620774527:175532558" value="许多座狼潜行者死于你的刀下。"/>
+<label key="key:620774529:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，潜行者的敌人"/>
+<label key="key:620774529:175532558" value="许多座狼潜行者死于你的刀下。"/>
+<label key="key:620774531:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，潜行者杀手"/>
+<label key="key:620774531:175532558" value="许多座狼潜行者死于你的刀下。"/>
+<label key="key:620774533:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，潜行者的心腹大患"/>
+<label key="key:620774533:175532558" value="许多座狼潜行者死于你的刀下。"/>
+<label key="key:620774535:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，潜行者的毁灭之神"/>
+<label key="key:620774535:175532558" value="许多座狼潜行者死于你的刀下。"/>
+<label key="key:620774537:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战争头领的死敌"/>
+<label key="key:620774537:175532558" value="许多战争头领死于你的刀下。"/>
+<label key="key:620774539:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战争头领的敌人"/>
+<label key="key:620774539:175532558" value="许多战争头领死于你的刀下。"/>
+<label key="key:620774541:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战争头领杀手"/>
+<label key="key:620774541:175532558" value="许多战争头领死于你的刀下。"/>
+<label key="key:620774543:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战争头领劲敌"/>
+<label key="key:620774543:175532558" value="许多战争头领死于你的刀下。"/>
+<label key="key:620774545:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战争头领的末日"/>
+<label key="key:620774545:175532558" value="许多战争头领死于你的刀下。"/>
+<label key="key:620774547:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，织网者的死敌"/>
+<label key="key:620774547:175532558" value="许多蜘蛛织网者死于你的刀下。"/>
+<label key="key:620774549:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，织网者的敌人"/>
+<label key="key:620774549:175532558" value="许多蜘蛛织网者死于你的刀下。"/>
+<label key="key:620774551:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，织网者的杀手"/>
+<label key="key:620774551:175532558" value="许多蜘蛛织网者死于你的刀下。"/>
+<label key="key:620774553:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，织网者的心腹大患"/>
+<label key="key:620774553:175532558" value="许多蜘蛛织网者死于你的刀下。"/>
+<label key="key:620774555:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，织网者的灭绝者"/>
+<label key="key:620774555:175532558" value="许多蜘蛛织网者死于你的刀下。"/>
+<label key="key:620774557:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，托拉斯卡南的征服者"/>
+<label key="key:620774557:175532558" value="你已经打败了托拉斯卡南的酋长。"/>
+<label key="key:620774559:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，达尔戈扎格的征服者"/>
+<label key="key:620774559:175532558" value="你已经打败了达尔戈扎格的酋长。"/>
+<label key="key:620774561:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，双塔征服者"/>
+<label key="key:620774561:175532558" value="你已经打败了双塔的首领。"/>
+<label key="key:620774563:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，伊顿荒原的征服者"/>
+<label key="key:620774563:175532558" value="你击败了伊顿荒原的所有暴君，所有为自由人民而战的人们流传着你的威名。"/>
+<label key="key:620774565:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 夏尔酿酒专家"/>
+<label key="key:620774565:175532558" value="夏尔的一位啤酒专家。"/>
+<label key="key:620774851:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，领袖"/>
+<label key="key:620774851:175532558" value="你是家族中的领袖。"/>
+<label key="key:620774852:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 官员"/>
+<label key="key:620774852:175532558" value="你是家族中的官员。"/>
+<label key="key:620774853:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，${NAME:家族女子[f]|家族男子}"/>
+<label key="key:620774853:175532558" value="你是家族中的成员。"/>
+<label key="key:620774854:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，创立者"/>
+<label key="key:620774854:175532558" value="你是家族的创立者。"/>
+<label key="key:620775361:172691445" value="${RANK}${RANK: [E]}布雷兰人${NAME}${SURNAME}"/>
+<label key="key:620775361:175532558" value="你从小在布雷兰长大，布雷兰一度归属于北方的阿诺尔王国，由伊兰迪尔国王统治，之后又由他的长子埃西铎继位。 但是现在北方王国早已覆灭，布雷兰也变成了一个简朴的乡野之地。"/>
+<label key="key:620775362:172691445" value="${RANK}${RANK: [E]}戴尔人${NAME}${SURNAME}"/>
+<label key="key:620775362:175532558" value="你来自中土东北部的戴尔兰，那里位于孤山脚下，是弓箭手巴德杀死巨龙斯毛戈，以及五军之役爆发的地方。"/>
+<label key="key:620775363:172691445" value="${RANK}${RANK: [E]}刚铎人${NAME}${SURNAME}"/>
+<label key="key:620775363:175532558" value="你是刚铎的臣民。这是曾被伊兰迪尔、埃西铎和阿纳里翁的后嗣统领的南方王国，一直警惕着魔多森然逼近的威胁。"/>
+<label key="key:620775364:172691445" value="${RANK}${RANK: [E]}罗翰人${NAME}${SURNAME}"/>
+<label key="key:620775364:175532558" value="你是骠骑国的一员，那里是由刚铎的摄政王西里翁赐予少年伊欧的领地，现在由塞格尔之子希优顿统治。"/>
+<label key="key:620775365:172691445" value="${RANK}${RANK: [E]}法洛海德族${NAME}${SURNAME}"/>
+<label key="key:620775365:175532558" value="法洛海德族热爱森林和草原，他们是第一批来到夏尔的霍比特人。 他们的皮肤和头发的颜色比较浅，而且相对来说，身材高而苗条。"/>
+<label key="key:620775366:172691445" value="${RANK}${RANK: [E]}哈福特族${NAME}${SURNAME}"/>
+<label key="key:620775366:175532558" value="哈福特人喜挖宽敞的地洞为家，他们也是最早西迁进入埃里阿多尔的霍比特人。 比起其它部落来，哈福特人的肤色较深，身材也较矮。"/>
+<label key="key:620775367:172691445" value="${RANK}${RANK: [E]}斯图尔族${NAME}${SURNAME}"/>
+<label key="key:620775367:175532558" value="斯图尔是最晚来到夏尔的霍比特部落，他们住在东部的湿地。 相对于其他霍比特部落，斯图尔人通常体型较大，也更结实。"/>
+<label key="key:620775368:172691445" value="${RANK}${RANK: [E]}铁山矮人${NAME}${SURNAME}"/>
+<label key="key:620775368:175532558" value="你是来自铁山的矮人，那里是矮人遭受恶龙侵袭时建立的避难所。索林·橡木盾在五军之战中阵亡后，他的继承人即他的堂弟“铁脚” 戴恩成为了这里的矮人国王。"/>
+<label key="key:620775369:172691445" value="${RANK}${RANK: [E]}孤山矮人${NAME}${SURNAME}"/>
+<label key="key:620775369:175532558" value="你来自埃雷博，即孤山。恶龙斯毛戈曾盘踞在这里，直到索林·橡木盾为他的矮人们夺回家园。 现在，这里的统治者是国王“铁脚”戴恩。"/>
+<label key="key:620775370:172691445" value="${RANK}${RANK: [E]}蓝山矮人${NAME}${SURNAME}"/>
+<label key="key:620775370:175532558" value="你的家乡是埃雷德鲁因，也就是蓝山。在恶龙斯毛戈将索恩和他的儿子索林·橡木盾逐出孤山家园后，矮人们在这里建立了两个伟大的流亡矮人王国。"/>
+<label key="key:620775371:172691445" value="${RANK}${RANK: [E]}灰山矮人${NAME}${SURNAME}"/>
+<label key="key:620775371:175532558" value="你来自埃雷德米斯林，即灰山。它的主峰叫作冈达伯德。矮人的祖先不死杜林就来自这里。 肆虐这里的恶龙被消灭后，你的矮人同胞们得以重返家园。"/>
+<label key="key:620775372:172691445" value="${RANK}${RANK: [E]}白山矮人${NAME}${SURNAME}"/>
+<label key="key:620775372:175532558" value="你来自埃雷德尼姆拉斯西南部的矮人大厅，这里也叫白山，其南部与安德拉斯特接壤。 尽管白山矮人王国与人类曾居住的中部山区相隔甚远，但这里矮人“不守信用”的恶名还是在人类当中传播很广。"/>
+<label key="key:620775373:172691445" value="${RANK}${RANK: [E]}林顿精灵${NAME}${SURNAME}"/>
+<label key="key:620775373:175532558" value="你出生在林顿，从埃雷德鲁因到海边的精灵绿地，那里曾由末代精灵君主吉尔格拉德统治。 现在由米斯隆德，也就是灰港的船王瑟丹统治。"/>
+<label key="key:620775374:172691445" value="${RANK}${RANK: [E]}萝林精灵${NAME}${SURNAME}"/>
+<label key="key:620775374:175532558" value="你来自洛丝萝林。这里的林木有着如金秋般灿黄的树叶，此地的精灵们就居住在这蔓蓉树林间。萝林的统治者是中土最具睿智的埃尔达精灵凯勒鹏国王和美丽的凯兰崔尔王后。"/>
+<label key="key:620775375:172691445" value="${RANK}${RANK: [E]}幽暗密林的${NAME}${SURNAME}"/>
+<label key="key:620775375:175532558" value="你是幽暗密林的一位林中精灵。幽暗密林以前曾被称作大绿林。此处的魔法之山以前曾是索隆的要塞，瑟兰迪尔王就是在幽暗密林监视着索隆的一举一动。"/>
+<label key="key:620775376:172691445" value="${RANK}${RANK: [E]}瑞文戴尔精灵${NAME}${SURNAME}"/>
+<label key="key:620775376:175532558" value="你来自伊姆拉崔，人类将那里称为瑞文戴尔。这是索隆将精灵居住地埃里吉翁摧毁后，精灵王埃尔隆德为逃亡的精灵建立的庇护所。"/>
+<label key="key:620775377:172691445" value="${RANK}${RANK: 埃德海隆德的[E]}${NAME}${SURNAME}"/>
+<label key="key:620775377:175532558" value="你是来自埃德海隆德的精灵。阿姆洛思在南方安都因河入海口处建立了这一广袤的精灵乐土。"/>
+<label key="key:620775443:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:儿子[m]|女儿[f]}"/>
+<label key="key:620775443:175532558" value="你是这个家长的孩子。"/>
+<label key="key:620775444:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:继子[m]|继女[f]}"/>
+<label key="key:620775444:175532558" value="你是这个家长的继子/女。"/>
+<label key="key:620775445:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:父亲[m]|母亲[f]}"/>
+<label key="key:620775445:175532558" value="你是这个孩子的家长。"/>
+<label key="key:620775446:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:父亲[m]|母亲[f]}"/>
+<label key="key:620775446:175532558" value="你是这个孩子的家长。"/>
+<label key="key:620775447:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:继父[m]|继母[f]}"/>
+<label key="key:620775447:175532558" value="你是这个孩子的继父/母。"/>
+<label key="key:620775448:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:继父[m]|继母[f]}"/>
+<label key="key:620775448:175532558" value="你是这个孩子的继父/母。"/>
+<label key="key:620775449:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 的${NAME:丈夫[m]|妻子[f]}"/>
+<label key="key:620775449:175532558" value="你是这位的配偶。"/>
+<label key="key:620775851:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，首领"/>
+<label key="key:620775851:175532558" value="你是家族中的领袖。"/>
+<label key="key:620775852:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 管家"/>
+<label key="key:620775852:175532558" value="你是家族中的官员。"/>
+<label key="key:620775853:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，${NAME:家族女子[f]|家族男子}"/>
+<label key="key:620775853:175532558" value="你是家族中的成员。"/>
+<label key="key:620775854:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，父亲"/>
+<label key="key:620775854:175532558" value="你是家族的创立者。"/>
+<label key="key:620775855:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，图尔"/>
+<label key="key:620775855:175532558" value="你是家族中的领袖。"/>
+<label key="key:620775856:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，考恩"/>
+<label key="key:620775856:175532558" value="你是家族中的官员。"/>
+<label key="key:620775857:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，${NAME:家族女子[f]|家族男子}"/>
+<label key="key:620775857:175532558" value="你是家族中的成员。"/>
+<label key="key:620775858:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，埃尼奥"/>
+<label key="key:620775858:175532558" value="你是家族的创立者。"/>
+<label key="key:620775859:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，长者"/>
+<label key="key:620775859:175532558" value="你是家族中的领袖。"/>
+<label key="key:620775860:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，导师"/>
+<label key="key:620775860:175532558" value="你是家族中的官员。"/>
+<label key="key:620775861:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，${NAME:家族女子[f]|家族男子}"/>
+<label key="key:620775861:175532558" value="你是家族中的成员。"/>
+<label key="key:620775862:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，创立者"/>
+<label key="key:620775862:175532558" value="你是家族的创立者。"/>
+<label key="key:620775863:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，长官"/>
+<label key="key:620775863:175532558" value="你是家族中的领袖。"/>
+<label key="key:620775864:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，首领"/>
+<label key="key:620775864:175532558" value="你是家族中的官员。"/>
+<label key="key:620775865:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，${NAME:家族女子[f]|家族男子}"/>
+<label key="key:620775865:175532558" value="你是家族中的成员。"/>
+<label key="key:620775866:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，创立者"/>
+<label key="key:620775866:175532558" value="你是家族的创立者。"/>
+<label key="key:620778105:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 魔迪里斯的宠臣"/>
+<label key="key:620778105:175532558" value="代替巫王盘踞在安格玛的头领魔迪里斯把你看作亲信。 他的支持使你在鲁格布兹获得更大支持!"/>
+<label key="key:620778107:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 伦戴尔的征服者"/>
+<label key="key:620778107:175532558" value="你已经打败了伦戴尔的首领。"/>
+<label key="key:620778109:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，托拉斯卡南的征服者"/>
+<label key="key:620778109:175532558" value="你已经打败了托拉斯卡南的指挥。"/>
+<label key="key:620778111:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，双塔征服者"/>
+<label key="key:620778111:175532558" value="你已经打败了双塔的首领。"/>
+<label key="key:620778113:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 告密者的杀手"/>
+<label key="key:620778113:175532558" value="你已经追杀了许多令人恼火的暗箭伤人者，你让他们看到违背安格玛意志的下场。"/>
+<label key="key:620778115:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，刺客的杀戮者"/>
+<label key="key:620778115:175532558" value="凡是盗窃安格玛暴君财物的家伙都将死于剑下，其中许多死于你的剑下。"/>
+<label key="key:620778117:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 刺客的打击者"/>
+<label key="key:620778117:175532558" value="永远不要相信一个贼或刺客。 或者说，不要相信任何人。"/>
+<label key="key:620778119:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，刺客的心腹大患"/>
+<label key="key:620778119:175532558" value="虽然刺客很能躲，但他们逃脱不了你的追杀。 你杀死了许多卑鄙无耻小人。"/>
+<label key="key:620778121:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 骗子的克星"/>
+<label key="key:620778121:175532558" value="骗术和伪装？ 哈！ 当你准备给予致命打击的时候，小毛贼们疼得死去活来，这就是他们的“骗术”？ 这几乎不再算什么好玩的挑战了。"/>
+<label key="key:620778123:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 旗手的对头"/>
+<label key="key:620778123:175532558" value="这些笨蛋率领人类大军？ 让他们到坟墓里去领兵吧！"/>
+<label key="key:620778125:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 旗手的杀戮者"/>
+<label key="key:620778125:175532558" value="虽然他们可能纠集了盟友，你依然杀开血路，消灭了许多摇旗呐喊的白痴。"/>
+<label key="key:620778127:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},旗手的毁灭者"/>
+<label key="key:620778127:175532558" value="当你和部下从暗处发起突袭时，旗帜使他们在战场上更显眼，更为你们的杀敌行动创造良机。"/>
+<label key="key:620778129:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},  军令的克星"/>
+<label key="key:620778129:175532558" value="没有指挥，人类大军常常会乱作一团，战斗乏力。 你擅长于把那些微弱的战场“希望”之火消灭在萌芽状态。"/>
+<label key="key:620778131:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 领袖的清除者"/>
+<label key="key:620778131:175532558" value="在战场上当你杀死一个敌军领袖，敌军垂头丧气时，你觉得这种情景才能给你那阴沉的心带来一丝温暖。&#10;&#10;这种情形，你百看不厌。"/>
+<label key="key:620778133:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 战士的对头"/>
+<label key="key:620778133:175532558" value="你那藏而不露的力量常常使那些自命不凡的战士纷纷倒在你的脚下。"/>
+<label key="key:620778135:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 战士的杀戮者"/>
+<label key="key:620778135:175532558" value="战士崇尚力量胜于一切，你冲入敌阵、奋力杀敌的时候，你的这一特点也尽显无遗。"/>
+<label key="key:620778137:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 折剑者"/>
+<label key="key:620778137:175532558" value="靠剑打拼生活的人希望最后死于剑下。&#10;&#10;你积极为这些愚蠢的家伙创造机会，用剑杀死他们。"/>
+<label key="key:620778139:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},  勇气的克星"/>
+<label key="key:620778139:175532558" value="对于血流满地、身首异处地躺在你脚下的人来说，勇气有什么用呢？ 谁知道？&#10;&#10;谁在乎呢。"/>
+<label key="key:620778141:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 英雄的末日"/>
+<label key="key:620778141:175532558" value="哈！ 在你的威力面前，那些自我标榜的“英雄”战士就像秋风扫落叶一样纷纷倒下。 他们不是你的对手，永远也不是！"/>
+<label key="key:620778143:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},盾卫者杀手"/>
+<label key="key:620778143:175532558" value="这些自我标榜的盾卫者就站在你、西方城镇以及村庄之间，这为你轻取胜利创造了良机。&#10;&#10;你杀得越多，你就可以越早些实施抢劫。"/>
+<label key="key:620778145:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 哨兵的杀戮者"/>
+<label key="key:620778145:175532558" value="为什么这些钢盔铁甲的废物站在你和那群胆小鬼之间? 你永远不会明白—但是你已经证明他们依然是不堪一击。"/>
+<label key="key:620778147:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 盾牌的击碎者"/>
+<label key="key:620778147:175532558" value="虽然他们持有巨大盾牌，穿有闪亮铁甲，在强大的安格玛军队面前，没有人能幸免一死。 这都是你的功劳。"/>
+<label key="key:620778149:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},盾卫者的心腹大患"/>
+<label key="key:620778149:175532558" value="那些胆小鬼的保护者！ 那谁来保护这些盾卫者免遭你的进攻，呃？&#10;&#10;没人，根本没有......"/>
+<label key="key:620778151:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},  城堡的的末日"/>
+<label key="key:620778151:175532558" value="那些迎击进攻浪潮的人注定将淹没在浪潮中。&#10;&#10;你是安格玛浩荡大军的先锋，你无情消灭任何胆敢站在西方大军一边的盾卫者。"/>
+<label key="key:620778153:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 猎人杀手"/>
+<label key="key:620778153:175532558" value="这些邪恶的对手试图打击来自远方的安格玛力量，你发现最好亲自向他们发起进攻。"/>
+<label key="key:620778155:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 侦察兵的克星"/>
+<label key="key:620778155:175532558" value="你已经奋力杀死了敌军侦察兵。 在战场上，他们最好还是蜷缩在同伙的背后。可如此一来，你拼杀的冒险刺激到哪里找呢？"/>
+<label key="key:620778157:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},长弓的劈裂者"/>
+<label key="key:620778157:175532558" value="不带盾牌和盔甲,猎手在战场上轻松地获取猎物。 箭伤的疼痛在所难免，但是疼痛正是真正勇士的印记。"/>
+<label key="key:620778159:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 猎手的心腹大患"/>
+<label key="key:620778159:175532558" value="啊，转败为胜的欣喜，猎手变成了被猎者！ 不计其数的这些罪恶小人死于你的刀下。"/>
+<label key="key:620778161:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，弓箭手的末日"/>
+<label key="key:620778161:175532558" value="弓在能手里面是令人恐惧的武器，但是在战场上，当你实施迅速精准的杀戮时，弓却保护不了它的使用者。 它们只不过使安格玛的营火更加熊熊燃烧！"/>
+<label key="key:620778163:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},贤者的对头"/>
+<label key="key:620778163:175532558" value="智者？嗤！ 真正的智者只需了解武力。 那些宣扬学问智慧的人往往死于你的刀下。"/>
+<label key="key:620778165:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},智者的杀戮者"/>
+<label key="key:620778165:175532558" value="什么神奇魔法也不能使这些书呆子躲过你的暴怒杀戮。 如果他们了解一点安格玛暴君们的权谋之术，他们会在死前屈膝投降。"/>
+<label key="key:620778167:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 法杖的毁灭者"/>
+<label key="key:620778167:175532558" value="木杖有什么特别的地方？ 只不过是在杀死木杖挥动者之前，要折断的一根木棍而已，以前你经常这样做的。"/>
+<label key="key:620778169:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},  智者的心腹大患"/>
+<label key="key:620778169:175532558" value="当锋利的屠刀戳穿腹部时，古籍和精制的圆顶帽有什么用处？ 根本没有什么用处！ 你的作为就足以证明这是一句至理名言。"/>
+<label key="key:620778171:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 博学者的灾难"/>
+<label key="key:620778171:175532558" value="哪个浮夸的文人能在战场上挑战你呢？&#10;&#10;卷轴、书、诗句、长袍——都会在安格玛的营火中化为灰烬！"/>
+<label key="key:620778173:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，吟游诗人的对头"/>
+<label key="key:620778173:175532558" value="那个傻瓜会吟唱着而不是拼杀着走进战场？&#10;&#10;该死的傻瓜。"/>
+<label key="key:620778175:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，吟游诗人的杀戮者"/>
+<label key="key:620778175:175532558" value="当被斩断的喉咙流出血液、发出汩汩声音的时候，这一首首的西方之曲对你来说更加悦耳。"/>
+<label key="key:620778177:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，乐器的毁灭者"/>
+<label key="key:620778177:175532558" value="琴弦刺耳的呕哑声、树木的劈裂声和垂死者尖叫声成为你暴怒杀戮的协奏曲。"/>
+<label key="key:620778179:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，吟游诗人的心腹大患"/>
+<label key="key:620778179:175532558" value="据说，这群西方的乌合之众相信世界来源于一首歌。&#10;&#10;也许是，也许不是，但是他们聆听的临终曲将是安格玛的战鼓声！"/>
+<label key="key:620778181:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，歌声的制止者"/>
+<label key="key:620778181:175532558" value="你扫荡之后，战场上一片死寂，偶尔传来垂死者的呻吟声。&#10;&#10;倒下的人群中没有了歌声，因为他们都已死去。"/>
+<label key="key:620779370:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 吃馅饼冠军"/>
+<label key="key:620779370:175532558" value="你在吃馅饼比赛中取得了胜利。"/>
+<label key="key:620781893:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 冈德兹奥尔的苦工"/>
+<label key="key:620781893:175532558" value="因为帮助了冈德兹奥尔,你得到了苦工职位。"/>
+<label key="key:620781895:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 冈德兹奥尔的奴才"/>
+<label key="key:620781895:175532558" value="因为帮助了冈德兹奥尔,你得到了奴才职位。"/>
+<label key="key:620781897:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 冈德兹奥尔的拳头"/>
+<label key="key:620781897:175532558" value="你在冈德兹奥尔的眼里，不仅仅是一位仆人；你还是他在恐怖林地位的维护者。"/>
+<label key="key:620781899:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 布尔兹高斯的奴仆"/>
+<label key="key:620781899:175532558" value="因为帮助了布尔兹高斯，你获得了奴仆资格。"/>
+<label key="key:620781901:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 布尔兹高斯的马屁精"/>
+<label key="key:620781901:175532558" value="因为继续帮助布尔兹高斯，你获得了向他溜须拍马的资格。"/>
+<label key="key:620781903:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 布尔兹高斯的谄媚者"/>
+<label key="key:620781903:175532558" value="在布尔兹高斯的眼里，你是一个对他言听必从的人。"/>
+<label key="key:620781905:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 萨比尔的奴才"/>
+<label key="key:620781905:175532558" value="因为协助鲁加塞格暴君，你获得了任其驱使召唤的资格。"/>
+<label key="key:620781907:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 萨比尔的哈巴狗"/>
+<label key="key:620781907:175532558" value="因为继续协助鲁加塞格暴君，你巩固了仆人地位。"/>
+<label key="key:620781909:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 萨比尔的马鞭"/>
+<label key="key:620781909:175532558" value="你在萨比尔的眼里，不仅仅是一位仆人；你还是他在鲁加塞格地位的维护者。"/>
+<label key="key:620781911:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 巴拉氏石的仆人"/>
+<label key="key:620781911:175532558" value="因为协助了提瑞斯劳暴君，你获得了他的仆人职位。"/>
+<label key="key:620781913:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 巴拉氏石的猎狗"/>
+<label key="key:620781913:175532558" value="你更加得到提瑞斯劳暴君的赏识，现在被叫做猎狗。 一只忠诚的狗"/>
+<label key="key:620781915:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 巴拉氏石的利刃"/>
+<label key="key:620781915:175532558" value="在巴拉氏石的眼里，你不仅仅是一位仆人；你是他在提瑞斯劳地位的维护者。"/>
+<label key="key:620781917:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 垂恩特鲁的讨好者"/>
+<label key="key:620781917:175532558" value="因为协助托拉斯卡南暴君，你获得了被叫做讨好者的资格。"/>
+<label key="key:620781919:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 垂恩特鲁的谄媚者"/>
+<label key="key:620781919:175532558" value="因为继续协助垂恩特鲁，你获得了谄媚者的资格。"/>
+<label key="key:620781921:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，垂恩特鲁的哈巴狗"/>
+<label key="key:620781921:175532558" value="你对垂恩特鲁的忠诚无可置疑，所以你被称为他的哈巴狗。"/>
+<label key="key:620782797:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 送馅饼者"/>
+<label key="key:620782797:175532558" value="你帮助霍丽·吹号者获得了荣誉，使得饥饿的霍比特人变得高兴起来了。"/>
+<label key="key:620782798:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 最佳邮递员"/>
+<label key="key:620782798:175532558" value="基于你对快邮服务做出的帮助，邮局局长大脚宣布你成为正式的邮递员。"/>
+<label key="key:620782806:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，末日之手"/>
+<label key="key:620782806:175532558" value="随着你的到来，末日的喇叭吹响了，因为你的威力使许多自由人民勇士死于你的刀下。"/>
+<label key="key:620782807:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精灵的杀戮者"/>
+<label key="key:620782807:175532558" value="在精灵中间，你如此负有盛名，在他们眼中，你是彻头彻尾的坏蛋。 当你走近时，他们只能抱头鼠窜！"/>
+<label key="key:620782808:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 英武的敌人"/>
+<label key="key:620782808:175532558" value="当你走近时，英武之气就消失殆尽。 当你走近时，矮人的英勇就像他们被破开的内脏一样，一泻千里。 你亲手执行的杀戮使希望化为乌有。"/>
+<label key="key:620782809:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，人类的死敌"/>
+<label key="key:620782809:175532558" value="一提到你的名字，人类就瑟瑟发抖，因为你的利刃深深扎入他们的体内。"/>
+<label key="key:620782810:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 霍比特人的心腹大患"/>
+<label key="key:620782810:175532558" value="你对霍比特人的不断毁灭使他们胆战心惊。"/>
+<label key="key:620782811:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，光明的杀戮者"/>
+<label key="key:620782811:175532558" value="随着你出现，光明渐渐隐去。 随你而来的黑暗遮蔽了人们的希望，给人们的内心带来恐慌，这样，人们失去了内在力量。"/>
+<label key="key:620782812:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精灵的心腹大患"/>
+<label key="key:620782812:175532558" value="精灵们都知道你的威名。 它被用来震慑年轻人。"/>
+<label key="key:620782813:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 矮人的克星"/>
+<label key="key:620782813:175532558" value="当安格玛大军进入地下迎对山中老巢里的矮人时，你应该就是领导大军的那个人。 你的表现已经充分说明杀戮那些垃圾你可是一把好手！"/>
+<label key="key:620782814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战争指挥官"/>
+<label key="key:620782814:175532558" value="你是部落中的官员。"/>
+<label key="key:620782815:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 霍比特人的杀戮者"/>
+<label key="key:620782815:175532558" value="你毫不留情地剥去霍比特人的皮肉，你成为灭绝其类的高手之一。"/>
+<label key="key:620782816:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，占卜师"/>
+<label key="key:620782816:175532558" value="你是部落的创立者。"/>
+<label key="key:620782817:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，黑暗的先导"/>
+<label key="key:620782817:175532558" value="你是黑魁首的先导。 你已经杀生无数，无人能逃脱你的追杀。"/>
+<label key="key:620782818:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 矮人的抛掷者"/>
+<label key="key:620782818:175532558" value="矮人见到你颤抖不已！ 你力劈对手，把他们的尸体抛至百米之外！"/>
+<label key="key:620782819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，酋长"/>
+<label key="key:620782819:175532558" value="你是部落中的头领。"/>
+<label key="key:620782820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 追踪者"/>
+<label key="key:620782820:175532558" value="你是部落的创立者。"/>
+<label key="key:620782821:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，西方的心腹大患"/>
+<label key="key:620782821:175532558" value="你被认为是西方的心腹大患，他们的勇士一一败在你的刀下，之后，他们的尸体堆积如山。"/>
+<label key="key:620782822:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 矮人的心腹大患"/>
+<label key="key:620782822:175532558" value="不断打击矮人的努力给你带来了荣耀。 安格玛大军的其他群体把你看作矮人的克星。"/>
+<label key="key:620782823:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，野战指挥官"/>
+<label key="key:620782823:175532558" value="你是部落中的官员。"/>
+<label key="key:620782824:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 霍比特人的死敌"/>
+<label key="key:620782824:175532558" value="你对霍比特人的杀戮使你获得一个对他们残酷无情的名声。"/>
+<label key="key:620782825:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，哨兵"/>
+<label key="key:620782825:175532558" value="你是部落中的官员。"/>
+<label key="key:620782826:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 矮人的死敌"/>
+<label key="key:620782826:175532558" value="你不断战胜山下那些矮人，他们已经把你当成敌人了。"/>
+<label key="key:620782827:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，荣誉的敌人"/>
+<label key="key:620782827:175532558" value="你杀人无数的战绩使人类黯然失色。 当你踏上战场的时候，人类的荣誉就像他们的意志一样轻易瓦解。"/>
+<label key="key:620782828:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，人类的灾难"/>
+<label key="key:620782828:175532558" value="人类对你充满恐惧。 在战场上，你的威名无人不晓，人类一听到你的名字，就恐惧地颤抖不已。"/>
+<label key="key:620782829:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精灵的对头"/>
+<label key="key:620782829:175532558" value="你的利刃已经舔食过好多精灵的血肉，它渴望获得更多。"/>
+<label key="key:620782830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 头领"/>
+<label key="key:620782830:175532558" value="你是部落中的头领。"/>
+<label key="key:620782831:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，人类的剥皮者"/>
+<label key="key:620782831:175532558" value="冲入人群，奋力拼杀，你接近疯狂。 屠杀人类，撕扯其血肉，你因此而出名。"/>
+<label key="key:620782832:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，步兵"/>
+<label key="key:620782832:175532558" value="你是部落中的步兵。"/>
+<label key="key:620782833:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，步兵"/>
+<label key="key:620782833:175532558" value="你是部落中的步兵。"/>
+<label key="key:620782834:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，迫害者"/>
+<label key="key:620782834:175532558" value="你被认为是自由人民的迫害者。"/>
+<label key="key:620782835:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，人类的杀戮者"/>
+<label key="key:620782835:175532558" value="你的利刃畅饮人类血液。 没有人敢向你负隅顽抗！"/>
+<label key="key:620782836:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}"/>
+<label key="key:620782836:175532558" value="你的级别、名、姓（无称号）。"/>
+<label key="key:620782837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，战斗指挥官"/>
+<label key="key:620782837:175532558" value="你是部落中的头领。"/>
+<label key="key:620782838:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 先祖"/>
+<label key="key:620782838:175532558" value="你是部落的创立者。"/>
+<label key="key:620782839:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，好战者"/>
+<label key="key:620782839:175532558" value="你是部落中的头领。"/>
+<label key="key:620782840:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，步兵"/>
+<label key="key:620782840:175532558" value="你是部落中的步兵。"/>
+<label key="key:620782842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 监督者"/>
+<label key="key:620782842:175532558" value="你是部落中的官员。"/>
+<label key="key:620782843:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，黑箭收获者"/>
+<label key="key:620782843:175532558" value="战场是你的后花园，在那里，你采摘失败者的头颅。 你是一个真正的黑箭收获者。"/>
+<label key="key:620782844:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 优雅的的敌人"/>
+<label key="key:620782844:175532558" value="当你走近时，优雅也没有了底气。 没有精灵胆敢站在你的面前。 你双手的毁灭能力使优雅几乎夭折。"/>
+<label key="key:620782845:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},霍比特人的灾难"/>
+<label key="key:620782845:175532558" value="霍比特人中都没人敢站到你面前。 你能毫不费劲地把他们撕碎，所以人都知道你比他们强大的多。"/>
+<label key="key:620782846:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，督导"/>
+<label key="key:620782846:175532558" value="你是部落的创立者。"/>
+<label key="key:620782847:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，步兵"/>
+<label key="key:620782847:175532558" value="你是部落中的步兵。"/>
+<label key="key:620782848:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，黑犬"/>
+<label key="key:620782848:175532558" value="安格玛对你投以赞许的目光，认为你是他们中的精英。 魔迪里斯的一只猎狗；一只黑犬！"/>
+<label key="key:620782849:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 精灵的灾难"/>
+<label key="key:620782849:175532558" value="所有与精灵族相关的人都害怕你的利刃。 在战场上，你使他们的数量日趋减少。"/>
+<label key="key:620782850:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 淳朴的敌人"/>
+<label key="key:620782850:175532558" value="你无可置疑的控制了霍比特人。 你双手浸满的鲜血玷污了这些生命曾经拥有的淳朴。"/>
+<label key="key:620789002:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 埃里阿多尔守望者"/>
+<label key="key:620789002:175532558" value="管理员的守望者称号。"/>
+<label key="key:620789003:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 埃里阿多尔大元帅"/>
+<label key="key:620789003:175532558" value="管理员的大元帅称号。"/>
+<label key="key:620789004:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 埃里阿多尔摄政王"/>
+<label key="key:620789004:175532558" value="管理员的摄政王称号。"/>
+<label key="key:620789049:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安格玛的仆人"/>
+<label key="key:620789049:175532558" value="你现在是安格玛大军的一员了！"/>
+<label key="key:620789509:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 黑暗力量之光"/>
+<label key="key:620789509:175532558" value="你已经完成了《安格玛之影》第一卷。"/>
+<label key="key:620789815:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 墓穴守卫"/>
+<label key="key:620789815:175532558" value="你已经杀死了许多盗墓贼，这些人威胁到了安努米纳斯国王们的墓穴。"/>
+<label key="key:620789816:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 守秘者"/>
+<label key="key:620789816:175532558" value="出现在伊凡丁的那些亮光里一定藏着什么玄机—感觉就在你嘴边，可就是说不清..."/>
+<label key="key:620789817:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 高瑞丹杀手"/>
+<label key="key:620789817:175532558" value="野蛮的高瑞丹已经见识了你的厉害，说不定已经开始惧怕你－－如果他们在战场上曾经惧怕过的话。"/>
+<label key="key:620789818:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨人之敌"/>
+<label key="key:620789818:175532558" value="山岭巨人居住在伊凡丁的山上，他们已经把你当作了敌人，并计划着哪一天找你报仇。"/>
+<label key="key:620789819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 哥布林之敌"/>
+<label key="key:620789819:175532558" value="哥布林和那帮古怪的小幻形怪总是在伊凡丁的边界附近出没。它们现在已经懂得，要是还想活命，就得对你敬而远之。"/>
+<label key="key:620789820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 地穴怪死敌"/>
+<label key="key:620789820:175532558" value="你已经重创了可怕的地穴怪，而且没有死在它们的恶爪之下。&#10;&#10;要是哪一天你在与它们对抗时稍微有个闪失，你将尸骨无存。"/>
+<label key="key:620789821:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 灭焰者"/>
+<label key="key:620789821:175532558" value="伊凡丁的火蜥蜴曾多次试图杀死你，但都是徒劳，因为它们喷射的火焰在你的力量面前总是会摇曳不定并渐渐熄灭。"/>
+<label key="key:620790584:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 酒馆联盟成员"/>
+<label key="key:620790584:175532558" value="完成了酒馆联盟的苛刻测试，现在你已是真正的成员。"/>
+<label key="key:620790643:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 赶鸡王"/>
+<label key="key:620790643:175532558" value="作为钢喙队的一员，在夏季的霍布南尼甘比赛中获胜。"/>
+<label key="key:620790645:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 飞羽冠军"/>
+<label key="key:620790645:175532558" value="作为飞羽队的一员，在夏季的霍布南尼甘比赛中夺冠。"/>
+<label key="key:620790830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 斯多瓦刚终结者"/>
+<label key="key:620790830:175532558" value="斯多瓦刚的背叛以死亡收场。"/>
+<label key="key:620790831:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨人追债者"/>
+<label key="key:620790831:175532558" value="那些贪图财富而出卖忠诚的人受到了正义的惩罚。"/>
+<label key="key:620790832:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 龙巢袭击者"/>
+<label key="key:620790832:175532558" value="现在除掉一些冰伪龙幼崽，将来就会少些伪龙，这是自由人民的胜利！"/>
+<label key="key:620790833:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，无私者"/>
+<label key="key:620790833:175532558" value="要成为真正的英雄，不仅要有高超的武艺和坚强的意志。"/>
+<label key="key:620790834:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 再生索龙的末日"/>
+<label key="key:620790834:175532558" value="连再生的索龙也败在你手下。"/>
+<label key="key:620790835:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 米尔达南特的索求者"/>
+<label key="key:620790835:175532558" value="这一胜利来自众人的努力，但你的贡献尤为突出，你是真正的英雄。"/>
+<label key="key:620790836:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 四奴仆杀手"/>
+<label key="key:620790836:175532558" value="你战胜了四大恶仆。"/>
+<label key="key:620790837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，克库尔的敌人"/>
+<label key="key:620790837:175532558" value="海勒格罗德的克库的敌人知道你的大名，但只敢悄声提起你的名字。"/>
+<label key="key:620790838:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安格玛的敌人"/>
+<label key="key:620790838:175532558" value="安格玛现在害怕你的名字和你盟友的名字。"/>
+<label key="key:620790839:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，用毒高手"/>
+<label key="key:620790839:175532558" value="你得到了饶都蜘蛛的毒液，把它们用作正途。"/>
+<label key="key:620790840:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 饶都之恨"/>
+<label key="key:620790840:175532558" value="饶都一族的许多蜘蛛都已败在你的手下。"/>
+<label key="key:620790841:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，饶都征服者"/>
+<label key="key:620790841:175532558" value="连恶毒的饶都一族都无法抵御你的攻击。"/>
+<label key="key:620793935:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 清巢猎手"/>
+<label key="key:620793935:175532558" value="邪恶蜘蛛鬼贡将它的巢穴筑在雅旗高地的墓地中，并在那里繁衍后代，麻烦你去铲除它们。"/>
+<label key="key:620793936:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，墓穴挖掘者"/>
+<label key="key:620793936:175532558" value="在雅旗高地迷宫般的墓地里，数不清的腐尸用它们的爪子从墓地里破土而出，似乎你更需要一把铲子，而不是一柄剑。"/>
+<label key="key:620793937:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 野兽大师"/>
+<label key="key:620793937:175532558" value="一批凶狠堕落的野兽聚集在萨努尔,他们已经臣服于杜尔汉以及杜尔汉的盟友了。&#10;&#10;你的意志和力量仍然可以制服它们。"/>
+<label key="key:620793938:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 萨满的心腹大患"/>
+<label key="key:620793938:175532558" value="这些杜尔汉土匪已经在萨努尔内建立了战斗要塞，你发起的进攻已经从一定程度上削弱了他们的火力。"/>
+<label key="key:620793940:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 惩恶判官"/>
+<label key="key:620793940:175532558" value="在令人不寒而栗的雅旗高地，一股黑暗势力正主导着支配权，至少，在你现身清除他们之前是这样。"/>
+<label key="key:620793942:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，邪灵惩罚者"/>
+<label key="key:620793942:175532558" value="许多堕落的亡灵在雅旗高地的通道中游荡着，如果它们仍心存恐惧的话，只能说因为有你的存在。"/>
+<label key="key:620793943:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 萨姆尔的复仇者"/>
+<label key="key:620793943:175532558" value="当杜尔汉矮人准备进攻长须矮人的时候，敌人的盟军开始计划对付埃雷德鲁因。幸运的是，你进攻已经对他们造成了一定的打击。"/>
+<label key="key:620793945:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨魔杀手"/>
+<label key="key:620793945:175532558" value="聚集在萨姆尔的巨魔虽然凶猛但特别愚蠢。&#10;&#10;虽然我们还不清楚它能与杜尔汉矮人合作多久，但现在有了杜尔汉矮人的指引，绝对不能忽视它们可能会造成的巨大破坏。"/>
+<label key="key:620794015:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，愚钝者"/>
+<label key="key:620794015:175532558" value="在看到所有警示迹象之后,你依然吃掉了干酪。 这可不是明智之举。"/>
+<label key="key:620794019:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，鸡行者"/>
+<label key="key:620794019:175532558" value="在中土这块土地上埋藏着许多许多秘密，你以一只小鸡的身份深入其中，探索其中的奥秘。"/>
+<label key="key:620794021:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，规章制度的公仆"/>
+<label key="key:620794021:175532558" value="告诉所有的人类、精灵、矮人、和霍比特人（以下称“自由人民”），夏尔境内的威尔·塔弗恩。 若法庭无异议，原告浩布·西布罗在寻求合理或典型性的伤害性案件。 这案件由按照规章制度的人来承办。"/>
+<label key="key:620797328:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 野性之友"/>
+<label key="key:620797328:175532558" value="你已经证明了：你是自然界生物的朋友。"/>
+<label key="key:620797655:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 飞禽毁灭者"/>
+<label key="key:620797655:175532558" value="这些长翅膀的东西看上去一点危害也没有；但是如果它们真的是黑暗势力的探子，你最好能在孤土摆脱这些家伙。"/>
+<label key="key:620797656:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，巨魔克星"/>
+<label key="key:620797656:175532558" value="这是你和你的战友们的又一个胜利！——以后需要担心的巨魔又少了一个。"/>
+<label key="key:620799632:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 歌谣导师"/>
+<label key="key:620799632:175532558" value="你已经把音乐和歌谣方面的知识传授给别人，让他们把这优良传统发扬光大。"/>
+<label key="key:620799633:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 歌谣楷模"/>
+<label key="key:620799633:175532558" value="你孜孜不倦地把音乐和歌谣的知识传授给别人，并让他们发扬你的学识。"/>
+<label key="key:620799638:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，索尔拉奇征服者"/>
+<label key="key:620799638:175532558" value="在英勇的队友和高等精灵格拉希莱尔的帮助下，你消灭了恐怖的炎魔索尔拉奇！"/>
+<label key="key:620799639:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 断锁征服者"/>
+<label key="key:620799639:175532558" value="你拿到了曾经用于囚禁索尔拉奇的锁链，并把它展示给众人，以此证明了你和同伴创造的伟大成就。"/>
+<label key="key:620799640:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 斯朗终结者"/>
+<label key="key:620799640:175532558" value="你和同伴用超人的勇气和技能消灭了兽人头领斯朗，这使自由人民在消灭黑暗领主的道路上又前进了一大步。"/>
+<label key="key:620799641:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 埃尔德冈的拯救者"/>
+<label key="key:620799641:175532558" value="你在地谷内的奋斗拯救了埃尔德冈巨人，使他们即使在这种极端恐怖的地方也可以继续与邪恶势力作斗争。"/>
+<label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 一线希望"/>
+<label key="key:620799777:175532558" value="你已经完成了《安格玛之影》第一卷的第二部分。"/>
+<label key="key:620809088:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，仁慈的杀手"/>
+<label key="key:620809088:175532558" value="你已经英勇地冲进了安努米纳斯，为了保护埃里阿多尔，你在那里杀死了很多安格玛人。"/>
+<label key="key:620809091:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安努米纳斯保卫者"/>
+<label key="key:620809091:175532558" value="在安努米纳斯的土地上，你勇敢面对众多敌手，并将他们一一打败。即使是强大的高德基尔也败在你的手中。"/>
+<label key="key:620809093:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安努米纳斯保护神"/>
+<label key="key:620809093:175532558" value="在安努米纳斯的土地上，你勇敢面对众多敌手，并将他们一一打败。即使是邪恶的博尔海斯也败在你的手中。"/>
+<label key="key:620809095:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，正义战士"/>
+<label key="key:620809095:175532558" value="为了保卫埃里阿多尔，你无所畏惧的跨进安努米纳斯，解决了无数的亡灵。"/>
+<label key="key:620809097:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}，无畏勇士"/>
+<label key="key:620809097:175532558" value="为了保卫埃里阿多尔，你无所畏惧的跨进安努米纳斯，解决了无数的怪兽。"/>
+<label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安努米纳斯卫士"/>
+<label key="key:620809101:175532558" value="游侠们一直铭记着你为安努米纳斯所付出的努力。 由于你无私的援助了王者之城的防守作战，所以他们决定授予你“卫士”的头衔。"/>
+<label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},沦陷之城的游侠"/>
+<label key="key:620809126:175532558" value="你发现并保护了安努米纳斯城中隐藏着的智慧，避免了它们落入敌人手中。"/>
+<label key="key:636223488:133344739" value="在所有区域完成任务的硬核挑战奖励。"/>
+<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 疯子"/>
+<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 少女救星"/>
+<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 萨姆布罗格死敌"/>
+<label key="key:636223488:159719968" value="达到50级未死亡的硬核挑战奖励。"/>
+<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 诺伯利解放者"/>
+<label key="key:636223488:18718558" value="探索所有区域的硬核挑战奖励。"/>
+<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 欧洛米长矛"/>
+<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 不败者"/>
+<label key="key:636223488:221492867" value="完成三个地下城所有的硬核奖励。"/>
+<label key="key:636223488:236725557" value="猎杀稀有怪物的硬核挑战奖励。"/>
+<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 探险家"/>
+<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 势不可挡"/>
+<label key="key:636223488:36742548" value="完成佛诺斯特的硬核挑战奖励。"/>
+<label key="key:636223488:40850518" value="完成史诗第一卷第1册至第6册的硬核挑战奖励。"/>
+<label key="key:636223488:66200070" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 光予者"/>
+<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 博学者"/>
+<label key="key:636223488:75314017" value="完成加斯阿格温的硬核挑战奖励。"/>
+<label key="key:636223488:75314018" value="完成大古墓的硬核挑战奖励。"/>
+<label key="key:636223488:96594722" value="完成所有可用挑战的硬核挑战奖励。"/>
+</labels>

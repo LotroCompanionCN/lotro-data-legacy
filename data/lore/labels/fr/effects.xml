@@ -1922,6 +1922,7 @@
 <label key="key:620764763:106251889" value="Enraciné"/>
 <label key="key:620764763:54354734" value=": Vous êtes #-1{empalé[m]|empalée[f]} par le morroval."/>
 <label key="key:620764853:181298206" value="Invoque un serviteur morroval"/>
+<label key="key:620764916:54354734" value=""/>
 <label key="key:620764917:54354734" value="Augmente les dégâts de la prochaine attaque de zone d'effet."/>
 <label key="key:620764992:181298206" value="Etourdit pendant 5 s"/>
 <label key="key:620765122:181298206" value="Enracine pendant 30 s max."/>
@@ -2003,9 +2004,11 @@
 <label key="key:620774792:54354734" value="La flèche de l'Ourouk-haï vous empêche de bouger."/>
 <label key="key:620774799:106251889" value="Vitesse de déplacement réduite."/>
 <label key="key:620774876:106251891" value="Esquive, parade et blocage impossibles"/>
+<label key="key:620774876:106251893" value=""/>
 <label key="key:620774882:54354734" value="Inflige des dégâts aux assaillants."/>
 <label key="key:620774902:106251889" value="Ralentit la vitesse de déplacement de 10%"/>
 <label key="key:620774907:54354734" value="Incite la cible à se réjouir !"/>
+<label key="key:620774916:106251889" value=""/>
 <label key="key:620774916:54354734" value="Augmente tous les dégâts portés à la cible marquée."/>
 <label key="key:620774926:106251889" value="Moral maximum +5 %"/>
 <label key="key:620774933:54354734" value="Les dégâts infligés à la cible marquée ont des vertus régénératrices pour l'attaquant."/>

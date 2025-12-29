@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="zh">
+<label key="1879049557" value="新人"/>
+<label key="1879051500" value="骑术"/>
+<label key="1879052047" value="慧眼"/>
+<label key="1879052057" value="双持精通"/>
+<label key="1879052086" value="飘忽不定"/>
+<label key="1879052124" value="剑影"/>
+<label key="1879052147" value="暗影摔绊"/>
+<label key="1879052159" value="斩喉"/>
+<label key="1879052186" value="野性呼唤"/>
+<label key="1879052198" value="树人之助"/>
+<label key="1879052209" value="召唤鹰"/>
+<label key="1879052353" value="阿诺尔之火"/>
+<label key="1879052362" value="勇敢的熊"/>
+<label key="1879052432" value="使用火油"/>
+<label key="1879052451" value="持久精准"/>
+<label key="1879052460" value="快速射击"/>
+<label key="1879052474" value="正义之弓"/>
+<label key="1879052498" value="巴德之箭"/>
+<label key="1879052516" value="快速恢复"/>
+<label key="1879052531" value="荆棘箭雨"/>
+<label key="1879052880" value="重振！"/>
+<label key="1879052894" value="希望之歌"/>
+<label key="1879052911" value="巫师礼赞"/>
+<label key="1879052959" value="光荣礼赞"/>
+<label key="1879052966" value="使用中甲"/>
+<label key="1879053026" value="无惧死亡"/>
+<label key="1879053048" value="杜内丹之护"/>
+<label key="1879053061" value="背誓者之耻"/>
+<label key="1879053068" value="以中土之名"/>
+<label key="1879053115" value="血战到底"/>
+<label key="1879053127" value="忠诚"/>
+<label key="1879054124" value="征服守护石雕"/>
+<label key="1879054956" value="学者学徒熟练"/>
+<label key="1879054957" value="学者学徒精通"/>
+<label key="1879054966" value="见习学者熟练"/>
+<label key="1879054967" value="见习学者精通"/>
+<label key="1879054974" value="中级学者熟练"/>
+<label key="1879054975" value="中级学者精通"/>
+<label key="1879054984" value="高级学者熟练"/>
+<label key="1879054985" value="高级学者精通"/>
+<label key="1879054992" value="学者大师熟练"/>
+<label key="1879054993" value="学者大师精通"/>
+<label key="1879055089" value="冶炼师学徒熟练"/>
+<label key="1879055090" value="冶炼师学徒精通"/>
+<label key="1879055102" value="见习冶炼师熟练"/>
+<label key="1879055103" value="见习冶炼师精通"/>
+<label key="1879055116" value="中级冶炼师熟练"/>
+<label key="1879055117" value="中级冶炼师精通"/>
+<label key="1879055131" value="高级冶炼师熟练"/>
+<label key="1879055132" value="高级冶炼师精通"/>
+<label key="1879055146" value="冶炼大师熟练"/>
+<label key="1879055147" value="冶炼大师精通"/>
+<label key="1879055311" value="珠宝匠学徒熟练"/>
+<label key="1879055312" value="珠宝匠学徒熟练"/>
+<label key="1879055321" value="见习珠宝匠熟练"/>
+<label key="1879055322" value="见习珠宝匠精通"/>
+<label key="1879055331" value="中级珠宝匠熟练"/>
+<label key="1879055332" value="中级珠宝匠精通"/>
+<label key="1879055341" value="高级珠宝匠熟练"/>
+<label key="1879055342" value="高级珠宝匠精通"/>
+<label key="1879055350" value="珠宝大师熟练"/>
+<label key="1879055351" value="珠宝大师精通"/>
+<label key="1879055488" value="裁缝学徒熟练"/>
+<label key="1879055489" value="裁缝学徒精通"/>
+<label key="1879055506" value="见习裁缝熟练"/>
+<label key="1879055507" value="见习裁缝精通"/>
+<label key="1879055525" value="中级裁缝熟练"/>
+<label key="1879055526" value="中级裁缝精通"/>
+<label key="1879055545" value="高级裁缝熟练"/>
+<label key="1879055546" value="高级裁缝精通"/>
+<label key="1879055565" value="裁缝大师熟练"/>
+<label key="1879055566" value="裁缝大师精通"/>
+<label key="1879055787" value="锻造师学徒熟练"/>
+<label key="1879055788" value="锻造师学徒精通"/>
+<label key="1879055798" value="见习锻造师熟练"/>
+<label key="1879055799" value="见习锻造师精通"/>
+<label key="1879055810" value="中级锻造师熟练"/>
+<label key="1879055811" value="中级锻造师精通"/>
+<label key="1879055823" value="高级锻造师熟练"/>
+<label key="1879055824" value="高级锻造师精通"/>
+<label key="1879055836" value="锻造大师熟练"/>
+<label key="1879055837" value="锻造大师精通"/>
+<label key="1879055951" value="木工学徒熟练"/>
+<label key="1879055952" value="木工学徒精通"/>
+<label key="1879055962" value="见习木工熟练"/>
+<label key="1879055963" value="见习木工精通"/>
+<label key="1879055974" value="中级木工熟练"/>
+<label key="1879055975" value="中级木工精通"/>
+<label key="1879055987" value="高级木工熟练"/>
+<label key="1879055988" value="高级木工精通"/>
+<label key="1879056000" value="木工大师熟练"/>
+<label key="1879056001" value="木工大师精通"/>
+<label key="1879056133" value="使用圣水"/>
+<label key="1879059852" value="三连斩"/>
+<label key="1879059868" value="力战不衰！"/>
+<label key="1879059880" value="剑刃风暴"/>
+<label key="1879059892" value="低耗"/>
+<label key="1879059926" value="使用符石"/>
+<label key="1879059934" value="使用重盾"/>
+<label key="1879059942" value="痛击"/>
+<label key="1879060105" value="进阶招架"/>
+<label key="1879060110" value="进阶格挡"/>
+<label key="1879060116" value="使用盾刺"/>
+<label key="1879060132" value="国王之威"/>
+<label key="1879060163" value="盾压"/>
+<label key="1879060179" value="守护之威"/>
+<label key="1879060190" value="挑战黑暗"/>
+<label key="1879060248" value="精通"/>
+<label key="1879060251" value="旗手的胜利"/>
+<label key="1879060257" value="高手"/>
+<label key="1879060258" value="老手"/>
+<label key="1879060294" value="努美诺之血"/>
+<label key="1879060304" value="怒不可遏"/>
+<label key="1879060313" value="战争旗手"/>
+<label key="1879060322" value="力挽狂澜"/>
+<label key="1879060328" value="清醒之语"/>
+<label key="1879060340" value="精准打击"/>
+<label key="1879060347" value="旗手的勇气"/>
+<label key="1879060378" value="无惧黑暗"/>
+<label key="1879060386" value="强力呐喊"/>
+<label key="1879060400" value="旗手的希望"/>
+<label key="1879060432" value="攻击专家"/>
+<label key="1879060438" value="恐吓"/>
+<label key="1879060444" value="精妙指挥"/>
+<label key="1879060491" value="疾风狂击"/>
+<label key="1879060496" value="震怒"/>
+<label key="1879060502" value="致命打击"/>
+<label key="1879060517" value="疾风暴雨"/>
+<label key="1879060519" value="背水一战"/>
+<label key="1879060524" value="嗜血"/>
+<label key="1879060527" value="野性呼唤"/>
+<label key="1879060534" value="英勇之刃"/>
+<label key="1879060538" value="重伤打击"/>
+<label key="1879060543" value="准备就绪"/>
+<label key="1879060545" value="风暴之眼"/>
+<label key="1879060548" value="狂怒"/>
+<label key="1879060552" value="危急之时"/>
+<label key="1879060556" value="耐心"/>
+<label key="1879060569" value="强化刺击"/>
+<label key="1879060574" value="格挡反弹"/>
+<label key="1879060583" value="盾卫守护"/>
+<label key="1879060592" value="防御专家"/>
+<label key="1879060606" value="气定神闲"/>
+<label key="1879060619" value="扰乱者"/>
+<label key="1879060625" value="救援"/>
+<label key="1879060629" value="敏捷"/>
+<label key="1879060632" value="狰狞挑战"/>
+<label key="1879060635" value="无私守护"/>
+<label key="1879060645" value="坚忍"/>
+<label key="1879060649" value="备战"/>
+<label key="1879060653" value="勇敢的心"/>
+<label key="1879060661" value="战斗高潮"/>
+<label key="1879060668" value="牢固陷阱"/>
+<label key="1879060680" value="极速恢复"/>
+<label key="1879060682" value="复仇荆棘"/>
+<label key="1879060684" value="迅捷精准"/>
+<label key="1879060686" value="强力射击"/>
+<label key="1879060688" value="强化感知"/>
+<label key="1879060696" value="冰雹箭"/>
+<label key="1879060700" value="暴风箭"/>
+<label key="1879060703" value="专心致志"/>
+<label key="1879060708" value="致命精确"/>
+<label key="1879060712" value="精确射击"/>
+<label key="1879060714" value="优雅射击"/>
+<label key="1879060717" value="隐匿射击"/>
+<label key="1879060724" value="迅捷恢复"/>
+<label key="1879060750" value="杖术大师"/>
+<label key="1879060759" value="力量与智慧"/>
+<label key="1879060772" value="希望圣光"/>
+<label key="1879060780" value="野兽大师"/>
+<label key="1879060784" value="巫术学识"/>
+<label key="1879060787" value="医者"/>
+<label key="1879060794" value="野兽知识"/>
+<label key="1879060801" value="杜内丹学识"/>
+<label key="1879060804" value="和谐自然"/>
+<label key="1879060812" value="身手敏捷"/>
+<label key="1879060819" value="心思缜密"/>
+<label key="1879060825" value="百病不侵"/>
+<label key="1879060832" value="古代学识"/>
+<label key="1879060844" value="法术精通"/>
+<label key="1879060864" value="歌声之力"/>
+<label key="1879060869" value="战斗旋律"/>
+<label key="1879060877" value="诗人的救助"/>
+<label key="1879060889" value="和谐旋律"/>
+<label key="1879060891" value="诗人之锤"/>
+<label key="1879060893" value="舒缓之音"/>
+<label key="1879060895" value="强力之音"/>
+<label key="1879060897" value="生命歌者"/>
+<label key="1879060899" value="冷酷无情"/>
+<label key="1879060901" value="专注吟唱"/>
+<label key="1879060905" value="一线曙光"/>
+<label key="1879060910" value="举止优雅"/>
+<label key="1879060915" value="银舌"/>
+<label key="1879060920" value="精妙动作"/>
+<label key="1879060939" value="狡诈重伤"/>
+<label key="1879060948" value="迅捷精准"/>
+<label key="1879060953" value="进阶迷惑"/>
+<label key="1879060959" value="隐形匕首"/>
+<label key="1879060962" value="专注之眼"/>
+<label key="1879060965" value="侧身闪避"/>
+<label key="1879060968" value="计谋者"/>
+<label key="1879060979" value="暗影突袭"/>
+<label key="1879060982" value="隐匿精通"/>
+<label key="1879060987" value="致残攻击"/>
+<label key="1879060993" value="投机取巧"/>
+<label key="1879060999" value="绝对机遇"/>
+<label key="1879061006" value="凌波微步"/>
+<label key="1879061017" value="眩目狂怒"/>
+<label key="1879061263" value="厨师学徒熟练"/>
+<label key="1879061264" value="厨师学徒精通"/>
+<label key="1879061274" value="见习厨师熟练"/>
+<label key="1879061275" value="见习厨师精通"/>
+<label key="1879061286" value="中级厨师熟练"/>
+<label key="1879061287" value="中级厨师精通"/>
+<label key="1879061298" value="高级厨师熟练"/>
+<label key="1879061299" value="高级厨师精通"/>
+<label key="1879061310" value="厨艺大师熟练"/>
+<label key="1879061311" value="厨艺大师精通"/>
+<label key="1879061991" value="上好炼炉许可"/>
+<label key="1879062250" value="上好炉灶许可"/>
+<label key="1879062411" value="上好书桌许可"/>
+<label key="1879062506" value="剑杖合璧"/>
+<label key="1879062692" value="上好工作台许可"/>
+<label key="1879062819" value="搜寻矿藏"/>
+<label key="1879062822" value="勘探师学徒熟练"/>
+<label key="1879062823" value="勘探师学徒精通"/>
+<label key="1879062828" value="见习勘探师熟练"/>
+<label key="1879062829" value="见习勘探师精通"/>
+<label key="1879062835" value="中级勘探师熟练"/>
+<label key="1879062836" value="中级勘探师精通"/>
+<label key="1879062843" value="高级勘探师熟练"/>
+<label key="1879062844" value="高级勘探师精通"/>
+<label key="1879062851" value="勘探大师熟练"/>
+<label key="1879062852" value="勘探大师精通"/>
+<label key="1879062870" value="搜寻木材"/>
+<label key="1879062873" value="伐木工学徒熟练"/>
+<label key="1879062874" value="伐木工学徒精通"/>
+<label key="1879062879" value="见习伐木工熟练"/>
+<label key="1879062880" value="见习伐木工精通"/>
+<label key="1879062885" value="中级伐木工熟练"/>
+<label key="1879062886" value="中级伐木工精通"/>
+<label key="1879062891" value="高级伐木工熟练"/>
+<label key="1879062892" value="高级伐木工精通"/>
+<label key="1879062897" value="伐木大师熟练"/>
+<label key="1879062898" value="伐木大师精通"/>
+<label key="1879062909" value="搜寻庄稼"/>
+<label key="1879062912" value="农夫学徒熟练"/>
+<label key="1879062913" value="农夫学徒精通"/>
+<label key="1879062925" value="见习农夫熟练"/>
+<label key="1879062926" value="见习农夫精通"/>
+<label key="1879062935" value="中级农夫熟练"/>
+<label key="1879062936" value="中级农夫精通"/>
+<label key="1879062945" value="高级农夫熟练"/>
+<label key="1879062946" value="高级农夫精通"/>
+<label key="1879062952" value="农艺大师熟练"/>
+<label key="1879062953" value="农艺大师精通"/>
+<label key="1879063892" value="伤害"/>
+<label key="1879063893" value="生命值"/>
+<label key="1879063894" value="能量"/>
+<label key="1879063895" value="护甲"/>
+<label key="1879063896" value="防御"/>
+<label key="1879063897" value="抗性"/>
+<label key="1879064086" value="单手斧"/>
+<label key="1879064087" value="单手棍"/>
+<label key="1879064088" value="单手锤"/>
+<label key="1879064089" value="单手钉头锤"/>
+<label key="1879064090" value="单手剑"/>
+<label key="1879064091" value="匕首"/>
+<label key="1879064092" value="双持攻击"/>
+<label key="1879064093" value="特制装备"/>
+<label key="1879064094" value="轻型护甲"/>
+<label key="1879064095" value="中型护甲"/>
+<label key="1879064096" value="使用号角"/>
+<label key="1879064097" value="招架： 第1级"/>
+<label key="1879064098" value="闪避： 第1级"/>
+<label key="1879064099" value="双手斧"/>
+<label key="1879064100" value="双手锤"/>
+<label key="1879064101" value="双手剑"/>
+<label key="1879064102" value="矛"/>
+<label key="1879064103" value="近战爆击： 第1级"/>
+<label key="1879064104" value="精准： 第1级"/>
+<label key="1879064105" value="盾牌"/>
+<label key="1879064106" value="闪避： 第2级"/>
+<label key="1879064107" value="招架： 第2级"/>
+<label key="1879064108" value="弓"/>
+<label key="1879064109" value="重型护甲"/>
+<label key="1879064110" value="格挡： 第1级"/>
+<label key="1879064111" value="近战爆击： 第2级"/>
+<label key="1879064112" value="格挡： 第2级"/>
+<label key="1879064113" value="精准： 第2级"/>
+<label key="1879064114" value="招架： 第3级"/>
+<label key="1879064115" value="闪避： 第3级"/>
+<label key="1879064116" value="格挡： 第3级"/>
+<label key="1879064118" value="格挡： 第4级"/>
+<label key="1879064119" value="精准： 第3级"/>
+<label key="1879064120" value="招架： 第4级"/>
+<label key="1879064121" value="闪避： 第4级"/>
+<label key="1879064122" value="精准： 第4级"/>
+<label key="1879064155" value="双手棍"/>
+<label key="1879064156" value="近战爆击： 第1级"/>
+<label key="1879064157" value="格挡： 第1级"/>
+<label key="1879064158" value="精准： 第1级"/>
+<label key="1879064159" value="闪避： 第1级"/>
+<label key="1879064160" value="戟"/>
+<label key="1879064161" value="格挡： 第2级"/>
+<label key="1879064162" value="近战爆击： 第2级"/>
+<label key="1879064163" value="招架： 第1级"/>
+<label key="1879064165" value="格挡： 第3级"/>
+<label key="1879064166" value="招架： 第2级"/>
+<label key="1879064168" value="精准： 第2级"/>
+<label key="1879064169" value="招架： 第3级"/>
+<label key="1879064170" value="精准： 第3级"/>
+<label key="1879064171" value="精准： 第4级"/>
+<label key="1879064172" value="招架： 第4级"/>
+<label key="1879064173" value="使用召唤号角"/>
+<label key="1879064210" value="使用鲁特琴"/>
+<label key="1879064211" value="使用竖笛"/>
+<label key="1879064212" value="使用长笛"/>
+<label key="1879064213" value="使用竖琴"/>
+<label key="1879064214" value="闪避： 第1级"/>
+<label key="1879064215" value="闪避： 第2级"/>
+<label key="1879064216" value="闪避： 第3级"/>
+<label key="1879064217" value="格挡： 第1级"/>
+<label key="1879064218" value="格挡： 第2级"/>
+<label key="1879064219" value="格挡： 第3级"/>
+<label key="1879064220" value="格挡： 第4级"/>
+<label key="1879064221" value="精准： 第1级"/>
+<label key="1879064222" value="精准： 第2级"/>
+<label key="1879064223" value="精准： 第3级"/>
+<label key="1879064224" value="精准： 第4级"/>
+<label key="1879064225" value="近战爆击： 第1级"/>
+<label key="1879064226" value="近战爆击： 第2级"/>
+<label key="1879064227" value="近战爆击： 第3级"/>
+<label key="1879064228" value="近战爆击： 第4级"/>
+<label key="1879064229" value="招架： 第1级"/>
+<label key="1879064230" value="招架： 第2级"/>
+<label key="1879064231" value="招架： 第3级"/>
+<label key="1879064259" value="双手杖"/>
+<label key="1879064260" value="闪避： 第1级"/>
+<label key="1879064261" value="招架： 第1级"/>
+<label key="1879064262" value="精准： 第1级"/>
+<label key="1879064263" value="近战爆击： 第1级"/>
+<label key="1879064264" value="招架： 第2级"/>
+<label key="1879064265" value="精准： 第2级"/>
+<label key="1879064267" value="近战爆击： 第2级"/>
+<label key="1879064268" value="闪避： 第2级"/>
+<label key="1879064269" value="招架： 第3级"/>
+<label key="1879064271" value="精准： 第3级"/>
+<label key="1879064273" value="精准： 第4级"/>
+<label key="1879064274" value="闪避： 第3级"/>
+<label key="1879064298" value="弩"/>
+<label key="1879064299" value="重型盾牌"/>
+<label key="1879064300" value="精准： 第1级"/>
+<label key="1879064301" value="精准： 第2级"/>
+<label key="1879064302" value="精准： 第3级"/>
+<label key="1879064303" value="精准： 第4级"/>
+<label key="1879064304" value="格挡： 第1级"/>
+<label key="1879064305" value="格挡： 第2级"/>
+<label key="1879064306" value="格挡： 第3级"/>
+<label key="1879064307" value="格挡： 第4级"/>
+<label key="1879064308" value="近战爆击： 第1级"/>
+<label key="1879064309" value="近战爆击： 第2级"/>
+<label key="1879064312" value="闪避： 第1级"/>
+<label key="1879064313" value="闪避： 第2级"/>
+<label key="1879064314" value="招架： 第1级"/>
+<label key="1879064315" value="招架： 第2级"/>
+<label key="1879064316" value="招架： 第3级"/>
+<label key="1879064317" value="招架： 第4级"/>
+<label key="1879064344" value="精准： 第1级"/>
+<label key="1879064345" value="精准： 第2级"/>
+<label key="1879064346" value="精准： 第3级"/>
+<label key="1879064347" value="精准： 第4级"/>
+<label key="1879064348" value="近战爆击： 第1级"/>
+<label key="1879064349" value="近战爆击： 第2级"/>
+<label key="1879064350" value="近战爆击： 第3级"/>
+<label key="1879064351" value="近战爆击： 第4级"/>
+<label key="1879064352" value="闪避： 第1级"/>
+<label key="1879064353" value="闪避： 第2级"/>
+<label key="1879064354" value="闪避： 第3级"/>
+<label key="1879064355" value="闪避： 第4级"/>
+<label key="1879064356" value="招架： 第1级"/>
+<label key="1879064357" value="招架： 第2级"/>
+<label key="1879064358" value="招架： 第3级"/>
+<label key="1879064359" value="招架： 第4级"/>
+<label key="1879064400" value="进阶远程"/>
+<label key="1879064401" value="闪避： 第1级"/>
+<label key="1879064402" value="远程爆击： 第1级"/>
+<label key="1879064403" value="远程闪避： 第1级"/>
+<label key="1879064404" value="招架： 第1级"/>
+<label key="1879064405" value="精准： 第1级"/>
+<label key="1879064406" value="远程闪避： 第2级"/>
+<label key="1879064407" value="闪避： 第2级"/>
+<label key="1879064408" value="远程闪避： 第3级"/>
+<label key="1879064409" value="招架： 第2级"/>
+<label key="1879064410" value="精准： 第2级"/>
+<label key="1879064411" value="远程闪避： 第4级"/>
+<label key="1879064412" value="远程爆击： 第2级"/>
+<label key="1879064413" value="精准： 第3级"/>
+<label key="1879064414" value="招架： 第3级"/>
+<label key="1879064415" value="闪避： 第3级"/>
+<label key="1879064416" value="精准： 第4级"/>
+<label key="1879064417" value="远程爆击： 第3级"/>
+<label key="1879064418" value="招架： 第4级"/>
+<label key="1879064419" value="远程爆击： 第4级"/>
+<label key="1879064420" value="闪避： 第4级"/>
+<label key="1879072425" value="能量增强"/>
+<label key="1879072426" value="抗性增强"/>
+<label key="1879072427" value="快速攻击"/>
+<label key="1879072428" value="燃烧之刃"/>
+<label key="1879072429" value="增强技能： 横扫斩切"/>
+<label key="1879072430" value="增强技能： 胜利荣耀"/>
+<label key="1879072431" value="增强技能： 毁灭打击"/>
+<label key="1879072432" value="高级技能： 百折不挠"/>
+<label key="1879072435" value="外观1"/>
+<label key="1879072436" value="外观2"/>
+<label key="1879072437" value="外观3"/>
+<label key="1879072438" value="外观4"/>
+<label key="1879072439" value="外观5"/>
+<label key="1879072440" value="外观6"/>
+<label key="1879072441" value="士气增强"/>
+<label key="1879072442" value="护甲增强"/>
+<label key="1879072443" value="恢复"/>
+<label key="1879072444" value="迅捷编织"/>
+<label key="1879072445" value="增强技能： 穿刺攻击"/>
+<label key="1879072446" value="增强技能： 剧毒之吻"/>
+<label key="1879072447" value="铁网蛛丝"/>
+<label key="1879072448" value="高级技能： 粘液之网"/>
+<label key="1879072451" value="外观1"/>
+<label key="1879072452" value="外观2"/>
+<label key="1879072453" value="外观3"/>
+<label key="1879072454" value="外观4"/>
+<label key="1879072455" value="外观5"/>
+<label key="1879072456" value="外观6"/>
+<label key="1879072457" value="防御增强"/>
+<label key="1879072458" value="抗性增强"/>
+<label key="1879072459" value="致命瞄准"/>
+<label key="1879072460" value="恐怖回击"/>
+<label key="1879072461" value="增强技能： 阻碍射击"/>
+<label key="1879072462" value="穿击之箭"/>
+<label key="1879072463" value="迅捷射击"/>
+<label key="1879072464" value="高级技能： 设置陷阱"/>
+<label key="1879072467" value="外观1"/>
+<label key="1879072468" value="外观2"/>
+<label key="1879072469" value="外观3"/>
+<label key="1879072470" value="外观4"/>
+<label key="1879072471" value="外观5"/>
+<label key="1879072472" value="外观6"/>
+<label key="1879072473" value="狂暴屠戮"/>
+<label key="1879072474" value="防御增强"/>
+<label key="1879072475" value="能量爆发"/>
+<label key="1879072476" value="盾牌精通"/>
+<label key="1879072477" value="增强技能： 站起来！"/>
+<label key="1879072478" value="刺耳话语"/>
+<label key="1879072479" value="增强技能： 战场激励"/>
+<label key="1879072480" value="高级技能： 振作起来！"/>
+<label key="1879072483" value="外观1"/>
+<label key="1879072484" value="外观2"/>
+<label key="1879072485" value="外观3"/>
+<label key="1879072486" value="外观4"/>
+<label key="1879072487" value="外观5"/>
+<label key="1879072488" value="外观6"/>
+<label key="1879072489" value="护甲增强"/>
+<label key="1879072490" value="抗性增强"/>
+<label key="1879072491" value="长阔步"/>
+<label key="1879072492" value="暗影犬牙"/>
+<label key="1879072493" value="增强技能： 隐匿"/>
+<label key="1879072494" value="增强技能： 疾跑"/>
+<label key="1879072495" value="惊奇元素"/>
+<label key="1879072496" value="高级技能： 恢复吼叫"/>
+<label key="1879072499" value="外观1"/>
+<label key="1879072500" value="外观2"/>
+<label key="1879072501" value="外观3"/>
+<label key="1879072502" value="外观4"/>
+<label key="1879072503" value="外观5"/>
+<label key="1879072505" value="生命转伤害（第1级）"/>
+<label key="1879072506" value="能量转伤害（第1级）"/>
+<label key="1879072507" value="伤害转生命（第1级）"/>
+<label key="1879072508" value="能量转生命（第1级）"/>
+<label key="1879072509" value="伤害转能量（第1级）"/>
+<label key="1879072510" value="生命转能量（第1级）"/>
+<label key="1879072511" value="物理伤害防御增强（第1级）"/>
+<label key="1879072512" value="火焰伤害防御增强（第1级）"/>
+<label key="1879072513" value="光明伤害防御增强（第1级）"/>
+<label key="1879072514" value="远古矮人伤害防御增强（第1级）"/>
+<label key="1879072515" value="贝尔兰伤害防御增强（第1级）"/>
+<label key="1879072516" value="西方皇族伤害防御增强（第1级）"/>
+<label key="1879072517" value="歌谣抗性增强（第1级）"/>
+<label key="1879072518" value="咆哮抗性增强（第1级）"/>
+<label key="1879072519" value="法术抗性增强（第1级）"/>
+<label key="1879072520" value="物理抗性增强（第1级）"/>
+<label key="1879072521" value="隐匿探测增强"/>
+<label key="1879072873" value="怜悯"/>
+<label key="1879072874" value="热情"/>
+<label key="1879072875" value="信心"/>
+<label key="1879072876" value="决心"/>
+<label key="1879072877" value="自律"/>
+<label key="1879072878" value="悟性"/>
+<label key="1879072879" value="忠贞"/>
+<label key="1879072880" value="坚韧"/>
+<label key="1879072881" value="诚实"/>
+<label key="1879072882" value="荣耀"/>
+<label key="1879072883" value="荣誉"/>
+<label key="1879072884" value="公正"/>
+<label key="1879072885" value="忠诚"/>
+<label key="1879072886" value="仁慈"/>
+<label key="1879072887" value="耐心"/>
+<label key="1879072888" value="圣洁"/>
+<label key="1879072889" value="宽容"/>
+<label key="1879072890" value="英勇"/>
+<label key="1879072891" value="睿智"/>
+<label key="1879072892" value="热忱"/>
+<label key="1879073451" value="身材矮小"/>
+<label key="1879073452" value="霍比特的坚强"/>
+<label key="1879073453" value="极速恢复"/>
+<label key="1879073454" value="霍比特的勇气"/>
+<label key="1879073455" value="抵制堕落"/>
+<label key="1879073469" value="投石"/>
+<label key="1879073473" value="诡计和信念奖励"/>
+<label key="1879073475" value="霍比特棍伤害奖励"/>
+<label key="1879073477" value="霍比特的地位"/>
+<label key="1879073479" value="返回麦克·戴尔文"/>
+<label key="1879073483" value="返回瑞文戴尔"/>
+<label key="1879073485" value="霍比特恢复"/>
+<label key="1879073490" value="霍比特隐匿"/>
+<label key="1879073494" value="霍比特沉默"/>
+<label key="1879073502" value="人类信念"/>
+<label key="1879073503" value="意志薄弱"/>
+<label key="1879073504" value="易受鼓舞"/>
+<label key="1879073505" value="体格强健"/>
+<label key="1879073515" value="上勾拳"/>
+<label key="1879073519" value="法术和力量奖励"/>
+<label key="1879073521" value="人类之剑伤害奖励"/>
+<label key="1879073523" value="第四纪元的人类"/>
+<label key="1879073525" value="返回布雷"/>
+<label key="1879073529" value="义不容辞"/>
+<label key="1879073534" value="人类的平衡"/>
+<label key="1879073536" value="士气之力"/>
+<label key="1879073545" value="天性之悲"/>
+<label key="1879073546" value="丛林敏捷"/>
+<label key="1879073547" value="天性之衰"/>
+<label key="1879073548" value="疾患免疫"/>
+<label key="1879073558" value="影遁"/>
+<label key="1879073561" value="法术和信念奖励"/>
+<label key="1879073563" value="精灵之弓伤害奖励"/>
+<label key="1879073565" value="人类之友"/>
+<label key="1879073570" value="埃尔达的恩赐"/>
+<label key="1879073574" value="精灵单手剑伤害奖励"/>
+<label key="1879073576" value="埃尔达的能量"/>
+<label key="1879073582" value="健壮"/>
+<label key="1879073583" value="笨拙"/>
+<label key="1879073584" value="亡国之运"/>
+<label key="1879073585" value="不倦战斗"/>
+<label key="1879073595" value="头槌"/>
+<label key="1879073599" value="诡计和力量奖励"/>
+<label key="1879073601" value="矮人战斧伤害奖励"/>
+<label key="1879073603" value="伟大的矮人"/>
+<label key="1879073605" value="返回索林大门"/>
+<label key="1879073609" value="不动如山"/>
+<label key="1879073613" value="矮人坚韧"/>
+<label key="1879076057" value="巧妙设备"/>
+<label key="1879076061" value="诡计工具"/>
+<label key="1879076067" value="知识典籍"/>
+<label key="1879076071" value="手设陷阱"/>
+<label key="1879076074" value="护戒队之心"/>
+<label key="1879076104" value="使用使者装备"/>
+<label key="1879076155" value="英勇号角"/>
+<label key="1879076358" value="盾牌战士"/>
+<label key="1879084084" value="闪避： 第2级"/>
+<label key="1879088470" value="使用鼓"/>
+<label key="1879088471" value="使用琉特琴"/>
+<label key="1879090925" value="弓之圣歌"/>
+<label key="1879091351" value="生命转伤害（第2级）"/>
+<label key="1879091352" value="能量转伤害（第2级）"/>
+<label key="1879091353" value="伤害转生命（第2级）"/>
+<label key="1879091354" value="能量转生命（第2级）"/>
+<label key="1879091355" value="伤害转能量（第2级）"/>
+<label key="1879091356" value="生命转能量（第2级）"/>
+<label key="1879091357" value="远古矮人伤害防御增强（第2级）"/>
+<label key="1879091358" value="贝尔兰伤害防御增强（第2级）"/>
+<label key="1879091359" value="物理伤害防御增强（第2级）"/>
+<label key="1879091360" value="火焰伤害防御增强（第2级）"/>
+<label key="1879091361" value="光明伤害防御增强（第2级）"/>
+<label key="1879091362" value="西方皇族伤害防御增强（第2级）"/>
+<label key="1879091363" value="咆哮抗性增强（第2级）"/>
+<label key="1879091364" value="法术抗性增强（第2级）"/>
+<label key="1879091365" value="物理抗性增强（第2级）"/>
+<label key="1879091366" value="歌谣抗性增强（第2级）"/>
+<label key="1879092949" value="高尚的人类"/>
+<label key="1879092950" value="高尚的矮人"/>
+<label key="1879092951" value="高尚的精灵"/>
+<label key="1879092952" value="高尚的霍比特人"/>
+<label key="1879093046" value="搜寻工艺品"/>
+<label key="1879093481" value="追踪向导"/>
+<label key="1879097466" value="使用风笛"/>
+<label key="1879097468" value="使用初级牛铃"/>
+<label key="1879097470" value="使用荒野牛铃"/>
+<label key="1879097831" value="凝神作战"/>
+<label key="1879097832" value="兽人之怒"/>
+<label key="1879097833" value="深渊斗士"/>
+<label key="1879097834" value="力战不竭"/>
+<label key="1879097835" value="血肉残食"/>
+<label key="1879097836" value="蜘蛛威慑"/>
+<label key="1879097837" value="暗黑之噬"/>
+<label key="1879097838" value="星之恒久"/>
+<label key="1879097839" value="累世仇怨"/>
+<label key="1879097840" value="嗜血如命"/>
+<label key="1879097841" value="优秀兽族"/>
+<label key="1879097842" value="兽人领袖"/>
+<label key="1879097843" value="黑暗亲仆"/>
+<label key="1879097844" value="力战不竭"/>
+<label key="1879097845" value="残暴驯服"/>
+<label key="1879097846" value="座狼之爪"/>
+<label key="1879097847" value="狼族专注"/>
+<label key="1879097848" value="狼族长者"/>
+<label key="1879097849" value="暗影守护"/>
+<label key="1879097850" value="战斗精通"/>
+<label key="1879097853" value="高级技能： 热血沸腾"/>
+<label key="1879097854" value="高级技能： 无尽狂怒"/>
+<label key="1879097855" value="高级技能： 暗影滋生"/>
+<label key="1879097856" value="高级技能： 尸罗天性"/>
+<label key="1879097857" value="高级技能： 震撼现身"/>
+<label key="1879097858" value="高级技能： 亡命之搏!"/>
+<label key="1879097859" value="高级技能： 狼族猎手"/>
+<label key="1879097860" value="高级技能： 恐惧凝视"/>
+<label key="1879101492" value="动物之友"/>
+<label key="1879101513" value="布雷兰之家"/>
+<label key="1879101514" value="布雷兰之家"/>
+<label key="1879101515" value="布雷兰家族大厅"/>
+<label key="1879101516" value="法拉斯隆之家"/>
+<label key="1879101517" value="法拉斯隆之家"/>
+<label key="1879101518" value="法拉斯隆家族大厅"/>
+<label key="1879101519" value="夏尔家园"/>
+<label key="1879101520" value="夏尔家园"/>
+<label key="1879101521" value="夏尔家族大厅"/>
+<label key="1879101522" value="索林大厅之家"/>
+<label key="1879101523" value="索林大厅之家"/>
+<label key="1879101524" value="索林大厅的家族大厅"/>
+<label key="1879101614" value="传送到家族大厅"/>
+<label key="1879101615" value="旅行到个人住宅"/>
+<label key="1879101895" value="基础骑术"/>
+<label key="key:620757613:191029568" value="你已被公认为是未来某一天能掌握中土命运的人"/>
+<label key="key:620757613:54354734" value="你已被公认为是未来某一天能掌握中土命运的人"/>
+<label key="key:620758784:191029568" value="你可以使用座骑。"/>
+<label key="key:620758784:54354734" value="你可以使用座骑。"/>
+<label key="key:620759125:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620759125:191029568" value="“洞察弱点”技能产生更大的护甲减益"/>
+<label key="key:620759125:54354734" value="使用技能“洞察弱点”时，可以发现敌人更多的防守弱点。"/>
+<label key="key:620759129:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620759129:191029568" value="提高副手武器的杀伤力"/>
+<label key="key:620759129:54354734" value="使用副手武器时，可以给敌人造成更大的伤害。"/>
+<label key="key:620759159:191029568" value="此效果可以使你通过爆击和闪避获得爆击回应。"/>
+<label key="key:620759159:54354734" value="通常在爆击之后才可以使用的技能，现在也可以在成功闪避攻击之后使用。"/>
+<label key="key:620759185:191029568" value="在使用“双重追击”技能后，你可以对目标进行2次攻击。"/>
+<label key="key:620759185:54354734" value="在使用“双重追击”技能后，你可以对目标再进行2次攻击。"/>
+<label key="key:620759199:106251890" value="“摔绊”技能冷却时间减少${VALUE} 秒"/>
+<label key="key:620759199:191029568" value="使用“摔绊”技能时不再打断隐匿状态，而且技能的冷却时间缩短40秒。"/>
+<label key="key:620759199:54354734" value="使用“摔绊”技能时不再打断隐匿状态，而且技能的冷却时间缩短40秒。"/>
+<label key="key:620759210:191029568" value="在使用“双重追击”技能之后，你可以进行一次高伤害的攻击，还可可能创造一次使用联合技的机会。"/>
+<label key="key:620759210:54354734" value="使用“双重追击”之后，可以再发动一次攻击，造成重大伤害。 此外，还有机会创造一次使用护戒队技能的机会。"/>
+<label key="key:620759231:106251889" value="你的宠物对主人忠心耿耿，坚定不移，从来没想过逃跑。"/>
+<label key="key:620759231:191029568" value="你的宠物士气高涨，攻击力和防御能力都得到明显提升。 你必须重新召唤宠物以获得此效果。"/>
+<label key="key:620759231:54354734" value="你的宠物会有更高的士气，攻击和防守的能力也更强。 你需要重新召唤宠物才能发挥这个效果。"/>
+<label key="key:620759242:191029568" value="只有埃尔达精灵和巫师才可以匹敌你的自然知识，此技能可以让你将自然界的愤怒施加在敌人身上。"/>
+<label key="key:620759242:54354734" value="只有埃尔达精灵和巫师才可以匹敌你的自然知识。 你可以将自然界的愤怒施加在敌人身上。"/>
+<label key="key:620759255:191029568" value="你是鹰的朋友，现在，你可以召来一只鹰帮助你。"/>
+<label key="key:620759255:54354734" value="你是鹰的朋友，可以召来一只鹰帮助你。"/>
+<label key="key:620759328:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620759328:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620759328:191029568" value="火焰系技能更具杀伤力。"/>
+<label key="key:620759328:54354734" value="火焰系技能杀伤力提高10%。"/>
+<label key="key:620759337:106251890" value="奖励：${PERCENTVALUE}所有圣印系技能的能量消耗"/>
+<label key="key:620759337:191029568" value="可以召唤更具威力的熊。"/>
+<label key="key:620759337:54354734" value="召唤出的熊的能量得到提升。"/>
+<label key="key:620759381:106251891" value="奖励： ${PROPERTY}减${VALUE}秒"/>
+<label key="key:620759381:106251892" value="奖励： ${PROPERTY}减${VALUE}秒"/>
+<label key="key:620759381:191029568" value="处于精准姿势时，每隔10秒增加1点精神"/>
+<label key="key:620759381:54354734" value="处于精准姿势时，每隔10秒将增加1点精神。"/>
+<label key="key:620759384:106251891" value="奖励：${PROPERTY}减少 ${VALUE}s"/>
+<label key="key:620759384:106251892" value="奖励：${PROPERTY}减少 ${VALUE}s"/>
+<label key="key:620759384:191029568" value="缩短“荆棘箭”和“双重射击”技能的施放时间"/>
+<label key="key:620759384:54354734" value="可以更快地施放技能“荆棘箭”和“双重射击”。"/>
+<label key="key:620759397:191029568" value="补充每次射击消耗的能量。"/>
+<label key="key:620759397:54354734" value="你的正直让你在每次成功的远程攻击之后都可以恢复能量。"/>
+<label key="key:620759410:191029568" value="你用弓箭手巴德的技能进行攻击，使邪恶的敌人感到恐惧。"/>
+<label key="key:620759410:54354734" value="你用弓箭手巴德的技能进行攻击，使邪恶的敌人感到恐惧。"/>
+<label key="key:620759425:191029568" value="在紧急情况下，你可以在几秒钟内完全恢复所有的能量和士气。"/>
+<label key="key:620759425:54354734" value="在紧急情况下，你可以在几秒钟内完全恢复所有的能量和士气。"/>
+<label key="key:620759439:191029568" value="你可以象下雨一样对准敌人发射出5支带刺的箭，可以令多个目标定身。"/>
+<label key="key:620759439:54354734" value="你可以象下雨一样对敌人发射出5支带刺的箭，可以令多个目标定身。"/>
+<label key="key:620759616:191029568" value="并非所有的种族都遗忘了古老的技能，你可以在战斗中复活被击败的队友。"/>
+<label key="key:620759616:54354734" value="并非所有的种族都遗忘了古老的技能。 你可以在战斗中复活被击败的队友。"/>
+<label key="key:620759629:191029568" value="此歌曲使你可以暂时性地降低一个区域内的“畏惧”效果，持续时间为60秒。"/>
+<label key="key:620759629:54354734" value="此歌曲使你可以在短时间内暂时性地降低目标区域内的“畏惧”效果。"/>
+<label key="key:620759642:191029568" value="该礼赞用范围性光明伤害来攻击敌人，凡被其击中者移动速度都会降低。施放过3阶歌类技能后，有短暂的机会可以施放礼赞类技能，但这将重置所有曲类技能的施放机会。"/>
+<label key="key:620759642:54354734" value="该礼赞用范围性光明伤害来攻击敌人，凡被其击中者移动速度都会降低。 施放过3阶歌类技能后，有短暂的机会可以施放礼赞类技能，但这将重置所有曲类技能的施放机会。"/>
+<label key="key:620759684:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620759684:191029568" value="礼赞持续有效，且持续时间延长"/>
+<label key="key:620759684:54354734" value="礼赞的持续时间延长了15秒。"/>
+<label key="key:620759687:106251890" value="奖励： ${PROPERTY} ${VALUE}"/>
+<label key="key:620759687:191029568" value="你可以使用中型护甲。"/>
+<label key="key:620759687:54354734" value="你可以穿中型护甲。"/>
+<label key="key:620759750:191029568" value="“圣光照耀”技能得到极大提升，你的“复仇咆哮”可以再使一个同伴重返战斗。"/>
+<label key="key:620759750:54354734" value="“圣光照耀”技能得到极大提升，你的“复仇咆哮”可以再使一个同伴重返战斗。"/>
+<label key="key:620759765:191029568" value="你的声音可以唤醒杜内丹的意志，保护同伴，但至少要消耗你1/2的能量。"/>
+<label key="key:620759765:54354734" value="可以对一个同伴进行保护，但是要消耗自己一半的能量。"/>
+<label key="key:620759778:191029568" value="向你的对手施放诅咒，极大提高你能够对该目标所能造成的伤害。"/>
+<label key="key:620759778:54354734" value="向你的对手施放诅咒，极大提高你能够对该目标造成的伤害。"/>
+<label key="key:620759791:191029568" value="你的出现极大地鼓舞周围的同伴，令他们更加勇敢地进行战斗。"/>
+<label key="key:620759791:54354734" value="你的出现极大地鼓舞周围的同伴，令他们更加勇猛。"/>
+<label key="key:620759813:106251890" value="奖励： 增加+${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759813:191029568" value="“屹立不倒”技能的持续时间更长，技能结束后可以恢复部分士气。"/>
+<label key="key:620759813:54354734" value="“屹立不倒”技能的持续时间更长，技能结束后可以恢复部分士气。"/>
+<label key="key:620759817:106251890" value="奖励： 增加+${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759817:191029568" value="你给使者穿上了更好的盔甲，让他对你更加忠诚。  使者的士气得到了提升，可以输出更多的伤害，而且被击中后可以少受一些伤害。"/>
+<label key="key:620759817:54354734" value="你给使者穿上了更好的盔甲，让他对你更加忠诚。  使者的士气得到了提升，可以输出更多的伤害，而且被击中后可以少受一些伤害。"/>
+<label key="key:620760756:191029568" value="你可以放心地在守护石雕面前通过。"/>
+<label key="key:620760756:54354734" value="你可以轻易摆脱恶魔守护石雕压迫意志所带来的最可怕效果。"/>
+<label key="key:620761145:191029568" value="学者学徒熟练完成"/>
+<label key="key:620761145:54354734" value="完成学者学徒熟练"/>
+<label key="key:620761146:191029568" value="学者学徒精通完成"/>
+<label key="key:620761146:54354734" value="完成学者学徒精通"/>
+<label key="key:620761147:191029568" value="见习学者熟练完成"/>
+<label key="key:620761147:54354734" value="完成见习学者熟练"/>
+<label key="key:620761148:191029568" value="见习学者精通完成"/>
+<label key="key:620761148:54354734" value="完成见习学者精通"/>
+<label key="key:620761149:191029568" value="中级学者熟练完成"/>
+<label key="key:620761149:54354734" value="完成中级学者熟练"/>
+<label key="key:620761150:191029568" value="中级学者精通完成"/>
+<label key="key:620761150:54354734" value="完成中级学者精通"/>
+<label key="key:620761151:191029568" value="高级学者熟练完成"/>
+<label key="key:620761151:54354734" value="完成高级学者熟练"/>
+<label key="key:620761152:191029568" value="高级学者精通完成"/>
+<label key="key:620761152:54354734" value="完成高级学者精通"/>
+<label key="key:620761153:191029568" value="学者大师熟练完成"/>
+<label key="key:620761153:54354734" value="完成学者大师熟练"/>
+<label key="key:620761154:191029568" value="学者大师精通完成"/>
+<label key="key:620761154:54354734" value="完成学者大师精通"/>
+<label key="key:620761282:191029568" value="冶炼师学徒熟练完成"/>
+<label key="key:620761282:54354734" value="完成冶炼师学徒熟练"/>
+<label key="key:620761283:191029568" value="冶炼师学徒精通完成"/>
+<label key="key:620761283:54354734" value="完成冶炼师学徒精通"/>
+<label key="key:620761284:191029568" value="见习冶炼师熟练完成"/>
+<label key="key:620761284:54354734" value="完成见习冶炼师熟练"/>
+<label key="key:620761285:191029568" value="见习冶炼师精通完成"/>
+<label key="key:620761285:54354734" value="完成见习冶炼师精通"/>
+<label key="key:620761286:191029568" value="中级冶炼师熟练完成"/>
+<label key="key:620761286:54354734" value="完成中级冶炼师熟练"/>
+<label key="key:620761287:191029568" value="中级冶炼师精通完成"/>
+<label key="key:620761287:54354734" value="完成中级冶炼师精通"/>
+<label key="key:620761288:191029568" value="高级冶炼师熟练完成"/>
+<label key="key:620761288:54354734" value="完成高级冶炼师熟练"/>
+<label key="key:620761289:191029568" value="高级冶炼师精通完成"/>
+<label key="key:620761289:54354734" value="完成高级冶炼师精通"/>
+<label key="key:620761290:191029568" value="冶炼大师熟练完成"/>
+<label key="key:620761290:54354734" value="完成冶炼大师熟练"/>
+<label key="key:620761291:191029568" value="冶炼大师精通完成"/>
+<label key="key:620761291:54354734" value="完成冶炼大师精通"/>
+<label key="key:620761413:191029568" value="珠宝匠学徒熟练完成"/>
+<label key="key:620761413:54354734" value="完成珠宝匠学徒熟练"/>
+<label key="key:620761414:191029568" value="珠宝匠学徒精通完成"/>
+<label key="key:620761414:54354734" value="完成珠宝匠学徒精通"/>
+<label key="key:620761415:191029568" value="见习珠宝匠熟练完成"/>
+<label key="key:620761415:54354734" value="完成见习珠宝匠熟练"/>
+<label key="key:620761416:191029568" value="见习珠宝匠精通完成"/>
+<label key="key:620761416:54354734" value="完成见习珠宝匠精通"/>
+<label key="key:620761417:191029568" value="中级珠宝匠熟练完成"/>
+<label key="key:620761417:54354734" value="完成中级珠宝匠熟练"/>
+<label key="key:620761418:191029568" value="中级珠宝匠精通完成"/>
+<label key="key:620761418:54354734" value="完成中级珠宝匠精通"/>
+<label key="key:620761419:191029568" value="高级珠宝匠熟练完成"/>
+<label key="key:620761419:54354734" value="完成高级珠宝匠熟练"/>
+<label key="key:620761420:191029568" value="高级珠宝匠精通完成"/>
+<label key="key:620761420:54354734" value="完成高级珠宝匠精通"/>
+<label key="key:620761421:191029568" value="珠宝大师熟练完成"/>
+<label key="key:620761421:54354734" value="完成珠宝大师熟练"/>
+<label key="key:620761422:191029568" value="珠宝大师精通完成"/>
+<label key="key:620761422:54354734" value="完成珠宝大师精通"/>
+<label key="key:620761635:191029568" value="完成裁缝学徒熟练"/>
+<label key="key:620761635:54354734" value="完成裁缝学徒熟练"/>
+<label key="key:620761636:191029568" value="裁缝学徒精通完成"/>
+<label key="key:620761636:54354734" value="完成裁缝学徒精通"/>
+<label key="key:620761637:191029568" value="见习裁缝熟练完成"/>
+<label key="key:620761637:54354734" value="完成见习裁缝熟练"/>
+<label key="key:620761638:191029568" value="见习裁缝精通完成"/>
+<label key="key:620761638:54354734" value="完成见习裁缝精通"/>
+<label key="key:620761639:191029568" value="中级裁缝熟练完成"/>
+<label key="key:620761639:54354734" value="完成中级裁缝熟练"/>
+<label key="key:620761640:191029568" value="中级裁缝精通完成"/>
+<label key="key:620761640:54354734" value="完成中级裁缝精通"/>
+<label key="key:620761641:191029568" value="高级裁缝熟练完成"/>
+<label key="key:620761641:54354734" value="完成高级裁缝熟练"/>
+<label key="key:620761642:191029568" value="高级裁缝精通完成"/>
+<label key="key:620761642:54354734" value="完成高级裁缝精通"/>
+<label key="key:620761643:191029568" value="裁缝大师熟练完成"/>
+<label key="key:620761643:54354734" value="完成裁缝大师熟练"/>
+<label key="key:620761644:191029568" value="裁缝大师精通完成"/>
+<label key="key:620761644:54354734" value="完成裁缝大师精通"/>
+<label key="key:620761773:191029568" value="锻造师学徒熟练完成"/>
+<label key="key:620761773:54354734" value="完成锻造师学徒熟练"/>
+<label key="key:620761774:191029568" value="锻造师学徒精通完成"/>
+<label key="key:620761774:54354734" value="完成锻造师学徒精通"/>
+<label key="key:620761775:191029568" value="见习锻造师熟练完成"/>
+<label key="key:620761775:54354734" value="锻造师学徒熟练完成"/>
+<label key="key:620761776:191029568" value="见习锻造师精通完成"/>
+<label key="key:620761776:54354734" value="完成见习锻造师精通"/>
+<label key="key:620761777:191029568" value="中级参展商熟练完成"/>
+<label key="key:620761777:54354734" value="完成中级锻造师熟练"/>
+<label key="key:620761778:191029568" value="中级锻造师精通完成"/>
+<label key="key:620761778:54354734" value="完成中级锻造师精通"/>
+<label key="key:620761779:191029568" value="高级锻造师熟练完成"/>
+<label key="key:620761779:54354734" value="完成高级锻造师熟练"/>
+<label key="key:620761780:191029568" value="高级锻造师精通完成"/>
+<label key="key:620761780:54354734" value="完成高级锻造师精通"/>
+<label key="key:620761781:191029568" value="锻造大师熟练完成"/>
+<label key="key:620761781:54354734" value="完成锻造大师熟练"/>
+<label key="key:620761782:191029568" value="锻造大师精通完成"/>
+<label key="key:620761782:54354734" value="完成锻造大师精通"/>
+<label key="key:620761890:191029568" value="木工学徒熟练完成"/>
+<label key="key:620761890:54354734" value="完成木工学徒熟练"/>
+<label key="key:620761891:191029568" value="木工学徒精通完成"/>
+<label key="key:620761891:54354734" value="完成木工学徒精通"/>
+<label key="key:620761892:191029568" value="见习木工熟练完成"/>
+<label key="key:620761892:54354734" value="完成见习木工熟练"/>
+<label key="key:620761893:191029568" value="见习木工精通完成"/>
+<label key="key:620761893:54354734" value="完成见习木工精通"/>
+<label key="key:620761894:191029568" value="中级木工熟练完成"/>
+<label key="key:620761894:54354734" value="完成中级木工熟练"/>
+<label key="key:620761895:191029568" value="中级木工精通完成"/>
+<label key="key:620761895:54354734" value="完成中级木工精通"/>
+<label key="key:620761896:191029568" value="高级木工熟练完成"/>
+<label key="key:620761896:54354734" value="完成高级木工熟练"/>
+<label key="key:620761897:191029568" value="高级木工精通完成"/>
+<label key="key:620761897:54354734" value="完成高级木工精通"/>
+<label key="key:620761898:191029568" value="木工大师熟练完成"/>
+<label key="key:620761898:54354734" value="完成木工大师熟练"/>
+<label key="key:620761899:191029568" value="木工大师精通完成"/>
+<label key="key:620761899:54354734" value="完成木工大师精通"/>
+<label key="key:620761954:191029568" value="猎人可以将火油涂到箭上。"/>
+<label key="key:620761954:54354734" value="猎人可以在远程武器上使用火油。"/>
+<label key="key:620761960:191029568" value="猎人可以将圣水涂到箭上。"/>
+<label key="key:620761960:54354734" value="猎人可以将圣水涂到远程武器上。"/>
+<label key="key:620764878:191029568" value="三重攻击，产生极大的仇恨。"/>
+<label key="key:620764878:54354734" value="进行咄咄逼人的三重攻击，将敌人的注意力转移到你身上。"/>
+<label key="key:620764890:191029568" value="通过呐喊掠夺怪物的能量，把夺取的能量据为己有。"/>
+<label key="key:620764890:54354734" value="通过呐喊掠夺怪物的能量，把夺取的能量据为己有。"/>
+<label key="key:620764902:191029568" value="极具杀伤力的范围性攻击，但会产生巨大的仇恨。"/>
+<label key="key:620764902:54354734" value="可以造成巨大伤害的范围性攻击，但是同时也会将敌人的攻击吸引到你身上。"/>
+<label key="key:620764914:191029568" value="增强伤害输出并提升能量恢复。"/>
+<label key="key:620764914:54354734" value="伤害输出和能量恢复得到提升。"/>
+<label key="key:620764938:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620764938:191029568" value="允许使用重盾，可以降低你的热情惩罚效果。"/>
+<label key="key:620764938:54354734" value="你已能够装备重型盾牌。"/>
+<label key="key:620764941:106251890" value="奖励: ${PROPERTY}提升${PERCENTVALUE}."/>
+<label key="key:620764941:191029568" value="增加野性攻击，野蛮攻击和野蛮攻击的暴击几率。热情也增加额外的伤害加成。"/>
+<label key="key:620764941:54354734" value="下列技能的爆击几率提升： “残忍打击”、“三连斩”、“无情打击”、“凶狠攻击”、“凶猛攻击”和“野蛮攻击”。"/>
+<label key="key:620764946:191029568" value="可以使用符石。"/>
+<label key="key:620764946:54354734" value="可以使用符石。"/>
+<label key="key:620765159:106251890" value="奖励： 招架响应结果延长3秒。"/>
+<label key="key:620765159:191029568" value="招架攻击时，你会恢复部分能量。"/>
+<label key="key:620765159:54354734" value="招架攻击时，你会恢复部分能量。"/>
+<label key="key:620765162:106251890" value="奖励： 格挡回应效果将延长3秒。"/>
+<label key="key:620765162:191029568" value="格挡攻击时，你可以恢复部分能量。"/>
+<label key="key:620765162:54354734" value="格挡攻击时，你可以恢复部分能量。"/>
+<label key="key:620765171:191029568" value="使用盾刺"/>
+<label key="key:620765171:54354734" value="可以使用盾刺。"/>
+<label key="key:620765186:191029568" value="对某个敌人成功使用“压制”或“切割”以后，你可以对其进行一次强力打击。"/>
+<label key="key:620765186:54354734" value="对某个敌人成功使用“压制”或“刺击”以后，你可以对其进行一次强力打击。"/>
+<label key="key:620765206:191029568" value="在成功使用“盾牌震击”或“盾击嘲讽”技能之后，你可以使用盾牌碾压对手产生更大的伤害。 此技能产生额外的仇恨，吸引敌人的注意力。"/>
+<label key="key:620765206:54354734" value="在成功使用“盾牌震击”或“盾击嘲讽”之后，你可以使用盾牌碾压对手产生更大的伤害。 此技能产生额外的仇恨，吸引敌人的注意力。"/>
+<label key="key:620765218:191029568" value="想尽一切办法激怒敌人。"/>
+<label key="key:620765218:54354734" value="想尽一切办法激怒敌人。"/>
+<label key="key:620765230:191029568" value="吸引周围的敌人来攻击你，使同伴可以施放护戒队技能。 此技能会造成更多仇恨，迫使周围的敌人攻击你，同时会激活技能“盾卫守护”。"/>
+<label key="key:620765230:54354734" value="吸引周围的敌人来攻击你，使同伴可以施放护戒队技能。 此技能也可以激活技能“盾卫守护”。"/>
+<label key="key:620765352:106251890" value="奖励： ${VALUE}秒标记类技能的冷却时间"/>
+<label key="key:620765352:191029568" value="提升胜利之旗的效果。"/>
+<label key="key:620765352:54354734" value="提升胜利使者提供的能量增强效果。"/>
+<label key="key:620765357:191029568" value="那些为这枚戒指趋之若骛的人已开始不断寻找机会直接向你挑战，唯恐你扰乱了他们的美梦。"/>
+<label key="key:620765357:54354734" value="那些效忠于魔多黑暗之王的人已开始不断寻找机会直接向你挑战，唯恐你扰乱了他们的美梦。"/>
+<label key="key:620765358:191029568" value="作为中土的坚强勇士，你已经历过许多战斗。"/>
+<label key="key:620765358:54354734" value="作为中土的坚强勇士，你已经历过许多战斗。"/>
+<label key="key:620765359:191029568" value="拯救中土的道路十分漫长，但你已启程。"/>
+<label key="key:620765359:54354734" value="拯救中土的道路十分漫长，但你已启程。"/>
+<label key="key:620765392:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765392:191029568" value="使用“圣光照耀”技能使同伴重返战斗后，可以赋予更多的能量和全部的士气。"/>
+<label key="key:620765392:54354734" value="使用“圣光照耀”技能使同伴重返战斗后，可以赋予更多的能量和全部的士气。"/>
+<label key="key:620765399:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765399:191029568" value="“鼓舞咆哮”还将恢复少量能量"/>
+<label key="key:620765399:54354734" value="“鼓舞咆哮”技能在原有效果之外，还可以恢复少量能量。"/>
+<label key="key:620765406:106251890" value="奖励： ${VALUE}秒标记类技能的冷却时间"/>
+<label key="key:620765406:191029568" value="提高“战斗咆哮”产生的攻击速度增益"/>
+<label key="key:620765406:54354734" value="“战争咆哮”技能可以使盟友的攻击速度变得更快。"/>
+<label key="key:620765412:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765412:191029568" value="“挫敌咆哮”技能的伤害得到增强，并且可以使所有受到攻击的敌人昏迷。"/>
+<label key="key:620765412:54354734" value="“挫敌咆哮”技能现在可以使敌人昏迷，造成更大的伤害。"/>
+<label key="key:620765416:106251889" value="-${VALUE}秒 “战斗怒吼”冷却时间"/>
+<label key="key:620765416:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765416:191029568" value="缩短“战斗怒吼”技能的冷却时间。"/>
+<label key="key:620765416:54354734" value="缩短“战斗怒吼”技能的冷却时间。"/>
+<label key="key:620765425:106251890" value="奖励： 增加+${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765425:191029568" value="降低失手几率"/>
+<label key="key:620765425:54354734" value="降低攻击的失手几率。"/>
+<label key="key:620765429:106251890" value="奖励： ${VALUE}秒标记类技能的冷却时间"/>
+<label key="key:620765429:191029568" value="提升战争之旗的效果。"/>
+<label key="key:620765429:54354734" value="提升战争使者提供的力量和敏捷增强效果。"/>
+<label key="key:620765459:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765459:191029568" value="“勇气之语”技能的治疗效果得到提升"/>
+<label key="key:620765459:54354734" value="“勇气之语”技能可以大量增加队友的士气。"/>
+<label key="key:620765465:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765465:191029568" value="减少呐喊类技能的能量消耗。"/>
+<label key="key:620765465:54354734" value="减少呐喊类技能的能量消耗。"/>
+<label key="key:620765476:106251890" value="奖励： ${VALUE}秒标记类技能的冷却时间"/>
+<label key="key:620765476:191029568" value="提升希望之旗的效果。"/>
+<label key="key:620765476:54354734" value="提升希望使者提供的士气增益效果。"/>
+<label key="key:620765507:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765507:191029568" value="提升“毁灭打击”和“二连击”技能的爆击几率"/>
+<label key="key:620765507:54354734" value="提升“毁灭打击”和“二连击”技能的爆击几率。"/>
+<label key="key:620765511:106251890" value="奖励： ${PROPERTY} +${VALUE}"/>
+<label key="key:620765511:191029568" value="“仇恨怒吼”技能产生的仇恨显著提升"/>
+<label key="key:620765511:54354734" value="“仇恨怒吼”技能产生的仇恨增多。"/>
+<label key="key:620765515:106251890" value="奖励： 增加+${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765515:191029568" value="降低呐喊和治疗类技能产生的仇恨"/>
+<label key="key:620765515:54354734" value="减少呐喊和治疗类技能产生的仇恨。"/>
+<label key="key:620765562:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765562:191029568" value="“疾风”技能持续的时间额外增加10秒，攻击速度提升+5%，你的力量也得到增加。"/>
+<label key="key:620765562:54354734" value="“疾风”技能持续的时间更长，攻击速度也得到提升。"/>
+<label key="key:620765566:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765566:191029568" value="“迅捷打击”技能产生爆击后可以产生1点怒气，你的力量也得到增加。"/>
+<label key="key:620765566:54354734" value="“迅捷打击”技能产生爆击后可以产生1点额外的怒气。"/>
+<label key="key:620765571:106251890" value="奖励: ${PROPERTY}提升${PERCENTVALUE}."/>
+<label key="key:620765571:191029568" value="增加“野蛮攻击”、“凶狠攻击”和“残忍打击&#10;”的爆击杀伤力，同时怒气会提供额外的伤害增益。"/>
+<label key="key:620765571:54354734" value="下列技能的爆击杀伤力得到提升： “残忍打击”、“三连斩”、“无情打击”、“凶狠攻击”、“凶猛攻击”和“野蛮攻击”。"/>
+<label key="key:620765586:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765586:191029568" value="“暴风刃”可以最多攻击十个目标。同时“剑幕”和“暴风刃”也将造成更高伤害。"/>
+<label key="key:620765586:54354734" value="“暴风刃”可以最多攻击10个目标。"/>
+<label key="key:620765588:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765588:191029568" value="“振作之击”技能可以根据你身边的每一个敌人，多恢复少量士气。同时“剑幕”和“暴风刃”也将造成更高伤害。"/>
+<label key="key:620765588:54354734" value="“振作之击”技能可以根据你身边的每一个敌人，多恢复少量士气。"/>
+<label key="key:620765592:106251890" value="奖励：${PROPERTY}提升${PERCENTVALUE}。"/>
+<label key="key:620765592:191029568" value="“野蛮攻击”技能产生爆击之后能够产生1点额外的怒气，同时怒气会提供额外的伤害增益。"/>
+<label key="key:620765592:54354734" value="“野蛮攻击”技能产生爆击之后能够产生1点额外的怒气。"/>
+<label key="key:620765595:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765595:191029568" value="使用“野蛮攻击”造成更多仇恨，并降低怒气惩罚。"/>
+<label key="key:620765595:54354734" value="使用“野蛮攻击”将敌人的注意力更有效的转移到你的身上。"/>
+<label key="key:620765602:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765602:191029568" value="每成功使用一次“剑幕”技能就可以产生1点怒气。同时“剑幕”和“暴风刃”也将造成更高伤害。"/>
+<label key="key:620765602:54354734" value="每成功使用一次“剑幕”技能就可以产生1点怒气。"/>
+<label key="key:620765606:106251890" value="奖励：${PROPERTY} 提升${PERCENTVALUE}。"/>
+<label key="key:620765606:191029568" value="产生爆击后，“野蛮攻击”、“凶狠攻击”和“残忍打击”可以额外造成对方出血。同时怒气会提供额外的伤害增益。"/>
+<label key="key:620765606:54354734" value="产生爆击后，现在下列技能可以导致对方出血： “残忍打击”、“三连斩”、“无情打击”、“凶狠攻击”、“凶猛攻击”和“野蛮攻击”。"/>
+<label key="key:620765610:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765610:191029568" value="你能够更有效地格挡攻击，并降低怒气惩罚。"/>
+<label key="key:620765610:54354734" value="你能够更有效地格挡攻击。"/>
+<label key="key:620765612:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765612:191029568" value="使用“暴风刃”技能只需3点怒气就可施放且只消耗3点。同时“剑幕”和“暴风刃”也将造成更高伤害。"/>
+<label key="key:620765612:54354734" value="使用“暴风刃”技能只需3点怒气。"/>
+<label key="key:620765614:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765614:191029568" value="“战斗狂热”技能产生5点怒气。你的力量也得到增加。"/>
+<label key="key:620765614:54354734" value="“战斗狂热”技能产生5点怒气，使怒气升至最高。"/>
+<label key="key:620765617:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765617:191029568" value="“能量分流”技能可以增加5点怒气。你的力量也得到增加。"/>
+<label key="key:620765617:54354734" value="“能量分流”技能可以增加5点怒气，并使冷却时间缩短5分钟。"/>
+<label key="key:620765621:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765621:191029568" value="可以更频繁地使用“剑刃风暴”，制造更多仇恨。并降低怒气惩罚。"/>
+<label key="key:620765621:54354734" value="可以更频繁地使用“剑刃风暴”，有效地吸引敌人的注意力。"/>
+<label key="key:620765632:106251889" value="-3.0秒 “突刺”的冷却时间"/>
+<label key="key:620765632:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765632:106251891" value="+10.0% “突刺”技能伤害"/>
+<label key="key:620765632:191029568" value="“突刺”技能速度更快，杀伤力更大。 你的基本“力量”也会得到提升。"/>
+<label key="key:620765632:54354734" value="使用“突刺”技能时，攻击更快捷，杀伤力更大。"/>
+<label key="key:620765635:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765635:191029568" value="你在格挡攻击时可以对攻击者造成伤害。 你的基本“力量”也会得到提升。"/>
+<label key="key:620765635:54354734" value="在格挡攻击时可以对攻击者造成伤害。"/>
+<label key="key:620765640:106251890" value="奖励： 技能引起更多仇恨"/>
+<label key="key:620765640:191029568" value="“盾卫守护”可以提升你天生的伤害防御。 所有的特殊攻击都会产生额外的仇恨。"/>
+<label key="key:620765640:54354734" value="“盾卫守护”技能可以提升物理伤害防御。"/>
+<label key="key:620765645:106251890" value="奖励： 技能引起更多仇恨"/>
+<label key="key:620765645:191029568" value="提升盾牌的格挡等级和防御强化。 所有的特殊攻击都会产生额外的仇恨。"/>
+<label key="key:620765645:54354734" value="你可以更有效地使用盾牌，格挡更多的攻击，减轻自身所受到的伤害。"/>
+<label key="key:620765657:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765657:191029568" value="“喘息之机”技能可以恢复额外的士气，并同恢复能量。 基本“活力”也得到提升。"/>
+<label key="key:620765657:54354734" value="“喘息之机”技能可以恢复额外的士气，并同时恢复能量。"/>
+<label key="key:620765666:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765666:191029568" value="“嘲讽”技能在90度范围内多击中2个目标，并且恢复时间缩短1.5秒。 基本“活力”也得到提升。"/>
+<label key="key:620765666:54354734" value="“嘲讽”技能在90度范围内多击中2个目标，并且恢复时间缩短2.5秒。"/>
+<label key="key:620765670:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765670:191029568" value="基本移动速度提升5%。 活力也得到提升。"/>
+<label key="key:620765670:54354734" value="你的移动速度变快。"/>
+<label key="key:620765674:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765674:191029568" value="将基本攻击速率提高5%。 你的基本“力量”也会得到提升。"/>
+<label key="key:620765674:54354734" value="你的攻击速度已超出你的正常能力。"/>
+<label key="key:620765676:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765676:191029568" value="“挑战”技能恢复更快。 基本“活力”也得到提升。"/>
+<label key="key:620765676:54354734" value="“挑战”技能恢复时间缩短15秒。"/>
+<label key="key:620765679:106251890" value="奖励： 技能引起更多仇恨"/>
+<label key="key:620765679:191029568" value="“保护”技能可以在减少目标产生的仇恨时，提升自己所产生的仇恨。 所有的特殊攻击都会产生额外的仇恨。"/>
+<label key="key:620765679:54354734" value="“保护”技能可以降低目标所产生的仇恨。"/>
+<label key="key:620765686:106251890" value="奖励： 技能引起更多仇恨"/>
+<label key="key:620765686:191029568" value="你的基本活力和信念得到提升。 所有的特殊攻击都会产生额外的仇恨。"/>
+<label key="key:620765686:54354734" value="坚忍的天性增加你的基础活力和信念。"/>
+<label key="key:620765690:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765690:191029568" value="你可以更频繁地使用“深呼吸”技能。 你的基本“力量”也会得到提升。"/>
+<label key="key:620765690:54354734" value="此技能可以使“深呼吸”技能的恢复时间缩短2.5分钟。"/>
+<label key="key:620765694:106251890" value="奖励： “盾扫”技能回应效果延长3秒。"/>
+<label key="key:620765694:191029568" value="“勇士之心”技能的冷却时间更短，并能使用所有的被动激活技能。"/>
+<label key="key:620765694:54354734" value="“勇士之心”技能恢复时间缩短了90秒钟，并允许你使用被动激活技能。"/>
+<label key="key:620765700:106251890" value="奖励： “反击”技能响应结果将延长3秒。"/>
+<label key="key:620765700:191029568" value="“临危不惧”技能的冷却时间更短，并能使用所有的基本被动激活技能。"/>
+<label key="key:620765700:54354734" value="“临危不惧”技能的冷却时间缩短2分钟，并允许你使用被动激活技能。"/>
+<label key="key:620765706:106251890" value="奖励： ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765706:191029568" value="减少怪物受伤后从你设置的陷阱中逃脱的概率"/>
+<label key="key:620765706:54354734" value="敌人更加难以从你设置的陷阱中逃脱。"/>
+<label key="key:620765717:106251890" value="奖励： ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765717:191029568" value="缩短所有近战技能的恢复时间"/>
+<label key="key:620765717:54354734" value="减少所有近战技能的冷却时间。"/>
+<label key="key:620765719:106251889" value="+${VALUE} “荆棘箭”的持续伤害次数"/>
+<label key="key:620765719:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765719:191029568" value="提升“荆棘箭”技能的持续伤害"/>
+<label key="key:620765719:54354734" value="“荆棘箭”技能使敌人的伤口流血量急剧增加。"/>
+<label key="key:620765721:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765721:191029568" value="“双重射击”技能的杀伤力提升"/>
+<label key="key:620765721:54354734" value="“双重射击”技能对敌人具有更大的杀伤力。"/>
+<label key="key:620765723:106251891" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765723:191029568" value="“穿刺射击”少消耗1点精神"/>
+<label key="key:620765723:54354734" value="“穿刺射击”技能少消耗1点精神。"/>
+<label key="key:620765725:106251890" value="奖励： ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765725:191029568" value="扩大搜索范围，更有效地探测潜行的怪物，全面增强反潜行能力"/>
+<label key="key:620765725:54354734" value="你的感官得以强化，即使怪物处于潜行状态，你也能从远处侦测到它们，而且探测隐形怪物变得更为容易。"/>
+<label key="key:620765733:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765733:191029568" value="现在，“箭雨”技能的爆击几率提升"/>
+<label key="key:620765733:54354734" value="“箭雨”技能的爆击几率提升,并且爆击的伤害力更大。"/>
+<label key="key:620765737:106251891" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765737:191029568" value="“箭雨”技能少消耗1点精神"/>
+<label key="key:620765737:54354734" value="“箭雨”技能少消耗1点精神。"/>
+<label key="key:620765739:106251891" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765739:191029568" value="“全神贯注”还可以恢复部分能量"/>
+<label key="key:620765739:54354734" value="“全神贯注”技能除了产生正常的效果以外，还可以恢复部分能量。"/>
+<label key="key:620765744:106251891" value="奖励： ${PROPERTY}减${VALUE}秒"/>
+<label key="key:620765744:106251892" value="奖励： ${PROPERTY}减${VALUE}秒"/>
+<label key="key:620765744:191029568" value="远程爆击将增加1点精神"/>
+<label key="key:620765744:54354734" value="远程攻击技能产生爆击后，增加1点精神。"/>
+<label key="key:620765748:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765748:191029568" value="“穿刺射击”技能可以忽略更多的防御"/>
+<label key="key:620765748:54354734" value="无论敌人护甲的伤害抗性有多高，“穿刺射击”技能都能穿透敌人的护甲。"/>
+<label key="key:620765750:106251891" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765750:191029568" value="“耐久姿势”进一步降低了以下技能所消耗的能量： 荆棘箭、穿刺射击、斩杀射击、双重射击、箭雨和快速射击。"/>
+<label key="key:620765750:54354734" value="“耐久姿势”进一步降低远程技能引起的仇恨和能量消耗。"/>
+<label key="key:620765752:106251890" value="奖励： ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765752:191029568" value="“潜藏”进一步降低你产生的仇恨"/>
+<label key="key:620765752:54354734" value="“潜藏”持续时间延长10秒，进一步降低你产生的仇恨。"/>
+<label key="key:620765758:106251889" value="-${VALUE}秒 “射击加速”和“全神贯注”技能冷却时间"/>
+<label key="key:620765758:106251891" value="奖励： ${PROPERTY}减${VALUE}秒"/>
+<label key="key:620765758:106251892" value="奖励： ${PROPERTY}减${VALUE}秒"/>
+<label key="key:620765758:191029568" value="缩短“射击加速”和“全神贯注”技能的恢复时间"/>
+<label key="key:620765758:54354734" value="“射击加速”和“全神贯注”技能可以更快恢复。"/>
+<label key="key:620765783:106251890" value="+${PERCENTVALUE} 士气上限"/>
+<label key="key:620765783:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765783:191029568" value="使用“杖击”，有机会使对手昏迷，并可提升信心，从而提高士气上限。"/>
+<label key="key:620765783:54354734" value="“杖击”技能的伤害增强，可以使对手昏迷，增加对侧面敌人造成的伤害。  你所接受的训练可以使你在战场上更加自信。"/>
+<label key="key:620765789:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765789:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765789:191029568" value="可以提升“远古智慧”的效果，延长“能量吸取”技能的效果持续时间。"/>
+<label key="key:620765789:54354734" value="此技能可以提升“远古智慧”的效果，延长“能量吸取”技能的效果持续时间。"/>
+<label key="key:620765798:106251889" value="-40.0% 士气消耗"/>
+<label key="key:620765798:106251891" value="-${VALUE}秒 “希望之光”技能的施放时间"/>
+<label key="key:620765798:106251892" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765798:191029568" value="“希望之光”技能的士气消耗降低。"/>
+<label key="key:620765798:54354734" value="“希望之光”技能的士气消耗更少，冷却时间更短，而且技能准备时间更短。"/>
+<label key="key:620765803:106251889" value="-10.0% 能量消耗"/>
+<label key="key:620765803:106251890" value="+120秒持续时间"/>
+<label key="key:620765803:106251891" value="奖励：${PERCENTVALUE}所有圣印系技能的能量消耗"/>
+<label key="key:620765803:191029568" value="你熟知“野性圣印”，这样可以更有效地控制动物，减少动物的能量消耗，延长其持续时间。 这个技能还可以使你用圣印移除同伴身上的毒素、恐惧、流血和疾病效果。"/>
+<label key="key:620765803:54354734" value="你熟知“野性圣印”，这样可以更有效地控制动物，减少动物的能量消耗，延长其持续时间。"/>
+<label key="key:620765807:106251889" value="${PROPERTY}增加到${VALUE}"/>
+<label key="key:620765807:106251890" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765807:191029568" value="“火之巫术”、“风之巫术”、“自然巫术”技能的目标数量增加。"/>
+<label key="key:620765807:54354734" value="你对草药、火焰和空气非常了解，这使你更好的使用相关的技能。"/>
+<label key="key:620765809:106251890" value="技能的施放时间缩短50.0%"/>
+<label key="key:620765809:106251892" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765809:106251893" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765809:191029568" value="治疗技能的准备时间及其消耗都有所降低。 这些技能包括：希望之光、治疗疾病、止血、分享能量以及能量转换"/>
+<label key="key:620765809:54354734" value="治疗和恢复技能获得了更多奖励。"/>
+<label key="key:620765815:106251889" value="宠物的身体更健壮、力量更强、攻击速度更快、杀伤力也更大。"/>
+<label key="key:620765815:106251890" value="奖励：${PERCENTVALUE}所有圣印系技能的能量消耗"/>
+<label key="key:620765815:191029568" value="宠物的战斗能力得到提升。"/>
+<label key="key:620765815:54354734" value="宠物的战斗能力得到提升。 此效果包括：攻击、防御和隐匿探测。"/>
+<label key="key:620765822:106251890" value="奖励：${PERCENTVALUE}所有圣印系技能的能量消耗"/>
+<label key="key:620765822:191029568" value="提升你的“坚韧圣印”和“警戒圣印”技能。"/>
+<label key="key:620765822:54354734" value="你精通杜内丹的知识和圣印系法术，这样可以延长动物攻击的效果和持续时间。  包括： 坚韧圣印和警戒圣印。"/>
+<label key="key:620765824:106251890" value="技能的施放时间缩短25%"/>
+<label key="key:620765824:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765824:191029568" value="降低命令类技能的能量消耗。 包括：地裂术、风刃术、摧毁意志、拂晓之光、恩特参战。"/>
+<label key="key:620765824:54354734" value="“自然之力”类技能的能量消耗和动作准备时间都减少。 包括： 地裂术、风刃术、摧毁意志、拂晓之光、恩特参战。"/>
+<label key="key:620765830:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765830:191029568" value="降低命令类技能的士气消耗降低。 包括：地裂术、风刃术、摧毁意志、拂晓之光、恩特参战。"/>
+<label key="key:620765830:54354734" value="“自然之力”类技能的士气消耗和动作准备时间都减少。 包括： 地裂术、风刃术、摧毁意志、拂晓之光、恩特参战。"/>
+<label key="key:620765835:106251889" value="减少伤害技能引起的仇恨"/>
+<label key="key:620765835:106251890" value="奖励：${PROPERTY} 增加${PERCENTVALUE}"/>
+<label key="key:620765835:191029568" value="你对成为中土大陆古代知识的守护者有着敏锐的理解，当你运用你的知识时，更加难以被察觉。"/>
+<label key="key:620765835:54354734" value="你对成为中土大陆古代知识的守护者有着敏锐的理解，当你运用你的知识时，更加难以被察觉。"/>
+<label key="key:620765840:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765840:106251891" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765840:191029568" value="“治疗疾病”和“止血”技能最多可以对6个目标生效。"/>
+<label key="key:620765840:54354734" value="“治疗疾病”和“止血”技能对效果范围内的所有同盟有效。  你还可以在战斗中使用“止血”技能。"/>
+<label key="key:620765846:106251890" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765846:191029568" value="所有技能都有机会恢复一小部分能量。"/>
+<label key="key:620765846:54354734" value="所有技能都有机会恢复一小部分能量。"/>
+<label key="key:620765855:106251890" value="奖励： ${PROPERTY}增加${VALUE}"/>
+<label key="key:620765855:191029568" value="某些法术技能的能量消耗降低。 这些技能包括：圣印系法术、地裂术、风刃术、能量吸取、分享能量、拂晓之光、恩特参战。"/>
+<label key="key:620765855:54354734" value="某些法术技能的能量消耗降低。"/>
+<label key="key:620765874:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765874:191029568" value="三阶曲类技能的持续时间延长"/>
+<label key="key:620765874:54354734" value="曲类技能的持续时间延长10秒。"/>
+<label key="key:620765878:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765878:191029568" value="播放“梵拉礼赞”时，战斗中的恢复效果得到提升"/>
+<label key="key:620765878:54354734" value="使用“梵拉礼赞”时，战斗中的恢复效果得到提升。"/>
+<label key="key:620765883:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765883:191029568" value="“援助之歌”技能的效果和恢复时间都得到优化"/>
+<label key="key:620765883:54354734" value="“援助之歌”的持续时间延长10秒，冷却时间缩短20%。"/>
+<label key="key:620765895:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765895:191029568" value="延长施放下一级曲类技能的时间。"/>
+<label key="key:620765895:54354734" value="施放下一级曲类技能的时间延长5秒。"/>
+<label key="key:620765897:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765897:191029568" value="“诗人之击”更容易产生爆击。"/>
+<label key="key:620765897:54354734" value="“诗人之击”技能可以造成双倍伤害。"/>
+<label key="key:620765899:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765899:191029568" value="此技能将“活力之曲”和“平衡之曲”的节奏放慢，放慢后的歌曲不再能伤害敌人，但可以对你的同伴作用更长时间。"/>
+<label key="key:620765899:54354734" value="此技能将“活力之曲”和“平衡之曲”的节奏放慢，放慢后的歌曲不再能伤害敌人，但对护戒队的作用时间更长。"/>
+<label key="key:620765901:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765901:191029568" value="减少所有呐喊技能的能量消耗。"/>
+<label key="key:620765901:54354734" value="减少所有呐喊技能的能量消耗。"/>
+<label key="key:620765903:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765903:191029568" value="所有士气提升类技能的能量消耗降低。"/>
+<label key="key:620765903:54354734" value="士气恢复技能所消耗的能量已减少。"/>
+<label key="key:620765905:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765905:191029568" value="“心灵尖啸”产生爆击后可以使敌人昏迷。  此特性可以更快地恢复“心灵尖啸”。"/>
+<label key="key:620765905:54354734" value="“心灵尖啸”产生爆击后可以使敌人昏迷。 “心灵尖啸”的爆击几率提升25%，冷却时间缩短3秒"/>
+<label key="key:620765907:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765907:191029568" value="技能的施放动作很难被中断。"/>
+<label key="key:620765907:54354734" value="技能的施放动作更加迅速，所以很难被打断。"/>
+<label key="key:620765910:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765910:191029568" value="初阶曲类技能和二阶曲类技能对敌人具有更大的杀伤力。"/>
+<label key="key:620765910:54354734" value="初阶曲类技能和二阶曲类技能对敌人具有更大的杀伤力。"/>
+<label key="key:620765914:106251890" value="奖励： 增加${PERCENTVALUE}的${PROPERTY}"/>
+<label key="key:620765914:191029568" value="复活技能赋予阵亡队友更多的士气和能量。"/>
+<label key="key:620765914:54354734" value="使用“重振之诗”和“重振”可以赋予更多的士气和能量。 “重振”技能的施放时间缩短了2秒，冷却时间缩短5分钟。"/>
+<label key="key:620765919:106251890" value="奖励： ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765919:191029568" value="歌类技能的冷却时间更短"/>
+<label key="key:620765919:54354734" value="所有歌类技能的冷却时间都缩短20%。"/>
+<label key="key:620765923:106251890" value="奖励： ${PROPERTY}${VALUE}"/>
+<label key="key:620765923:191029568" value="降低敌人对吟游诗人特殊技能的仇恨。"/>
+<label key="key:620765923:54354734" value="运用技能时产生的仇恨降低。"/>
+<label key="key:620765941:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765941:191029568" value="“狡诈攻击”技能的持续性伤害提升"/>
+<label key="key:620765941:54354734" value="“狡诈攻击”技能造成的流血伤害更加严重。"/>
+<label key="key:620765947:106251890" value="奖励: ${PROPERTY}增加${PERCENTVALUE}."/>
+<label key="key:620765947:191029568" value="“精妙刺伤”技能的杀伤力得到提升"/>
+<label key="key:620765947:54354734" value="可以更快施放“精妙刺伤”技能，对敌人造成更大的伤害。"/>
+<label key="key:620765950:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765950:191029568" value="“迷惑”技能先使敌人昏迷，然后使其进入眩晕状态"/>
+<label key="key:620765950:54354734" value="“迷惑”技能的效果得到增强，可以使敌人昏迷和眩晕。"/>
+<label key="key:620765956:106251890" value="减少你的失手几率"/>
+<label key="key:620765956:106251891" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765956:191029568" value="降低了隐匿状态下的攻击失手和被招架、格挡、闪避的几率"/>
+<label key="key:620765956:54354734" value="隐匿状态下的攻击更加精确，降低失手几率，使敌人无法格挡、招架或闪避。"/>
+<label key="key:620765958:106251889" value="减少${VALUE}秒 “对准”技能的冷却时间"/>
+<label key="key:620765958:106251890" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765958:191029568" value="缩短“对准”技能的冷却时间"/>
+<label key="key:620765958:54354734" value="可以更快地施放“对准”技能。"/>
+<label key="key:620765961:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765961:191029568" value="闪避能力得到提升"/>
+<label key="key:620765961:54354734" value="可以更轻易地闪避攻击。"/>
+<label key="key:620765963:106251889" value="“诡计：迷眼”现在可以进行范围攻击。"/>
+<label key="key:620765963:106251890" value="奖励： “戏弄”技能的治疗效果提升${PERCENTVALUE}，并额外增加一次。"/>
+<label key="key:620765963:191029568" value="迷眼 - 攻击附近的多个敌人"/>
+<label key="key:620765963:54354734" value="“诡计：迷眼”技能现在可以攻击附近的多个敌人。"/>
+<label key="key:620765974:106251891" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765974:191029568" value="增加潜行状态下的爆击几率。"/>
+<label key="key:620765974:54354734" value="可以在潜行状态下准确地攻击敌人，以提高“突袭”、“狡诈攻击”或“激怒”技能的爆击几率。"/>
+<label key="key:620765976:106251891" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765976:191029568" value="有效提升隐匿等级"/>
+<label key="key:620765976:54354734" value="你在隐匿状态下移动的能力已经超越了自己的天赋。"/>
+<label key="key:620765980:106251890" value="奖励： “戏弄”技能的治疗效果提升${PERCENTVALUE}，并额外增加一次。"/>
+<label key="key:620765980:191029568" value="致残：进一步降低敌人的攻击速度"/>
+<label key="key:620765980:54354734" value="可以使用技能“诡计：致残”降低敌人的移动速度。"/>
+<label key="key:620765986:106251890" value="奖励： “戏弄”技能的治疗效果提升${PERCENTVALUE}，并额外增加一次。"/>
+<label key="key:620765986:191029568" value="“诡计：破甲”： 使目标更容易遭受爆击"/>
+<label key="key:620765986:54354734" value="提升“诡计：破甲”技能，进一步增加爆击几率。"/>
+<label key="key:620765992:106251890" value="奖励： ${PROPERTY}增加${VALUE}。"/>
+<label key="key:620765992:191029568" value="诡计效果在成功施放护戒队技能后得到增强。"/>
+<label key="key:620765992:54354734" value="根据护戒队技能的不同，刺客可以获得相应的增益。"/>
+<label key="key:620765998:106251891" value="奖励： ${PROPERTY}增加${PERCENTVALUE}。"/>
+<label key="key:620765998:191029568" value="隐匿状态下的移动速度加快。"/>
+<label key="key:620765998:54354734" value="隐匿技能得到提升，使你在潜行状态下能够以更快的速度移动。"/>
+<label key="key:620766007:106251890" value="奖励： “戏弄”技能的治疗效果提升${PERCENTVALUE}，并额外增加一次。"/>
+<label key="key:620766007:191029568" value="激怒：禁止远程技能"/>
+<label key="key:620766007:54354734" value="使用“诡计：激怒”技能之后，可以与敌人展开近战。"/>
+<label key="key:620766329:191029568" value="厨师学徒熟练完成"/>
+<label key="key:620766329:54354734" value="完成厨师学徒熟练"/>
+<label key="key:620766330:191029568" value="厨师学徒精通完成"/>
+<label key="key:620766330:54354734" value="完成厨师学徒精通"/>
+<label key="key:620766331:191029568" value="见习厨师熟练完成"/>
+<label key="key:620766331:54354734" value="完成见习厨师熟练"/>
+<label key="key:620766332:191029568" value="见习厨师精通完成"/>
+<label key="key:620766332:54354734" value="完成见习厨师精通"/>
+<label key="key:620766333:191029568" value="中级厨师熟练完成"/>
+<label key="key:620766333:54354734" value="完成中级厨师熟练"/>
+<label key="key:620766334:191029568" value="中级厨师精通完成"/>
+<label key="key:620766334:54354734" value="完成中级厨师精通"/>
+<label key="key:620766335:191029568" value="高级厨师熟练完成"/>
+<label key="key:620766335:54354734" value="完成高级厨师熟练"/>
+<label key="key:620766336:191029568" value="高级厨师精通完成"/>
+<label key="key:620766336:54354734" value="完成高级厨师精通"/>
+<label key="key:620766337:191029568" value="厨艺大师熟练完成"/>
+<label key="key:620766337:54354734" value="完成厨艺大师熟练"/>
+<label key="key:620766338:191029568" value="厨艺大师精通完成"/>
+<label key="key:620766338:54354734" value="完成厨艺大师精通"/>
+<label key="key:620766959:191029568" value="上好炼炉许可"/>
+<label key="key:620766959:54354734" value="上好炼炉许可"/>
+<label key="key:620767178:191029568" value="上好炉灶许可"/>
+<label key="key:620767178:54354734" value="上好炉灶许可"/>
+<label key="key:620767346:191029568" value="上好书桌许可"/>
+<label key="key:620767346:54354734" value="上好书桌许可"/>
+<label key="key:620767447:106251889" value="这样你可以用剑。"/>
+<label key="key:620767447:106251890" value="允许双持攻击。"/>
+<label key="key:620767447:191029568" value="现在你可以同时手持剑和木杖。 同时近战技能也得到提升。"/>
+<label key="key:620767447:54354734" value="现在，你可以同时用剑和杖进行攻击，近战技能也得到提升。"/>
+<label key="key:620767613:191029568" value="上好工作台许可"/>
+<label key="key:620767613:54354734" value="上好工作台许可"/>
+<label key="key:620767742:191029568" value="搜寻矿藏，亲爱的。"/>
+<label key="key:620767742:54354734" value="你现在能够搜寻矿藏的位置。"/>
+<label key="key:620767745:191029568" value="勘探师学徒熟练完成"/>
+<label key="key:620767745:54354734" value="完成勘探师学徒熟练"/>
+<label key="key:620767746:191029568" value="勘探师学徒精通完成"/>
+<label key="key:620767746:54354734" value="完成勘探师学徒精通"/>
+<label key="key:620767747:191029568" value="见习勘探师熟练完成"/>
+<label key="key:620767747:54354734" value="完成见习勘探师熟练"/>
+<label key="key:620767748:191029568" value="见习勘探师精通完成"/>
+<label key="key:620767748:54354734" value="完成见习勘探师精通"/>
+<label key="key:620767749:191029568" value="中级勘探师熟练完成"/>
+<label key="key:620767749:54354734" value="完成中级勘探师熟练"/>
+<label key="key:620767750:191029568" value="中级勘探师精通完成"/>
+<label key="key:620767750:54354734" value="完成中级勘探师精通"/>
+<label key="key:620767751:191029568" value="高级勘探师熟练完成"/>
+<label key="key:620767751:54354734" value="完成高级勘探师熟练"/>
+<label key="key:620767752:191029568" value="高级勘探师精通完成"/>
+<label key="key:620767752:54354734" value="完成高级勘探师精通"/>
+<label key="key:620767753:191029568" value="勘探大师熟练完成"/>
+<label key="key:620767753:54354734" value="完成勘探大师熟练"/>
+<label key="key:620767754:191029568" value="勘探大师精通完成"/>
+<label key="key:620767754:54354734" value="完成勘探大师精通"/>
+<label key="key:620767777:191029568" value="搜寻木材，亲爱的。"/>
+<label key="key:620767777:54354734" value="你现在能够搜寻木材的位置。"/>
+<label key="key:620767780:191029568" value="伐木工学徒熟练完成"/>
+<label key="key:620767780:54354734" value="完成伐木工学徒熟练"/>
+<label key="key:620767781:191029568" value="伐木工学徒精通完成"/>
+<label key="key:620767781:54354734" value="完成伐木工学徒精通"/>
+<label key="key:620767782:191029568" value="见习伐木工熟练完成"/>
+<label key="key:620767782:54354734" value="完成见习伐木工熟练"/>
+<label key="key:620767783:191029568" value="见习伐木工精通完成"/>
+<label key="key:620767783:54354734" value="完成见习伐木工精通"/>
+<label key="key:620767784:191029568" value="中级伐木工熟练完成"/>
+<label key="key:620767784:54354734" value="完成中级伐木工熟练"/>
+<label key="key:620767785:191029568" value="中级伐木工精通完成"/>
+<label key="key:620767785:54354734" value="完成中级伐木工精通"/>
+<label key="key:620767786:191029568" value="高级伐木工熟练完成"/>
+<label key="key:620767786:54354734" value="完成高级伐木工熟练"/>
+<label key="key:620767787:191029568" value="高级伐木工精通完成"/>
+<label key="key:620767787:54354734" value="完成高级伐木工精通"/>
+<label key="key:620767788:191029568" value="伐木大师熟练完成"/>
+<label key="key:620767788:54354734" value="完成伐木大师熟练"/>
+<label key="key:620767789:191029568" value="伐木大师精通完成"/>
+<label key="key:620767789:54354734" value="完成伐木大师精通"/>
+<label key="key:620767852:191029568" value="追踪庄稼，亲爱的。"/>
+<label key="key:620767852:54354734" value="你现在能够追踪庄稼的位置。"/>
+<label key="key:620767855:191029568" value="农夫学徒熟练完成"/>
+<label key="key:620767855:54354734" value="完成农夫学徒熟练"/>
+<label key="key:620767856:191029568" value="农夫学徒精通完成"/>
+<label key="key:620767856:54354734" value="完成农夫学徒精通"/>
+<label key="key:620767857:191029568" value="见习农夫熟练完成"/>
+<label key="key:620767857:54354734" value="完成见习农夫熟练"/>
+<label key="key:620767858:191029568" value="见习农夫精通完成"/>
+<label key="key:620767858:54354734" value="完成见习农夫精通"/>
+<label key="key:620767859:191029568" value="中级农夫熟练完成"/>
+<label key="key:620767859:54354734" value="完成中级农夫熟练"/>
+<label key="key:620767860:191029568" value="中级农夫精通完成"/>
+<label key="key:620767860:54354734" value="完成中级农夫精通"/>
+<label key="key:620767861:191029568" value="高级农夫熟练完成"/>
+<label key="key:620767861:54354734" value="完成高级农夫熟练"/>
+<label key="key:620767862:191029568" value="高级农夫精通完成"/>
+<label key="key:620767862:54354734" value="完成高级农夫精通"/>
+<label key="key:620767863:191029568" value="农艺大师熟练完成"/>
+<label key="key:620767863:54354734" value="完成农艺大师熟练"/>
+<label key="key:620767864:191029568" value="农艺大师精通完成"/>
+<label key="key:620767864:54354734" value="完成农艺大师精通"/>
+<label key="key:620768649:191029568" value="提升攻击造成的伤害。"/>
+<label key="key:620768649:54354734" value="提升攻击造成的伤害。"/>
+<label key="key:620768650:106251889" value="将总生命值提升${PERCENTVALUE}。"/>
+<label key="key:620768650:191029568" value="提升生命值上限"/>
+<label key="key:620768650:54354734" value="提升生命值上限"/>
+<label key="key:620768651:106251889" value="将总能量提升${PERCENTVALUE}。"/>
+<label key="key:620768651:191029568" value="提升能量上限"/>
+<label key="key:620768651:54354734" value="提升能量上限"/>
+<label key="key:620768652:191029568" value="提升护甲保护"/>
+<label key="key:620768652:54354734" value="提升护甲保护"/>
+<label key="key:620768653:191029568" value="提升躲避攻击的能力。"/>
+<label key="key:620768653:54354734" value="提升躲避攻击的能力。"/>
+<label key="key:620768654:191029568" value="提升你恢复到特定负面效果的能力。"/>
+<label key="key:620768654:54354734" value="提升你恢复到特定负面效果的能力。"/>
+<label key="key:620768664:191029568" value="可以使用单手斧"/>
+<label key="key:620768664:54354734" value="可以使用单手斧。 战斧有较小几率削弱目标的护甲，但是与其他武器相比它的命中率稍低。"/>
+<label key="key:620768665:191029568" value="可以使用单手棍"/>
+<label key="key:620768665:54354734" value="可以使用单手棍。 棍有较小几率击晕目标。"/>
+<label key="key:620768666:191029568" value="可以使用单手锤"/>
+<label key="key:620768666:54354734" value="可以使用单手锤。 锤有较小几率击晕目标。"/>
+<label key="key:620768667:191029568" value="可以使用单手钉头锤"/>
+<label key="key:620768667:54354734" value="可以使用单手钉头锤。 钉头锤有较小几率使目标昏迷。"/>
+<label key="key:620768668:191029568" value="可以使用单手剑"/>
+<label key="key:620768668:54354734" value="可以使用单手剑。 剑可以稍微提升命中率。"/>
+<label key="key:620768669:191029568" value="可以使用匕首"/>
+<label key="key:620768669:54354734" value="可以使用匕首。 匕首可以使你获得额外的爆击几率。"/>
+<label key="key:620768670:191029568" value="可以使用副手武器。"/>
+<label key="key:620768670:54354734" value="可以使用副手武器。"/>
+<label key="key:620768671:191029568" value="可以使用特制的装备。"/>
+<label key="key:620768671:54354734" value="可以使用特制的装备。"/>
+<label key="key:620768672:191029568" value="可以使用轻型护甲"/>
+<label key="key:620768672:54354734" value="可以使用轻型护甲。"/>
+<label key="key:620768673:191029568" value="可以使用中型护甲"/>
+<label key="key:620768673:54354734" value="可以使用中型护甲。"/>
+<label key="key:620768674:191029568" value="可以使用号角。"/>
+<label key="key:620768674:54354734" value="可以使用号角。"/>
+<label key="key:620768677:191029568" value="可以使用双手斧"/>
+<label key="key:620768677:54354734" value="可以使用双手斧。 战斧有较小几率削弱目标的护甲，但是与其他武器相比它的命中率稍低。"/>
+<label key="key:620768678:191029568" value="可以使用双手锤"/>
+<label key="key:620768678:54354734" value="可以使用双手锤。 锤有较小几率击晕目标。"/>
+<label key="key:620768679:191029568" value="可以使用双手剑"/>
+<label key="key:620768679:54354734" value="可以使用双手剑。 剑可以稍微提升命中率。"/>
+<label key="key:620768680:191029568" value="可以使用矛"/>
+<label key="key:620768680:54354734" value="可以使用矛。 矛很难使目标受重伤，但是会造成持续伤害。"/>
+<label key="key:620768683:106251889" value="部分降低失手几率。"/>
+<label key="key:620768684:191029568" value="可以使用盾牌"/>
+<label key="key:620768684:54354734" value="可以使用盾牌。"/>
+<label key="key:620768687:191029568" value="可以使用弓"/>
+<label key="key:620768687:54354734" value="可以使用弓。 进行自动攻击时，弓具有较小几率产生爆击。"/>
+<label key="key:620768688:191029568" value="可以使用重型护甲"/>
+<label key="key:620768688:54354734" value="可以使用重型护甲。"/>
+<label key="key:620768699:106251889" value="部分降低失手几率。"/>
+<label key="key:620768703:106251889" value="轻微降低失手几率。"/>
+<label key="key:620768706:191029568" value="可以使用双手棍"/>
+<label key="key:620768706:54354734" value="可以使用双手棍。 棍有较小几率击晕目标。"/>
+<label key="key:620768711:191029568" value="可以使用戟"/>
+<label key="key:620768711:54354734" value="可以使用戟。 戟提升了仇恨等级，将敌人的注意力吸引到你身上。"/>
+<label key="key:620768724:191029568" value="可以使用召唤号角。"/>
+<label key="key:620768724:54354734" value="可以使用召唤号角。"/>
+<label key="key:620768727:191029568" value="可以使用鲁特琴。"/>
+<label key="key:620768727:54354734" value="可以使用鲁特琴。"/>
+<label key="key:620768734:191029568" value="可以使用竖笛。"/>
+<label key="key:620768734:54354734" value="可以使用竖笛。"/>
+<label key="key:620768735:191029568" value="可以使用长笛。"/>
+<label key="key:620768735:54354734" value="可以使用长笛。"/>
+<label key="key:620768736:191029568" value="可以使用竖琴。"/>
+<label key="key:620768736:54354734" value="可以使用竖琴。"/>
+<label key="key:620768750:191029568" value="可以使用双手杖"/>
+<label key="key:620768750:54354734" value="可以使用双手杖。"/>
+<label key="key:620768753:106251889" value="部分降低失手几率。"/>
+<label key="key:620768756:106251889" value="部分降低失手几率。"/>
+<label key="key:620768762:106251889" value="部分降低失手几率。"/>
+<label key="key:620768764:106251889" value="轻微降低失手几率。"/>
+<label key="key:620768771:191029568" value="可以使用重型盾牌"/>
+<label key="key:620768771:54354734" value="可以使用重型盾牌。"/>
+<label key="key:620768778:191029568" value="可以使用弩"/>
+<label key="key:620768778:54354734" value="可以使用弩。 弩可以降低目标格档自动攻击的几率。"/>
+<label key="key:620768802:106251889" value="远程自动攻击的最大距离增加${VALUE}米。"/>
+<label key="key:620768802:191029568" value="延长远程自动攻击的最大距离。"/>
+<label key="key:620768802:54354734" value="你具有使用远程武器的特殊技能，可以从比别人更远的地方进行攻击。"/>
+<label key="key:620774667:106251889" value="将总能量提升${PERCENTVALUE}。"/>
+<label key="key:620774667:191029568" value="增加能量上限"/>
+<label key="key:620774667:54354734" value="增加能量上限"/>
+<label key="key:620774668:191029568" value="提升对歌谣、咆哮、物理和法术伤害的抗性"/>
+<label key="key:620774668:54354734" value="提升对歌谣、咆哮、物理和法术伤害的抗性"/>
+<label key="key:620774669:191029568" value="缩短攻击间隔"/>
+<label key="key:620774669:54354734" value="缩短攻击间隔"/>
+<label key="key:620774670:191029568" value="使用“燃烧之刃”后，所有伤害类技能都会造成火焰伤害"/>
+<label key="key:620774670:54354734" value="使用“燃烧之刃”后，所有伤害类技能都会造成火焰伤害"/>
+<label key="key:620774671:191029568" value="使“锯齿切削”技能有机会对目标造成持续性伤害。"/>
+<label key="key:620774671:54354734" value="使“锯齿切削”技能有机会对目标造成持续性伤害。"/>
+<label key="key:620774673:191029568" value="使用“胜利荣耀”技能时，你在近战中不再受到额外的伤害。"/>
+<label key="key:620774673:54354734" value="使用“胜利荣耀”技能时，你在近战中不再受到额外的伤害。"/>
+<label key="key:620774674:191029568" value="你可以更频繁地使用“毁灭攻击”技能。"/>
+<label key="key:620774674:54354734" value="你可以更频繁地使用“毁灭攻击”技能。"/>
+<label key="key:620774675:191029568" value="你比大多数同伴都要坚强，可以从被击倒、昏迷或击倒状态中恢复。"/>
+<label key="key:620774675:54354734" value="你比大多数同伴都要坚强，可以从被击倒、昏迷或击倒状态中恢复。"/>
+<label key="key:620774683:191029568" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774683:54354734" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774684:191029568" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774684:54354734" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774685:191029568" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774685:54354734" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774686:191029568" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774686:54354734" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774687:191029568" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774687:54354734" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774688:191029568" value="兽人劫掠者的另一种外观。"/>
+<label key="key:620774688:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774689:106251889" value="将士气上限提升${PERCENTVALUE}。"/>
+<label key="key:620774689:191029568" value="提升士气上限"/>
+<label key="key:620774689:54354734" value="提升士气上限"/>
+<label key="key:620774690:191029568" value="提升护甲值"/>
+<label key="key:620774690:54354734" value="提升护甲值"/>
+<label key="key:620774691:191029568" value="提升战斗中的士气恢复速度。"/>
+<label key="key:620774691:54354734" value="提升战斗中的士气恢复速度。"/>
+<label key="key:620774692:191029568" value="将蛛网攻击的施放时间缩短0.25秒。"/>
+<label key="key:620774692:54354734" value="将蛛网攻击的施放时间缩短0.25秒。"/>
+<label key="key:620774693:191029568" value="“穿刺攻击”造成的伤害增加"/>
+<label key="key:620774693:54354734" value="“穿刺攻击”造成的伤害增加"/>
+<label key="key:620774694:191029568" value="“剧毒之吻”造成的伤害增加"/>
+<label key="key:620774694:54354734" value="“剧毒之吻”造成的伤害增加"/>
+<label key="key:620774695:191029568" value=""/>
+<label key="key:620774695:54354734" value=""/>
+<label key="key:620774696:191029568" value="向目标喷出带有粘液的网，降低目标的招架或闪避几率。"/>
+<label key="key:620774696:54354734" value="向目标喷出带有粘液的网，降低目标的招架或闪避几率。"/>
+<label key="key:620774705:191029568" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774705:54354734" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774706:191029568" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774706:54354734" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774707:191029568" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774707:54354734" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774708:191029568" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774708:54354734" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774709:191029568" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774709:54354734" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774710:191029568" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774710:54354734" value="蜘蛛织网者的另一种外观。"/>
+<label key="key:620774711:191029568" value="提升招架、闪避和格挡等级"/>
+<label key="key:620774711:54354734" value="提升招架、闪避和格挡等级"/>
+<label key="key:620774712:191029568" value="提升对歌谣、咆哮、物理和法术伤害的抗性"/>
+<label key="key:620774712:54354734" value="提升对歌谣、咆哮、物理和法术伤害的抗性"/>
+<label key="key:620774713:191029568" value="提升远程爆击等级"/>
+<label key="key:620774713:54354734" value="提升远程爆击等级"/>
+<label key="key:620774714:191029568" value="提升对远程攻击的闪避等级"/>
+<label key="key:620774714:54354734" value="提升对远程攻击的闪避等级"/>
+<label key="key:620774715:191029568" value="你的阻碍射击除了可以使目标变得迟钝以外，还可以暂时将它们定住。"/>
+<label key="key:620774715:54354734" value="你的阻碍射击除了可以使目标变得迟钝以外，还可以暂时将它们定住。"/>
+<label key="key:620774717:191029568" value="降低目标格挡你的远程攻击的几率"/>
+<label key="key:620774717:54354734" value="降低目标格挡你的远程攻击的几率"/>
+<label key="key:620774718:191029568" value="缩短远程技能的施放时间"/>
+<label key="key:620774718:54354734" value="缩短远程技能的施放时间"/>
+<label key="key:620774719:191029568" value="在地面上小心设置陷阱诱捕你的敌人。"/>
+<label key="key:620774719:54354734" value="在地面上小心设置陷阱诱捕你的敌人。"/>
+<label key="key:620774725:191029568" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774725:54354734" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774726:191029568" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774726:54354734" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774727:191029568" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774727:54354734" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774728:191029568" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774728:54354734" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774729:191029568" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774729:54354734" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774730:191029568" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774730:54354734" value="强兽人黑箭的另一种外观。"/>
+<label key="key:620774731:191029568" value="增加攻击造成的伤害"/>
+<label key="key:620774731:54354734" value="增加攻击造成的伤害"/>
+<label key="key:620774732:191029568" value="提升招架、闪避和格挡等级"/>
+<label key="key:620774732:54354734" value="提升招架、闪避和格挡等级"/>
+<label key="key:620774733:191029568" value="提升战斗中的能量恢复速度"/>
+<label key="key:620774733:54354734" value="提升战斗中的能量恢复速度"/>
+<label key="key:620774734:191029568" value="提升格挡等级"/>
+<label key="key:620774734:54354734" value="提升格挡等级"/>
+<label key="key:620774735:191029568" value="可以复活目标，且目标的生命值和能量比战败前更高。 另外，恢复时间也显著缩短。"/>
+<label key="key:620774735:54354734" value="可以复活目标，且目标的生命值和能量比战败前更高。 另外，恢复时间也显著缩短。"/>
+<label key="key:620774736:191029568" value="提升治疗技能的效果"/>
+<label key="key:620774736:54354734" value="提升治疗技能的效果"/>
+<label key="key:620774737:191029568" value="延长“战场激励”增益效果的持续时间"/>
+<label key="key:620774737:54354734" value="延长“战场激励”增益效果的持续时间"/>
+<label key="key:620774738:191029568" value="对昏迷或倒地的盟友发出吼叫将其唤醒。"/>
+<label key="key:620774738:54354734" value="对昏迷或倒地的盟友发出吼叫将其唤醒。"/>
+<label key="key:620774746:191029568" value="强兽人头领的另一种外观。"/>
+<label key="key:620774746:54354734" value="强兽人头领的另一种外观。"/>
+<label key="key:620774747:191029568" value="强兽人头领的另一种外观。"/>
+<label key="key:620774747:54354734" value="强兽人头领的另一种外观。"/>
+<label key="key:620774748:191029568" value="强兽人头领的另一种外观。"/>
+<label key="key:620774748:54354734" value="强兽人头领的另一种外观。"/>
+<label key="key:620774749:191029568" value="强兽人头领的另一种外观。"/>
+<label key="key:620774749:54354734" value="强兽人头领的另一种外观。"/>
+<label key="key:620774750:191029568" value="强兽人头领的另一种外观。"/>
+<label key="key:620774750:54354734" value="强兽人头领的另一种外观。"/>
+<label key="key:620774751:191029568" value="强兽人头领的另一种外观。"/>
+<label key="key:620774751:54354734" value="强兽人头领的另一种外观。"/>
+<label key="key:620774752:191029568" value="提升护甲值"/>
+<label key="key:620774752:54354734" value="提升护甲值"/>
+<label key="key:620774753:191029568" value="提升对歌谣、咆哮、物理和法术伤害的抗性"/>
+<label key="key:620774753:54354734" value="提升对歌谣、咆哮、物理和法术伤害的抗性"/>
+<label key="key:620774754:191029568" value="提升移动速度"/>
+<label key="key:620774754:54354734" value="提升移动速度"/>
+<label key="key:620774755:191029568" value="使用“暗影犬牙”后，所有伤害类技能都会造成暗影伤害"/>
+<label key="key:620774755:54354734" value="使用“暗影犬牙”后，所有伤害类技能都会造成暗影伤害"/>
+<label key="key:620774756:106251890" value="将潜行的速度提高20%"/>
+<label key="key:620774758:191029568" value="提升在隐匿状态下发动攻击时的爆击几率"/>
+<label key="key:620774758:54354734" value="提升在隐匿状态下发动攻击时的爆击几率"/>
+<label key="key:620774759:191029568" value="击败敌人后，通过吼叫来持续治疗自己和同伴。"/>
+<label key="key:620774759:54354734" value="击败敌人后，通过吼叫来持续治疗自己和同伴。"/>
+<label key="key:620774766:191029568" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774766:54354734" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774767:191029568" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774767:54354734" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774768:191029568" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774768:54354734" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774769:191029568" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774769:54354734" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774770:191029568" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774770:54354734" value="座狼潜行者的另一种外观。"/>
+<label key="key:620774772:106251892" value="将总生命值减少${PERCENTVALUE}。"/>
+<label key="key:620774772:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774772:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774773:106251892" value="将总能量减少${PERCENTVALUE}。"/>
+<label key="key:620774773:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774773:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774774:106251889" value="将士气上限提升${PERCENTVALUE}。"/>
+<label key="key:620774774:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774774:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774775:106251889" value="将士气上限提升${PERCENTVALUE}。"/>
+<label key="key:620774775:106251890" value="将总能量减少${PERCENTVALUE}。"/>
+<label key="key:620774775:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774775:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774776:106251889" value="将总能量提升${PERCENTVALUE}。"/>
+<label key="key:620774776:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774776:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774777:106251889" value="将总能量提升${PERCENTVALUE}。"/>
+<label key="key:620774777:106251890" value="将总生命值减少${PERCENTVALUE}。"/>
+<label key="key:620774777:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774777:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774778:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774778:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774779:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774779:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774780:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774780:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774781:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774781:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774782:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774782:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774783:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774783:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620774784:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774784:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774785:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774785:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774786:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774786:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774787:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774787:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774788:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774788:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620774804:54354734" value="怜悯是有回报的。 你发现你的伤害抗性得到了增强，可以更轻松的防御远程攻击，并可以在非战斗状态下更快地恢复自己的能量。"/>
+<label key="key:620774805:54354734" value="你的热情是你最强大的力量之一。 你发现你可以更轻松的防御远程攻击，并可以在非战斗状态下更快地恢复自己的能量，还可以更轻松的防御法术攻击。"/>
+<label key="key:620774806:54354734" value="你的行动使你越来越自信。 你可以轻松抵御恐惧的影响、你的意志变得更坚定，并且你可以在非战斗状态时更快地恢复自己的能量。"/>
+<label key="key:620774807:54354734" value="你的坚定使你获得了许多胜利。 你十分敏捷，可以在战斗中更快地恢复士气，而且士气也得到提升。"/>
+<label key="key:620774808:54354734" value="你所坚持的自律使你更强壮。 你的力量得到了提升，对疾病更有抵抗力，并且可以更轻松的防御近身攻击。"/>
+<label key="key:620774809:54354734" value="你理解那些需要帮助的人。 你知道如何充分发挥护甲的性能，你注定拥有更高的信念，并且对恐惧效果更具抵抗力。"/>
+<label key="key:620774810:54354734" value="你的忠贞赢得了伙伴的尊重。 你对邪恶的暗影更具抵抗力，拥有更多的活力，能量也得以提升。"/>
+<label key="key:620774811:54354734" value="你的抗争强化了你的坚韧。 你发现自己在非战斗状态下可以更快地恢复士气，你的力量得到了提升，并对疾病更有抵抗力。"/>
+<label key="key:620774812:54354734" value="你的诚实赢得了伙伴的信任。 你的能量得到了提升，并知道如何充分发挥护甲的性能，你注定拥有更高的信念。"/>
+<label key="key:620774813:54354734" value="你受到的尊重毋庸置疑。 你对毒素和邪恶的暗影更具抵抗力，而且拥有更多的活力。"/>
+<label key="key:620774814:54354734" value="你的完美化倾向令你无法容忍任何错误。 你注定拥有更高的信念，对恐惧更有抵抗力，意志也更坚强。"/>
+<label key="key:620774815:54354734" value="你是正义的使者。 你发现自己在战斗中可以更快地恢复士气，士气也得到了提升，而且在非战斗状态时也可以更快恢复自己的士气。"/>
+<label key="key:620774816:54354734" value="你的忠诚应该受到奖励。 你发现你拥有了更多的活力，你的能量得到了提升，并且你知道如何充分发挥护甲的性能。"/>
+<label key="key:620774817:54354734" value="你已经理解了仁慈的可贵。 你发现自己在非战斗状态下可以更快恢复能量，可以更轻松的防御法术攻击，并更加敏捷。"/>
+<label key="key:620774818:54354734" value="耐心是一种美德。 你发现自己在非战斗状态下可以更快地恢复能量，可以更加轻松地抵抗流血，还可以更轻松的防御远程攻击。"/>
+<label key="key:620774819:54354734" value="你的圣洁可以用作自己的保护伞。 你发现自己可以更轻松防御近身攻击，对毒素和暗影更具抵抗力。"/>
+<label key="key:620774820:54354734" value="对他人的宽容使你受到了尊敬。 你发现自己可以更轻松的防御法术攻击，变得更加敏捷，并可以在战斗中更快地恢复自己的士气。"/>
+<label key="key:620774821:54354734" value="任何人都不会质疑你的勇气。 你的士气得到了提升，可以在非战斗状态下更快地恢复自己的士气，并提升了力量。"/>
+<label key="key:620774822:54354734" value="你已经找到了真正的智慧。 你的意志更加坚强，可以在非战斗状态下更快地恢复自己的能量，并且更容易抵抗流血。"/>
+<label key="key:620774823:54354734" value="热忱使你变得更完美。 你发现自己对疾病更具抵抗力，可以更轻松的防御近身攻击，还对毒药更具抵抗力。"/>
+<label key="key:620775239:191029568" value="可以进行一次短距离远程攻击。"/>
+<label key="key:620775239:54354734" value="你可以进行一次短距离远程攻击。"/>
+<label key="key:620775242:106251889" value="+5.0% 诡计型护戒队技能伤害"/>
+<label key="key:620775242:106251890" value="+5.0% 信念型护戒队技能士气恢复"/>
+<label key="key:620775242:191029568" value="护戒队诡计和信念奖励"/>
+<label key="key:620775242:54354734" value="你获得了“蜘蛛之计”和“雄鹰之鸣”的奖励"/>
+<label key="key:620775244:191029568" value="人类之剑伤害奖励"/>
+<label key="key:620775244:54354734" value="霍比特棍伤害奖励"/>
+<label key="key:620775246:191029568" value="力量减少：霍比特人的体质不如其他种族。"/>
+<label key="key:620775246:54354734" value="你已经度过了困难的开始阶段，现在可以扮演一个更强的人物。 你的力量已提升。"/>
+<label key="key:620775248:191029568" value="可以让你回到夏尔。"/>
+<label key="key:620775248:54354734" value="你可以迅速返回麦克·戴尔文。"/>
+<label key="key:620775252:191029568" value="你可以通过老式的霍比特欢呼来增加自己的希望。"/>
+<label key="key:620775252:54354734" value="你可以通过老式的霍比特欢呼来提升护戒队的希望。 此技能效果不与其他提高希望的效果叠加。"/>
+<label key="key:620775257:191029568" value="尽管你在未接受过任何培训的情况下可以做到来无踪、去无影，但敌人仍有可能会发现你，当你在他们前面晃过时尤其如此。"/>
+<label key="key:620775257:54354734" value="尽管你在未接受过任何培训的情况下可以做到来无踪、去无影，但敌人仍有可能会发现你，当你在他们前面晃过时尤其如此。"/>
+<label key="key:620775261:191029568" value="当霍比特人被敌人视为一顿美味丰盛的晚餐时，他们极易被忽视。此技能可以令敌人忽视你。"/>
+<label key="key:620775261:54354734" value="可以宁息静伏，使敌人忽略你的存在。"/>
+<label key="key:620775263:191029568" value="力量减少：霍比特人的体质不如其他种族。"/>
+<label key="key:620775263:54354734" value="力量减少：霍比特人的体质不如其他种族。"/>
+<label key="key:620775264:191029568" value="活力提升：霍比特人特别坚强。"/>
+<label key="key:620775264:54354734" value="活力提升：霍比特人特别坚强。"/>
+<label key="key:620775265:191029568" value="非战斗状态下的士气恢复提升：霍比特人复原比其他种族更为快速。"/>
+<label key="key:620775265:54354734" value="非战斗状态下的士气恢复提升：霍比特人复原比其他种族更为快速。"/>
+<label key="key:620775266:191029568" value="恐惧抗性提升：霍比特种族的勇气正在慢慢增长。"/>
+<label key="key:620775266:54354734" value="恐惧抗性提升：霍比特种族的勇气正在慢慢增长。"/>
+<label key="key:620775267:191029568" value="暗影防御提升：霍比特人抵抗诱惑的能力极强。"/>
+<label key="key:620775267:54354734" value="暗影防御提升：霍比特人抵抗诱惑的能力极强。"/>
+<label key="key:620775271:191029568" value="你可以进行一次近距离近战攻击。"/>
+<label key="key:620775271:54354734" value="你可以进行一次近距离近战攻击。"/>
+<label key="key:620775274:106251889" value="+5.0% 法术型护戒队技能能量恢复"/>
+<label key="key:620775274:106251890" value="+5.0% 力量型护戒队技能伤害"/>
+<label key="key:620775274:191029568" value="护戒队法术和力量奖励"/>
+<label key="key:620775274:54354734" value="你获得了“牡马之灵”和“恩特之力”的奖励"/>
+<label key="key:620775276:191029568" value="人类之剑伤害奖励"/>
+<label key="key:620775276:54354734" value="人类之剑伤害奖励"/>
+<label key="key:620775278:191029568" value="你的意志已远远超过了大多数人类同伴。"/>
+<label key="key:620775278:54354734" value="你注定是一个伟大的人物：第四纪的伟大领袖。但是，现在你必须保护第三纪的中土。 你的意志得到提升。"/>
+<label key="key:620775280:191029568" value="可以让你回到布雷。"/>
+<label key="key:620775280:54354734" value="你可以迅速返回布雷。"/>
+<label key="key:620775284:191029568" value="增加护戒队成员的士气。"/>
+<label key="key:620775284:54354734" value="向护戒队提供士气奖励。"/>
+<label key="key:620775289:191029568" value="你的意志比大多数人的意志更坚定。"/>
+<label key="key:620775289:54354734" value="在战争这门艺术中，人类表现得异常熟练。"/>
+<label key="key:620775291:191029568" value="在战斗中，人类以其不屈的意志而著称。"/>
+<label key="key:620775291:54354734" value="在战斗中，人类以其不屈的意志而著称。"/>
+<label key="key:620775294:191029568" value="信念提升：人类是所有种族中前途最光明的。"/>
+<label key="key:620775294:54354734" value="信念提升：人类是所有种族中前途最光明的。"/>
+<label key="key:620775295:191029568" value="意志消弱：人类的意志比其他种族要薄弱。"/>
+<label key="key:620775295:54354734" value="意志消弱：人类的意志比其他种族要薄弱。"/>
+<label key="key:620775296:106251889" value="人类在受到压迫时，会对那些鼓舞士气的豪言壮语做出积极响应。"/>
+<label key="key:620775296:191029568" value="士气恢复提升：与其他种族相比，人类响应号召采取行动的速度更快。  （人类接受治疗的效果更好）"/>
+<label key="key:620775296:54354734" value="士气恢复提升：与其他种族相比，人类更容易鼓起勇气。"/>
+<label key="key:620775297:191029568" value="力量提升：像波罗米尔那样的人能够成就如此的伟业，非常值得颂扬。"/>
+<label key="key:620775297:54354734" value="力量提升：像波罗米尔那样的人能够成就如此的伟业，非常值得颂扬。"/>
+<label key="key:620775300:191029568" value="尽管你在未接受过任何培训的情况下可以做到来无踪、去无影，但敌人仍有可能会发现你，当你在他们前面晃过时尤其如此。"/>
+<label key="key:620775300:54354734" value="尽管你在未接受过任何培训的情况下可以做到来无踪、去无影，但敌人仍有可能会发现你，当你在他们前面晃过时尤其如此。"/>
+<label key="key:620775303:106251889" value="+5.0% 法术型护戒队技能能量恢复"/>
+<label key="key:620775303:106251890" value="+5.0% 信念型护戒队技能士气恢复"/>
+<label key="key:620775303:191029568" value="护戒队法术和信念奖励"/>
+<label key="key:620775303:54354734" value="你获得了“雄鹰之鸣”和“牡马之灵”的奖励。"/>
+<label key="key:620775305:191029568" value="精灵之弓伤害奖励"/>
+<label key="key:620775305:54354734" value="精灵之弓伤害奖励"/>
+<label key="key:620775307:191029568" value="信念提升。"/>
+<label key="key:620775307:54354734" value="你致力于引导人类。 你的信念得到提升。"/>
+<label key="key:620775309:191029568" value="可以让你回到瑞文戴尔。"/>
+<label key="key:620775309:54354734" value="可以让你迅速回到瑞文戴尔。"/>
+<label key="key:620775313:191029568" value="尽管未经训练，但你有能力在不被看见的情况下移动，敌人还是有可能会发现你，尤其是你在他们面前移动时。"/>
+<label key="key:620775313:54354734" value="有了埃尔达精灵的速度和恩典，你的招架能力得到了增强。"/>
+<label key="key:620775317:191029568" value="精灵之剑伤害奖励"/>
+<label key="key:620775317:54354734" value="精灵单手剑伤害奖励"/>
+<label key="key:620775319:191029568" value="提升护戒队成员的能量。"/>
+<label key="key:620775319:54354734" value="给你的护戒队提供一个能量奖励。"/>
+<label key="key:620775321:191029568" value="士气恢复和非战斗士气恢复降低：与其他种族相比，精灵能更深刻地感觉到某些事物，因此也更容易悲伤。"/>
+<label key="key:620775321:54354734" value="非战斗时的士气恢复和士气降低：与其他种族相比，精灵能更深刻地感觉到某些事物，因此也更容易悲伤。"/>
+<label key="key:620775322:191029568" value="敏捷提升：埃尔达精灵的恩典永远被传颂。"/>
+<label key="key:620775322:54354734" value="敏捷提升：埃尔达精灵的恩典永远被传颂。"/>
+<label key="key:620775323:191029568" value="信念降低：中土的精灵时代马上就要结束了。"/>
+<label key="key:620775323:54354734" value="信念降低：中土的精灵时代马上就要结束了。"/>
+<label key="key:620775324:191029568" value="疾病抗性和毒药抗性提升：精灵不会生病。"/>
+<label key="key:620775324:54354734" value="疾病抗性和毒药抗性提升：精灵不会生病。"/>
+<label key="key:620775327:191029568" value="你可以进行一次近距离近战攻击。"/>
+<label key="key:620775327:54354734" value="你可以进行一次近距离近战攻击。"/>
+<label key="key:620775330:106251889" value="+5.0% 诡计型护戒队技能伤害"/>
+<label key="key:620775330:106251890" value="+5.0% 力量型护戒队技能伤害"/>
+<label key="key:620775330:191029568" value="护戒队诡计和力量奖励"/>
+<label key="key:620775330:54354734" value="你获得了“蜘蛛之计”和“恩特之力”的伤害奖励。"/>
+<label key="key:620775332:191029568" value="矮人战斧伤害奖励"/>
+<label key="key:620775332:54354734" value="矮人战斧伤害奖励"/>
+<label key="key:620775334:191029568" value="信念提升：你是本世纪末具有影响力的矮人之一。"/>
+<label key="key:620775334:54354734" value="你是一个极具影响力的矮人。 你的信念得到提升。"/>
+<label key="key:620775336:191029568" value="可以让你回到索林大门。"/>
+<label key="key:620775336:54354734" value="你可以迅速返回索林大门。"/>
+<label key="key:620775340:191029568" value="可以在短时间内抵抗导致弱小种族彻底丧失士气的重击。"/>
+<label key="key:620775340:54354734" value="可以在短时间内抵抗导致弱小种族彻底丧失士气的重击。"/>
+<label key="key:620775344:191029568" value="提升护戒队成员的活力。"/>
+<label key="key:620775344:54354734" value="向护戒队提供一个活力奖励。"/>
+<label key="key:620775349:191029568" value="矮人是一个健壮的种族：力量和活力提升，物理伤害防御增强。"/>
+<label key="key:620775349:54354734" value="矮人是一个健壮的种族：力量和活力提升，物理伤害防御增强。"/>
+<label key="key:620775350:191029568" value="敏捷降低：矮人天生比其他种族迟钝。"/>
+<label key="key:620775350:54354734" value="敏捷降低：矮人天生比其他种族迟钝。"/>
+<label key="key:620775351:191029568" value="信念降低：中土的矮人时代即将结束。"/>
+<label key="key:620775351:54354734" value="信念降低：中土的矮人时代即将结束。"/>
+<label key="key:620775352:191029568" value="战斗中的士气和能量恢复得到提升，非战斗状态下的士气和能量恢复减慢。"/>
+<label key="key:620775352:54354734" value="战斗中的士气和能量恢复得到提升，非战斗状态下的士气和能量恢复减慢。"/>
+<label key="key:620777542:191029568" value="使刺客能够使用蒺藜、弹子以及晕眩之尘等工具。"/>
+<label key="key:620777542:54354734" value="使刺客能够使用蒺藜、弹子以及晕眩之尘等工具。"/>
+<label key="key:620777545:191029568" value="刺客可以使用特殊工具来施展诡计。"/>
+<label key="key:620777545:54354734" value="刺客可以使用特殊工具来施展诡计。"/>
+<label key="key:620777546:191029568" value="可以使用知识典籍。"/>
+<label key="key:620777546:54354734" value="可以使用知识典籍。"/>
+<label key="key:620777551:191029568" value="允许猎人使用武器匠制造的陷阱，如熊陷阱、快速陷阱和诱饵陷阱。"/>
+<label key="key:620777551:54354734" value="允许猎人使用武器匠制造的陷阱。"/>
+<label key="key:620777559:191029568" value="此技能可以立即治愈所有恐惧效果，并能使所有同伴暂时不受恐惧影响，而且有持续治疗作用。"/>
+<label key="key:620777559:54354734" value="该技能可以立即治愈所有恐惧效果。 可以使整个护戒队在短时间内对恐惧免疫，同时具有持续治疗效果。"/>
+<label key="key:620777577:191029568" value="可以使用使者装备。"/>
+<label key="key:620777577:54354734" value="可以使用使者装备。"/>
+<label key="key:620777591:191029568" value="可以使用斗士号角。"/>
+<label key="key:620777591:54354734" value="可以使用斗士号角。"/>
+<label key="key:620777690:191029568" value="矮人种族是极其骁勇的防御性斗士。"/>
+<label key="key:620777690:54354734" value="提升战斗中的防御能力。"/>
+<label key="key:620790690:191029568" value="可以使用鼓。"/>
+<label key="key:620790690:54354734" value="可以使用鼓。"/>
+<label key="key:620790691:191029568" value="可以使用琉特琴。"/>
+<label key="key:620790691:54354734" value="可以使用琉特琴。"/>
+<label key="key:620792156:191029568" value="允许猎人使用古代的圣歌来增强他们的弓箭，以满足各种需要。"/>
+<label key="key:620792156:54354734" value="允许猎人使用古代的圣歌来增强他们的弓箭，以满足各种需要。"/>
+<label key="key:620792418:106251892" value="将总能量减少${PERCENTVALUE}。"/>
+<label key="key:620792418:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792418:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792419:106251889" value="将士气上限提升${PERCENTVALUE}。"/>
+<label key="key:620792419:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792419:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792420:106251889" value="将士气上限提升${PERCENTVALUE}。"/>
+<label key="key:620792420:106251890" value="将总能量减少${PERCENTVALUE}。"/>
+<label key="key:620792420:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792420:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792421:106251889" value="将总能量提升${PERCENTVALUE}。"/>
+<label key="key:620792421:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792421:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792422:106251889" value="将总能量提升${PERCENTVALUE}。"/>
+<label key="key:620792422:106251890" value="将总生命值减少${PERCENTVALUE}。"/>
+<label key="key:620792422:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792422:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792423:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792423:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792424:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792424:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792425:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792425:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792426:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792426:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792427:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792427:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792428:191029568" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792428:54354734" value="堕落防御特性可以将角色的防御提升一级。"/>
+<label key="key:620792429:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792429:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792430:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792430:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792431:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792431:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792432:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792432:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792433:106251892" value="将总生命值减少${PERCENTVALUE}。"/>
+<label key="key:620792433:191029568" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620792433:54354734" value="使用堕落特性，将会增强角色某一方面的特性，但会降低其他特性。"/>
+<label key="key:620793238:191029568" value="诡计和信念奖励"/>
+<label key="key:620793238:54354734" value="你充分体现了霍比特人所具有的各种美德。"/>
+<label key="key:620793266:191029568" value="法术和力量奖励"/>
+<label key="key:620793266:54354734" value="你充分体现了人类所具有的各种美德。"/>
+<label key="key:620793267:191029568" value="诡计和力量奖励"/>
+<label key="key:620793267:54354734" value="你充分体现了矮人所具有的各种美德。"/>
+<label key="key:620793268:191029568" value="法术和信念奖励"/>
+<label key="key:620793268:54354734" value="你充分体现了精灵所具有的各种美德。"/>
+<label key="key:620793382:191029568" value="搜寻废墟，亲爱的。"/>
+<label key="key:620793382:54354734" value="你现在能够搜寻工艺品的位置。"/>
+<label key="key:620793629:191029568" value="允许猎人与护戒队成员共享所搜寻的目标的位置。 只有非玩家目标才可以被共享。"/>
+<label key="key:620793629:54354734" value="允许猎人与护戒队成员共享所搜寻的目标的位置。 只有非玩家目标才可以被共享。"/>
+<label key="key:620796145:191029568" value="可以使用风笛。"/>
+<label key="key:620796145:54354734" value="可以使用风笛。"/>
+<label key="key:620796148:191029568" value="可以使用牛铃。"/>
+<label key="key:620796148:54354734" value="可以使用牛铃。"/>
+<label key="key:620796151:191029568" value="可以使用高级牛铃。"/>
+<label key="key:620796151:54354734" value="可以使用特殊荒野牛铃。"/>
+<label key="key:620796422:106251889" value="移动速度提升${PERCENTVALUE}。"/>
+<label key="key:620796443:191029568" value="你可以使黑暗领主的军队取得更多的战果，即使他们溃败在即。"/>
+<label key="key:620796443:54354734" value="你可以使黑暗领主的军队取得更多的战果，即使他们溃败在即。"/>
+<label key="key:620796446:191029568" value="你是座狼猎捕者，并且可以选定一个目标，提升你的同伴对他造成的伤害。"/>
+<label key="key:620796446:54354734" value="你是座狼猎捕者，并且可以选定一个目标，提升你的同伴对他造成的伤害。"/>
+<label key="key:620796448:191029568" value="周围的敌人看到你的眼睛之后，会产生巨大的畏惧感。"/>
+<label key="key:620796448:54354734" value="周围的敌人看到你的眼睛之后，会产生巨大的畏惧感。"/>
+<label key="key:620796450:191029568" value="兽人的怒火在你的身体里熊熊燃烧。 你可以激发出体内潜伏着的兽人种族的力量，让那些冒犯你的人自食恶果。"/>
+<label key="key:620796450:54354734" value="兽人的怒火在你的身体里熊熊燃烧。 你可以激发出体内潜伏着的兽人种族的力量，让那些冒犯你的人自食恶果。"/>
+<label key="key:620796453:191029568" value="在死亡的大幕落下之前，你可以进入最狂怒的状态。"/>
+<label key="key:620796453:54354734" value="在死亡的大幕落下之前，你可以进入最狂怒的状态。"/>
+<label key="key:620796457:191029568" value="你可以从蜘蛛祖先那里召唤无尽的黑暗，把自己隐藏在暗影之中。"/>
+<label key="key:620796457:54354734" value="你可以从蜘蛛祖先那里召唤无尽的黑暗，把自己隐藏在暗影之中。"/>
+<label key="key:620796460:191029568" value="杀死敌人之后，你可以吞下它们破碎的肢体来维持体力。"/>
+<label key="key:620796460:54354734" value="杀死敌人之后，你可以吞下它们破碎的肢体来维持体力。"/>
+<label key="key:620796462:191029568" value="你的出现可以提升周围一小部分士兵的力量。"/>
+<label key="key:620796462:54354734" value="你的出现可以提升周围一小部分士兵的力量。"/>
+<label key="key:620799379:191029568" value="可以使用非战斗状态宠物。"/>
+<label key="key:620799379:54354734" value="可以使用非战斗状态宠物。"/>
+<label key="key:620799396:191029568" value="布雷兰庄园"/>
+<label key="key:620799396:54354734" value="你是布雷兰一座房屋的主人。 这可以使你在隔壁商人那里获得10%的折扣。"/>
+<label key="key:620799397:191029568" value="夏尔家族大厅"/>
+<label key="key:620799397:54354734" value="你是一座夏尔家族大厅的荣誉主人。 这可以使你在隔壁商人那里获得15%的折扣。"/>
+<label key="key:620799398:191029568" value="索林大厅庄园"/>
+<label key="key:620799398:54354734" value="你是索林大厅的一座房屋的主人。 这可以使你在隔壁商人那里获得10%的折扣。"/>
+<label key="key:620799399:191029568" value="索林大厅庄园"/>
+<label key="key:620799399:54354734" value="你是索林大厅的一座房屋的主人。 这可以使你在隔壁商人那里获得20%的折扣。"/>
+<label key="key:620799400:191029568" value="索林大厅的家族大厅"/>
+<label key="key:620799400:54354734" value="你是索林大厅的一座家族大厅的主人。 这可以使你在隔壁商人那里获得15%的折扣。"/>
+<label key="key:620799401:191029568" value="布雷兰庄园"/>
+<label key="key:620799401:54354734" value="你是布雷兰一座房屋的主人。 这可以使你在隔壁商人那里获得20%的折扣。"/>
+<label key="key:620799402:191029568" value="布雷兰家族大厅"/>
+<label key="key:620799402:54354734" value="你是布雷兰一个家族大厅的主人。 这可以使你在隔壁商人那里获得15%的折扣。"/>
+<label key="key:620799403:191029568" value="法拉斯隆庄园"/>
+<label key="key:620799403:54354734" value="你是法拉斯隆一座房屋的主人。 这可以使你在隔壁商人那里获得10%的折扣。"/>
+<label key="key:620799404:191029568" value="法拉斯隆庄园"/>
+<label key="key:620799404:54354734" value="你是法拉斯隆一座房屋的主人。 这可以使你在隔壁商人那里获得20%的折扣。"/>
+<label key="key:620799405:191029568" value="法拉斯隆家族大厅"/>
+<label key="key:620799405:54354734" value="你是法拉斯隆的一座家族大厅的主人。 这可以使你在隔壁商人那里获得15%的折扣。"/>
+<label key="key:620799406:191029568" value="夏尔庄园"/>
+<label key="key:620799406:54354734" value="你是一座夏尔房屋的荣誉主人。 这可以使你在隔壁商人那里获得10%的折扣。"/>
+<label key="key:620799407:191029568" value="夏尔庄园"/>
+<label key="key:620799407:54354734" value="你是一座夏尔房屋的荣誉主人。 这可以使你在隔壁商人那里获得20%的折扣。"/>
+<label key="key:620799497:191029568" value="你可以迅速旅行到自己的住宅。"/>
+<label key="key:620799497:54354734" value="你可以迅速旅行到自己的住宅。"/>
+<label key="key:620799498:191029568" value="你可以迅速旅行到家族大厅。"/>
+<label key="key:620799498:54354734" value="你可以迅速旅行到家族大厅。"/>
+<label key="key:620799689:191029568" value="你可以使用温顺的座骑。"/>
+<label key="key:620799689:54354734" value="你可以使用温顺的座骑。"/>
+</labels>

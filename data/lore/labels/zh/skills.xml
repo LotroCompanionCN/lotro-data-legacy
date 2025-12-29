@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="zh">
+<label key="1879048830" value="徒手攻击"/>
+<label key="1879048831" value="单手武器攻击"/>
+<label key="1879048832" value="单手武器/盾牌攻击"/>
+<label key="1879048833" value="双持武器攻击"/>
+<label key="1879048834" value="双手武器攻击"/>
+<label key="1879048835" value="弓箭攻击"/>
+<label key="1879048836" value="弩击"/>
+<label key="1879049322" value="微弱近战攻击"/>
+<label key="1879049323" value="低级近战攻击"/>
+<label key="1879049324" value="中级近战攻击"/>
+<label key="1879049325" value="微弱投掷攻击"/>
+<label key="1879049326" value="低级投掷攻击"/>
+<label key="1879049327" value="中级投掷攻击"/>
+<label key="1879049328" value="撤退"/>
+<label key="1879049337" value="指挥狼"/>
+<label key="1879049338" value="召唤狼"/>
+<label key="1879049458" value="致残撕咬"/>
+<label key="1879049462" value="轻微致残"/>
+<label key="1879049463" value="轻微脱臼"/>
+<label key="1879049464" value="轻微损伤"/>
+<label key="1879049465" value="致残"/>
+<label key="1879049466" value="脱臼"/>
+<label key="1879049467" value="损伤"/>
+<label key="1879049468" value="恶化流血"/>
+<label key="1879049480" value="次级毒液"/>
+<label key="1879049481" value="次级致残毒素"/>
+<label key="1879049482" value="毒液"/>
+<label key="1879049483" value="重度毒素"/>
+<label key="1879049484" value="潜伏之毒"/>
+<label key="1879049527" value="轻度患病损耗"/>
+<label key="1879049528" value="轻度病态软弱"/>
+<label key="1879049529" value="患病损耗"/>
+<label key="1879049530" value="病态软弱"/>
+<label key="1879049531" value="疾病化脓"/>
+<label key="1879049732" value="双重近战攻击"/>
+<label key="1879049733" value="近战回击"/>
+<label key="1879049734" value="三重近战攻击"/>
+<label key="1879049739" value="强效毒液"/>
+<label key="1879049740" value="强效致残毒素"/>
+<label key="1879049811" value="史莱姆浆"/>
+<label key="1879050054" value="微弱远程攻击"/>
+<label key="1879050055" value="低级远程攻击"/>
+<label key="1879050056" value="中级远程攻击"/>
+<label key="1879050057" value="毒箭攻击"/>
+<label key="1879050058" value="火之箭攻击"/>
+<label key="1879050127" value="近战解除武装"/>
+<label key="1879050128" value="微弱横扫攻击"/>
+<label key="1879050129" value="战斗咆哮"/>
+<label key="1879050146" value="野兽猛击"/>
+<label key="1879050147" value="蒺藜喷射"/>
+<label key="1879050148" value="重振下属接近目标"/>
+<label key="1879050182" value="进入隐匿状态"/>
+<label key="1879050183" value="进入隐匿状态"/>
+<label key="1879050203" value="1级昏迷之尘"/>
+<label key="1879050236" value="召唤死灵尸妖"/>
+<label key="1879050237" value="可怕力量"/>
+<label key="1879050238" value="盗亡者"/>
+<label key="1879050250" value="致命患病损耗"/>
+<label key="1879050251" value="强力病态软弱"/>
+<label key="1879050252" value="潜伏病害"/>
+<label key="1879050259" value="严重致残"/>
+<label key="1879050260" value="严重脱臼"/>
+<label key="1879050261" value="严重损伤"/>
+<label key="1879050502" value="治疗伤口"/>
+<label key="1879050504" value="治疗毒素"/>
+<label key="1879050505" value="治疗疾病"/>
+<label key="1879050506" value="治疗恐惧"/>
+<label key="1879051254" value="治疗效果"/>
+<label key="1879051267" value="猛烈抽打"/>
+<label key="1879051268" value="狂热"/>
+<label key="1879051269" value="恐吓怒吼"/>
+<label key="1879051270" value="统帅光环"/>
+<label key="1879051279" value="动荡"/>
+<label key="1879051280" value="轻度畏惧"/>
+<label key="1879051281" value="冰冷"/>
+<label key="1879051282" value="畏惧"/>
+<label key="1879051283" value="抚平创伤"/>
+<label key="1879051299" value="微弱近战攻击"/>
+<label key="1879051300" value="中级近战攻击"/>
+<label key="1879051301" value="中等近战火焰流血攻击"/>
+<label key="1879051302" value="静止远距离投掷攻击"/>
+<label key="1879051303" value="猛掷木棍"/>
+<label key="1879051304" value="近战击退"/>
+<label key="1879051305" value="践踏"/>
+<label key="1879051306" value="野蛮攻击"/>
+<label key="1879051307" value="野蛮攻击"/>
+<label key="1879051390" value="致命投掷攻击"/>
+<label key="1879051391" value="投掷定身"/>
+<label key="1879051394" value="近战中等流血"/>
+<label key="1879051395" value="战斗呐喊"/>
+<label key="1879051422" value="诱捕之网"/>
+<label key="1879051423" value="鼓舞咆哮"/>
+<label key="1879051424" value="吸血撕咬"/>
+<label key="1879051430" value="易染毒素"/>
+<label key="1879051471" value="潜伏病害"/>
+<label key="1879051472" value="沉默"/>
+<label key="1879051480" value="召唤尸妖"/>
+<label key="1879051748" value="近战弧形回击"/>
+<label key="1879051777" value="晕眩投掷攻击"/>
+<label key="1879052007" value="箭矢狙击"/>
+<label key="1879052104" value="凶猛劈斩"/>
+<label key="1879052105" value="恐怖怒吼"/>
+<label key="1879052112" value="洗劫一空"/>
+<label key="1879052125" value="剑影"/>
+<label key="1879052160" value="斩喉"/>
+<label key="1879052199" value="恩特参战"/>
+<label key="1879052210" value="召唤鹰"/>
+<label key="1879052284" value="中等普通快速近战攻击"/>
+<label key="1879052286" value="鹰喙撕扯"/>
+<label key="1879052287" value="牺牲"/>
+<label key="1879052288" value="煽动火焰"/>
+<label key="1879052289" value="最小侧面近战攻击"/>
+<label key="1879052434" value="空的陷阱"/>
+<label key="1879052499" value="巴德之箭"/>
+<label key="1879052517" value="快速恢复"/>
+<label key="1879052532" value="荆棘箭雨"/>
+<label key="1879052653" value="暗影控制"/>
+<label key="1879052654" value="动摇"/>
+<label key="1879052655" value="诡异尖叫"/>
+<label key="1879052656" value="复仇威胁"/>
+<label key="1879052663" value="双重近战攻击"/>
+<label key="1879052664" value="三重近战攻击"/>
+<label key="1879052665" value="暗影弱点"/>
+<label key="1879052666" value="死寂"/>
+<label key="1879052667" value="恐惧之潮"/>
+<label key="1879052668" value="召唤邪灵"/>
+<label key="1879052669" value="重度畏惧"/>
+<label key="1879052670" value="恐吓"/>
+<label key="1879052676" value="微弱近战攻击"/>
+<label key="1879052677" value="低级近战攻击"/>
+<label key="1879052678" value="中级近战攻击"/>
+<label key="1879052679" value="施放动作进入无敌状态"/>
+<label key="1879052680" value="退出无敌状态"/>
+<label key="1879052681" value="暗影爆冲"/>
+<label key="1879052682" value="暗影尖叫"/>
+<label key="1879052683" value="暗影触动"/>
+<label key="1879052687" value="狂热"/>
+<label key="1879052832" value="中级横扫攻击"/>
+<label key="1879052833" value="盾牌震击"/>
+<label key="1879052848" value="微弱横扫攻击"/>
+<label key="1879052860" value="远程攻击"/>
+<label key="1879052861" value="双重远程攻击"/>
+<label key="1879052881" value="重振！"/>
+<label key="1879052895" value="希望之歌"/>
+<label key="1879052912" value="巫师礼赞"/>
+<label key="1879052981" value="召唤蜘蛛"/>
+<label key="1879052985" value="缠绕之网"/>
+<label key="1879053027" value="驱逐暗影"/>
+<label key="1879053049" value="杜内丹之护"/>
+<label key="1879053062" value="背誓者之耻"/>
+<label key="1879053069" value="以中土之名"/>
+<label key="1879053108" value="带血之斧"/>
+<label key="1879053184" value="近战眩晕"/>
+<label key="1879053191" value="疾病之风"/>
+<label key="1879054063" value="病害怒吼"/>
+<label key="1879054402" value="骄傲"/>
+<label key="1879054403" value="旋转之斧"/>
+<label key="1879054542" value="大力横扫攻击"/>
+<label key="1879054543" value="扫晕"/>
+<label key="1879054546" value="冲锋"/>
+<label key="1879054550" value="远程打断"/>
+<label key="1879054587" value="低级横扫攻击"/>
+<label key="1879054588" value="强力横扫攻击"/>
+<label key="1879054589" value="微弱远程攻击"/>
+<label key="1879054590" value="中级远程攻击"/>
+<label key="1879054591" value="双重远程攻击"/>
+<label key="1879054592" value="邪恶射击"/>
+<label key="1879054593" value="紧握"/>
+<label key="1879055302" value="精灵水晶"/>
+<label key="1879055305" value="精灵水晶"/>
+<label key="1879055859" value="投掷斧"/>
+<label key="1879055861" value="投掷斧"/>
+<label key="1879056877" value="重振下属"/>
+<label key="1879056906" value="低级近战攻击"/>
+<label key="1879056907" value="微弱远程攻击"/>
+<label key="1879056908" value="低级远程攻击"/>
+<label key="1879056909" value="中级远程攻击"/>
+<label key="1879056910" value="三重近战攻击"/>
+<label key="1879056911" value="尾部猛击"/>
+<label key="1879056912" value="火球"/>
+<label key="1879056913" value="火息术"/>
+<label key="1879056914" value="振翅挥击"/>
+<label key="1879056977" value="破坏护甲"/>
+<label key="1879056983" value="召唤蝙蝠"/>
+<label key="1879056984" value="胜利荣耀"/>
+<label key="1879056985" value="成功复苏"/>
+<label key="1879056986" value="报复"/>
+<label key="1879057290" value="畏缩不前"/>
+<label key="1879057291" value="溜之大吉"/>
+<label key="1879057754" value="彻底摧毁"/>
+<label key="1879057755" value="彻底摧毁"/>
+<label key="1879057756" value="彻底摧毁"/>
+<label key="1879057757" value="彻底摧毁"/>
+<label key="1879057758" value="高级近战回击"/>
+<label key="1879057759" value="治疗效果"/>
+<label key="1879057803" value="最大近战流血攻击"/>
+<label key="1879057804" value="恐惧怒吼"/>
+<label key="1879057818" value="易于恐惧"/>
+<label key="1879057819" value="邪恶献祭"/>
+<label key="1879057827" value="微弱投掷攻击"/>
+<label key="1879057828" value="低级投掷攻击"/>
+<label key="1879057829" value="中级投掷攻击"/>
+<label key="1879057830" value="暗影控制"/>
+<label key="1879057831" value="削弱勇气"/>
+<label key="1879057832" value="裂缝"/>
+<label key="1879057858" value="锐利之矛"/>
+<label key="1879057894" value="微弱远程攻击"/>
+<label key="1879057895" value="低级远程攻击"/>
+<label key="1879057896" value="中级远程攻击"/>
+<label key="1879058404" value="净化之火"/>
+<label key="1879058405" value="烈火漩涡"/>
+<label key="1879058879" value="轰顶"/>
+<label key="1879058880" value="裂顶"/>
+<label key="1879059056" value="剧烈波动"/>
+<label key="1879059057" value="溺死"/>
+<label key="1879059580" value="毒素葫芦"/>
+<label key="1879059581" value="疾病葫芦"/>
+<label key="1879059582" value="毁灭迷幻药"/>
+<label key="1879059583" value="行动迟钝毒药"/>
+<label key="1879059584" value="堕落复发"/>
+<label key="1879059633" value="暴怒"/>
+<label key="1879059644" value="嗜血天赋"/>
+<label key="1879059657" value="近战打断"/>
+<label key="1879059658" value="歃血宣誓"/>
+<label key="1879059699" value="近战攻击"/>
+<label key="1879059700" value="全方位眩晕"/>
+<label key="1879059701" value="穿刺"/>
+<label key="1879059702" value="全方位近战生命抽取"/>
+<label key="1879059810" value="进入高级隐匿：战斗中"/>
+<label key="1879059811" value="召唤下属"/>
+<label key="1879059812" value="退出隐匿状态"/>
+<label key="1879059824" value="噪音袭击"/>
+<label key="1879059827" value="病害怒吼"/>
+<label key="1879059853" value="三连斩"/>
+<label key="1879059855" value="三连斩"/>
+<label key="1879059869" value="坚持战斗"/>
+<label key="1879059881" value="狂怒之刃"/>
+<label key="1879059884" value="狂怒之刃"/>
+<label key="1879059893" value="低耗"/>
+<label key="1879059946" value="勾拳绞杀"/>
+<label key="1879059963" value="震地步伐"/>
+<label key="1879059964" value="高空之拳"/>
+<label key="1879059965" value="风轮冲击"/>
+<label key="1879059968" value="致命远程攻击"/>
+<label key="1879059969" value="投掷石头"/>
+<label key="1879059979" value="双重冲击"/>
+<label key="1879059980" value="狂猛横扫"/>
+<label key="1879059981" value="狂猛横扫"/>
+<label key="1879059982" value="旋转打击"/>
+<label key="1879059985" value="投掷石头"/>
+<label key="1879059986" value="击倒投掷攻击"/>
+<label key="1879060028" value="进入静止隐匿状态"/>
+<label key="1879060029" value="进入静止隐匿状态"/>
+<label key="1879060079" value="狼群怒号"/>
+<label key="1879060133" value="国王之威"/>
+<label key="1879060149" value="獠牙刺伤"/>
+<label key="1879060150" value="断牙冲锋"/>
+<label key="1879060164" value="盾压"/>
+<label key="1879060180" value="守护之威"/>
+<label key="1879060191" value="挑战黑暗"/>
+<label key="1879060250" value="征召： 胜利使者"/>
+<label key="1879060266" value="使者的最小近战攻击"/>
+<label key="1879060267" value="使者的中等近战攻击"/>
+<label key="1879060268" value="使者的最大近战攻击"/>
+<label key="1879060269" value="协调攻击"/>
+<label key="1879060270" value="挑衅战术"/>
+<label key="1879060271" value="贡献意志"/>
+<label key="1879060277" value="召唤:胜利使者"/>
+<label key="1879060278" value="召唤:胜利使者"/>
+<label key="1879060279" value="召唤:胜利使者"/>
+<label key="1879060293" value="圣光照耀"/>
+<label key="1879060303" value="鼓舞咆哮"/>
+<label key="1879060312" value="战斗咆哮"/>
+<label key="1879060321" value="挫敌咆哮"/>
+<label key="1879060327" value="战斗怒吼"/>
+<label key="1879060332" value="愤怒呐喊"/>
+<label key="1879060339" value="以攻为守"/>
+<label key="1879060346" value="征召： 战争使者"/>
+<label key="1879060361" value="召唤:战争使者"/>
+<label key="1879060362" value="召唤:战争使者"/>
+<label key="1879060363" value="召唤:战争使者"/>
+<label key="1879060377" value="希望战歌"/>
+<label key="1879060399" value="征召： 希望使者"/>
+<label key="1879060415" value="召唤:希望使者"/>
+<label key="1879060416" value="召唤:希望使者"/>
+<label key="1879060417" value="召唤:希望使者"/>
+<label key="1879060431" value="毁灭打击"/>
+<label key="1879060437" value="仇恨怒吼"/>
+<label key="1879060440" value="威慑怒吼"/>
+<label key="1879060495" value="迅捷打击"/>
+<label key="1879060547" value="战斗狂热"/>
+<label key="1879060551" value="能量分流"/>
+<label key="1879060568" value="突刺"/>
+<label key="1879060573" value="格档反击"/>
+<label key="1879060582" value="盾卫守护"/>
+<label key="1879060591" value="盾击"/>
+<label key="1879060605" value="喘息之机"/>
+<label key="1879060618" value="嘲讽"/>
+<label key="1879060621" value="嘲讽"/>
+<label key="1879060631" value="挑战"/>
+<label key="1879060634" value="保护"/>
+<label key="1879060636" value="保护"/>
+<label key="1879060644" value="护卫之誓"/>
+<label key="1879060648" value="深呼吸"/>
+<label key="1879060652" value="勇士之心"/>
+<label key="1879060660" value="临危不惧"/>
+<label key="1879060663" value="进阶临危不惧"/>
+<label key="1879060667" value="设置陷阱"/>
+<label key="1879060702" value="全神贯注"/>
+<label key="1879060716" value="潜藏"/>
+<label key="1879060723" value="射击加速"/>
+<label key="1879060749" value="杖击"/>
+<label key="1879060752" value="进阶杖击"/>
+<label key="1879060758" value="能量吸取"/>
+<label key="1879060760" value="能量吸取"/>
+<label key="1879060771" value="希望之光"/>
+<label key="1879060779" value="野性圣印： 保护"/>
+<label key="1879060786" value="止血"/>
+<label key="1879060789" value="止血"/>
+<label key="1879060793" value="野性圣印： 暴怒"/>
+<label key="1879060803" value="地裂术"/>
+<label key="1879060811" value="圣白意志"/>
+<label key="1879060818" value="眩目火光"/>
+<label key="1879060824" value="治疗疾病"/>
+<label key="1879060827" value="治疗疾病"/>
+<label key="1879060831" value="远古智慧"/>
+<label key="1879060837" value="远古智慧"/>
+<label key="1879060843" value="分享能量"/>
+<label key="1879060863" value="战争之曲"/>
+<label key="1879060868" value="梵拉礼赞"/>
+<label key="1879060871" value="梵拉礼赞"/>
+<label key="1879060876" value="援助之歌"/>
+<label key="1879060878" value="援助之歌"/>
+<label key="1879060904" value="共鸣之曲"/>
+<label key="1879060909" value="重振之诗"/>
+<label key="1879060914" value="急速吟唱"/>
+<label key="1879060919" value="安抚之歌"/>
+<label key="1879060947" value="精妙刺伤"/>
+<label key="1879060952" value="迷惑"/>
+<label key="1879060961" value="对准"/>
+<label key="1879060967" value="诡计： 迷眼"/>
+<label key="1879060972" value="诡计： 迷眼"/>
+<label key="1879060981" value="扰乱"/>
+<label key="1879060986" value="诡计： 致残"/>
+<label key="1879060992" value="诡计： 破甲"/>
+<label key="1879061005" value="消失"/>
+<label key="1879061010" value="潜行"/>
+<label key="1879061012" value="神行者"/>
+<label key="1879061016" value="诡计： 激怒"/>
+<label key="1879061538" value="洞穴攻击"/>
+<label key="1879061540" value="愤怒蜂群"/>
+<label key="1879061553" value="进入无敌状态"/>
+<label key="1879061962" value="投掷斧"/>
+<label key="1879061963" value="投掷斧"/>
+<label key="1879062359" value="喷射焦油"/>
+<label key="1879062360" value="焦土"/>
+<label key="1879062572" value="突然袭击"/>
+<label key="1879062573" value="强力近战攻击"/>
+<label key="1879062867" value="搜寻矿藏"/>
+<label key="1879062906" value="搜寻木材"/>
+<label key="1879063043" value="搜寻庄稼"/>
+<label key="1879064060" value="野蛮攻击"/>
+<label key="1879064061" value="剑幕"/>
+<label key="1879064062" value="凶狠攻击"/>
+<label key="1879064063" value="怒气"/>
+<label key="1879064064" value="疾风"/>
+<label key="1879064065" value="残忍打击"/>
+<label key="1879064066" value="剑刃风暴"/>
+<label key="1879064067" value="暴风刃"/>
+<label key="1879064068" value="振作之击"/>
+<label key="1879064069" value="顺势斩"/>
+<label key="1879064070" value="转攻为守"/>
+<label key="1879064071" value="无情打击"/>
+<label key="1879064072" value="挑衅"/>
+<label key="1879064073" value="怜悯裁决"/>
+<label key="1879064074" value="狡诈痛击"/>
+<label key="1879064075" value="疾跑"/>
+<label key="1879064076" value="猛击"/>
+<label key="1879064077" value="强力攻击"/>
+<label key="1879064078" value="断筋"/>
+<label key="1879064079" value="逃避"/>
+<label key="1879064080" value="牡马之灵"/>
+<label key="1879064081" value="恩特之力（近身攻击）"/>
+<label key="1879064082" value="雄鹰之鸣"/>
+<label key="1879064083" value="蜘蛛之计（近身攻击）"/>
+<label key="1879064084" value="射击"/>
+<label key="1879064085" value="喝彩"/>
+<label key="1879064140" value="割裂"/>
+<label key="1879064141" value="弱点标记"/>
+<label key="1879064142" value="疾行"/>
+<label key="1879064143" value="痛苦标记"/>
+<label key="1879064144" value="二连击"/>
+<label key="1879064145" value="勇气之语"/>
+<label key="1879064146" value="激励"/>
+<label key="1879064147" value="战术： 防守"/>
+<label key="1879064148" value="屹立不倒"/>
+<label key="1879064149" value="战术： 无情打击"/>
+<label key="1879064150" value="光明标记"/>
+<label key="1879064151" value="复仇咆哮"/>
+<label key="1879064152" value="牺牲"/>
+<label key="1879064153" value="战术： 精神"/>
+<label key="1879064154" value="尊敬"/>
+<label key="1879064186" value="诗人之击"/>
+<label key="1879064187" value="振作精神"/>
+<label key="1879064188" value="活力之曲"/>
+<label key="1879064189" value="心灵尖啸"/>
+<label key="1879064190" value="守护之曲"/>
+<label key="1879064191" value="迅捷之曲"/>
+<label key="1879064192" value="信念之曲"/>
+<label key="1879064193" value="群体圣歌"/>
+<label key="1879064194" value="梵拉之呼"/>
+<label key="1879064195" value="平衡之曲"/>
+<label key="1879064196" value="神圣目的"/>
+<label key="1879064197" value="进阶圣歌"/>
+<label key="1879064198" value="恢复之歌"/>
+<label key="1879064199" value="亡者之歌"/>
+<label key="1879064200" value="自由人民礼赞"/>
+<label key="1879064201" value="英雄史诗"/>
+<label key="1879064202" value="怜悯礼赞"/>
+<label key="1879064203" value="治疗恐惧"/>
+<label key="1879064204" value="绝望祷言"/>
+<label key="1879064205" value="火焰之曲"/>
+<label key="1879064206" value="催眠之歌"/>
+<label key="1879064207" value="不屈之曲"/>
+<label key="1879064208" value="假死"/>
+<label key="1879064209" value="圣盔·锤手之诗"/>
+<label key="1879064244" value="献祭"/>
+<label key="1879064245" value="召唤乌鸦"/>
+<label key="1879064246" value="能量转换"/>
+<label key="1879064247" value="风刃术"/>
+<label key="1879064248" value="召唤熊"/>
+<label key="1879064249" value="摧毁意志"/>
+<label key="1879064250" value="战争圣印： 巫术"/>
+<label key="1879064251" value="能量圣印： 迟缓"/>
+<label key="1879064252" value="能量圣印： 坚韧"/>
+<label key="1879064253" value="能量圣印： 警戒"/>
+<label key="1879064254" value="火之巫术"/>
+<label key="1879064255" value="风之巫术"/>
+<label key="1879064256" value="自然巫术"/>
+<label key="1879064257" value="呼唤梵拉"/>
+<label key="1879064258" value="拂晓之光"/>
+<label key="1879064286" value="横扫"/>
+<label key="1879064287" value="格档姿态"/>
+<label key="1879064288" value="反击"/>
+<label key="1879064289" value="盾牌震击"/>
+<label key="1879064290" value="压制"/>
+<label key="1879064291" value="守卫之避"/>
+<label key="1879064292" value="反击风暴"/>
+<label key="1879064293" value="刺击"/>
+<label key="1879064294" value="盾击嘲讽"/>
+<label key="1879064295" value="践踏"/>
+<label key="1879064296" value="反败为胜"/>
+<label key="1879064297" value="守护之约"/>
+<label key="1879064327" value="摔绊"/>
+<label key="1879064328" value="突袭"/>
+<label key="1879064329" value="狡诈攻击"/>
+<label key="1879064330" value="激怒"/>
+<label key="1879064331" value="追击之刃"/>
+<label key="1879064332" value="双重追击"/>
+<label key="1879064333" value="当头一棒"/>
+<label key="1879064334" value="混乱"/>
+<label key="1879064335" value="震慑之击"/>
+<label key="1879064336" value="戏弄"/>
+<label key="1879064337" value="洞察弱点"/>
+<label key="1879064338" value="完美备战"/>
+<label key="1879064339" value="闪避"/>
+<label key="1879064340" value="清醒"/>
+<label key="1879064341" value="搜寻宝藏"/>
+<label key="1879064342" value="巧夺"/>
+<label key="1879064343" value="解毒"/>
+<label key="1879064370" value="快速射击"/>
+<label key="1879064371" value="荆棘箭"/>
+<label key="1879064372" value="双重射击"/>
+<label key="1879064373" value="穿刺射击"/>
+<label key="1879064374" value="箭雨"/>
+<label key="1879064375" value="斩杀射击"/>
+<label key="1879064376" value="灵动打击"/>
+<label key="1879064377" value="斩脚"/>
+<label key="1879064378" value="惩戒打击"/>
+<label key="1879064379" value="声东击西"/>
+<label key="1879064380" value="反戈一击"/>
+<label key="1879064381" value="加速旅行"/>
+<label key="1879064382" value="解毒"/>
+<label key="1879064383" value="生火"/>
+<label key="1879064384" value="绝境求生"/>
+<label key="1879064385" value="传送：索林大厅"/>
+<label key="1879064386" value="传送：布雷"/>
+<label key="1879064387" value="传送：埃斯特尔丁"/>
+<label key="1879064388" value="传送：瑞文戴尔"/>
+<label key="1879064389" value="丛林之眼"/>
+<label key="1879064390" value="精灵之眼"/>
+<label key="1879064391" value="地狱之眼"/>
+<label key="1879064392" value="伪装"/>
+<label key="1879064393" value="狩猎者咆哮"/>
+<label key="1879064394" value="恩特之力（远程攻击）"/>
+<label key="1879064395" value="蜘蛛之计（远程攻击）"/>
+<label key="1879064396" value="精神"/>
+<label key="1879064397" value="姿势： 精准"/>
+<label key="1879064398" value="姿势： 强力"/>
+<label key="1879064399" value="姿势： 耐久"/>
+<label key="1879064493" value="双重近战诡计"/>
+<label key="1879064494" value="双重远程诡计"/>
+<label key="1879064495" value="诡计贡献"/>
+<label key="1879064496" value="诡计贡献"/>
+<label key="1879064505" value="三重近战诡计"/>
+<label key="1879064506" value="三重远程诡计"/>
+<label key="1879064510" value="四重近战诡计"/>
+<label key="1879064511" value="四重远程诡计"/>
+<label key="1879064515" value="双重法术"/>
+<label key="1879064516" value="法术贡献"/>
+<label key="1879064521" value="三重法术"/>
+<label key="1879064522" value="四重法术"/>
+<label key="1879064523" value="双重力量"/>
+<label key="1879064524" value="双重力量"/>
+<label key="1879064525" value="力量贡献"/>
+<label key="1879064529" value="三重力量"/>
+<label key="1879064531" value="四重力量"/>
+<label key="1879064533" value="双重信念"/>
+<label key="1879064534" value="信念贡献"/>
+<label key="1879064541" value="三重信念"/>
+<label key="1879064544" value="四重信念"/>
+<label key="1879064547" value="四重力量"/>
+<label key="1879064548" value="三重力量"/>
+<label key="1879064549" value="五重力量"/>
+<label key="1879064550" value="五重力量"/>
+<label key="1879064552" value="五重近战诡计"/>
+<label key="1879064553" value="五重远程诡计"/>
+<label key="1879064556" value="五重法术"/>
+<label key="1879064559" value="五重信念"/>
+<label key="1879064561" value="六重力量"/>
+<label key="1879064562" value="六重力量"/>
+<label key="1879064564" value="六重近战诡计"/>
+<label key="1879064565" value="六重远程诡计"/>
+<label key="1879064567" value="六重法术"/>
+<label key="1879064568" value="六重信念"/>
+<label key="1879067225" value="精灵水晶"/>
+<label key="1879067228" value="精灵水晶"/>
+<label key="1879068269" value="多重陷阱"/>
+<label key="1879068276" value="1级蒺藜术"/>
+<label key="1879068283" value="1级弹子"/>
+<label key="1879068289" value="号角"/>
+<label key="1879069467" value="捕熊陷阱"/>
+<label key="1879069475" value="精灵水晶"/>
+<label key="1879069478" value="精灵水晶"/>
+<label key="1879070107" value="多重陷阱"/>
+<label key="1879070117" value="2级蒺藜术"/>
+<label key="1879070122" value="2级弹子"/>
+<label key="1879070126" value="2级昏迷之尘"/>
+<label key="1879070146" value="号角"/>
+<label key="1879070150" value="精灵水晶"/>
+<label key="1879070153" value="精灵水晶"/>
+<label key="1879070251" value="捕熊陷阱"/>
+<label key="1879070259" value="精灵水晶"/>
+<label key="1879070262" value="精灵水晶"/>
+<label key="1879070442" value="3级蒺藜术"/>
+<label key="1879070447" value="3级弹子"/>
+<label key="1879070451" value="3级昏迷之尘"/>
+<label key="1879070469" value="号角"/>
+<label key="1879072413" value="执行"/>
+<label key="1879072419" value="近战攻击击退"/>
+<label key="1879072525" value="百折不挠"/>
+<label key="1879072528" value="缴械"/>
+<label key="1879072530" value="断筋"/>
+<label key="1879072533" value="粘液之网"/>
+<label key="1879072536" value="潜伏"/>
+<label key="1879072543" value="设置陷阱"/>
+<label key="1879072545" value="死亡之花"/>
+<label key="1879072548" value="燃烧箭"/>
+<label key="1879072549" value="振作起来！"/>
+<label key="1879072550" value="动员"/>
+<label key="1879072554" value="别废话只管杀！"/>
+<label key="1879072557" value="恢复吼叫"/>
+<label key="1879072563" value="消失"/>
+<label key="1879072565" value="隐匿"/>
+<label key="1879073004" value="野蛮攻击"/>
+<label key="1879073007" value="剑幕"/>
+<label key="1879073010" value="凶狠攻击"/>
+<label key="1879073019" value="残忍打击"/>
+<label key="1879073023" value="暴风刃"/>
+<label key="1879073027" value="振作之击"/>
+<label key="1879073038" value="无情打击"/>
+<label key="1879073095" value="诗人之击"/>
+<label key="1879073113" value="活力之曲"/>
+<label key="1879073116" value="心灵尖啸"/>
+<label key="1879073131" value="平衡之曲"/>
+<label key="1879073192" value="最小普通快速近战攻击"/>
+<label key="1879073193" value="乌鸦祝福"/>
+<label key="1879073196" value="转移注意"/>
+<label key="1879073198" value="躲避"/>
+<label key="1879073208" value="进阶召唤熊"/>
+<label key="1879073216" value="最小普通近战攻击"/>
+<label key="1879073217" value="中等普通近战攻击"/>
+<label key="1879073218" value="最大普通近战攻击"/>
+<label key="1879073219" value="怒吼挑战"/>
+<label key="1879073221" value="破坏武器"/>
+<label key="1879073223" value="熊抱"/>
+<label key="1879073224" value="凶猛劈斩"/>
+<label key="1879073234" value="能量圣印： 进阶坚韧"/>
+<label key="1879073238" value="能量圣印： 进阶警戒"/>
+<label key="1879073287" value="缠结之足"/>
+<label key="1879073289" value="突袭"/>
+<label key="1879073293" value="狡诈攻击"/>
+<label key="1879073298" value="激怒"/>
+<label key="1879073320" value="洞察弱点"/>
+<label key="1879073358" value="快速射击： 燃烧箭"/>
+<label key="1879073359" value="快速射击： 精灵之箭"/>
+<label key="1879073363" value="焱焰箭"/>
+<label key="1879073364" value="埃尔达之箭"/>
+<label key="1879073373" value="双重射击： 燃烧"/>
+<label key="1879073374" value="双重射击： 星光"/>
+<label key="1879073378" value="穿刺射击： 炎神"/>
+<label key="1879073379" value="穿刺射击： 圣光"/>
+<label key="1879073381" value="箭雨： 火焰风暴"/>
+<label key="1879073382" value="箭雨： 神圣光芒"/>
+<label key="1879073386" value="灵动打击"/>
+<label key="1879073389" value="斩脚"/>
+<label key="1879073393" value="惩戒打击"/>
+<label key="1879073402" value="反戈一击"/>
+<label key="1879073437" value="姿势： 耐久"/>
+<label key="1879073470" value="投石"/>
+<label key="1879073480" value="回到夏尔"/>
+<label key="1879073486" value="霍比特恢复"/>
+<label key="1879073491" value="霍比特隐匿"/>
+<label key="1879073495" value="霍比特沉默"/>
+<label key="1879073516" value="上勾拳"/>
+<label key="1879073526" value="返回布雷"/>
+<label key="1879073530" value="义不容辞"/>
+<label key="1879073537" value="士气之力"/>
+<label key="1879073559" value="影遁"/>
+<label key="1879073567" value="返回瑞文戴尔"/>
+<label key="1879073571" value="埃尔达的恩赐"/>
+<label key="1879073577" value="埃尔达的能量"/>
+<label key="1879073596" value="头槌"/>
+<label key="1879073606" value="返回索林大门"/>
+<label key="1879073610" value="不动如山"/>
+<label key="1879073614" value="矮人坚韧"/>
+<label key="1879073674" value="奇袭"/>
+<label key="1879073675" value="横扫斩切"/>
+<label key="1879073676" value="破甲之击"/>
+<label key="1879073677" value="毁灭打击"/>
+<label key="1879073678" value="致盲粉"/>
+<label key="1879073679" value="胜利荣耀"/>
+<label key="1879073680" value="双持武器攻击"/>
+<label key="1879073697" value="强力之箭"/>
+<label key="1879073698" value="破空箭"/>
+<label key="1879073699" value="破甲箭"/>
+<label key="1879073700" value="阻碍射击"/>
+<label key="1879073701" value="斩切"/>
+<label key="1879073702" value="躲闪"/>
+<label key="1879073703" value="单手武器攻击"/>
+<label key="1879073710" value="威慑怒吼"/>
+<label key="1879073711" value="顺势斩"/>
+<label key="1879073712" value="鞭笞激励"/>
+<label key="1879073713" value="站起来！"/>
+<label key="1879073714" value="战场激励"/>
+<label key="1879073715" value="统帅光环"/>
+<label key="1879073716" value="单手武器/盾牌攻击"/>
+<label key="1879073737" value="穿刺攻击"/>
+<label key="1879073738" value="剧毒之吻"/>
+<label key="1879073739" value="潜伏之毒"/>
+<label key="1879073740" value="诱捕之网"/>
+<label key="1879073741" value="缠绕之网"/>
+<label key="1879073742" value="毒雾"/>
+<label key="1879073743" value="钻地"/>
+<label key="1879073750" value="爪击"/>
+<label key="1879073751" value="突袭"/>
+<label key="1879073752" value="野蛮毒牙"/>
+<label key="1879073753" value="致残撕咬"/>
+<label key="1879073754" value="裂喉"/>
+<label key="1879073755" value="疾跑"/>
+<label key="1879073757" value="野兽利爪"/>
+<label key="1879073758" value="快速猛扑"/>
+<label key="1879074084" value="致病撕咬"/>
+<label key="1879074102" value="Basic Test Attack"/>
+<label key="1879074129" value="冲击"/>
+<label key="1879075407" value="投掷武器"/>
+<label key="1879076051" value="致命近战攻击"/>
+<label key="1879076075" value="护戒队之心"/>
+<label key="1879076087" value="致命近战攻击"/>
+<label key="1879076091" value="致命近战攻击"/>
+<label key="1879076092" value="致命远程攻击"/>
+<label key="1879076096" value="致命投掷攻击"/>
+<label key="1879076097" value="致命远程攻击"/>
+<label key="1879076098" value="双重近战攻击"/>
+<label key="1879077216" value="最大投掷流血攻击"/>
+<label key="1879077393" value="洪水爆发"/>
+<label key="1879077434" value="燃油"/>
+<label key="1879077435" value="燃油"/>
+<label key="1879077436" value="火葫芦"/>
+<label key="1879077450" value="冲锋"/>
+<label key="1879077453" value="最小近战流血攻击"/>
+<label key="1879077523" value="洞穴攻击"/>
+<label key="1879077597" value="召唤恶蟹"/>
+<label key="1879077713" value="削弱毒刺"/>
+<label key="1879077716" value="昏迷毒素"/>
+<label key="1879078351" value="瘟疫撕咬"/>
+<label key="1879078381" value="横扫切斩"/>
+<label key="1879078382" value="拍击"/>
+<label key="1879078538" value="扭打撕咬"/>
+<label key="1879078719" value="音速冲击"/>
+<label key="1879078720" value="召集幼崽"/>
+<label key="1879078724" value="治疗效果"/>
+<label key="1879079857" value="爆发树根"/>
+<label key="1879079858" value="召唤根须"/>
+<label key="1879079958" value="窒息树藤"/>
+<label key="1879079959" value="诱捕根须"/>
+<label key="1879079960" value="召唤根须"/>
+<label key="1879080037" value="次要援助"/>
+<label key="1879080038" value="主要援助"/>
+<label key="1879080039" value="愤怒蜂群"/>
+<label key="1879080089" value="治疗效果"/>
+<label key="1879080090" value="治疗效果"/>
+<label key="1879080091" value="治疗效果"/>
+<label key="1879080108" value="恶毒叱责"/>
+<label key="1879080109" value="突然爆发"/>
+<label key="1879080110" value="水面旋风"/>
+<label key="1879080111" value="水牢"/>
+<label key="1879080112" value="水之领域"/>
+<label key="1879080134" value="快速出击"/>
+<label key="1879080291" value="刺目"/>
+<label key="1879080358" value="突袭"/>
+<label key="1879080359" value="凶残撕咬"/>
+<label key="1879080379" value="烈火燃烧"/>
+<label key="1879080425" value="中断投掷攻击"/>
+<label key="1879080550" value="全方位近战回击"/>
+<label key="1879081143" value="援助弓箭手"/>
+<label key="1879081314" value="最小近战火焰流血攻击"/>
+<label key="1879081982" value="焦油锅"/>
+<label key="1879081983" value="焦油锅"/>
+<label key="1879082059" value="发出警报"/>
+<label key="1879082153" value="狂怒"/>
+<label key="1879082155" value="吹响号角"/>
+<label key="1879082161" value="幻影"/>
+<label key="1879082204" value="减速毒刀"/>
+<label key="1879082205" value="眩晕毒刀"/>
+<label key="1879082206" value="肮脏葫芦"/>
+<label key="1879082345" value="轻蔑姿势"/>
+<label key="1879082540" value="吹响号角"/>
+<label key="1879083297" value="致命毒素"/>
+<label key="1879083298" value="诱捕之网"/>
+<label key="1879083299" value="诱捕之网"/>
+<label key="1879083331" value="召唤北极熊"/>
+<label key="1879083333" value="骇人怒吼"/>
+<label key="1879083334" value="次级掠夺呼吸"/>
+<label key="1879083335" value="高级掠夺呼吸"/>
+<label key="1879083336" value="终极掠夺呼吸"/>
+<label key="1879083337" value="邪恶之眼"/>
+<label key="1879083338" value="终结之咬"/>
+<label key="1879083339" value="致命暗影之球"/>
+<label key="1879083351" value="强力投掷"/>
+<label key="1879083519" value="Eldricht Rejuvination"/>
+<label key="1879083712" value="召唤戈索隆下属"/>
+<label key="1879083727" value="恢复能量"/>
+<label key="1879083728" value="召唤乌鸦"/>
+<label key="1879083729" value="治疗效果"/>
+<label key="1879083731" value="治疗效果"/>
+<label key="1879083732" value="治疗效果"/>
+<label key="1879083838" value="希望之旗"/>
+<label key="1879083845" value="胜利之旗"/>
+<label key="1879083848" value="战争之旗"/>
+<label key="1879084053" value="弓箭攻击"/>
+<label key="1879084175" value="近战击杀"/>
+<label key="1879084176" value="远程击杀"/>
+<label key="1879084247" value="召唤北极熊"/>
+<label key="1879084334" value="治疗效果"/>
+<label key="1879084352" value="邪恶偷盗"/>
+<label key="1879084409" value="致命毒液"/>
+<label key="1879084782" value="中级近战攻击"/>
+<label key="1879084783" value="强力近战攻击"/>
+<label key="1879084784" value="致命近战攻击"/>
+<label key="1879084785" value="双重近战攻击"/>
+<label key="1879084786" value="三重近战攻击"/>
+<label key="1879084787" value="近战弧形回击"/>
+<label key="1879084789" value="尾部猛击"/>
+<label key="1879084790" value="暗影之吸"/>
+<label key="1879084791" value="振翅挥击"/>
+<label key="1879084792" value="暗影之球"/>
+<label key="1879085063" value="召唤弓箭手随从"/>
+<label key="1879085066" value="召唤猎人随从"/>
+<label key="1879085094" value="大肆践踏"/>
+<label key="1879085097" value="释放根须"/>
+<label key="1879085103" value="坚硬树根"/>
+<label key="1879085106" value="召唤自然"/>
+<label key="1879085107" value="凶残切割"/>
+<label key="1879085113" value="挥舞反弹"/>
+<label key="1879085114" value="激怒尖叫"/>
+<label key="1879085117" value="火矢（4级）"/>
+<label key="1879085129" value="发动根须攻击"/>
+<label key="1879085142" value="力劈（4级）"/>
+<label key="1879085148" value="切斩（3级）"/>
+<label key="1879085149" value="撕裂（1级）"/>
+<label key="1879085154" value="劈斩（2级）"/>
+<label key="1879085456" value="强力投掷攻击"/>
+<label key="1879085534" value="深渊召唤"/>
+<label key="1879085540" value="弹踢"/>
+<label key="1879085554" value="号角"/>
+<label key="1879085555" value="号角"/>
+<label key="1879085556" value="号角"/>
+<label key="1879085727" value="治疗效果"/>
+<label key="1879085849" value="中等普通快速近战攻击"/>
+<label key="1879085850" value="最大普通快速近战攻击"/>
+<label key="1879085851" value="最小普通快速近战攻击"/>
+<label key="1879085905" value="双重投掷攻击"/>
+<label key="1879085986" value="中等远程流血攻击"/>
+<label key="1879086359" value="中等投掷流血攻击"/>
+<label key="1879086508" value="治疗效果"/>
+<label key="1879086525" value="致命投掷攻击"/>
+<label key="1879086526" value="微弱投掷攻击"/>
+<label key="1879086529" value="低级投掷攻击"/>
+<label key="1879086534" value="中级投掷攻击"/>
+<label key="1879086712" value="英勇"/>
+<label key="1879086713" value="强化招架"/>
+<label key="1879086716" value="荣耀"/>
+<label key="1879086717" value="血怒"/>
+<label key="1879087112" value="悲伤请求"/>
+<label key="1879087115" value="召集牧群"/>
+<label key="1879087207" value="仓促撤退"/>
+<label key="1879087213" value="仓促撤退"/>
+<label key="1879087251" value="力量少量提升"/>
+<label key="1879087252" value="力量大量提升"/>
+<label key="1879087265" value="敏捷少量提升"/>
+<label key="1879087266" value="敏捷大量提升"/>
+<label key="1879087268" value="活力大量提升"/>
+<label key="1879087269" value="意志少量提升"/>
+<label key="1879087271" value="信念降低"/>
+<label key="1879087272" value="信念提升"/>
+<label key="1879087289" value="召唤蜘蛛"/>
+<label key="1879087290" value="召唤蜘蛛"/>
+<label key="1879087330" value="士气少量提升"/>
+<label key="1879087336" value="能量少量提升"/>
+<label key="1879087337" value="能量大量提升"/>
+<label key="1879087383" value="召唤蜘蛛"/>
+<label key="1879087384" value="召唤蜘蛛"/>
+<label key="1879087440" value="吐出污物"/>
+<label key="1879087459" value="恶臭污物"/>
+<label key="1879087460" value="召唤洞穴妖怪"/>
+<label key="1879087461" value="召唤洞穴妖怪"/>
+<label key="1879087466" value="治愈仆从"/>
+<label key="1879087471" value="掠夺死尸"/>
+<label key="1879087473" value="致命污物"/>
+<label key="1879087522" value="士气稳定"/>
+<label key="1879087523" value="士气稳定"/>
+<label key="1879087524" value="突发士气"/>
+<label key="1879087525" value="突发士气"/>
+<label key="1879087526" value="能量稳定"/>
+<label key="1879087527" value="突发能量"/>
+<label key="1879087528" value="士气稳定"/>
+<label key="1879087529" value="士气稳定"/>
+<label key="1879087530" value="突发士气"/>
+<label key="1879087532" value="能量稳定"/>
+<label key="1879087533" value="突发能量"/>
+<label key="1879087534" value="士气稳定"/>
+<label key="1879087535" value="士气稳定"/>
+<label key="1879087536" value="突发士气"/>
+<label key="1879087537" value="突发士气"/>
+<label key="1879087539" value="突发能量"/>
+<label key="1879087548" value="掠夺死尸"/>
+<label key="1879087615" value="恐惧之手"/>
+<label key="1879087616" value="凶猛攻击"/>
+<label key="1879087617" value="凶猛攻击"/>
+<label key="1879087618" value="凶猛攻击"/>
+<label key="1879087620" value="掠食者突进"/>
+<label key="1879087621" value="锐利之矛"/>
+<label key="1879087622" value="毒液之矛"/>
+<label key="1879087623" value="召唤狼"/>
+<label key="1879087624" value="召唤幽灵狼"/>
+<label key="1879087625" value="召集狼群"/>
+<label key="1879087626" value="指挥狼"/>
+<label key="1879087642" value="召唤狼"/>
+<label key="1879087691" value="强大能量"/>
+<label key="1879087692" value="护甲大量提升"/>
+<label key="1879087693" value="巨大的责任"/>
+<label key="1879087771" value="Great Restoration"/>
+<label key="1879087773" value="大量恢复"/>
+<label key="1879087873" value="闪光"/>
+<label key="1879087874" value="辉煌之光"/>
+<label key="1879087963" value="邪恶穿刺"/>
+<label key="1879087965" value="召集强盗"/>
+<label key="1879087966" value="脚下"/>
+<label key="1879088004" value="焦油球"/>
+<label key="1879088064" value="雷霆拍击"/>
+<label key="1879088068" value="小鸡打击"/>
+<label key="1879088084" value="毒液"/>
+<label key="1879088169" value="单手徒手攻击"/>
+<label key="1879088170" value="双重徒手攻击"/>
+<label key="1879088680" value="近战重击"/>
+<label key="1879088681" value="远程重击"/>
+<label key="1879088731" value="转嫁仇恨"/>
+<label key="1879088732" value="吸引仇恨"/>
+<label key="1879088745" value="石之盾"/>
+<label key="1879088750" value="掘地重击"/>
+<label key="1879088751" value="音速哀嚎"/>
+<label key="1879088770" value="獾之匕首"/>
+<label key="1879088809" value="根须牢狱"/>
+<label key="1879088962" value="火焰弱点"/>
+<label key="1879088964" value="求助魔眼"/>
+<label key="1879088965" value="焦土"/>
+<label key="1879089138" value="来自深渊的火焰"/>
+<label key="1879089176" value="粗制小熊蜂蜜粥"/>
+<label key="1879089201" value="断裂护甲"/>
+<label key="1879089293" value="暗影力量"/>
+<label key="1879089294" value="暗影召唤"/>
+<label key="1879089313" value="小熊蜂蜜"/>
+<label key="1879089315" value="美味的小熊蜂蜜"/>
+<label key="1879089381" value="生命低潮"/>
+<label key="1879089382" value="邪灵的礼物"/>
+<label key="1879089383" value="末世召唤"/>
+<label key="1879089384" value="阴影之寒"/>
+<label key="1879089385" value="暗影之击"/>
+<label key="1879089386" value="生命虹吸"/>
+<label key="1879089400" value="暗影之杖"/>
+<label key="1879089401" value="废墟卷轴"/>
+<label key="1879089402" value="阿诺尔号角"/>
+<label key="1879089488" value="炽热之钢"/>
+<label key="1879089489" value="深渊火焰"/>
+<label key="1879089490" value="恐怖控制"/>
+<label key="1879089491" value="烈焰"/>
+<label key="1879089492" value="暗影折磨"/>
+<label key="1879089493" value="火焰折磨"/>
+<label key="1879089494" value="暗影之吻"/>
+<label key="1879089495" value="深渊之吻"/>
+<label key="1879089496" value="烈焰之抚"/>
+<label key="1879089497" value="深渊之火"/>
+<label key="1879089498" value="内心之火"/>
+<label key="1879089621" value="护甲少量提升"/>
+<label key="1879089623" value="激励"/>
+<label key="1879089624" value="守护"/>
+<label key="1879089656" value="复活之礼"/>
+<label key="1879089741" value="单手武器攻击"/>
+<label key="1879089742" value="弓箭攻击"/>
+<label key="1879089788" value="隐匿"/>
+<label key="1879089789" value="误导"/>
+<label key="1879089790" value="杜内丹之击"/>
+<label key="1879089793" value="杜内丹之血"/>
+<label key="1879089818" value="杜内丹之印"/>
+<label key="1879089819" value="飞行真相"/>
+<label key="1879089857" value="返回营地"/>
+<label key="1879089858" value="传送：古鲁斯城"/>
+<label key="1879089859" value="传送：麦克·戴尔文"/>
+<label key="1879089860" value="传送：伊凡丁"/>
+<label key="1879089861" value="传送：西安格玛"/>
+<label key="1879089862" value="传送：东安格玛"/>
+<label key="1879089873" value="匕首投掷"/>
+<label key="1879089874" value="正义之箭"/>
+<label key="1879089875" value="穿心之箭"/>
+<label key="1879089876" value="大地之力"/>
+<label key="1879090218" value="粉碎横扫"/>
+<label key="1879090219" value="猛击"/>
+<label key="1879090220" value="岩石"/>
+<label key="1879090221" value="单手武器攻击"/>
+<label key="1879090222" value="砸石头"/>
+<label key="1879090225" value="猛击"/>
+<label key="1879090226" value="践踏"/>
+<label key="1879090227" value="抛砸"/>
+<label key="1879090228" value="狂暴"/>
+<label key="1879090245" value="怒吼"/>
+<label key="1879090790" value="吸引注意"/>
+<label key="1879090854" value="强力陷阱"/>
+<label key="1879090856" value="引诱陷阱"/>
+<label key="1879090857" value="绊网"/>
+<label key="1879090859" value="快速陷阱"/>
+<label key="1879090864" value="小鸡斗篷"/>
+<label key="1879090865" value="设置罗网"/>
+<label key="1879091318" value="转换"/>
+<label key="1879091725" value="武装起来！"/>
+<label key="1879091726" value="踢击"/>
+<label key="1879091727" value="重创"/>
+<label key="1879091728" value="撤退"/>
+<label key="1879091730" value="危急之时"/>
+<label key="1879092194" value="使用嗅盐"/>
+<label key="1879092634" value="伊兰迪尔之刃"/>
+<label key="1879092681" value="奖励的馅饼"/>
+<label key="1879092788" value="圣光照耀"/>
+<label key="1879092795" value="水之讥讽"/>
+<label key="1879092796" value="毒液之手"/>
+<label key="1879092797" value="黑暗飓风"/>
+<label key="1879092799" value="征召： 进阶胜利使者"/>
+<label key="1879092800" value="征召： 进阶战争使者"/>
+<label key="1879092801" value="征召： 进阶希望使者"/>
+<label key="1879092809" value="希望光环"/>
+<label key="1879092810" value="复仇打击"/>
+<label key="1879092811" value="绝望"/>
+<label key="1879092813" value="哀号"/>
+<label key="1879092815" value="震撼现身"/>
+<label key="1879093044" value="搜寻工艺品"/>
+<label key="1879093057" value="啄"/>
+<label key="1879093058" value="穿梭织网"/>
+<label key="1879093059" value="搜索蠕虫"/>
+<label key="1879093060" value="小鸡快跑"/>
+<label key="1879093082" value="奖励的邮包"/>
+<label key="1879093313" value="责任"/>
+<label key="1879093328" value="天火"/>
+<label key="1879093329" value="烈火升腾"/>
+<label key="1879093336" value="意志之力"/>
+<label key="1879093367" value="寻敌火焰"/>
+<label key="1879093398" value="火油罐"/>
+<label key="1879093404" value="古墓干酪"/>
+<label key="1879093784" value="严重撕裂"/>
+<label key="1879093785" value="撕裂"/>
+<label key="1879093786" value="轻度撕裂"/>
+<label key="1879093788" value="潜入阴影"/>
+<label key="1879093800" value="召唤死去的英雄"/>
+<label key="1879093813" value="搬弄是非的霍比特人"/>
+<label key="1879093814" value="标本瓶： 萤火虫"/>
+<label key="1879093815" value="行乞碗"/>
+<label key="1879093816" value="饥饿的霍比特人"/>
+<label key="1879093817" value="标本瓶： 蝴蝶"/>
+<label key="1879093818" value="标本瓶： 苍蝇"/>
+<label key="1879093819" value="幽灵熊爪"/>
+<label key="1879093833" value="召唤亡灵"/>
+<label key="1879093834" value="最终爆发"/>
+<label key="1879093835" value="召唤亡灵"/>
+<label key="1879093838" value="最后之闪"/>
+<label key="1879093860" value="无法摆脱的阴影"/>
+<label key="1879093861" value="暗影侵扰"/>
+<label key="1879093862" value="终极焦土"/>
+<label key="1879093928" value="诈死"/>
+<label key="1879094291" value="哨子"/>
+<label key="1879094292" value="哨子"/>
+<label key="1879094628" value="召唤蓝色强兽人士兵"/>
+<label key="1879094629" value="召唤红色强兽人士兵"/>
+<label key="1879094716" value="强力攻击"/>
+<label key="1879094717" value="猛击"/>
+<label key="1879094735" value="巨魔的兽性（近身攻击）"/>
+<label key="1879094736" value="额外流血（近身攻击）"/>
+<label key="1879094742" value="暴怒之环"/>
+<label key="1879094787" value="警觉"/>
+<label key="1879094797" value="死灵之惧"/>
+<label key="1879094805" value="地谷火焰守卫"/>
+<label key="1879094819" value="防御： 自然生物"/>
+<label key="1879094820" value="防御： 伪龙"/>
+<label key="1879094821" value="防御： 亡灵"/>
+<label key="1879094823" value="远古工艺"/>
+<label key="1879094827" value="粘稠焦油"/>
+<label key="1879094844" value="风暴巫术"/>
+<label key="1879094880" value="护卫史诗"/>
+<label key="1879094881" value="战斗史诗"/>
+<label key="1879094935" value="背誓者之咏唱"/>
+<label key="1879094936" value="背誓者大乐章"/>
+<label key="1879094937" value="战争宣言"/>
+<label key="1879094938" value="至高王之呼"/>
+<label key="1879094939" value="第二纪之呼"/>
+<label key="1879094940" value="突破极限"/>
+<label key="1879094941" value="护戒队激励"/>
+<label key="1879094942" value="圣盔·锤手之赐"/>
+<label key="1879095070" value="裂顶"/>
+<label key="1879095071" value="能量之争"/>
+<label key="1879095073" value="昏厥之击"/>
+<label key="1879095074" value="爆炸飞梭"/>
+<label key="1879095075" value="溃敌怒吼"/>
+<label key="1879095078" value="闪电风暴"/>
+<label key="1879095103" value="邪灵之惧（远程攻击）"/>
+<label key="1879095134" value="疾病交加（远程攻击）"/>
+<label key="1879095138" value="双重信念"/>
+<label key="1879095141" value="三重恐惧（近身攻击）"/>
+<label key="1879095147" value="六重信念"/>
+<label key="1879095150" value="双重流血（远程攻击）"/>
+<label key="1879095152" value="三重疾病（远程攻击）"/>
+<label key="1879095153" value="疾病交加（近身攻击）"/>
+<label key="1879095155" value="三重流血（远程攻击）"/>
+<label key="1879095158" value="双重流血（近身攻击）"/>
+<label key="1879095163" value="四重疾病（远程攻击）"/>
+<label key="1879095165" value="诡计贡献"/>
+<label key="1879095166" value="三重毒刺（近身攻击）"/>
+<label key="1879095167" value="五重恐惧（远程攻击）"/>
+<label key="1879095169" value="四重疾病（近身攻击）"/>
+<label key="1879095170" value="额外恐惧（远程攻击）"/>
+<label key="1879095171" value="双重毒刺（近身攻击）"/>
+<label key="1879095172" value="六重毒刺（近身攻击）"/>
+<label key="1879095174" value="六重毒刺（远程攻击）"/>
+<label key="1879095176" value="诡计贡献"/>
+<label key="1879095177" value="额外毒素（远程攻击）"/>
+<label key="1879095182" value="四重恐惧（远程攻击）"/>
+<label key="1879095186" value="三重远程诡计"/>
+<label key="1879095187" value="五重远程诡计"/>
+<label key="1879095188" value="双重毒刺（远程攻击）"/>
+<label key="1879095190" value="额外毒素（近身攻击）"/>
+<label key="1879095193" value="三重疾病（远程攻击）"/>
+<label key="1879095194" value="五重流血（近身攻击）"/>
+<label key="1879095197" value="三重恐惧（近身攻击）"/>
+<label key="1879095200" value="四重流血（近身攻击）"/>
+<label key="1879095201" value="三重毒刺（近身攻击）"/>
+<label key="1879095202" value="五重疾病（近身攻击）"/>
+<label key="1879095205" value="双重疾病（近身攻击）"/>
+<label key="1879095208" value="六重流血（近身攻击）"/>
+<label key="1879095209" value="蜘蛛之毒（近身攻击）"/>
+<label key="1879095210" value="六重流血（近身攻击）"/>
+<label key="1879095211" value="六重流血（远程攻击）"/>
+<label key="1879095213" value="三重信念"/>
+<label key="1879095214" value="五重信念"/>
+<label key="1879095215" value="巨魔的兽性（远程攻击）"/>
+<label key="1879095219" value="六重毒刺（近身攻击）"/>
+<label key="1879095225" value="五重疾病（远程攻击）"/>
+<label key="1879095226" value="三重法术"/>
+<label key="1879095229" value="五重毒刺（近身攻击）"/>
+<label key="1879095231" value="六重力量"/>
+<label key="1879095233" value="四重毒刺（远程攻击）"/>
+<label key="1879095236" value="双重毒刺（近身攻击）"/>
+<label key="1879095238" value="三重毒刺（近身攻击）"/>
+<label key="1879095240" value="四重力量"/>
+<label key="1879095244" value="五重流血（近身攻击）"/>
+<label key="1879095245" value="三重毒刺（近身攻击）"/>
+<label key="1879095248" value="双重近战诡计"/>
+<label key="1879095250" value="双重疾病（远程攻击）"/>
+<label key="1879095251" value="双重毒刺（远程攻击）"/>
+<label key="1879095252" value="三重流血（远程攻击）"/>
+<label key="1879095256" value="六重毒刺（远程攻击）"/>
+<label key="1879095257" value="蜘蛛之毒（远程攻击）"/>
+<label key="1879095261" value="双重流血（远程攻击）"/>
+<label key="1879095265" value="四重流血（远程攻击）"/>
+<label key="1879095268" value="四重力量"/>
+<label key="1879095270" value="力量贡献"/>
+<label key="1879095273" value="六重力量"/>
+<label key="1879095275" value="六重近战诡计"/>
+<label key="1879095279" value="三重流血（近身攻击）"/>
+<label key="1879095282" value="额外流血（远程攻击）"/>
+<label key="1879095286" value="额外毒素（近身攻击）"/>
+<label key="1879095292" value="五重法术"/>
+<label key="1879095296" value="双重法术"/>
+<label key="1879095298" value="五重疾病（远程攻击）"/>
+<label key="1879095299" value="六重疾病（近身攻击）"/>
+<label key="1879095301" value="四重信念"/>
+<label key="1879095305" value="四重流血（远程攻击）"/>
+<label key="1879095308" value="双重流血（近身攻击）"/>
+<label key="1879095309" value="双重远程诡计"/>
+<label key="1879095312" value="双重恐惧（远程攻击）"/>
+<label key="1879095317" value="五重毒刺（远程攻击）"/>
+<label key="1879095322" value="四重疾病（近身攻击）"/>
+<label key="1879095323" value="四重疾病（远程攻击）"/>
+<label key="1879095326" value="三重疾病（近身攻击）"/>
+<label key="1879095328" value="四重远程诡计"/>
+<label key="1879095329" value="三重近战诡计"/>
+<label key="1879095331" value="六重恐惧（远程攻击）"/>
+<label key="1879095333" value="四重毒刺（近身攻击）"/>
+<label key="1879095337" value="疾病交加（近身攻击）"/>
+<label key="1879095338" value="三重流血（近身攻击）"/>
+<label key="1879095339" value="四重流血（近身攻击）"/>
+<label key="1879095340" value="六重恐惧（远程攻击）"/>
+<label key="1879095341" value="三重力量"/>
+<label key="1879095343" value="法术贡献"/>
+<label key="1879095344" value="双重恐惧（远程攻击）"/>
+<label key="1879095347" value="信念贡献"/>
+<label key="1879095353" value="五重毒刺（远程攻击）"/>
+<label key="1879095354" value="六重疾病（远程攻击）"/>
+<label key="1879095355" value="四重恐惧（远程攻击）"/>
+<label key="1879095356" value="四重毒刺（近身攻击）"/>
+<label key="1879095357" value="双重力量"/>
+<label key="1879095359" value="五重近战诡计"/>
+<label key="1879095360" value="额外毒素（远程攻击）"/>
+<label key="1879095361" value="六重流血（远程攻击）"/>
+<label key="1879095362" value="双重疾病（远程攻击）"/>
+<label key="1879095365" value="五重力量"/>
+<label key="1879095367" value="双重力量"/>
+<label key="1879095368" value="六重疾病（近身攻击）"/>
+<label key="1879095370" value="六重疾病（远程攻击）"/>
+<label key="1879095373" value="四重毒刺（远程攻击）"/>
+<label key="1879095379" value="五重毒刺（近身攻击）"/>
+<label key="1879095383" value="腐尸之毒（近身攻击）"/>
+<label key="1879095386" value="疾病交加（远程攻击）"/>
+<label key="1879095390" value="五重力量"/>
+<label key="1879095392" value="腐尸之毒（远程攻击）"/>
+<label key="1879095397" value="四重法术"/>
+<label key="1879095398" value="额外恐惧（远程攻击）"/>
+<label key="1879095400" value="双重疾病（近身攻击）"/>
+<label key="1879095404" value="额外流血（近身攻击）"/>
+<label key="1879095405" value="三重力量"/>
+<label key="1879095411" value="四重近战诡计"/>
+<label key="1879095412" value="额外流血（远程攻击）"/>
+<label key="1879095413" value="五重疾病（近身攻击）"/>
+<label key="1879095416" value="六重远程诡计"/>
+<label key="1879095417" value="五重流血（远程攻击）"/>
+<label key="1879095420" value="五重恐惧（远程攻击）"/>
+<label key="1879095422" value="三重疾病（近身攻击）"/>
+<label key="1879095423" value="五重流血（远程攻击）"/>
+<label key="1879095424" value="六重法术"/>
+<label key="1879095468" value="空气之力"/>
+<label key="1879095489" value="香蜡"/>
+<label key="1879095507" value="召唤山猫"/>
+<label key="1879095792" value="火焰爆喷"/>
+<label key="1879095793" value="火焰漩涡"/>
+<label key="1879095794" value="翅膀拍击"/>
+<label key="1879095840" value="猛烈穿射"/>
+<label key="1879095841" value="无尽吞噬"/>
+<label key="1879095842" value="夜盲"/>
+<label key="1879095843" value="旷野呼唤"/>
+<label key="1879095844" value="清野"/>
+<label key="1879095845" value="雄视天下"/>
+<label key="1879095846" value="世界之拒"/>
+<label key="1879096308" value="虚无之礼"/>
+<label key="1879096309" value="联合无敌状态"/>
+<label key="1879096310" value="退出联合无敌状态"/>
+<label key="1879096311" value="温特赛博的皮毛"/>
+<label key="1879096312" value="撕咬反击"/>
+<label key="1879096321" value="拯救之音"/>
+<label key="1879096322" value="魔法音符"/>
+<label key="1879096481" value="爆破之力"/>
+<label key="1879096482" value="通过“牺牲”获取生命值"/>
+<label key="1879096583" value="恐慌！"/>
+<label key="1879096584" value="撕心裂肺"/>
+<label key="1879096585" value="恐怖尖啸"/>
+<label key="1879096586" value="召唤蝙蝠"/>
+<label key="1879096587" value="利爪扑击"/>
+<label key="1879096588" value="恶毒切割"/>
+<label key="1879096589" value="致命打击"/>
+<label key="1879096590" value="火舌之舐"/>
+<label key="1879096591" value="亡魂之力"/>
+<label key="1879096771" value="治愈宠物"/>
+<label key="1879096836" value="编写手册： 竖琴"/>
+<label key="1879096837" value="抄写姿势"/>
+<label key="1879096866" value="编写手册： 风笛"/>
+<label key="1879096867" value="编写手册： 竖笛"/>
+<label key="1879096868" value="编写手册： 牛铃"/>
+<label key="1879096869" value="编写手册： 鼓"/>
+<label key="1879096870" value="编写手册： 长笛"/>
+<label key="1879096871" value="编写手册： 号角"/>
+<label key="1879096872" value="编写手册： 荒野牛铃"/>
+<label key="1879096873" value="编写手册： 琉特琴"/>
+<label key="1879096874" value="凶猛攻击"/>
+<label key="1879096875" value="割肉利爪"/>
+<label key="1879096876" value="突然袭击"/>
+<label key="1879097058" value="移除缓慢BUFF"/>
+<label key="1879097069" value="地谷物品技能"/>
+<label key="1879097091" value="嗜血天赋"/>
+<label key="1879097092" value="骨骼断裂"/>
+<label key="1879097096" value="最小普通快速近战攻击"/>
+<label key="1879097097" value="中等普通快速近战攻击"/>
+<label key="1879097132" value="治疗效果"/>
+<label key="1879097176" value="地谷物品技能"/>
+<label key="1879097177" value="地谷物品技能"/>
+<label key="1879097178" value="地谷物品技能"/>
+<label key="1879097179" value="地谷物品技能"/>
+<label key="1879097180" value="地谷物品技能"/>
+<label key="1879097181" value="地谷物品技能"/>
+<label key="1879097202" value="飞鸟之语"/>
+<label key="1879097203" value="猫语者"/>
+<label key="1879097204" value="犬语者"/>
+<label key="1879097205" value="召唤狐狸"/>
+<label key="1879097206" value="召唤青蛙"/>
+<label key="1879097207" value="召唤野兔"/>
+<label key="1879097208" value="召唤蛇"/>
+<label key="1879097209" value="召唤松鼠"/>
+<label key="1879097230" value="召唤乌龟"/>
+<label key="1879097282" value="回魂之术"/>
+<label key="1879097349" value="远古之恨"/>
+<label key="1879097350" value="护卫光环"/>
+<label key="1879097351" value="恢复光环"/>
+<label key="1879097352" value="暴怒光环"/>
+<label key="1879097353" value="惩戒光环"/>
+<label key="1879097354" value="邪恶之吼"/>
+<label key="1879097355" value="刀光链影"/>
+<label key="1879097356" value="引刀"/>
+<label key="1879097357" value="狂猛利剑"/>
+<label key="1879097358" value="进入连锁模式"/>
+<label key="1879097359" value="退出连锁模式"/>
+<label key="1879097360" value="连锁攻击"/>
+<label key="1879097361" value="连锁攻击"/>
+<label key="1879097362" value="连锁攻击"/>
+<label key="1879097363" value="裂骨攻击"/>
+<label key="1879097364" value="致命苦痛"/>
+<label key="1879097365" value="碎骨切割"/>
+<label key="1879097366" value="穿心拳"/>
+<label key="1879097367" value="被标记的目标"/>
+<label key="1879097368" value="无情复仇"/>
+<label key="1879097369" value="囚徒的谴责"/>
+<label key="1879097370" value="撤销连锁"/>
+<label key="1879097371" value="狂猛剑劈"/>
+<label key="1879097372" value="传递攻击"/>
+<label key="1879097373" value="重铁突击"/>
+<label key="1879097374" value="硫磺之诈"/>
+<label key="1879097375" value="硫磺雨"/>
+<label key="1879097376" value="重剑出击"/>
+<label key="1879097377" value="毁灭抽击"/>
+<label key="1879097378" value="尾扫"/>
+<label key="1879097379" value="恐怖冲击"/>
+<label key="1879097486" value="召唤蟾蜍"/>
+<label key="1879097604" value="进入隐匿状态"/>
+<label key="1879097695" value="地谷物品技能"/>
+<label key="1879097711" value="火焰弱点"/>
+<label key="1879097712" value="烈焰倒刺箭"/>
+<label key="1879097713" value="狂暴之怒"/>
+<label key="1879097714" value="迅捷驱散"/>
+<label key="1879097715" value="火舞黄沙"/>
+<label key="1879097716" value="天火"/>
+<label key="1879097717" value="蛮荒之护"/>
+<label key="1879097718" value="兽人之聚"/>
+<label key="1879097719" value="裂甲暴击"/>
+<label key="1879097723" value="微弱横扫攻击"/>
+<label key="1879097724" value="中级横扫攻击"/>
+<label key="1879097725" value="近战攻击"/>
+<label key="1879097726" value="微弱横扫攻击"/>
+<label key="1879097727" value="大力横扫攻击"/>
+<label key="1879097785" value="召唤地龙"/>
+<label key="1879097826" value="火球"/>
+<label key="1879097828" value="火焰爆喷"/>
+<label key="1879097861" value="亡命之搏!"/>
+<label key="1879097863" value="狼族猎手"/>
+<label key="1879097865" value="恐惧凝视"/>
+<label key="1879097866" value="热血沸腾"/>
+<label key="1879097868" value="无尽狂怒"/>
+<label key="1879097871" value="暗影滋生"/>
+<label key="1879097873" value="尸罗天性"/>
+<label key="1879097874" value="震撼现身"/>
+<label key="1879097878" value="撕裂"/>
+<label key="1879097879" value="刺目"/>
+<label key="1879097880" value="冲锋！"/>
+<label key="1879097881" value="肾击"/>
+<label key="1879097883" value="必杀箭"/>
+<label key="1879097884" value="发现目标！"/>
+<label key="1879097885" value="制敌于先"/>
+<label key="1879097887" value="恐惧之旗"/>
+<label key="1879097888" value="黑暗之语"/>
+<label key="1879097889" value="号令之旗"/>
+<label key="1879097894" value="蛛网术"/>
+<label key="1879097895" value="窒息之网"/>
+<label key="1879097896" value="幼蛛"/>
+<label key="1879098096" value="暗影守卫"/>
+<label key="1879098102" value="致命远程攻击"/>
+<label key="1879098104" value="低级远程攻击"/>
+<label key="1879098105" value="强力远程攻击"/>
+<label key="1879098106" value="微弱远程攻击"/>
+<label key="1879098107" value="中级远程攻击"/>
+<label key="1879098150" value="悬停"/>
+<label key="1879098189" value="低级横扫攻击"/>
+<label key="1879098210" value="取消悬停"/>
+<label key="1879098217" value="暴怒之刃"/>
+<label key="1879098218" value="振奋之歌"/>
+<label key="1879098219" value="禁门之钥"/>
+<label key="1879098220" value="守护之语"/>
+<label key="1879098221" value="永恒之剑"/>
+<label key="1879098222" value="梵拉之语"/>
+<label key="1879098223" value="重振希望"/>
+<label key="1879098716" value="肺结核"/>
+<label key="1879098717" value="威慑之视"/>
+<label key="1879098719" value="蒺藜雨"/>
+<label key="1879098729" value="强力横扫攻击"/>
+<label key="1879098730" value="低级横扫攻击"/>
+<label key="1879098731" value="大力横扫攻击"/>
+<label key="1879098732" value="中级横扫攻击"/>
+<label key="1879098733" value="微弱横扫攻击"/>
+<label key="1879098760" value="贤者知识"/>
+<label key="1879098799" value="爆破之力"/>
+<label key="1879098800" value="召唤火精灵"/>
+<label key="1879099080" value="传授： 竖琴"/>
+<label key="1879099270" value="传授： 风笛"/>
+<label key="1879099271" value="传授： 竖笛"/>
+<label key="1879099272" value="传授： 牛铃"/>
+<label key="1879099273" value="传授： 鼓"/>
+<label key="1879099274" value="传授： 长笛"/>
+<label key="1879099275" value="传授： 号角"/>
+<label key="1879099276" value="传授： 荒野牛铃"/>
+<label key="1879099277" value="传授： 琉特琴"/>
+<label key="1879099318" value="治疗疾病"/>
+<label key="1879099319" value="治疗恐惧"/>
+<label key="1879099320" value="治疗毒素"/>
+<label key="1879099321" value="治疗伤口"/>
+<label key="1879099377" value="世界轮回"/>
+<label key="1879101510" value="旅行到个人住宅"/>
+<label key="1879101511" value="传送到家族大厅"/>
+<label key="1879101638" value="守护之火"/>
+<label key="1879101691" value="攻敌不备"/>
+<label key="1879101914" value="最大近战火焰攻击"/>
+<label key="1879101997" value="根须攻击"/>
+<label key="1879101998" value="召回根须"/>
+<label key="1879102040" value="仓促撤退"/>
+<label key="1879102222" value="邪魔之啸"/>
+<label key="1879102223" value="贤者克星"/>
+<label key="1879102224" value="古苏尔的复仇"/>
+<label key="1879102439" value="终结之掷"/>
+<label key="1879102630" value="高效治疗"/>
+<label key="key:620757890:228830419" value="该技能是“隐匿”的加速版"/>
+<label key="key:620759186:228830419" value="在使用“双重追击”技能之后，你可以对目标发出两次强有力的攻击。"/>
+<label key="key:620759211:228830419" value="使用“双重追击”之后，可以发动一次可以造成重大伤害的攻击。 此外，如果你是护戒队成员，还有机会使敌对目标昏迷6秒，创造一次使用护戒队技能的机会。"/>
+<label key="key:620759243:228830419" value="使大地震动，对敌人造成伤害，使敌人昏迷。"/>
+<label key="key:620759256:228830419" value="你是鹰的朋友，现在，你可以召来一只鹰帮助你。"/>
+<label key="key:620759291:228830419" value=".."/>
+<label key="key:620759294:228830419" value="此技能可以对某些敌人造成伤害，并将伤害转化为士气返还给宠物鹰。"/>
+<label key="key:620759296:228830419" value="此技能可以使鹰从死亡的边缘救出主人。  技能只能在鹰参加了战斗的情况下使用。"/>
+<label key="key:620759299:228830419" value="此技能可以用来对付正经受“献祭”煎熬的敌人，不断煽动火焰，逐渐焚烧敌人，使其四处逃窜，惊恐万丈。"/>
+<label key="key:620759302:228830419" value=".."/>
+<label key="key:620759411:228830419" value="你用弓箭手巴德的技能进行攻击，攻击带有恐惧效果。"/>
+<label key="key:620759426:228830419" value="当有紧急需要时，可以不作休息继续前进，在几秒内恢复所有的能量和士气。"/>
+<label key="key:620759440:228830419" value="向敌人射出荆棘箭雨，可以禁锢多个目标，同时造成伤害。"/>
+<label key="key:620759617:228830419" value="在战斗中使一个战败的同伴迅速重返战斗。"/>
+<label key="key:620759630:228830419" value="在短时间内降低自己或同伴受到的“畏惧”效果。"/>
+<label key="key:620759643:228830419" value="礼赞： 以神圣之光进行范围攻击，并且减慢所有被击中目标的移动速度。  施放过三阶曲类技能后才能激活，并且重置吟唱进度。"/>
+<label key="key:620759751:228830419" value="你可以用四分之三的士气和一半的能量复活倒下的同伴。"/>
+<label key="key:620759766:228830419" value="你可以给予一个同伴保护，但是要消耗自己一半的能量。"/>
+<label key="key:620759779:228830419" value="向对手施放诅咒，极大提高队友对该目标造成的伤害。"/>
+<label key="key:620759792:228830419" value="你的出现极大地鼓舞周围的同伴，令他们更加勇敢地进行战斗。"/>
+<label key="key:620764879:228830419" value="进行一次三连击，并产生仇恨。 对同等级目标使用时，此次攻击不会失手、被格挡或被招架，但可以被闪避。"/>
+<label key="key:620764880:228830419" value="进行一次三连击，并产生仇恨。 对同等级目标使用时，此次攻击不会失手、被格挡或被招架，但可以被闪避。"/>
+<label key="key:620764891:228830419" value="发出一声怒吼，掠夺怪物的部分能量。"/>
+<label key="key:620764903:228830419" value="进行全范围攻击，造成巨大伤害，并吸引敌人的攻击。 此次攻击对同等级目标使用从不失手。"/>
+<label key="key:620764905:228830419" value="进行全范围攻击，造成巨大伤害，并吸引敌人的攻击。 此次攻击对同等级目标使用从不失手。"/>
+<label key="key:620764915:228830419" value="你的伤害输出和能量恢复在一段时间内得到了提升。  “荣耀互换”和“热情洋溢”被激活。 每5秒增加一点怒气。"/>
+<label key="key:620765187:228830419" value="对某个敌人成功使用“压制”或“刺击”以后，你可以对其进行一次强力打击。"/>
+<label key="key:620765207:228830419" value="在成功使用“盾牌震击”或“盾击嘲讽”之后，可以用盾牌碾压敌人，以产生更大的伤害。 此技能将产生额外的仇恨，吸引敌人向你进攻。"/>
+<label key="key:620765219:228830419" value="想尽一切办法激怒敌人。"/>
+<label key="key:620765231:228830419" value="你知道如何吸引敌人视线，引诱敌人攻击你，使你的同伴脱身，同时也提升你的“盾卫守护”。"/>
+<label key="key:620765364:228830419" value=".."/>
+<label key="key:620765365:228830419" value=".."/>
+<label key="key:620765366:228830419" value=".."/>
+<label key="key:620765367:228830419" value="使者有机会使被标记的目标昏迷。 另外，如果使者在目标身后，将对目标造成50%的额外伤害。 此技能具60秒的冷却时间。你必须先标记目标才能使用此技能。"/>
+<label key="key:620765368:228830419" value="使者可以通过近战攻击嘲讽被标记对手。 此技能具有15秒的冷却时间。你必须先标记目标才能使用此技能。"/>
+<label key="key:620765369:228830419" value="可以在战斗中把使者的部分士气转化为你的士气。 此技能具有90秒的冷却时间。"/>
+<label key="key:620765376:228830419" value="你征召一名使者把胜利之旗带到战场上。 旗帜周围战士的能量上限和战斗中的能量恢复速度都将得到提升。"/>
+<label key="key:620765378:228830419" value="你征召一名传令官将你的胜利之旗带入战场。这面旗帜增加周围人的最大能量和战斗能量回复。"/>
+<label key="key:620765380:228830419" value="你征召一名传令官将你的胜利之旗带入战场。这面旗帜增加周围人的最大能量和战斗能量回复。"/>
+<label key="key:620765382:228830419" value="你征召一名传令官将你的胜利之旗带入战场。这面旗帜增加周围人的最大能量和战斗能量回复。"/>
+<label key="key:620765396:228830419" value="你可以使战败的同伴以一半士气和四分之一能量重返战斗。"/>
+<label key="key:620765402:228830419" value="击败一名敌人之后，你可以通过咆哮来恢复周围同伴的士气。"/>
+<label key="key:620765409:228830419" value="击败敌人之后，你可以发出一声咆哮，提升附近同伴的进攻速度。"/>
+<label key="key:620765414:228830419" value="击败敌人之后，你可以发出一声可怕的吼叫，对周围的敌人造成轻度的士气伤害。"/>
+<label key="key:620765417:228830419" value="发出恐怖吼叫使敌人心惊胆颤，并使你进入战斗就绪状态。"/>
+<label key="key:620765423:228830419" value="你可怕的呼喊会让敌人感到恐惧，让你进入战备状态。"/>
+<label key="key:620765426:228830419" value="进行防御性的攻击。 虽然攻击只造成轻微的伤害，但是可以提高自身的护甲值。"/>
+<label key="key:620765444:228830419" value="你征召一名使者把战争之旗带到战场上。 提高旗帜附近同伴的力量和敏捷。"/>
+<label key="key:620765446:228830419" value="你招募了一名传令官将你的战旗带入战场。这个旗帜增加了周围人的力量和敏捷性。"/>
+<label key="key:620765448:228830419" value="你招募了一名传令官将你的战旗带入战场。这个旗帜增加了周围人的力量和敏捷性。"/>
+<label key="key:620765450:228830419" value="你招募了一名传令官将你的战旗带入战场。这个旗帜增加了周围人的力量和敏捷性。"/>
+<label key="key:620765462:228830419" value="你可以恢复你周围同伴的士气，并消除施加在他们身上的所有恐惧效果。"/>
+<label key="key:620765492:228830419" value="你征召一名使者把希望之旗带到战场上。 旗帜周围战士的士气上限和战斗中的士气恢复速度都将得到提升。"/>
+<label key="key:620765494:228830419" value="你征召了一名传令官将你的希望之旗带入战场。这面旗帜增加周围人的最大士气和战斗中士气回复。"/>
+<label key="key:620765496:228830419" value="你征召了一名传令官将你的希望之旗带入战场。这面旗帜增加周围人的最大士气和战斗中士气回复。"/>
+<label key="key:620765498:228830419" value="你征召了一名传令官将你的希望之旗带入战场。这面旗帜增加周围人的最大士气和战斗中士气回复。"/>
+<label key="key:620765508:228830419" value="如果产生爆击，此次攻击就会产生致命的伤害增益，使你能够使用溃敌技能，并使你进入战斗强化状态。 必须处于战斗就绪状态才能使用此技能。"/>
+<label key="key:620765512:228830419" value="“怒吼”可以产生仇恨，从而增加自己被攻击的几率。"/>
+<label key="key:620765513:228830419" value="“怒吼”可以产生仇恨，从而增加自己被攻击的几率。"/>
+<label key="key:620765569:228830419" value="进行迅速的近身攻击。"/>
+<label key="key:620765615:228830419" value="迅速提升怒气。"/>
+<label key="key:620765618:228830419" value="能量值的一半转化为士气。"/>
+<label key="key:620765633:228830419" value="一次快速的攻击将会轻微地杀伤你的对手。"/>
+<label key="key:620765636:228830419" value="成功格挡后，有机会同时使用武器和盾牌进行攻击。 此技能将产生额外的仇恨，吸引敌人向你进攻。"/>
+<label key="key:620765643:228830419" value="你的强大技能可以使你短时间加快自己的防守速度。"/>
+<label key="key:620765646:228830419" value="用盾牌击打对手。 此技能将产生额外的仇恨。"/>
+<label key="key:620765661:228830419" value="格挡敌人的一次攻击之后，可利用此技能恢复士气。"/>
+<label key="key:620765667:228830419" value="你可以使用此攻击把敌人的注意力吸引到你自己身上来。"/>
+<label key="key:620765668:228830419" value="你可以使用此攻击把敌人的注意力吸引到你自己身上来。"/>
+<label key="key:620765677:228830419" value="吸引周围的敌人来攻击你，使同伴可以施放护戒队技能。"/>
+<label key="key:620765680:228830419" value="你可以挥舞盾牌保护一名同伴，提升他的防御能力，同时可以对施加在该队友身上的攻击进行反击。"/>
+<label key="key:620765681:228830419" value="你可以挥舞盾牌保护一名同伴，提升他的防御能力，同时可以对施加在该队友身上的攻击进行反击。"/>
+<label key="key:620765687:228830419" value="你的强大技能可以使你短时间加快自己的防守速度。"/>
+<label key="key:620765691:228830419" value="重置所有技能的冷却时间。"/>
+<label key="key:620765696:228830419" value="可以暂时提升士气上限。"/>
+<label key="key:620765702:228830419" value="恢复能量，周围的敌人越多恢复值越高。  该技能仅能在战斗中使用。"/>
+<label key="key:620765704:228830419" value="恢复能量，周围的敌人越多恢复值越高。 该技能将激活其他可用技能。  该技能仅能在战斗中使用。"/>
+<label key="key:620765712:228830419" value="你的生存技能使你能够设置陷阱，将他们困在原地并造成轻微伤害。陷阱放置后会持续60秒。定身效果很容易被打断。"/>
+<label key="key:620765742:228830419" value="处于绝境时，你可以立即恢复所有精神。"/>
+<label key="key:620765755:228830419" value="短时间内降低产生的仇恨。"/>
+<label key="key:620765759:228830419" value="消耗一部分精神，提升远程攻击的速度。"/>
+<label key="key:620765784:228830419" value="使用法杖重击对手。"/>
+<label key="key:620765785:228830419" value="可以对敌人进行重击，并有机会使敌人昏迷。 叠加侧面攻击的时候会产生更大的伤害。"/>
+<label key="key:620765790:228830419" value="盗取敌人的能量，缓慢增加自己的能量。"/>
+<label key="key:620765791:228830419" value="盗取敌人的能量，缓慢增加自己的能量。"/>
+<label key="key:620765799:228830419" value="恢复一个同伴或宠物的士气。"/>
+<label key="key:620765804:228830419" value="该圣印会增加宠物的招架几率，使宠物更加有效地抵抗受到的伤害。 你一次只能对宠物使用一种野性圣印。"/>
+<label key="key:620765810:228830419" value="移除一名队友身上的创伤效果。 不能在战斗中使用。"/>
+<label key="key:620765812:228830419" value="你可以治疗附近护戒队同伴身上的创伤。 可以在战斗中使用。"/>
+<label key="key:620765816:228830419" value="该圣印可以使宠物进入狂怒状态，加快攻击速度，产生更多的仇恨。 你一次只能对宠物使用一种野性圣印。"/>
+<label key="key:620765825:228830419" value="地面在敌人脚下裂开，对敌人造成伤害。 10秒钟之后，地面的裂变可以使目标定身。"/>
+<label key="key:620765831:228830419" value="该技能可以使你在危急时刻恢复大量士气。 可以在短时间内对你形成保护，并对向你发动攻击的敌人造成伤害。"/>
+<label key="key:620765836:228830419" value="伴随着惊天动地的破裂声，一道眩目的亮光使敌人突然停止了所有的动作。 任何攻击都将打断目标的眩晕状态。"/>
+<label key="key:620765841:228830419" value="你可以治愈疾病。"/>
+<label key="key:620765843:228830419" value="你可以治疗附近护戒队同伴身上的疾病。"/>
+<label key="key:620765849:228830419" value="提升你的意志。"/>
+<label key="key:620765851:228830419" value="提升你的意志。"/>
+<label key="key:620765856:228830419" value="将自己的部分能量转移给队友或宠物。"/>
+<label key="key:620765875:228830419" value="三阶曲类技能： 提高护戒队的近战伤害输出。  施放过二阶曲类技能后才能激活。"/>
+<label key="key:620765879:228830419" value="礼赞： 以神圣之光横扫敌人，造成范围性光明伤害。  施放过三阶曲类技能后才能激活，并且重置吟唱进度。"/>
+<label key="key:620765880:228830419" value="礼赞： 以神圣之光横扫敌人，造成范围性光明伤害。  施放过三阶曲类技能后才能激活，并且重置吟唱进度。"/>
+<label key="key:620765884:228830419" value="开启大多数职业的关键技能。 贤者在使用“希望之光”时将消耗更少的士气。"/>
+<label key="key:620765885:228830419" value="开启大多数职业的关键技能。 贤者在使用“希望之光”时将消耗更少的士气。 进阶的技能效果持续时间较长，冷却时间较短。"/>
+<label key="key:620765911:228830419" value="初阶曲类技能： 提升你的法术攻击效果，并对敌人造成伤害。"/>
+<label key="key:620765915:228830419" value="使一个同伴重返战斗。"/>
+<label key="key:620765920:228830419" value="此技能使你可以立刻吟唱所有等级的曲类技能和礼赞。  同时可以解除你身上的所有沉默效果。"/>
+<label key="key:620765924:228830419" value="此技能可以抚慰一定范围内的敌人。 该技能只能在战斗中使用，而且只对战斗中的怪物有效。"/>
+<label key="key:620765948:228830419" value="你可以对目标发动一次快速凶狠的攻击。"/>
+<label key="key:620765953:228830419" value="眼花缭乱的动作使敌人暂时处于迷惑状态，任何攻击都会中断迷惑效果。 该技能对野兽、昆虫或自然生物无效。"/>
+<label key="key:620765959:228830419" value="此技能可以使随后的伤害性攻击成为爆击，并且极大地降低你的失手几率。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620765966:228830419" value="扬起尘土以阻挡敌人的视线，降低其命中率。 对一个目标一次只能施放一个诡计。"/>
+<label key="key:620765969:228830419" value="扬起尘土以阻挡敌人的视线，降低其命中率。 对一个目标一次只能施放一个诡计。"/>
+<label key="key:620765977:228830419" value="处于隐匿状态时，你可以短时间转移敌人的注意力。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620765983:228830419" value="你可以在短时间内减缓敌人的攻击速度。 对一个目标一次只能施放一个诡计。"/>
+<label key="key:620765989:228830419" value="使用该技能可以在短时间内削弱目标的防守。 对一个目标一次只能施放一个诡计。"/>
+<label key="key:620766000:228830419" value="可以在敌人的眼前消失。 隐匿等级在很短的一段时间内得到提升，即使受到伤害也不会解除。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620766002:228830419" value="你可以在几乎不被发现的情况下移动，但是当你移动到他们面前的时候,敌人还是有可能发现你。"/>
+<label key="key:620766003:228830419" value="虽然敌人可以察觉到你，但你仍有能力隐身移动。"/>
+<label key="key:620766009:228830419" value="通过诡计使目标进入狂怒状态，在狂怒状态下它会随意攻击周围一切有威胁的目标。 对一个目标一次只能施放一个诡计。"/>
+<label key="key:620767743:228830419" value="激活后，附近的矿藏在小地图上显示。"/>
+<label key="key:620767778:228830419" value="激活后，附近的木材在小地图上显示。"/>
+<label key="key:620767853:228830419" value="激活后，附近的庄稼在小地图上显示。"/>
+<label key="key:620768659:228830419" value="使用单手武器和盾牌时自动攻击。"/>
+<label key="key:620768660:228830419" value="双持时自动攻击。"/>
+<label key="key:620768661:228830419" value="使用双手武器时自动攻击。"/>
+<label key="key:620768823:228830419" value="使用弓箭时进行自动攻击。"/>
+<label key="key:620768824:228830419" value="装备弩之后进行自动攻击。"/>
+<label key="key:620768830:228830419" value="该护戒队技能对目标造成较小的直接近身攻击伤害，之后还会带来持续性伤害，有助于使用护戒队联合技。"/>
+<label key="key:620768832:228830419" value="双重近战诡计"/>
+<label key="key:620768834:228830419" value="该护戒队技能对目标造成较小的直接远程攻击伤害，之后还会带来持续性伤害，有助于使用护戒队联合技。"/>
+<label key="key:620768835:228830419" value="双重远程诡计"/>
+<label key="key:620768836:228830419" value="诡计贡献"/>
+<label key="key:620768838:228830419" value="诡计贡献"/>
+<label key="key:620768840:228830419" value="三重近战诡计"/>
+<label key="key:620768842:228830419" value="三重远程诡计"/>
+<label key="key:620768844:228830419" value="四重近战诡计"/>
+<label key="key:620768846:228830419" value="四重远程诡计"/>
+<label key="key:620768848:228830419" value="该护戒队技能可以恢复你的能量并有助于使用护戒队联合技。"/>
+<label key="key:620768850:228830419" value="双重法术"/>
+<label key="key:620768852:228830419" value="法术贡献"/>
+<label key="key:620768854:228830419" value="三重法术"/>
+<label key="key:620768856:228830419" value="四重法术"/>
+<label key="key:620768858:228830419" value="该护戒队技能对目标造成直接近身攻击伤害并有助于使用护戒队联合技。"/>
+<label key="key:620768859:228830419" value="双重力量"/>
+<label key="key:620768860:228830419" value="该护戒队技能对目标造成直接远程攻击伤害并有助于使用护戒队联合技。"/>
+<label key="key:620768861:228830419" value="双重力量"/>
+<label key="key:620768862:228830419" value="力量贡献"/>
+<label key="key:620768864:228830419" value="三重力量"/>
+<label key="key:620768866:228830419" value="四重力量"/>
+<label key="key:620768868:228830419" value="该护戒队技能可以恢复你的士气并有助于护戒队行动。"/>
+<label key="key:620768870:228830419" value="双重信念"/>
+<label key="key:620768873:228830419" value="信念贡献"/>
+<label key="key:620768875:228830419" value="三重信念"/>
+<label key="key:620768878:228830419" value="四重信念"/>
+<label key="key:620768881:228830419" value="四重力量"/>
+<label key="key:620768891:228830419" value="三重力量"/>
+<label key="key:620768915:228830419" value="五重力量"/>
+<label key="key:620768916:228830419" value="五重力量"/>
+<label key="key:620768919:228830419" value="五重近战诡计"/>
+<label key="key:620768921:228830419" value="五重远程诡计"/>
+<label key="key:620768924:228830419" value="五重法术"/>
+<label key="key:620768928:228830419" value="五重信念"/>
+<label key="key:620768932:228830419" value="六重力量"/>
+<label key="key:620768933:228830419" value="六重力量"/>
+<label key="key:620768936:228830419" value="六重近战诡计"/>
+<label key="key:620768937:228830419" value="六重远程诡计"/>
+<label key="key:620768940:228830419" value="六重法术"/>
+<label key="key:620768943:228830419" value="六重信念"/>
+<label key="key:620774676:228830419" value="你比大多数同伴都要坚强，可以从被击倒、昏迷、定身或眩晕状态中恢复。"/>
+<label key="key:620774679:228830419" value="使用钢铁的反光，你可以使目标在短时间内无法使用武器。 此技能只能向玩家施放。"/>
+<label key="key:620774681:228830419" value="你斩断了敌人的腿，减慢了他们的移动速度。"/>
+<label key="key:620774697:228830419" value="向目标喷出带有粘液的网，降低目标的招架或闪避几率。"/>
+<label key="key:620774700:228830419" value="不进行战斗时，可以隐藏在地下；除非你冒出地面，否则敌人无法看到你。"/>
+<label key="key:620774720:228830419" value="在地面上小心设置陷阱诱捕你的敌人。"/>
+<label key="key:620774722:228830419" value="快速连续的发射箭束打击目标周围的多个敌人。"/>
+<label key="key:620774724:228830419" value="一种尾部带火的弓箭，落地后可以对目标产生持续的灼伤。"/>
+<label key="key:620774739:228830419" value="你可以对一个被击晕或击倒的盟友呐喊，他们就会开始恢复。"/>
+<label key="key:620774741:228830419" value="不战斗时，你和周围的盟友奔跑速度会更快。"/>
+<label key="key:620774745:228830419" value="激励并嘲弄你的盟友，恢复他们的体力。"/>
+<label key="key:620774760:228830419" value="击败敌人后，通过吼叫来持续治疗自己和同伴。"/>
+<label key="key:620774764:228830419" value="在敌人面前消失踪迹并潜行而不被敌人发现。 在一段时间内你的隐匿十分有效。"/>
+<label key="key:620774798:228830419" value="可以在所有人面前潜行，等待攻击时机，只有最锐利的眼睛才能发现你。"/>
+<label key="key:620774869:228830419" value="一次强大的近战攻击。"/>
+<label key="key:620774870:228830419" value="进行凶猛的近身攻击后，紧接着进行一次副手武器攻击。"/>
+<label key="key:620774871:228830419" value="进行正面的范围性攻击。"/>
+<label key="key:620774872:228830419" value="进行正面的范围性攻击。"/>
+<label key="key:620774873:228830419" value="进行凶猛的双重攻击。"/>
+<label key="key:620774874:228830419" value="进行两次凶猛攻击，紧接着进行一次副手武器攻击。"/>
+<label key="key:620774875:228830419" value="通过牺牲回避几率来增加伤害和能量恢复速度。"/>
+<label key="key:620774877:228830419" value="攻击速度增加。"/>
+<label key="key:620774879:228830419" value="进行三次致命攻击。"/>
+<label key="key:620774880:228830419" value="进行三次致命攻击。"/>
+<label key="key:620774881:228830419" value="你用快速反击来回应对手的攻击。"/>
+<label key="key:620774883:228830419" value="进行全方位范围攻击。"/>
+<label key="key:620774884:228830419" value="进行全方位范围攻击。"/>
+<label key="key:620774885:228830419" value="攻击目标并少量恢复士气。"/>
+<label key="key:620774887:228830419" value="攻击目标并少量恢复士气。"/>
+<label key="key:620774888:228830419" value="进行一次全方位范围攻击，可以对敌人造成持续的轻度伤害。"/>
+<label key="key:620774890:228830419" value="你失去所有的怒气，进入防御姿态，这会增加你的招架和躲避率，但也会解除怒气状态。"/>
+<label key="key:620774892:228830419" value="用所有的怒气进行一次毁灭攻击。 此攻击只能闪避，但绝不会失手，并且不能招架或格挡。"/>
+<label key="key:620774893:228830419" value="消耗所有的怒气进行一次毁灭性攻击，并进行一次快速的副手武器攻击。 第一次攻击无法被格挡或招架，而且对同等级目标从不失手。"/>
+<label key="key:620774894:228830419" value="通过呐喊嘲笑敌人，使其在几秒钟之内持续向你进攻。"/>
+<label key="key:620774895:228830419" value="进行一次强力攻击，只能在敌人生命值低于20%时使用。"/>
+<label key="key:620774896:228830419" value="进行一次有预谋的攻击，破解敌人的防护。 下一次范围攻击可以造成更多的伤害。 它仅能用于生命值低于25%的敌人。"/>
+<label key="key:620774897:228830419" value="加快移动速度。"/>
+<label key="key:620774899:228830419" value="发动一次快速的近身攻击，打断敌人的技能准备动作。"/>
+<label key="key:620774900:228830419" value="全方位的范围攻击，可以使对手昏迷。"/>
+<label key="key:620774901:228830419" value="发动一次攻击，以降低敌人的移动速度。"/>
+<label key="key:620774903:228830419" value="你进行一次攻击，阻止对手继续以你为目标。只有当附近有另一个可选目标时，对手才会停止攻击你。"/>
+<label key="key:620774904:228830419" value="使用远程武器进行攻击。"/>
+<label key="key:620774906:228830419" value="周围的人为你的英勇表现喝彩。"/>
+<label key="key:620774913:228830419" value="一次轻微的流血攻击，可以对敌人造成持续性伤害。"/>
+<label key="key:620774915:228830419" value="标记一个目标，增加你和同伴对其造成的伤害。  一次只能标记一个目标。"/>
+<label key="key:620774917:228830419" value="无论是否处于战斗状态，你都可以提高护戒队的移动速度。"/>
+<label key="key:620774919:228830419" value="标记一个目标，并在一段时间内造成持续伤害。 一次只能标记一个目标。"/>
+<label key="key:620774921:228830419" value="对敌对目标发动两次攻击，造成中等程度的伤害。 如果在第二次攻击的时候产生爆击，你将可以使用溃敌技能，同时也使你进入战斗强化状态。 必须处于战斗就绪状态才能使用此技能。"/>
+<label key="key:620774922:228830419" value="你可以持续恢复一名同伴的士气。"/>
+<label key="key:620774925:228830419" value="你可以通过激动人心的演讲来提高周围同伴的士气上限。"/>
+<label key="key:620774927:228830419" value="你可以采取防守战术，以提升格档几率。 一个人一次只能执行一个命令。"/>
+<label key="key:620774929:228830419" value="可以在短时间内避免被击败。"/>
+<label key="key:620774930:228830419" value="你可以命令某个同伴进行无畏的攻击，增加该队友的爆击几率。 一个人一次只能执行一个命令。"/>
+<label key="key:620774932:228830419" value="标记一个目标，同伴对该目标造成伤害后，可以恢复他们的士气。  一次只能标记一个目标。"/>
+<label key="key:620774934:228830419" value="当某个同伴被击败之后，你的咆哮可以使附近的一个同伴重返战斗，并提升其他附近同伴的技能效果。"/>
+<label key="key:620774938:228830419" value="保护同伴，可以将所有同伴受到的伤害的50%转移给你。"/>
+<label key="key:620774941:228830419" value="你可以采用集中精力的战术，以提升战斗中的能量恢复。 一个人一次只能执行一个命令。"/>
+<label key="key:620774943:228830419" value="你赢得了周围人民的尊敬。"/>
+<label key="key:620774949:228830419" value="发动一次近战攻击，可以在短时间内提升自己接受到的治疗效果。"/>
+<label key="key:620774951:228830419" value="此近身的攻击可以在短时间内提高自己的治疗效果，并且增加团队的士气。"/>
+<label key="key:620774961:228830419" value="少量恢复自己或一名同伴的士气。"/>
+<label key="key:620774964:228830419" value="初阶曲类技能： 可以快速吟唱的歌曲，可以提升你的活力。"/>
+<label key="key:620774966:228830419" value="初阶曲类技能： 施放这个曲类技能需要一定的时间，它不会对敌人造成伤害，但可以对护戒队进行增益。"/>
+<label key="key:620774968:228830419" value="通过咆哮对敌人造成光明系伤害。"/>
+<label key="key:620774969:228830419" value="通过咆哮对敌人造成光明系伤害。  此技能有较高几率产生爆击和使敌人昏迷。"/>
+<label key="key:620774970:228830419" value="初阶曲类技能： 提升护甲值并对敌人造成伤害。"/>
+<label key="key:620774972:228830419" value="二阶曲类技能： 提升攻击速度，并对敌人造成伤害。  施放过初阶曲类技能后才能激活。"/>
+<label key="key:620774974:228830419" value="三阶曲类技能： 提高护戒队对恐惧伤害的抗性。  施放过二阶曲类技能后才能激活。"/>
+<label key="key:620774976:228830419" value="恢复同伴的士气，同时提升护戒队同伴抵抗伤害的能力。"/>
+<label key="key:620774980:228830419" value="以梵拉之圣名威慑某些邪恶的敌人，使敌人在短时间内由于恐惧而逃跑。"/>
+<label key="key:620774981:228830419" value="二阶曲类技能： 提高你的闪避几率。  施放过初阶曲类技能后才能激活。"/>
+<label key="key:620774982:228830419" value="二阶曲类技能： 施放这个曲类技能需要一定的时间，它不会对敌人造成伤害，但可以对护戒队进行增益。  施放过初阶曲类技能后才能激活。"/>
+<label key="key:620774985:228830419" value="使你接下来的三次“诗人之击”能够产生额外的光明系伤害，并可以恢复同伴的部分士气。  激活该技能会重置“诗人之击”的冷却时间。"/>
+<label key="key:620774987:228830419" value="大量恢复自己或一名同伴的士气。 但吟唱速度比“振作精神”慢。"/>
+<label key="key:620774990:228830419" value="此歌可以振奋队友的精神，移除战败带来的“畏惧”效果。"/>
+<label key="key:620774998:228830419" value="此歌曲使亡灵因恐惧而无法动弹。"/>
+<label key="key:620775000:228830419" value="礼赞： 提升你和护戒队同伴在战斗中的士气恢复速度，并且比直接治疗产生的仇恨要小。 施放过三阶曲类技能后才能激活，并且重置吟唱进度。"/>
+<label key="key:620775001:228830419" value="此光环将会提升护戒队的意志和信念。"/>
+<label key="key:620775005:228830419" value="礼赞： 降低治疗产生的仇恨。  施放过三阶曲类技能后才能激活，并且重置吟唱进度。"/>
+<label key="key:620775007:228830419" value="你的高尚精神可以取消自己或别人身上的恐惧效果。"/>
+<label key="key:620775008:228830419" value="立刻恢复护戒队的士气，但是会产生极大的仇恨。"/>
+<label key="key:620775010:228830419" value="三阶曲类技能： 提高同伴对火焰系伤害的抗性。  施放过二阶曲类技能后才能激活。"/>
+<label key="key:620775012:228830419" value="让目标犯困从而缩小其索敌范围。 对于已经进入战斗的目标无效。"/>
+<label key="key:620775015:228830419" value="二阶曲类技能： 提高自己对各种伤害的抗性，并对敌人造成伤害。  施放过初阶曲类技能后才能激活。"/>
+<label key="key:620775017:228830419" value="你天生具有诈死的能力，使敌人完全忽视你的存在。"/>
+<label key="key:620775020:228830419" value="此诗可以把受到的士气伤害转化成能量伤害。 据说，真正掌握了这首诗的人可以借用圣盔·锤手的力量。 昏迷和被击倒会打断此技能。"/>
+<label key="key:620775024:228830419" value="用烈火焚烧敌人，可以造成持续伤害并减慢其移动速度。"/>
+<label key="key:620775027:228830419" value="你可以和乌鸦对话，这样就可以召唤一只乌鸦和你共同探险。"/>
+<label key="key:620775032:228830419" value=".."/>
+<label key="key:620775033:228830419" value="此技能可使目标更易遭受火焰伤害。"/>
+<label key="key:620775036:228830419" value="该技能可以降低弓箭手造成的伤害。"/>
+<label key="key:620775038:228830419" value="此自我增益保护乌鸦免受暗影攻击和近战攻击。"/>
+<label key="key:620775040:228830419" value="将一部分能量转换为你和宠物的士气。  该技能只在你携带宠物的时候才有效。"/>
+<label key="key:620775043:228830419" value="空气可以在目标附近形成漩涡气流，对群体目标造成伤害。"/>
+<label key="key:620775046:228830419" value="你可以和熊对话，这样就可以召唤一头熊和你共同探险。"/>
+<label key="key:620775048:228830419" value="你可以和熊对话，这样就可以召唤一头熊和你共同探险。"/>
+<label key="key:620775051:228830419" value=".."/>
+<label key="key:620775052:228830419" value="此技能迫使目标攻击熊。"/>
+<label key="key:620775053:228830419" value=".."/>
+<label key="key:620775054:228830419" value=".."/>
+<label key="key:620775055:228830419" value="此技能产生一个护甲减益。"/>
+<label key="key:620775057:228830419" value="此技能使对手昏迷。"/>
+<label key="key:620775058:228830419" value="此技能是一种极为凶猛的攻击。"/>
+<label key="key:620775059:228830419" value="考验敌人的意志。 成功使用该技能可以使目标昏迷并对其造成伤害。 该技能的爆击几率较大，可以对敌人造成重大伤害。"/>
+<label key="key:620775061:228830419" value="当宠物从侧面对敌人发动攻击之后，“战争圣印： 巫术”可以治疗你的士气，并对敌人造成伤害。 正常情况下使用可以造成持续性光明系伤害。"/>
+<label key="key:620775065:228830419" value="该圣印可以降低目标的攻击速度和招架几率。"/>
+<label key="key:620775067:228830419" value="这个圣印可以解除眩晕、击倒、击退、沉默和昏迷效果。  并对以下负面效果提供免疫： 昏迷、击倒、击退和昏迷等。   但对因“畏惧”而退缩、致残或护戒队联合技状态没有效果。"/>
+<label key="key:620775070:228830419" value="这个圣印可以解除眩晕、击倒、击退、沉默和昏迷效果。  并对以下负面效果提供免疫： 昏迷、击倒、击退和昏迷等。   但对因“畏惧”而退缩、致残或护戒队联合技状态没有效果。"/>
+<label key="key:620775072:228830419" value="该圣印会使你更容易发现潜行目标。"/>
+<label key="key:620775074:228830419" value="该圣印会使你更容易发现潜行目标。"/>
+<label key="key:620775076:228830419" value="你对物质相当地了解，懂得如何让它们对环境发生作用。 使用该技能后，你可以提高周围空气的温度，使敌人很难对你造成伤害。"/>
+<label key="key:620775078:228830419" value="你对物质相当地了解，懂得如何让空气对环境发生作用。该技能可以使你迅速降低多个敌人的动作速度。"/>
+<label key="key:620775080:228830419" value="你对自然相当地了解，懂得如何利用土地和植物，该技能可以对某个区域内的敌人进行定身。"/>
+<label key="key:620775082:228830419" value="呼唤梵拉的智慧，重置某些技能的冷却时间。"/>
+<label key="key:620775084:228830419" value="你的智慧可以照亮最黑暗的地方，此技能可以伤害敌人并使其昏迷。"/>
+<label key="key:620775094:228830419" value="大规模的扫荡攻击砍倒你面前所有的敌人。"/>
+<label key="key:620775095:228830419" value="提升格挡几率。"/>
+<label key="key:620775097:228830419" value="招架敌人的攻击之后，你可以发动快速的反击。"/>
+<label key="key:620775100:228830419" value="成功使用技能“格档反击”之后，可以用盾牌再次重击敌人，使目标暂时昏迷。 此技能将产生额外的仇恨，吸引敌人向你进攻。"/>
+<label key="key:620775102:228830419" value="施放技能“反击”之后，可以进行一次强力攻击。 该技能产生爆击后可以使目标昏迷。"/>
+<label key="key:620775104:228830419" value="提升招架几率。"/>
+<label key="key:620775106:228830419" value="在成功反击之后，可以对周围的敌人进行一次范围性攻击。 将所有10米范围内所有护戒队成员身上的仇恨转移一部分到你身上。"/>
+<label key="key:620775107:228830419" value="施展“反击”技能以后，可以攻击敌人并造成持续性流血伤害。"/>
+<label key="key:620775109:228830419" value="成功使用“格档反击”之后嘲讽敌人。 此技能将产生额外的仇恨，吸引敌人向你进攻。"/>
+<label key="key:620775110:228830419" value="你的进攻破坏敌人的集结，中断他们的行动。"/>
+<label key="key:620775111:228830419" value="眩晕，昏迷或被击倒之后，有机会从此状态中恢复并将此状态转移给敌人。"/>
+<label key="key:620775112:228830419" value="你可以用橡树籽做成哨子送给同伴，同伴在需要的时候可以吹响哨子把你召唤到身边。"/>
+<label key="key:620775115:228830419" value="加入护戒队之后，你可以通过击晕目标创造使用护戒队技能的机会。 仅在隐匿状态下可用。"/>
+<label key="key:620775116:228830419" value="加入护戒队之后，你可以通过击倒目标创造使用护戒队技能的机会。 只能隐匿状态下使用，但不会中断隐匿状态。"/>
+<label key="key:620775117:228830419" value="你善于向敌人发动突然袭击，从敌人背后或在潜行状态下使用该技能，可以带来更大的伤害。 如果该技能产生爆击，会比其他技能的爆击造成更大的伤害。"/>
+<label key="key:620775118:228830419" value="你善于向敌人发动突然袭击，从敌人背后或在潜行状态下使用该技能，可以带来更大的伤害。 如果该技能产生爆击，会比其他技能的爆击造成更大的伤害。"/>
+<label key="key:620775119:228830419" value="巧妙地对目标发动一次袭击, 使其受到持续性伤害，若在潜行状态下使用此技能, 则可以带来更大的伤害。"/>
+<label key="key:620775121:228830419" value="巧妙地对目标发动一次袭击, 使其受到持续性伤害，若在潜行状态下使用此技能, 则可以带来更大的伤害。"/>
+<label key="key:620775123:228830419" value="无论是针对你还是你的伙伴，你都可以使敌人把攻击集中在他正在攻击的目标身上。"/>
+<label key="key:620775124:228830419" value="无论是针对你还是你的伙伴，你都可以使敌人把攻击集中在他正在攻击的目标身上。"/>
+<label key="key:620775125:228830419" value="你可以在出现爆击之后再次发动攻击，从目标身后进行攻击可以造成更大的伤害。"/>
+<label key="key:620775128:228830419" value="使用技能“追击之刃”之后，使用此技能可以对目标发动两次攻击。"/>
+<label key="key:620775130:228830419" value="你可以使目标昏迷，如果在护戒队中，就可以创造一次使用护戒队技能的机会。"/>
+<label key="key:620775132:228830419" value="中断当前目标正在施放的技能，同时延长目标施放下次技能的时间。"/>
+<label key="key:620775134:228830419" value="先向敌人施放“诡计：迷眼”、“诡计：破甲”或“诡计：激怒”，然后可以通过此技能使其昏迷，使用此技能将会取消上一个诡计。"/>
+<label key="key:620775137:228830419" value="使用该技能将会移除目标身上的诡计类技能效果并恢复你的士气。 对相同等级目标使用时，该技能不会失手，也无法被格挡、招架或闪避。"/>
+<label key="key:620775140:228830419" value="使用此技能后，你能够找到敌人防守时的弱点，并且提升攻击所造成的伤害。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620775141:228830419" value="使用此技能后，你能够找到敌人防守时的弱点，并且提升攻击所造成的伤害。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620775144:228830419" value="重置大部分技能的冷却时间。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620775146:228830419" value="短时间提高闪避几率。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620775148:228830419" value="昏迷，眩晕或被击倒后，你可以迅速恢复士气，并暂时提升闪避几率。 使用此技能不会中断隐匿状态。"/>
+<label key="key:620775150:228830419" value="开启后会在小地图上显示财宝箱或其他装有财宝的容器的所在。"/>
+<label key="key:620775152:228830419" value="潜行时，你可以从那些毫无防备的人身上偷东西。"/>
+<label key="key:620775154:228830419" value="你足智多谋，可以为中毒的队友解毒。"/>
+<label key="key:620775158:228830419" value="可以进行快速的射击。"/>
+<label key="key:620775159:228830419" value="可以进行快速的射击。 对精灵和矮人的深刻了解，可以让你的标枪造成光明属性伤害。"/>
+<label key="key:620775160:228830419" value="可以进行快速的射击。 在箭头上用火油处理使之附带火焰属性伤害。"/>
+<label key="key:620775161:228830419" value="用带有倒刺的箭进行射击，使目标流血并轻微降低其移动速度。"/>
+<label key="key:620775163:228830419" value="中箭后目标受到持续光明属性伤害，并轻微降低移动速度。"/>
+<label key="key:620775165:228830419" value="目标中箭后燃烧，并轻微降低移动速度。"/>
+<label key="key:620775169:228830419" value="可以连续射出两支利箭。"/>
+<label key="key:620775170:228830419" value="可以连续射出两支利箭。  对精灵和矮人的深刻了解，可以让你的标枪造成光明属性伤害。"/>
+<label key="key:620775171:228830419" value="可以连续射出两支利箭。  在箭头上用火油处理使之附带火焰属性伤害。"/>
+<label key="key:620775173:228830419" value="可以造成极大的伤害，能够穿透目标的护甲，忽略目标的部分防御。"/>
+<label key="key:620775174:228830419" value="可以造成极大的伤害，能够穿透目标的护甲，忽略目标的部分防御。  对精灵和矮人的深刻了解，可以让你的标枪造成光明属性伤害。"/>
+<label key="key:620775175:228830419" value="可以造成极大的伤害，能够穿透目标的护甲，忽略目标的部分防御。  在箭头上用火油处理使之附带火焰属性伤害。"/>
+<label key="key:620775176:228830419" value="同时射出多支利箭，可以伤害多个目标。"/>
+<label key="key:620775177:228830419" value="同时射出多支利箭，可以伤害多个目标。  对精灵和矮人的深刻了解，可以让你的标枪造成光明属性伤害。"/>
+<label key="key:620775178:228830419" value="同时射出多支利箭，可以伤害多个目标。  在箭头上用火油处理使之附带火焰属性伤害。"/>
+<label key="key:620775179:228830419" value="目标生命值低于25%时，你可以射出造成重大伤害的一箭。 如果出现爆击，还可以造成额外的伤害。"/>
+<label key="key:620775180:228830419" value="发动一次快速的近战攻击。"/>
+<label key="key:620775181:228830419" value="发动一次快速的近战攻击。"/>
+<label key="key:620775182:228830419" value="攻击正面敌人的腿部，可以在短时间内降低最多2个敌人的移动速度。"/>
+<label key="key:620775184:228830419" value="攻击正面敌人的腿部，可以在短时间内降低最多3个敌人的移动速度。"/>
+<label key="key:620775185:228830419" value="此次攻击将造成额外伤害，敌人如果已经受到了“荆棘箭”的伤害，还可以造成额外的伤害。 但是，使用此技能将会中止流血效果。"/>
+<label key="key:620775188:228830419" value="此次攻击将造成额外伤害，敌人如果已经受到了“荆棘箭”的伤害，还可以造成额外的伤害。 但是，使用此技能将会中止流血效果。"/>
+<label key="key:620775189:228830419" value="可以用一次近战攻击转移敌人的注意，然后再使用一次弓箭射击。"/>
+<label key="key:620775190:228830419" value="成功招架之后，可以立即还击并造成极大伤害。"/>
+<label key="key:620775191:228830419" value="成功招架之后，可以立即还击并造成极大伤害。"/>
+<label key="key:620775192:228830419" value="该技能可以提升护戒队的移动速度。 进入战斗状态后移动速度将恢复正常。"/>
+<label key="key:620775195:228830419" value="解除一个同伴身上的中毒效果。"/>
+<label key="key:620775197:228830419" value="燃起一堆篝火，可以加快护戒队成员的恢复速度并激活某些工匠技能。 篝火持续燃烧3分钟。"/>
+<label key="key:620775202:228830419" value="可以摆脱危险并传送到最近的一个复活点。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620775205:228830419" value="你可以找到一条前往索林大厅的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620775208:228830419" value="你可以找到一条前往布雷的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620775210:228830419" value="你可以找到一条前往埃斯特尔丁的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620775212:228830419" value="你可以找到一条前往瑞文戴尔的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620775214:228830419" value="侦测附近的猛兽和其他动物。"/>
+<label key="key:620775217:228830419" value="侦测附近的兽人、巨魔、巨人、邪恶人类、或矮人。"/>
+<label key="key:620775219:228830419" value="可以检测到附近是否有亡灵、隐形怪物和古代恶魔出没。"/>
+<label key="key:620775221:228830419" value="你可以利用周围的环境隐藏自己，只要你保持不动，敌人就很难察觉到你。"/>
+<label key="key:620775223:228830419" value="大声的咆哮使得野兽惊慌逃窜。"/>
+<label key="key:620775224:228830419" value="战斗开始之前，可以迅速提升精神。 某些弓箭技能会需要消耗精神，但移动会失去聚神效果。"/>
+<label key="key:620775226:228830419" value="采用该姿势后，敌人将更难躲避你的射击。 处于该姿势时，“快速射击”的爆击几率将有所提升。"/>
+<label key="key:620775228:228830419" value="采用该姿势后，弓箭的伤害输出得到提升，能量消耗和产生的仇恨也会增加。 处于该姿势时，“快速射击”将减慢敌人的移动速度。"/>
+<label key="key:620775232:228830419" value="采用该姿势后，能量消耗和产生仇恨都将减少。 处于耐久姿势时，快速射击会产生较少的仇恨。"/>
+<label key="key:620775233:228830419" value="采用该姿势后，能量消耗和产生仇恨都将减少。 处于耐久姿势时，快速射击会产生较少的仇恨。"/>
+<label key="key:620775240:228830419" value="可以进行一次短距离远程攻击。"/>
+<label key="key:620775249:228830419" value="霍比特人的技能会让你找到回夏尔的路。 此技能容易被打断。"/>
+<label key="key:620775253:228830419" value="你可以通过老式的霍比特欢呼来提升护戒队的希望。 此技能效果不与其他提高希望的效果叠加。"/>
+<label key="key:620775258:228830419" value="尽管你在未接受过任何培训的情况下可以做到来无踪、去无影，但敌人仍有可能会发现你，当你在他们前面晃过时尤其如此。"/>
+<label key="key:620775262:228830419" value="可以宁息静伏，使敌人忽略你的存在。"/>
+<label key="key:620775272:228830419" value="你可以进行一次近战攻击。"/>
+<label key="key:620775281:228830419" value="你可以迅速返回布雷。 此技能容易被打断。"/>
+<label key="key:620775285:228830419" value="增加护戒队的士气。"/>
+<label key="key:620775292:228830419" value="在战斗中，人类以其不屈的意志而著称。  该技能可恢复损失的士气。"/>
+<label key="key:620775301:228830419" value="尽管你在未接受过任何培训的情况下可以做到来无踪、去无影，但敌人仍有可能会发现你，当你在他们前面晃过时尤其如此。"/>
+<label key="key:620775310:228830419" value="可以让你迅速回到瑞文戴尔。 此技能容易被打断。"/>
+<label key="key:620775314:228830419" value="有了埃尔达精灵的速度和恩典，你的招架能力得到了增强。"/>
+<label key="key:620775320:228830419" value="提高护戒队的能量。"/>
+<label key="key:620775328:228830419" value="你可以用头部撞击敌人，以造成伤害。"/>
+<label key="key:620775337:228830419" value="你可以迅速返回索林大门。 此技能容易被打断。"/>
+<label key="key:620775341:228830419" value="可以在短时间内抵抗导致弱小种族彻底丧失士气的重击。"/>
+<label key="key:620775345:228830419" value="提高护戒队活力。"/>
+<label key="key:620775380:228830419" value="对目标进行两次快速的攻击。"/>
+<label key="key:620775381:228830419" value="一种横扫斩切，可以伤害前面的多个目标。"/>
+<label key="key:620775382:228830419" value="一种破坏性的攻击，可以削弱目标的护甲。"/>
+<label key="key:620775383:228830419" value="当目标的士气低于一半以下时，你可以发动一次极具杀伤力的攻击，同时增强重击几率。"/>
+<label key="key:620775384:228830419" value="向周围的空气中扬洒尘土，使附近的敌人迷失方向。"/>
+<label key="key:620775386:228830419" value="将自己提升到狂暴状态前，视力会有所下降；但处于狂暴状态时，你的恢复能力和攻击力一同增强，受到的伤害也增加了。"/>
+<label key="key:620775389:228830419" value="双持时自动攻击。"/>
+<label key="key:620775396:228830419" value="用力拉弓射出箭矢。"/>
+<label key="key:620775397:228830419" value="发出一些雕纹和穿孔的弓箭，这些弓箭穿过空气时发出尖利的嚎叫，对敌人造成暗影伤害。"/>
+<label key="key:620775398:228830419" value="可以刺穿护甲的利箭。"/>
+<label key="key:620775399:228830419" value="一种可以减慢敌人移动速度的箭。"/>
+<label key="key:620775401:228830419" value="一种横扫斩切，可以伤害前面的多个目标。"/>
+<label key="key:620775402:228830419" value="可以在短时间内有效的闪避敌人的攻击。"/>
+<label key="key:620775404:228830419" value="仅使用单手武器时自动攻击。"/>
+<label key="key:620775406:228830419" value="一种猛烈和可怕的战斗吼叫，可以削弱敌人的坚定和士气。"/>
+<label key="key:620775407:228830419" value="在敌人面前挥舞着武器。"/>
+<label key="key:620775408:228830419" value="刻薄的嘲笑目标，使目标感到羞耻而提高生命值。"/>
+<label key="key:620775409:228830419" value="发出尖利的吼叫命令，使附近最多5个被杀死的盟友重新复活，但是仅有很少量的生命值。"/>
+<label key="key:620775411:228830419" value="在战斗中对选中的盟友进行支持和保护。"/>
+<label key="key:620775413:228830419" value="战斗开始时，你的统帅光环可以使盟友的战斗力大大提升。"/>
+<label key="key:620775415:228830419" value="使用单手武器和盾牌时自动攻击。"/>
+<label key="key:620775417:228830419" value="使用利爪攻击，给目标造成伤害。"/>
+<label key="key:620775418:228830419" value="一种远程攻击，向目标投出剧烈的接触性毒药并造成持续的伤害。"/>
+<label key="key:620775419:228830419" value="通过撕咬向目标注入毒药，可以削弱目标；在目标未治疗的情况下还可其使昏迷。"/>
+<label key="key:620775420:228830419" value="一种远距离攻击，以具有粘液的网攻击敌人的腿部，使其固定在原位。"/>
+<label key="key:620775422:228830419" value="可以用粘网盖住目标的武器，减慢他们的攻击速度。"/>
+<label key="key:620775424:228830419" value="可以向你前面近距离的敌人喷出含有致残毒药的毒雾对其造成伤害。 此技能仅对玩家有效。"/>
+<label key="key:620775425:228830419" value="可以钻入地中免受伤害，并可在有限的时间内进行隐藏。"/>
+<label key="key:620775427:228830419" value="使用锋利的爪攻击敌人。"/>
+<label key="key:620775428:228830419" value="通过突然袭击，你的利爪攻击会更具伤害。"/>
+<label key="key:620775429:228830419" value="跳向你的目标转移他们的注意力，打断他们正在执行的动作。 如果目标已受到你致残撕咬的伤害，则将被击倒。"/>
+<label key="key:620775432:228830419" value="在发动攻击的最后一刻之前不会被敌人发现，跳向你的目标并将其击倒在地。"/>
+<label key="key:620775433:228830419" value="撕咬目标的肉体，撕裂肌肉并减慢目标的攻击。 如果目标已受到你致残撕咬的伤害，则开始持续受到伤害。"/>
+<label key="key:620775435:228830419" value="用你的下颚撕咬敌人，减缓目标的移动速度。"/>
+<label key="key:620775436:228830419" value="用牙狠狠地撕咬，使目标沉默。"/>
+<label key="key:620775437:228830419" value="速度爆发以抓捕猎物；或防止抓捕时猎物的速度突然提升。"/>
+<label key="key:620775712:228830419" value="不使用主手武器时自动攻击。"/>
+<label key="key:620775713:228830419" value="仅使用单手武器时自动攻击。"/>
+<label key="key:620775802:228830419" value="让你的朋友走远点！"/>
+<label key="key:620777560:228830419" value="此技能为一首励志短歌，在移除护戒队恐惧效果的同时提供恐惧免疫，还可以进行有效的持续性治疗。"/>
+<label key="key:620782692:228830419" value="你的旗帜可以增加周围同伴的士气。"/>
+<label key="key:620782698:228830419" value="你的旗帜可以增加周围同伴的能量恢复。"/>
+<label key="key:620782701:228830419" value="你的旗帜可以提升周围同伴的技能与力量。"/>
+<label key="key:620782856:228830419" value="当使用弓箭时自动攻击。"/>
+<label key="key:620788687:228830419" value="强大的空气在目标周围盘旋，可以伤害任何攻击它的对手。此技能不能用于自身。"/>
+<label key="key:620788755:228830419" value=".."/>
+<label key="key:620788756:228830419" value=".."/>
+<label key="key:620788757:228830419" value=".."/>
+<label key="key:620788773:228830419" value="这种攻击看起来并不优雅但是却极具杀伤力。"/>
+<label key="key:620788775:228830419" value="一种基础的远程武器攻击。"/>
+<label key="key:620788782:228830419" value="一种横扫斩切，可以伤害攻击者前面的多个目标。"/>
+<label key="key:620788803:228830419" value="一种基础的，但是十分有效的挥斩攻击。"/>
+<label key="key:620788806:228830419" value="连续两次快速攻击目标。"/>
+<label key="key:620789554:228830419" value="将自己的能量转移给同伴。 该技能只能在击败一名敌人之后使用。"/>
+<label key="key:620789555:228830419" value="提高招架速度。  该技能只能在击败一名敌人之后使用。"/>
+<label key="key:620789558:228830419" value="产生的仇恨增加，能量恢复速度提升，但会降低伤害输出。"/>
+<label key="key:620789559:228830419" value="使用后立即增加一个怒气点，并且每15秒再增加一点。 该技能只能在击败一名敌人之后使用。"/>
+<label key="key:620790598:228830419" value="送小鸡逃跑。"/>
+<label key="key:620790614:228830419" value="蜘蛛编织者的远程自动攻击"/>
+<label key="key:620790667:228830419" value="进行双重徒手攻击时自动攻击。"/>
+<label key="key:620790668:228830419" value="进行单手徒手攻击时自动攻击。"/>
+<label key="key:620790894:228830419" value="该技能把斗士产生的部分仇恨转移到一名护戒队成员身上。"/>
+<label key="key:620790895:228830419" value="该技能将某个护戒队成员产生的部分仇恨转移到斗士身上。"/>
+<label key="key:620791509:228830419" value=""/>
+<label key="key:620791512:228830419" value="发动近战攻击，以提高亲密战友的士气。"/>
+<label key="key:620791515:228830419" value="可以把一名队友变成你的亲密战友，你的一些技能将会以他为目标。"/>
+<label key="key:620791618:228830419" value="仅使用单手武器时自动攻击。"/>
+<label key="key:620791619:228830419" value="当使用弓箭时自动攻击。"/>
+<label key="key:620791657:228830419" value="只要北土的游侠愿意，他们可以熟练的隐身、消失。"/>
+<label key="key:620791658:228830419" value="虽然游侠不能在幽灵世界中也隐形，但是他们在光线下隐身的效果还是非常出名的。 在一段时间内你的隐匿十分有效。"/>
+<label key="key:620791659:228830419" value="游侠在刀剑与弓箭的造诣上都是大师。  此攻击可以击倒对手。"/>
+<label key="key:620791661:228830419" value="即使在黑暗的年代里，埃尔罗斯也可以赋予游侠们士气的力量。  此技能可以为游侠恢复士气。"/>
+<label key="key:620791672:228830419" value="当目标被标记为杜内丹的祭品之时，他将会极度恐惧。  此技能是“飞行真相”的必备条件。"/>
+<label key="key:620791673:228830419" value="此攻击只能用于已受到“杜内丹之印”的对手；而一旦攻击成功，对手将受到致命的伤害。  此技能只能在潜行时施放。  在攻击同等级的怪物时从不失手。  在重击时，对手也将受到附带能量效果的打击。"/>
+<label key="key:620791703:228830419" value="你可以找到一条前往西安格玛的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620791705:228830419" value="你可以找到一条前往东安格玛的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620791707:228830419" value="你可以把自己绑定到地图上的某个营地。 你可以与护戒队返回你的当前营地。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620791709:228830419" value="你可以找到一条前往古鲁斯城的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620791711:228830419" value="你可以找到一条前往麦克·戴尔文的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620791713:228830419" value="你可以找到一条前往伊凡丁的路径。 此技能容易被打断。 此技能需要的口粮可以从材料商处获取。"/>
+<label key="key:620791716:228830419" value="这把适合投掷的匕首可以扎透近距离的目标。"/>
+<label key="key:620791717:228830419" value="这些箭可以让魔眼的仆人全身着火。"/>
+<label key="key:620791718:228830419" value="集中精力瞄准目标，攻击敌人最致命的弱点。 攻击不会失手，也无法被招架、格挡或闪避。"/>
+<label key="key:620791719:228830419" value="你能从大地吸取力量，当你集中所有注意力时，就能在战斗中快速恢复能量。这项技能很容易被打断。"/>
+<label key="key:620791968:228830419" value="碾碎讨厌的小东西。 有时可以打晕它们。 有时可以造成长时间的伤害。"/>
+<label key="key:620791969:228830419" value="一下猛击过去，烦人的小东西纷纷飞了出去。 有时候他们的奔跑速度会下降。"/>
+<label key="key:620791970:228830419" value="把石头向远方的小东西们砸过去。 击伤远处的家伙们。 有时可造成流血效果。"/>
+<label key="key:620791971:228830419" value="使用快速单手棍时自动攻击"/>
+<label key="key:620791972:228830419" value="快速的从地上捡起石头来攻击"/>
+<label key="key:620791975:228830419" value="对小个子们进行双重打击。 有时候可以减缓对手的反击速度。"/>
+<label key="key:620791976:228830419" value="把脚抬起来，再跺下去——小东西们就摔倒了。 有时候它们会更易受伤。"/>
+<label key="key:620791977:228830419" value="搬起岩石。 扔！ 有时候可以攻击到大群的小个子对手。"/>
+<label key="key:620791978:228830419" value="怒火升腾！ 攻击要更狠。 攻击要更快。 移动不必这么快。"/>
+<label key="key:620791995:228830419" value="愤怒的咆哮。 “有时”是何时？ 是下一次。"/>
+<label key="key:620792025:228830419" value="该技能可以把附近怪物的注意力转移到猎人的引诱陷阱上去。"/>
+<label key="key:620792096:228830419" value="可以用罗网降低敌人的移动速度，并造成持续伤害。 陷阱在放置后可以维持60秒的时间。 此技能容易被打断。"/>
+<label key="key:620792674:228830419" value="短时间内提升亲密战友的攻击能力。"/>
+<label key="key:620792675:228830419" value="通过近战攻击中断对手试图施放的所有需要准备动作的技能。"/>
+<label key="key:620792676:228830419" value="发动攻击，把敌人的注意力转移到你身上。  使用“割裂”技能导致敌人流血之后，你引起的仇恨增加。"/>
+<label key="key:620792677:228830419" value="及时的撤退使旗手在激烈的战斗中幸存下来。 该技能可以降低周围敌人对你的仇恨。"/>
+<label key="key:620792679:228830419" value="使你损失一部分士气，但可以进入战斗就绪状态，并可以使用溃敌回应技能。"/>
+<label key="key:620793044:228830419" value="该技能为近战攻击，可以增加爆击几率，并激励同伴发出伊兰迪尔之光。 只有在战斗强化状态下才能使用此技能。"/>
+<label key="key:620793162:228830419" value="你可以复活并保护一名战败的同伴。拥有3/4士气和1/2能量。"/>
+<label key="key:620793173:228830419" value="你征召一名使者把胜利之旗带到战场上。 旗帜周围战士的能量上限和战斗中的能量恢复速度都将得到提升。"/>
+<label key="key:620793174:228830419" value="你征召一名使者把战争之旗带到战场上。 提高旗帜附近同伴的力量和敏捷。"/>
+<label key="key:620793175:228830419" value="你征召一名使者把希望之旗带到战场上。 旗帜周围战士的士气上限和战斗中的士气恢复速度都将得到提升。"/>
+<label key="key:620793375:228830419" value="激活后，附近的工艺品在小地图上显示。"/>
+<label key="key:620793376:228830419" value="速度的快慢，就是自由与死亡的区别。"/>
+<label key="key:620793377:228830419" value="有时候，想要幸存下来，只要别被打中就行。 实际上，是大多数时候。"/>
+<label key="key:620793378:228830419" value="没有东西能在你搜索的目光下逃脱。 哪怕是只蠕虫！"/>
+<label key="key:620793379:228830419" value="你用喙啄了一下。"/>
+<label key="key:620793501:228830419" value="你的出现提升了亲密战友的士气恢复效果。"/>
+<label key="key:620793907:228830419" value="中土真是一个危险的地方。 有时候还是死了的好。"/>
+<label key="key:620794584:228830419" value="该战队技能对目标造成直接近身攻击伤害并有助于发起其他战队技能。"/>
+<label key="key:620794613:228830419" value="你感觉到了不对劲，只是不能确定怎么回事。你可以探测到附近隐匿的目标。"/>
+<label key="key:620794614:228830419" value="贤者朝空中释放一个耀眼的火球，爆炸后成为一个焰火。 最多可以对三个亡灵产生昏迷效果，持续时间5秒，然后眩晕10秒。"/>
+<label key="key:620794627:228830419" value="你可以建立一个区域，该区域可以克制选定的目标，提升法术技能对目标造成的伤害，增加它们的失手几率。 该区域的有效时间为1分钟。"/>
+<label key="key:620794630:228830419" value="你可以建立一个区域，该区域可以克制选定的目标，提升法术技能对目标造成的伤害，增加它们的失手几率。 该区域的有效时间为1分钟。"/>
+<label key="key:620794631:228830419" value="你可以建立一个区域，该区域可以克制选定的目标，提升法术技能对目标造成的伤害，增加它们的失手几率。 该区域的有效时间为1分钟。"/>
+<label key="key:620794634:228830419" value="该技能使贤者能够制作带有磁性的金属填充物和其他稀有的金属材料。 通过使用这种金属材料，贤者可以非常有效地削弱敌人的护甲保护，并激怒敌人。"/>
+<label key="key:620794638:228830419" value="使用此技能之前必须激活“战争宣言”。 该技能可以削弱多名敌人，降低他们对后续攻击的抗击能力。"/>
+<label key="key:620794639:228830419" value="向一名同伴发出呐喊，使他的战斗效果发挥到极致。"/>
+<label key="key:620794640:228830419" value="使用护戒队技能时，你向同伴发出呼喊，提升他们使用护戒队技能的效果。"/>
+<label key="key:620794641:228830419" value="使用此技能之前必须激活“战争宣言”。 你讲述第二纪元那些令人振奋的史诗故事，使附近的敌人感到无比沮丧，并且可以不断激励队友前进。"/>
+<label key="key:620794642:228830419" value="你已经掌握了“圣盔·锤手之诗”，可以对一个盟友进行低级增益。"/>
+<label key="key:620794643:228830419" value="这首圣歌会召唤出一把背誓者利刃来伤害你的敌人。使用“战争宣言”后，此技能可以升级成为“背誓者大乐章”。"/>
+<label key="key:620794644:228830419" value="此光环将会提升护戒队的活力和流血抗性。"/>
+<label key="key:620794645:228830419" value="此光环将会提升护戒队的希望和护甲。"/>
+<label key="key:620794646:228830419" value="你的圣洁话语可以在敌人心中引起恐惧。"/>
+<label key="key:620794647:228830419" value="贤者可以往地面上倾倒粘油，怪物在该区域内移动速度降低50%，还可以降低怪物10%的火焰伤害抗性。 该区域的有效时间为1分钟。"/>
+<label key="key:620794652:228830419" value="贤者可以用杖重击地面，使周围的怪物昏迷3秒钟，并造成轻微的伤害。"/>
+<label key="key:620794716:228830419" value="这首圣歌会召唤出一对背誓者利刃来伤害你的敌人。"/>
+<label key="key:620794960:228830419" value="贤者召唤闪电风暴攻击已经中了技能“远古工艺”的敌人。 人类很难掌握这种技能，并且对贤者士气的消耗非常大。"/>
+<label key="key:620794980:228830419" value="该战队技能对目标造成直接的远程攻击伤害，之后可以造成持续的士气伤害，有助于执行其他战队技能。"/>
+<label key="key:620795022:228830419" value="三重力量"/>
+<label key="key:620795027:228830419" value="三重信念"/>
+<label key="key:620795034:228830419" value="双重法术"/>
+<label key="key:620795045:228830419" value="四重力量"/>
+<label key="key:620795047:228830419" value="五重信念"/>
+<label key="key:620795060:228830419" value="双重信念"/>
+<label key="key:620795063:228830419" value="双重远程诡计"/>
+<label key="key:620795067:228830419" value="双重力量"/>
+<label key="key:620795079:228830419" value="五重法术"/>
+<label key="key:620795083:228830419" value="信念贡献"/>
+<label key="key:620795084:228830419" value="诡计贡献"/>
+<label key="key:620795085:228830419" value="该战队技能对目标造成直接的近身攻击伤害，之后可以造成持续的士气伤害，有助于执行其他战队技能。"/>
+<label key="key:620795089:228830419" value="六重远程诡计"/>
+<label key="key:620795096:228830419" value="四重法术"/>
+<label key="key:620795107:228830419" value="力量贡献"/>
+<label key="key:620795111:228830419" value="三重远程诡计"/>
+<label key="key:620795112:228830419" value="三重近战诡计"/>
+<label key="key:620795113:228830419" value="五重远程诡计"/>
+<label key="key:620795117:228830419" value="六重力量"/>
+<label key="key:620795126:228830419" value="该战队技能对目标造成直接的近身攻击伤害，之后可以造成持续的能量伤害，有助于执行其他战队技能。"/>
+<label key="key:620795131:228830419" value="双重近战诡计"/>
+<label key="key:620795134:228830419" value="六重法术"/>
+<label key="key:620795149:228830419" value="六重力量"/>
+<label key="key:620795167:228830419" value="该战队技能对目标造成直接的远程攻击伤害，之后可以造成持续的能量伤害，有助于执行其他战队技能。"/>
+<label key="key:620795181:228830419" value="法术贡献"/>
+<label key="key:620795192:228830419" value="五重力量"/>
+<label key="key:620795222:228830419" value="四重近战诡计"/>
+<label key="key:620795223:228830419" value="四重信念"/>
+<label key="key:620795224:228830419" value="诡计贡献"/>
+<label key="key:620795228:228830419" value="三重法术"/>
+<label key="key:620795229:228830419" value="六重信念"/>
+<label key="key:620795233:228830419" value="双重力量"/>
+<label key="key:620795235:228830419" value="五重近战诡计"/>
+<label key="key:620795243:228830419" value="六重近战诡计"/>
+<label key="key:620795252:228830419" value="四重远程诡计"/>
+<label key="key:620795253:228830419" value="该战队技能对目标造成直接的远程攻击伤害，可以造成持续的士气伤害，有助于执行其他战队技能。"/>
+<label key="key:620795265:228830419" value="五重力量"/>
+<label key="key:620795284:228830419" value="三重力量"/>
+<label key="key:620795288:228830419" value="该战队技能对目标造成直接远程攻击伤害并有助于发起其他战队技能。"/>
+<label key="key:620795300:228830419" value="四重力量"/>
+<label key="key:620795374:228830419" value="你可以和山猫对话，这样就可以召唤一只山猫来和你共同探险。"/>
+<label key="key:620795674:228830419" value="你迅速而有力地敲击了一下琴弦，迅速恢复了一名同伴的士气。"/>
+<label key="key:620795679:228830419" value="你演奏了一首乐曲，自由人民听到之后都不知不觉地跳起了舞。"/>
+<label key="key:620795817:228830419" value="此技能允许你书写手册，指导别人弹奏竖琴。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795820:228830419" value="使用书写姿势之后，你可以把顾问技能更改为书写乐谱技能，允许你创作乐谱和教授乐器知识。 创作乐谱比教授学生要繁重的多，它需要一本空白的指南手册，并且所有的指导技能都需要10天的冷却时间。"/>
+<label key="key:620795840:228830419" value="此技能允许你书写手册，指导别人演奏牛铃。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795842:228830419" value="此技能允许你书写手册，指导别人击鼓。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795845:228830419" value="此技能允许你书写手册，指导别人演奏长笛。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795848:228830419" value="此技能允许你书写手册，指导别人演奏号角。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795850:228830419" value="此技能允许你书写手册，指导别人演奏荒野牛铃。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795852:228830419" value="此技能允许你书写手册，指导别人演奏琉特琴。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795854:228830419" value="此技能允许你书写手册，指导别人演奏风笛。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795855:228830419" value="此技能允许你书写手册，指导别人演奏竖笛。 但编写指南手册比向别人讲授知识麻烦的多，它需要一本空白的指南手册。"/>
+<label key="key:620795856:228830419" value="仅在隐匿状态下有效的强力攻击。 此技能产生爆击的几率很高。 而从敌人背后攻击会产生更大的伤害。"/>
+<label key="key:620795857:228830419" value="可以对柔弱的眼睛进行猛击。 此技能在60度的弧度范围内有效。"/>
+<label key="key:620795858:228830419" value="这支敏捷的山猫可以在180度的弧形范围内有效杀伤敌人。"/>
+<label key="key:620795893:228830419" value=".."/>
+<label key="key:620795895:228830419" value=".."/>
+<label key="key:620795923:228830419" value="你能够听懂鸟类的语言，这样你就可以召唤一只鸟出来，使无聊的时光更容易打发。"/>
+<label key="key:620795926:228830419" value="你能够听懂猫的语言，这样你就可以召唤一只猫出来，使无聊的时光更容易打发。"/>
+<label key="key:620795928:228830419" value="你能够听懂狗的语言，这样你就可以召唤一只狗出来，使无聊的时光更容易打发。"/>
+<label key="key:620795930:228830419" value="你能够听懂狐狸的语言，这样你就可以召唤一只狐狸出来，使无聊的时光更容易打发。"/>
+<label key="key:620795932:228830419" value="你能够听懂青蛙的语言，这样你就可以召唤一只青蛙出来，使无聊的时光更容易打发。"/>
+<label key="key:620795934:228830419" value="你能够听懂野兔的语言，这样你就可以召唤一只野兔出来，使无聊的时光更容易打发。"/>
+<label key="key:620795936:228830419" value="你能够听懂蛇的语言，这样你就可以召唤一条蛇出来，使无聊的时光更容易打发。"/>
+<label key="key:620795938:228830419" value="你能够听懂猫的语言，这样你就可以召唤一只猫出来，使无聊的时光更容易打发。"/>
+<label key="key:620795997:228830419" value="你能够听懂乌龟的语言，这样你就可以召唤一只乌龟出来，使无聊的时光更容易打发。"/>
+<label key="key:620796000:228830419" value="经过谨慎的思考，贤者可以通过使用少量的名贵药草使一个战败的同伴重返战斗。"/>
+<label key="key:620796444:228830419" value="作为一个兽人，你经常鞭打安格玛军队中等级低一些的野兽，让它们回到队列中去。"/>
+<label key="key:620796447:228830419" value="你是座狼猎捕者，并且可以选定一个目标，提升你的同伴对他造成的伤害。"/>
+<label key="key:620796449:228830419" value="你的眼睛能够造成极度的恐慌，因为你总是给战场带来死亡。"/>
+<label key="key:620796451:228830419" value="怒火在你心中燃烧，连你的盔甲上都烈焰升腾。任何胆敢攻击你的人都会感受到兽人的愤怒！"/>
+<label key="key:620796454:228830419" value="死亡将近的时候，你可以唤醒自己鲜血中的力量，使之成为破坏性的武器，直到你生命之火熄灭。 此技能可激活大部分的攻击技能。"/>
+<label key="key:620796458:228830419" value="你获得了黑暗的力量，在面对胆敢阻拦你的敌人的时候，你只需发挥一点出来便可重创他们。"/>
+<label key="key:620796461:228830419" value="你的血统赋予了你难以置信的恢复的力量。 在击败对手之后，你可以立即吸干他们的活力，恢复自己的健康。"/>
+<label key="key:620796463:228830419" value="你的出现赋予了周围战友们更大的力量，甚至冲破了恐惧。"/>
+<label key="key:620796467:228830419" value="你的牙齿深深的咬入敌人的身体，撕裂敌人的肌腱，并有机会发动联合技。"/>
+<label key="key:620796468:228830419" value="对眼睛的一次迅速的痛击可以打断对手的注意力。"/>
+<label key="key:620796469:228830419" value="现在是兽人们攻破防线的时候了！ 你的速度也得到了短暂的提升。 你获得了对定身、眩晕和昏迷效果的短暂免疫。"/>
+<label key="key:620796471:228830419" value="当你的目标在准备攻击的时候，你给了他们一次迅捷的突击，打断了他们的准备。"/>
+<label key="key:620796472:228830419" value="你掌握了非常丰富的关于敌人的知识，所以你能够以极高的效率，攻击敌人最要害的部分。"/>
+<label key="key:620796473:228830419" value="你的目光非常锐利，总是可以觉察到敌人的一举一动，从不走眼。"/>
+<label key="key:620796475:228830419" value="你可以发现很远处的敌人筹划进攻的举动，还可以精细的打击他们，打断他们的行动。"/>
+<label key="key:620796476:228830419" value="一面恐惧之旗能够将恐惧注入敌人的内心，削弱他们的意志。"/>
+<label key="key:620796478:228830419" value="你掌握着被遗忘的邪恶的鲁格布兹语言。 这种语言中所蕴含的恐惧与罪恶削弱着敌人的意志。"/>
+<label key="key:620796479:228830419" value="你将一面旗帜插在地上，旗上绘有最强大的兽人部落克拉加恩的象征。 所有站在旗帜附近的人都可以从这象征上吸收力量。"/>
+<label key="key:620796481:228830419" value="你的网可以使得地面极为黏稠；若是有敌人试图穿越，就会举步维艰。"/>
+<label key="key:620796483:228830419" value="将你全部的能量都集中在一个目标上，你可以用你的网的重量压倒他们，也有可能开始团队联合技。"/>
+<label key="key:620796484:228830419" value="这种远程攻击可造成少量的伤害，还可送出许多即将孵化的卵！"/>
+<label key="key:620797239:228830419" value="使用该技能后，可以查看怪物的各种属性。"/>
+<label key="key:620797423:228830419" value="你可以教授别人如何演奏竖琴。"/>
+<label key="key:620797598:228830419" value="你可以教授别人如何演奏风笛。"/>
+<label key="key:620797599:228830419" value="你可以教授别人如何演奏竖笛。"/>
+<label key="key:620797600:228830419" value="你可以教授别人如何演奏牛铃。"/>
+<label key="key:620797601:228830419" value="你可以教授别人如何演奏号角。"/>
+<label key="key:620797602:228830419" value="你可以教授别人如何演奏荒野牛铃。"/>
+<label key="key:620797603:228830419" value="你可以教授别人如何演奏琉特琴。"/>
+<label key="key:620797604:228830419" value="你可以教授别人如何击鼓。"/>
+<label key="key:620797605:228830419" value="你可以教授别人如何演奏长笛。"/>
+<label key="key:620799391:228830419" value="迅速返回个人住宅。 此技能容易被打断。"/>
+<label key="key:620799393:228830419" value="迅速返回家族大厅。 此技能容易被打断。"/>
+<label key="key:620799546:228830419" value="此技能可以使宠物鹰打断目标的技能施放动作。"/>
+</labels>

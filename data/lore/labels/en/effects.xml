@@ -1922,6 +1922,7 @@
 <label key="key:620764763:106251889" value="Rooted"/>
 <label key="key:620764763:54354734" value="You are being impaled by the Morroval."/>
 <label key="key:620764853:181298206" value="Summons a Morroval Minion"/>
+<label key="key:620764916:54354734" value=""/>
 <label key="key:620764917:54354734" value="Increases the next AOE attack's damage."/>
 <label key="key:620764992:181298206" value="Stuns for 5s"/>
 <label key="key:620765122:181298206" value="Roots for up to 30s"/>
@@ -2003,9 +2004,11 @@
 <label key="key:620774792:54354734" value="The Uruk's arrow prevents you from moving."/>
 <label key="key:620774799:106251889" value="Decreased movement speed."/>
 <label key="key:620774876:106251891" value="Cannot Evade, Parry or Block"/>
+<label key="key:620774876:106251893" value=""/>
 <label key="key:620774882:54354734" value="Damages attackers."/>
 <label key="key:620774902:106251889" value="Slows movement speed by 10%"/>
 <label key="key:620774907:54354734" value="Causes the target to cheer in celebration!"/>
+<label key="key:620774916:106251889" value=""/>
 <label key="key:620774916:54354734" value="Increases all damage done to this Marked target."/>
 <label key="key:620774926:106251889" value="+5% Maximum Morale"/>
 <label key="key:620774933:54354734" value="Damage dealt to the marked target has a restoring effect on the attacker."/>

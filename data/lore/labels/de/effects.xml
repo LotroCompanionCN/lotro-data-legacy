@@ -1922,6 +1922,7 @@
 <label key="key:620764763:106251889" value="Angewurzelt"/>
 <label key="key:620764763:54354734" value="Der Morroval spießt Euch auf."/>
 <label key="key:620764853:181298206" value="Ruft einen Morroval-Helfer herbei."/>
+<label key="key:620764916:54354734" value=""/>
 <label key="key:620764917:54354734" value="Erhöht den Schaden des nächsten Angriffs mit Bereichswirkung"/>
 <label key="key:620764992:181298206" value="Betäubt 5 Sek. lang"/>
 <label key="key:620765122:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
@@ -2003,9 +2004,11 @@
 <label key="key:620774792:54354734" value="Der Pfeil des Uruk verhindert, dass Ihr Euch bewegen könnt."/>
 <label key="key:620774799:106251889" value="Verringerte Bewegungsgeschwindigkeit"/>
 <label key="key:620774876:106251891" value="Ziel kann weder ausweichen, parieren noch blocken."/>
+<label key="key:620774876:106251893" value=""/>
 <label key="key:620774882:54354734" value="Fügt Angreifern Schaden zu"/>
 <label key="key:620774902:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 10 %."/>
 <label key="key:620774907:54354734" value="Lässt das Ziel jubelnd feiern."/>
+<label key="key:620774916:106251889" value=""/>
 <label key="key:620774916:54354734" value="Erhöht allen Schaden gegen das gekennzeichnete Ziel."/>
 <label key="key:620774926:106251889" value="Moral-Höchstwert +5 %"/>
 <label key="key:620774933:54354734" value="Der Schaden, der dem markierten Ziel zugefügt wurde, hat eine wiederherstellende Wirkung auf den Angreifer."/>

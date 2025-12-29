@@ -1013,6 +1013,7 @@
 <label key="key:620765717:106251890" value="Bonus de ligne : ${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765717:191029568" value="Réduction du temps de récupération de toutes les compétences au corps à corps"/>
 <label key="key:620765717:54354734" value="Toutes vos compétences au corps à corps redeviennent disponibles plus rapidement qu'auparavant."/>
+<label key="key:620765719:106251889" value=""/>
 <label key="key:620765719:106251891" value="Bonus de ligne : ${PROPERTY} augmente de ${PERCENTVALUE}"/>
 <label key="key:620765719:191029568" value="Augmentation de l'ampleur DOT de Flèche barbelée"/>
 <label key="key:620765719:54354734" value="Les blessures causées par vos Flèches barbelées saignent plus abondamment."/>
@@ -1373,6 +1374,14 @@
 <label key="key:620768802:191029568" value="Augmente la distance maximale de vos attaques automatiques à distance."/>
 <label key="key:620768802:54354734" value="Votre aptitude à manier les armes à distance vous permet d'attaquer de plus loin que les autres."/>
 <label key="key:620774667:106251889" value="Augmente votre Puissance totale de ${PERCENTVALUE}."/>
+<label key="key:620774667:191029568" value=""/>
+<label key="key:620774667:54354734" value=""/>
+<label key="key:620774668:191029568" value=""/>
+<label key="key:620774668:54354734" value=""/>
+<label key="key:620774669:191029568" value=""/>
+<label key="key:620774669:54354734" value=""/>
+<label key="key:620774670:191029568" value=""/>
+<label key="key:620774670:54354734" value=""/>
 <label key="key:620774671:191029568" value="Permet à votre compétence Plaie béante d'infliger parfois des dégâts durables à votre cible"/>
 <label key="key:620774671:54354734" value="Permet à votre compétence Plaie béante d'infliger parfois des dégâts durables à votre cible"/>
 <label key="key:620774673:191029568" value="Vous ne subissez plus de dégâts supplémentaires au corps à corps lorsque vous utilisez votre Gloire victorieuse."/>
@@ -1394,8 +1403,18 @@
 <label key="key:620774688:191029568" value="Autre apparence visuelle pour votre faucheur orque"/>
 <label key="key:620774688:54354734" value="Autre apparence visuelle pour votre faucheur orque"/>
 <label key="key:620774689:106251889" value="Augmente votre santé totale de ${PERCENTVALUE}."/>
+<label key="key:620774689:191029568" value=""/>
+<label key="key:620774689:54354734" value=""/>
+<label key="key:620774690:191029568" value=""/>
+<label key="key:620774690:54354734" value=""/>
+<label key="key:620774691:191029568" value=""/>
+<label key="key:620774691:54354734" value=""/>
 <label key="key:620774692:191029568" value="Réduit d'un quart de seconde le temps de déclenchement de vos attaques de toile."/>
 <label key="key:620774692:54354734" value="Réduit d'un quart de seconde le temps de déclenchement de vos attaques de toile."/>
+<label key="key:620774693:191029568" value=""/>
+<label key="key:620774693:54354734" value=""/>
+<label key="key:620774694:191029568" value=""/>
+<label key="key:620774694:54354734" value=""/>
 <label key="key:620774695:191029568" value=""/>
 <label key="key:620774695:54354734" value=""/>
 <label key="key:620774696:191029568" value="Vous recouvrez votre cible d'une toile collante qui réduit ses chances de parade et d'esquive."/>
@@ -1412,8 +1431,20 @@
 <label key="key:620774709:54354734" value="Autre apparence visuelle pour votre araignée tisseuse"/>
 <label key="key:620774710:191029568" value="Autre apparence visuelle pour votre araignée tisseuse"/>
 <label key="key:620774710:54354734" value="Autre apparence visuelle pour votre araignée tisseuse"/>
+<label key="key:620774711:191029568" value=""/>
+<label key="key:620774711:54354734" value=""/>
+<label key="key:620774712:191029568" value=""/>
+<label key="key:620774712:54354734" value=""/>
+<label key="key:620774713:191029568" value=""/>
+<label key="key:620774713:54354734" value=""/>
+<label key="key:620774714:191029568" value=""/>
+<label key="key:620774714:54354734" value=""/>
 <label key="key:620774715:191029568" value="Votre Tir retardant ralentira votre cible et l'immobilisera brièvement."/>
 <label key="key:620774715:54354734" value="Votre Tir retardant ralentira votre cible et l'immobilisera brièvement."/>
+<label key="key:620774717:191029568" value=""/>
+<label key="key:620774717:54354734" value=""/>
+<label key="key:620774718:191029568" value=""/>
+<label key="key:620774718:54354734" value=""/>
 <label key="key:620774719:191029568" value="Vous placez soigneusement un piège par terre à l'attention de vos ennemis."/>
 <label key="key:620774719:54354734" value="Vous placez soigneusement un piège par terre à l'attention de vos ennemis."/>
 <label key="key:620774725:191029568" value="Autre apparence visuelle pour votre Ourouk à flèches noires"/>
@@ -1428,8 +1459,20 @@
 <label key="key:620774729:54354734" value="Autre apparence visuelle pour votre Ourouk à flèches noires"/>
 <label key="key:620774730:191029568" value="Autre apparence visuelle pour votre Ourouk à flèches noires"/>
 <label key="key:620774730:54354734" value="Autre apparence visuelle pour votre Ourouk à flèches noires"/>
+<label key="key:620774731:191029568" value=""/>
+<label key="key:620774731:54354734" value=""/>
+<label key="key:620774732:191029568" value=""/>
+<label key="key:620774732:54354734" value=""/>
+<label key="key:620774733:191029568" value=""/>
+<label key="key:620774733:54354734" value=""/>
+<label key="key:620774734:191029568" value=""/>
+<label key="key:620774734:54354734" value=""/>
 <label key="key:620774735:191029568" value="La cible ressuscite avec une meilleure santé et une Puissance augmentée. Le temps de récupération est également raccourci."/>
 <label key="key:620774735:54354734" value="La cible ressuscite avec une meilleure santé et une Puissance augmentée. Le temps de récupération est également raccourci."/>
+<label key="key:620774736:191029568" value=""/>
+<label key="key:620774736:54354734" value=""/>
+<label key="key:620774737:191029568" value=""/>
+<label key="key:620774737:54354734" value=""/>
 <label key="key:620774738:191029568" value="Vous pouvez crier en direction d'un allié étourdi ou renversé pour qu'il se remette à récupérer."/>
 <label key="key:620774738:54354734" value="Vous pouvez crier en direction d'un allié étourdi ou renversé pour qu'il se remette à récupérer."/>
 <label key="key:620774746:191029568" value="Autre apparence visuelle pour votre Ourouk-haï chef de guerre"/>
@@ -1444,7 +1487,17 @@
 <label key="key:620774750:54354734" value="Autre apparence visuelle pour votre Ourouk-haï chef de guerre"/>
 <label key="key:620774751:191029568" value="Autre apparence visuelle pour votre Ourouk-haï chef de guerre"/>
 <label key="key:620774751:54354734" value="Autre apparence visuelle pour votre Ourouk-haï chef de guerre"/>
+<label key="key:620774752:191029568" value=""/>
+<label key="key:620774752:54354734" value=""/>
+<label key="key:620774753:191029568" value=""/>
+<label key="key:620774753:54354734" value=""/>
+<label key="key:620774754:191029568" value=""/>
+<label key="key:620774754:54354734" value=""/>
+<label key="key:620774755:191029568" value=""/>
+<label key="key:620774755:54354734" value=""/>
 <label key="key:620774756:106251890" value="Augmente la rapidité des mouvements en mode Discrétion de 20%"/>
+<label key="key:620774758:191029568" value=""/>
+<label key="key:620774758:54354734" value=""/>
 <label key="key:620774759:191029568" value="Lorsque vous battez un ennemi, vous pouvez hurler pour vous guérir et guérir vos compagnons durablement."/>
 <label key="key:620774759:54354734" value="Lorsque vous battez un ennemi, vous pouvez hurler pour vous guérir et guérir vos compagnons durablement."/>
 <label key="key:620774766:191029568" value="Autre apparence visuelle pour votre Ouargue traqueur"/>

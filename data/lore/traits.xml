@@ -525,7 +525,7 @@
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="key:620765717:106251890" constant="1.0"/>
 </trait>
 <trait identifier="1879060682" name="Barbed Fury" iconId="1090541187" nature="3" tooltip="key:620765719:191029568" description="key:620765719:54354734">
-<stat name="Skill_AdditivePulseCountModifierModifier_CuttingArrow" descriptionOverride="-" constant="500.0"/>
+<stat name="Skill_AdditivePulseCountModifierModifier_CuttingArrow" descriptionOverride="key:620765719:106251889" constant="500.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620765719:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060684" name="Swift and True" iconId="1090541188" nature="3" tooltip="key:620765721:191029568" description="key:620765721:54354734">
@@ -1320,19 +1320,19 @@
 <trait identifier="1879064420" name="Evade: Rank 4" iconId="1090552304" category="21" nature="1">
 <stat name="EVADE_PERCENTAGE" constant="1.0"/>
 </trait>
-<trait identifier="1879072425" name="Power Boost" iconId="1090553257" category="43" nature="3">
+<trait identifier="1879072425" name="Power Boost" iconId="1090553257" category="43" nature="3" tooltip="key:620774667:191029568" description="key:620774667:54354734">
 <stat name="POWER" operator="MULTIPLY" descriptionOverride="key:620774667:106251889" constant="1.1"/>
 </trait>
-<trait identifier="1879072426" name="Resistance Boost" iconId="1090553258" category="43" nature="3">
+<trait identifier="1879072426" name="Resistance Boost" iconId="1090553258" category="43" nature="3" tooltip="key:620774668:191029568" description="key:620774668:54354734">
 <stat name="Resist_Additional_Resistance_Song" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Cry" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Physical" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Magic" constant="3.0"/>
 </trait>
-<trait identifier="1879072427" name="Quick Strikes" iconId="1090553259" category="43" nature="3">
+<trait identifier="1879072427" name="Quick Strikes" iconId="1090553259" category="43" nature="3" tooltip="key:620774669:191029568" description="key:620774669:54354734">
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="10.0"/>
 </trait>
-<trait identifier="1879072428" name="Burning Blades" iconId="1090553260" category="43" nature="3">
+<trait identifier="1879072428" name="Burning Blades" iconId="1090553260" category="43" nature="3" tooltip="key:620774670:191029568" description="key:620774670:54354734">
 <effectGenerator id="1879093488" name="Burning Blades" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879072429" name="Enhanced Skill: Jagged Cut" iconId="1090553261" category="43" nature="3" tooltip="key:620774671:191029568" description="key:620774671:54354734">
@@ -1365,22 +1365,22 @@
 <trait identifier="1879072440" name="Appearance 6" iconId="1090553273" category="54" nature="4" tooltip="key:620774688:191029568" description="key:620774688:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
-<trait identifier="1879072441" name="Health Boost" iconId="1090553274" category="43" nature="3">
+<trait identifier="1879072441" name="Health Boost" iconId="1090553274" category="43" nature="3" tooltip="key:620774689:191029568" description="key:620774689:54354734">
 <stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620774689:106251889" constant="1.1"/>
 </trait>
-<trait identifier="1879072442" name="Armour Boost" iconId="1090553275" category="43" nature="3">
+<trait identifier="1879072442" name="Armour Boost" iconId="1090553275" category="43" nature="3" tooltip="key:620774690:191029568" description="key:620774690:54354734">
 <stat name="Combat_Agent_Armor_Value" constant="210.0"/>
 </trait>
-<trait identifier="1879072443" name="Regeneration" iconId="1090553276" category="43" nature="3">
+<trait identifier="1879072443" name="Regeneration" iconId="1090553276" category="43" nature="3" tooltip="key:620774691:191029568" description="key:620774691:54354734">
 <stat name="ICMR" constant="120.0"/>
 </trait>
 <trait identifier="1879072444" name="Swift Weave" iconId="1090553277" category="43" nature="3" tooltip="key:620774692:191029568" description="key:620774692:54354734">
 <stat name="Skill_InductionDuration_Trait_MP_FastBow" operator="SUBSTRACT" descriptionOverride="-" constant="0.25"/>
 </trait>
-<trait identifier="1879072445" name="Enhanced Skill: Piercing Attack" iconId="1090553278" category="43" nature="3">
+<trait identifier="1879072445" name="Enhanced Skill: Piercing Attack" iconId="1090553278" category="43" nature="3" tooltip="key:620774693:191029568" description="key:620774693:54354734">
 <stat name="Skill_DamageMultiplier_Trait_MP_PiercingAttack" constant="20.0"/>
 </trait>
-<trait identifier="1879072446" name="Enhanced Skill: Tainted Kiss" iconId="1090553279" category="43" nature="3">
+<trait identifier="1879072446" name="Enhanced Skill: Tainted Kiss" iconId="1090553279" category="43" nature="3" tooltip="key:620774694:191029568" description="key:620774694:54354734">
 <stat name="EffectMod_DamageMultiplier_Trait_MP_StrongPoison" constant="30.000002"/>
 </trait>
 <trait identifier="1879072447" name="Steelweave Webs" iconId="1090553280" category="43" nature="3" tooltip="key:620774695:191029568" description="key:620774695:54354734">
@@ -1407,30 +1407,30 @@
 <trait identifier="1879072456" name="Appearance 6" iconId="1090553290" category="54" nature="4" tooltip="key:620774710:191029568" description="key:620774710:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
-<trait identifier="1879072457" name="Avoidance Boost" iconId="1090553291" category="43" nature="3">
+<trait identifier="1879072457" name="Avoidance Boost" iconId="1090553291" category="43" nature="3" tooltip="key:620774711:191029568" description="key:620774711:54354734">
 <stat name="PARRY_PERCENTAGE" constant="2.0"/>
 <stat name="EVADE_PERCENTAGE" constant="2.0"/>
 <stat name="BLOCK_PERCENTAGE" constant="2.0"/>
 </trait>
-<trait identifier="1879072458" name="Resistance Boost" iconId="1090553258" category="43" nature="3">
+<trait identifier="1879072458" name="Resistance Boost" iconId="1090553258" category="43" nature="3" tooltip="key:620774712:191029568" description="key:620774712:54354734">
 <stat name="Resist_Additional_Resistance_Song" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Cry" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Physical" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Magic" constant="3.0"/>
 </trait>
-<trait identifier="1879072459" name="Deadly Aim" iconId="1090553292" category="43" nature="3">
+<trait identifier="1879072459" name="Deadly Aim" iconId="1090553292" category="43" nature="3" tooltip="key:620774713:191029568" description="key:620774713:54354734">
 <stat name="CRITICAL_RANGED_PERCENTAGE" constant="5.0"/>
 </trait>
-<trait identifier="1879072460" name="Uncanny Reactions" iconId="1090553293" category="43" nature="3">
+<trait identifier="1879072460" name="Uncanny Reactions" iconId="1090553293" category="43" nature="3" tooltip="key:620774714:191029568" description="key:620774714:54354734">
 <stat name="Combat_BaseEvadeRate_Ranged" constant="25.0"/>
 </trait>
 <trait identifier="1879072461" name="Enhanced Skill: Hindering Shot" iconId="1090553294" category="43" nature="3" tooltip="key:620774715:191029568" description="key:620774715:54354734">
 <effectGenerator id="1879072541" name="Hindering Shot Root" spellcraft="0.0"/>
 </trait>
-<trait identifier="1879072462" name="Penetrating Arrows" iconId="1090553295" category="43" nature="3">
+<trait identifier="1879072462" name="Penetrating Arrows" iconId="1090553295" category="43" nature="3" tooltip="key:620774717:191029568" description="key:620774717:54354734">
 <stat name="Skill_TargetChanceBlock_Trait_MP_PenetratingArrow" operator="SUBSTRACT" constant="10.0"/>
 </trait>
-<trait identifier="1879072463" name="Swift Draw" iconId="1090553296" category="43" nature="3">
+<trait identifier="1879072463" name="Swift Draw" iconId="1090553296" category="43" nature="3" tooltip="key:620774718:191029568" description="key:620774718:54354734">
 <stat name="Skill_InductionDuration_Trait_MP_FastBow" operator="SUBSTRACT" constant="0.3"/>
 </trait>
 <trait identifier="1879072464" name="Advanced Skill: Set Trap" iconId="1090553297" category="11" nature="3" tooltip="key:620774719:191029568" description="key:620774719:54354734">
@@ -1454,20 +1454,20 @@
 <trait identifier="1879072472" name="Appearance 6" iconId="1090553306" category="54" nature="4" tooltip="key:620774730:191029568" description="key:620774730:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
-<trait identifier="1879072473" name="Damage Boost" iconId="1090553307" category="43" nature="3">
+<trait identifier="1879072473" name="Damage Boost" iconId="1090553307" category="43" nature="3" tooltip="key:620774731:191029568" description="key:620774731:54354734">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="3.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" constant="3.0"/>
 <stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="3.0"/>
 </trait>
-<trait identifier="1879072474" name="Avoidance Boost" iconId="1090553291" category="43" nature="3">
+<trait identifier="1879072474" name="Avoidance Boost" iconId="1090553291" category="43" nature="3" tooltip="key:620774732:191029568" description="key:620774732:54354734">
 <stat name="PARRY_PERCENTAGE" constant="2.0"/>
 <stat name="EVADE_PERCENTAGE" constant="2.0"/>
 <stat name="BLOCK_PERCENTAGE" constant="2.0"/>
 </trait>
-<trait identifier="1879072475" name="Empowering" iconId="1090553308" category="43" nature="3">
+<trait identifier="1879072475" name="Empowering" iconId="1090553308" category="43" nature="3" tooltip="key:620774733:191029568" description="key:620774733:54354734">
 <stat name="ICPR" constant="60.0"/>
 </trait>
-<trait identifier="1879072476" name="Shield Mastery" iconId="1090553309" category="43" nature="3">
+<trait identifier="1879072476" name="Shield Mastery" iconId="1090553309" category="43" nature="3" tooltip="key:620774734:191029568" description="key:620774734:54354734">
 <stat name="BLOCK_PERCENTAGE" constant="5.0"/>
 </trait>
 <trait identifier="1879072477" name="Enhanced Skill: On Your Feet!" iconId="1090553310" category="43" nature="3" tooltip="key:620774735:191029568" description="key:620774735:54354734">
@@ -1475,10 +1475,10 @@
 <stat name="EffectMod_ModType_ReviveHealthMultModifier" constant="35.0"/>
 <stat name="EffectMod_ModType_RevivePowerMultModifier" constant="35.0"/>
 </trait>
-<trait identifier="1879072478" name="Harsh Language" iconId="1090553311" category="43" nature="3">
+<trait identifier="1879072478" name="Harsh Language" iconId="1090553311" category="43" nature="3" tooltip="key:620774736:191029568" description="key:620774736:54354734">
 <stat name="EffectMod_HealingMultiplier_Trait_MP_HarshLanguage" constant="25.0"/>
 </trait>
-<trait identifier="1879072479" name="Enhanced Skill: Field Promotion" iconId="1090553312" category="43" nature="3">
+<trait identifier="1879072479" name="Enhanced Skill: Field Promotion" iconId="1090553312" category="43" nature="3" tooltip="key:620774737:191029568" description="key:620774737:54354734">
 <stat name="EffectMod_Duration_Trait_MP_FieldPromotion" constant="7.0"/>
 </trait>
 <trait identifier="1879072480" name="Advanced Skill: Snap Out of It!" iconId="1090553313" category="11" nature="3" tooltip="key:620774738:191029568" description="key:620774738:54354734">
@@ -1502,19 +1502,19 @@
 <trait identifier="1879072488" name="Appearance 6" iconId="1090553322" category="54" nature="4" tooltip="key:620774751:191029568" description="key:620774751:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
-<trait identifier="1879072489" name="Armour Boost" iconId="1090553275" category="43" nature="3">
+<trait identifier="1879072489" name="Armour Boost" iconId="1090553275" category="43" nature="3" tooltip="key:620774752:191029568" description="key:620774752:54354734">
 <stat name="Combat_Agent_Armor_Value" constant="210.0"/>
 </trait>
-<trait identifier="1879072490" name="Resistance Boost" iconId="1090553258" category="43" nature="3">
+<trait identifier="1879072490" name="Resistance Boost" iconId="1090553258" category="43" nature="3" tooltip="key:620774753:191029568" description="key:620774753:54354734">
 <stat name="Resist_Additional_Resistance_Song" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Cry" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Physical" constant="3.0"/>
 <stat name="Resist_Additional_Resistance_Magic" constant="3.0"/>
 </trait>
-<trait identifier="1879072491" name="Long Strides" iconId="1090553323" category="43" nature="3">
+<trait identifier="1879072491" name="Long Strides" iconId="1090553323" category="43" nature="3" tooltip="key:620774754:191029568" description="key:620774754:54354734">
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
 </trait>
-<trait identifier="1879072492" name="Shadow Fang" iconId="1090553324" category="43" nature="3">
+<trait identifier="1879072492" name="Shadow Fang" iconId="1090553324" category="43" nature="3" tooltip="key:620774755:191029568" description="key:620774755:54354734">
 <stat name="Skill_DamageTypeOverride_AllSkillsOverride" operator="SET" value="e587202600:32"/>
 </trait>
 <trait identifier="1879072493" name="Enhanced Skill: Stealth" iconId="1090553325" category="43" nature="3">
@@ -1524,7 +1524,7 @@
 <trait identifier="1879072494" name="Enhanced Skill: Sprint" iconId="1090553326" category="43" nature="3">
 <stat name="Skill_RecoveryTime_Trait_MP_Sprint" operator="SUBSTRACT" constant="300.0"/>
 </trait>
-<trait identifier="1879072495" name="The Element of Surprise" iconId="1090553327" category="43" nature="3">
+<trait identifier="1879072495" name="The Element of Surprise" iconId="1090553327" category="43" nature="3" tooltip="key:620774758:191029568" description="key:620774758:54354734">
 <stat name="Skill_ChanceCriticalHit_Trait_MP_FromStealth" constant="20.0"/>
 </trait>
 <trait identifier="1879072496" name="Advanced Skill: Rallying Howl" iconId="1090553328" category="11" nature="3" tooltip="key:620774759:191029568" description="key:620774759:54354734">

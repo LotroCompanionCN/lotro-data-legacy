@@ -899,7 +899,7 @@
 <propertyModEffect id="1879059887" name="Fighting Dirty" appliedDescription="key:620764917:54354734" iconId="1090539722" duration="30.0" baseFlags="4540">
 <stat name="Skill_DamageMultiplier_ChampionAoeMod" constant="25.0"/>
 </propertyModEffect>
-<propertyModEffect id="1879059894" name="Controlled Burn" iconId="1090539704" baseFlags="6588">
+<propertyModEffect id="1879059894" name="Controlled Burn" appliedDescription="key:620764916:54354734" iconId="1090539704" baseFlags="6588">
 <stat name="ICPR" scaling="1879059895"/>
 <stat name="MELEE_DAMAGE_PERCENTAGE" modifiers="268435470" constant="15.000001"/>
 </propertyModEffect>
@@ -1906,7 +1906,7 @@
 <stat name="MELEE_DAMAGE_PERCENTAGE" modifiers="268435470" constant="15.000001"/>
 <stat name="Combat_CanEvade" operator="SET" descriptionOverride="key:620774876:106251891" value="false"/>
 <stat name="Combat_CanParry" operator="SET" descriptionOverride="-" value="false"/>
-<stat name="Combat_CanBlock" operator="SET" descriptionOverride="-" value="false"/>
+<stat name="Combat_CanBlock" operator="SET" descriptionOverride="key:620774876:106251893" value="false"/>
 </propertyModEffect>
 <propertyModEffect id="1879073017" name="Flurry" iconId="1090541123" duration="20.0" baseFlags="4540">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="-15.000001"/>
@@ -1940,7 +1940,7 @@
 <overTimeChange progressionID="1879073060"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879073061" name="Telling Mark" appliedDescription="key:620774916:54354734" iconId="1090553776" baseFlags="6590">
-<stat name="MELEE_DEFENCE_PERCENTAGE" descriptionOverride="-" constant="2.0"/>
+<stat name="MELEE_DEFENCE_PERCENTAGE" descriptionOverride="key:620774916:106251889" constant="2.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" descriptionOverride="-" constant="4.0"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" descriptionOverride="-" constant="5.0"/>
 </propertyModEffect>

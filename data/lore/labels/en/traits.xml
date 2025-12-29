@@ -1013,6 +1013,7 @@
 <label key="key:620765717:106251890" value="Line Bonus: ${PERCENTVALUE} ${PROPERTY}"/>
 <label key="key:620765717:191029568" value="Reduced Recovery Time of all melee skills"/>
 <label key="key:620765717:54354734" value="All of your melee skills recover more quickly than before."/>
+<label key="key:620765719:106251889" value=""/>
 <label key="key:620765719:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
 <label key="key:620765719:191029568" value="Increased Magnitude of Barbed Arrow DOT"/>
 <label key="key:620765719:54354734" value="Wounds caused by your Barbed Arrow bleed more profusely."/>
@@ -1373,6 +1374,14 @@
 <label key="key:620768802:191029568" value="Increases the maximum distance of your ranged auto-attacks."/>
 <label key="key:620768802:54354734" value="Your skill with ranged weapons allows you to attack from a greater distance than others."/>
 <label key="key:620774667:106251889" value="Increases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620774667:191029568" value=""/>
+<label key="key:620774667:54354734" value=""/>
+<label key="key:620774668:191029568" value=""/>
+<label key="key:620774668:54354734" value=""/>
+<label key="key:620774669:191029568" value=""/>
+<label key="key:620774669:54354734" value=""/>
+<label key="key:620774670:191029568" value=""/>
+<label key="key:620774670:54354734" value=""/>
 <label key="key:620774671:191029568" value="Enables your Jagged Cut skill to sometimes cause damage over time on your targets"/>
 <label key="key:620774671:54354734" value="Enables your Jagged Cut skill to sometimes cause damage over time on your targets"/>
 <label key="key:620774673:191029568" value="When you use Glory in Victory you no longer take additional damage in melee."/>
@@ -1394,8 +1403,18 @@
 <label key="key:620774688:191029568" value="A different visual appearance for your Orc Reaver"/>
 <label key="key:620774688:54354734" value="A different visual appearance for your Orc Reaver"/>
 <label key="key:620774689:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620774689:191029568" value=""/>
+<label key="key:620774689:54354734" value=""/>
+<label key="key:620774690:191029568" value=""/>
+<label key="key:620774690:54354734" value=""/>
+<label key="key:620774691:191029568" value=""/>
+<label key="key:620774691:54354734" value=""/>
 <label key="key:620774692:191029568" value="Shortens the induction time of your web attacks by .25 seconds."/>
 <label key="key:620774692:54354734" value="Shortens the induction time of your web attacks by .25 seconds."/>
+<label key="key:620774693:191029568" value=""/>
+<label key="key:620774693:54354734" value=""/>
+<label key="key:620774694:191029568" value=""/>
+<label key="key:620774694:54354734" value=""/>
 <label key="key:620774695:191029568" value=""/>
 <label key="key:620774695:54354734" value=""/>
 <label key="key:620774696:191029568" value="You spray your target with clinging, sticky webs, reducing their chance to Parry or Evade."/>
@@ -1412,8 +1431,20 @@
 <label key="key:620774709:54354734" value="A different visual appearance for your Spider Weaver"/>
 <label key="key:620774710:191029568" value="A different visual appearance for your Spider Weaver"/>
 <label key="key:620774710:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774711:191029568" value=""/>
+<label key="key:620774711:54354734" value=""/>
+<label key="key:620774712:191029568" value=""/>
+<label key="key:620774712:54354734" value=""/>
+<label key="key:620774713:191029568" value=""/>
+<label key="key:620774713:54354734" value=""/>
+<label key="key:620774714:191029568" value=""/>
+<label key="key:620774714:54354734" value=""/>
 <label key="key:620774715:191029568" value="In addition to slowing your target, your Hindering Shot will also briefly root them in place."/>
 <label key="key:620774715:54354734" value="In addition to slowing your target, your Hindering Shot will also briefly root them in place."/>
+<label key="key:620774717:191029568" value=""/>
+<label key="key:620774717:54354734" value=""/>
+<label key="key:620774718:191029568" value=""/>
+<label key="key:620774718:54354734" value=""/>
 <label key="key:620774719:191029568" value="You carefully place a snare on the ground to trap your foes."/>
 <label key="key:620774719:54354734" value="You carefully place a snare on the ground to trap your foes."/>
 <label key="key:620774725:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
@@ -1428,8 +1459,20 @@
 <label key="key:620774729:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
 <label key="key:620774730:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
 <label key="key:620774730:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774731:191029568" value=""/>
+<label key="key:620774731:54354734" value=""/>
+<label key="key:620774732:191029568" value=""/>
+<label key="key:620774732:54354734" value=""/>
+<label key="key:620774733:191029568" value=""/>
+<label key="key:620774733:54354734" value=""/>
+<label key="key:620774734:191029568" value=""/>
+<label key="key:620774734:54354734" value=""/>
 <label key="key:620774735:191029568" value="Targets are revived at higher health and power. Also, the recovery timer is shortened."/>
 <label key="key:620774735:54354734" value="Targets are revived at higher health and power. Also, the recovery timer is shortened."/>
+<label key="key:620774736:191029568" value=""/>
+<label key="key:620774736:54354734" value=""/>
+<label key="key:620774737:191029568" value=""/>
+<label key="key:620774737:54354734" value=""/>
 <label key="key:620774738:191029568" value="You can shout at an ally who is stunned or knocked down and they will begin to recover."/>
 <label key="key:620774738:54354734" value="You can shout at an ally who is stunned or knocked down and they will begin to recover."/>
 <label key="key:620774746:191029568" value="A different visual appearance for your Uruk Warleader"/>
@@ -1444,7 +1487,17 @@
 <label key="key:620774750:54354734" value="A different visual appearance for your Uruk Warleader"/>
 <label key="key:620774751:191029568" value="A different visual appearance for your Uruk Warleader"/>
 <label key="key:620774751:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774752:191029568" value=""/>
+<label key="key:620774752:54354734" value=""/>
+<label key="key:620774753:191029568" value=""/>
+<label key="key:620774753:54354734" value=""/>
+<label key="key:620774754:191029568" value=""/>
+<label key="key:620774754:54354734" value=""/>
+<label key="key:620774755:191029568" value=""/>
+<label key="key:620774755:54354734" value=""/>
 <label key="key:620774756:106251890" value="Increases movement while stealthed by 20%"/>
+<label key="key:620774758:191029568" value=""/>
+<label key="key:620774758:54354734" value=""/>
 <label key="key:620774759:191029568" value="When you defeat an enemy, you can howl to heal yourself and your fellows over time."/>
 <label key="key:620774759:54354734" value="When you defeat an enemy, you can howl to heal yourself and your fellows over time."/>
 <label key="key:620774766:191029568" value="A different visual appearance for your Warg Stalker"/>
