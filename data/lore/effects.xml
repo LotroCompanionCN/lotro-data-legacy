@@ -5246,10 +5246,54 @@
 <instantVitalEffect id="1879102523" name="Increased Power" baseFlags="4124" stat="Power_MaxLevel">
 <vitalChange min="380.0" max="380.0"/>
 </instantVitalEffect>
-<induceCombatState id="1879103773" name="Induce Rooted" description="key:620801140:181298206" baseFlags="4126"/>
+<induceCombatState id="1879103773" baseFlags="4126"/>
 <flagEffect id="1879103782" name="Eyes of Unnerving" appliedDescription="key:620801145:54354734" iconId="1091424050" baseFlags="6572"/>
 <propertyModEffect id="1879103966" name="Immunity" appliedDescription="key:620801689:54354734" iconId="1090541176" duration="15.0" baseFlags="4540">
 <stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620801689:106251890" value="(2,4,6,7,8,9,12,14,17)"/>
 </propertyModEffect>
+<vitalOverTimeEffect id="1879104836" name="Fertile Slime" iconId="1091429130" duration="10.0" pulseCount="6" baseFlags="4540" stat="Health_MaxLevel">
+<initialChange progressionID="1879057824"/>
+<overTimeChange progressionID="1879057824"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879104863" name="Fungal Bloom" iconId="1091429138" duration="5.0" pulseCount="6" baseFlags="4540" stat="Health_MaxLevel">
+<initialChange progressionID="1879084351"/>
+<overTimeChange progressionID="1879059592"/>
+</vitalOverTimeEffect>
+<instantVitalEffect id="1879104864" name="Fell Restoration" baseFlags="4124" stat="Health_MaxLevel">
+<vitalChange progressionID="1879107015"/>
+</instantVitalEffect>
+<vitalOverTimeEffect id="1879104868" name="Fungal Spores" iconId="1091429133" duration="5.0" pulseCount="6" baseFlags="4540" stat="Health_MaxLevel">
+<initialChange progressionID="1879056994"/>
+<overTimeChange progressionID="1879056994"/>
+</vitalOverTimeEffect>
+<reviveEffect id="1879104869" name="Fell Sacrifice" baseFlags="4124">
+<reviveVital vital="1" percentage="0.5"/>
+<reviveVital vital="2" percentage="0.5"/>
+</reviveEffect>
+<propertyModEffect id="1879105178" name="Curse of Sticky Feet" iconId="1091429134" duration="10.0" baseFlags="4542">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="MULTIPLY" descriptionOverride="key:620802479:106251889" constant="0.9"/>
+</propertyModEffect>
+<propertyModEffect id="1879105179" name="Curse of Deadly Sorrows" iconId="1091429132" duration="60.0" baseFlags="4542">
+<stat name="FATE" scaling="1879052689"/>
+<stat name="WILL" scaling="1879052690"/>
+<stat name="MIGHT" scaling="1879050265"/>
+<stat name="Combat_Agent_Armor_Value" scaling="1879059588"/>
+</propertyModEffect>
+<propertyModEffect id="1879105180" name="Curse of the Lethargic Heart" iconId="1091429140" duration="120.0" baseFlags="4542">
+<stat name="VITALITY" scaling="1879050256"/>
+</propertyModEffect>
+<propertyModEffect id="1879105547" iconId="1091429139" duration="20.0" baseFlags="4542">
+<stat name="EVADE_PERCENTAGE" operator="SUBSTRACT" constant="2.0"/>
+<stat name="PARRY_PERCENTAGE" operator="SUBSTRACT" constant="2.0"/>
+<stat name="BLOCK_PERCENTAGE" operator="SUBSTRACT" constant="2.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879107096" name="Improved Curse of Sticky Feet" iconId="1090519170" baseFlags="6284"/>
+<propertyModEffect id="1879107328" name="Improved Plague Gourd" iconId="1090519170" baseFlags="6284"/>
+<vitalOverTimeEffect id="1879113668" name="Defiler's Poison" iconId="1090522396" duration="3.0" pulseCount="4" baseFlags="4542" stat="Health_MaxLevel" damageType="1">
+<overTimeChange progressionID="1879049743" modifiers="268437688,268440525,268441090"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879113781" name="Fire Gourd" iconId="1090529420" duration="2.0" pulseCount="5" baseFlags="4542" stat="Health_MaxLevel" damageType="16">
+<overTimeChange progressionID="1879050067" modifiers="268437688,268441090"/>
+</vitalOverTimeEffect>
 <effect id="1879117443" name="Dying Rage" appliedDescription="key:620811020:54354734" baseFlags="4124"/>
 </effects>

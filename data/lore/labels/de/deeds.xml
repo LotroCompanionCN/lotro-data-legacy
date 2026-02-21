@@ -544,6 +544,7 @@
 <label key="1879115180" value="Wächter von Annúminas"/>
 <label key="1879115181" value="Markierungssteine der Versunkenen Stadt"/>
 <label key="1879115195" value="Angmars hilfreiche Geister (mittelschwer)"/>
+<label key="1894514720" value="The Adventures of Ostur and Akur"/>
 <label key="key:620758795:118018273" value="Die Grenzer sind eine Abteilung der Landbüttel, die dafür verantwortlich sind, die Grenzen - oder die Grenzanlagen - des Auenlandes zu bewachen und zu schützen, aber auch dem Auenland-Volk Beistand zu leisten, wenn es nötig sein sollte."/>
 <label key="key:620758795:22075073" value="Erfüllt Aufgaben im Auenland."/>
 <label key="key:620758795:228870261" value="Das Leben eines Grenzers (schwer)"/>
@@ -1241,7 +1242,7 @@
 <label key="key:620765587:54354734" value="Der 'Stärkende Angriff' ist besonders wichtig für Waffenmeister, die im Kampf auf sich alleine gestellt und deren Feinde in der Überzahl sind."/>
 <label key="key:620765587:94621393" value="This is your objective description."/>
 <label key="key:620765591:118018273" value="Manche mögen die Lust des Waffenmeisters am Kampf widerwärtig finden. Schade, dass sie nie erfahren werden, was sie verpassen."/>
-<label key="key:620765591:22075073" value="Setzt 'Leidenschaft' ein."/>
+<label key="key:620765591:22075073" value="Erzielt kritische Treffer mit 'Wilder Angriff'"/>
 <label key="key:620765591:228870261" value="Blutgier"/>
 <label key="key:620765591:54354734" value="Ein sättigendes Mahl, ein Bier, die Kameradschaft – für den Waffenmeister steht all dies hinter den Freuden des Kampfes zurück. Direkt danach kommt allerdings das Bier."/>
 <label key="key:620765591:94621393" value="This is your objective description."/>
@@ -4218,4 +4219,21 @@
 <label key="key:620809125:54354734" value="Findet die Markierungstafeln, die in Annúminas verstreut sind."/>
 <label key="key:620809125:94621393" value="Findet die Markierungstafeln, die in Annúminas verstreut sind."/>
 <label key="key:620809125:94621394" value="Findet die Markierungstafeln, die in Annúminas verstreut sind."/>
+<label key="key:636223490:141747235" value="Odur in Thorin's Hall often thinks of his roaming companions."/>
+<label key="key:636223490:141758597" value="The Adventures of Ostur and Akur"/>
+<label key="key:636223490:164511447" value="Talk to Odur in Thorin's Hall"/>
+<label key="key:636223490:199486769" value="Find Ostur and Akur in Ered Luin"/>
+<label key="key:636223490:199486770" value="Find Ostur and Akur in the Shire"/>
+<label key="key:636223490:199486771" value="Find Ostur and Akur in Bree-land"/>
+<label key="key:636223490:199486772" value="Find Ostur and Akur in the Lone-lands"/>
+<label key="key:636223490:199486773" value="Find Ostur and Akur in the North Downs"/>
+<label key="key:636223490:199486774" value="Find Ostur and Akur in the Trollshaws"/>
+<label key="key:636223490:199486775" value="Find Ostur and Akur in Evendim"/>
+<label key="key:636223490:248716626" value="You have found Ostur and Akur in the Trollshaws"/>
+<label key="key:636223490:248720722" value="You have found Ostur and Akur in the North Downs"/>
+<label key="key:636223490:248724818" value="You have found Ostur and Akur in the Lone-lands"/>
+<label key="key:636223490:248728914" value="You have found Ostur and Akur in Bree-land"/>
+<label key="key:636223490:248745298" value="You have found Ostur and Akur in Evendim"/>
+<label key="key:636223490:248765778" value="You have found Ostur and Akur in the Shire"/>
+<label key="key:636223490:248769874" value="You have found Ostur and Akur in Ered Luin"/>
 </labels>

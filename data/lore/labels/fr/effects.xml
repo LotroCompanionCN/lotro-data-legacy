@@ -1612,38 +1612,38 @@
 <label key="1879097796" value="Flamme protectrice"/>
 <label key="1879097822" value="Loremaster Temporary Analyze Skill Effect"/>
 <label key="1879097823" value="Restauration gelée"/>
-<label key="1879097862" value="Get a Grip!"/>
-<label key="1879097864" value="Pack Hunters"/>
-<label key="1879097867" value="Blood of Fire"/>
-<label key="1879097869" value="Dying Rage"/>
-<label key="1879097870" value="Fury's Price"/>
-<label key="1879097872" value="Born of Shadow[e]"/>
-<label key="1879097875" value="Imposing Presence"/>
-<label key="1879097876" value="Born of Shadow"/>
-<label key="1879097877" value="Shadow Aura"/>
+<label key="1879097862" value="Du nerf !"/>
+<label key="1879097864" value="Chasse en meute"/>
+<label key="1879097867" value="Sang de feu"/>
+<label key="1879097869" value="Rage mortelle"/>
+<label key="1879097870" value="Prix de la fureur"/>
+<label key="1879097872" value="Native des ombres[f]"/>
+<label key="1879097875" value="Présence imposante"/>
+<label key="1879097876" value="Native des ombres"/>
+<label key="1879097877" value="Aura de l'Ombre"/>
 <label key="1879097882" value="A l'attaque !"/>
 <label key="1879097886" value="Je te vois !"/>
 <label key="1879097897" value=".."/>
 <label key="1879097901" value="Couvée"/>
 <label key="1879097902" value="Toiles importantes"/>
-<label key="1879097956" value="Immunity"/>
-<label key="1879097959" value="Restored Health"/>
-<label key="1879097960" value="Increased Power"/>
-<label key="1879097961" value="Increased Power"/>
-<label key="1879097962" value="Increased Power"/>
-<label key="1879097963" value="Strengthened Hide"/>
-<label key="1879097964" value="Hardened Hide"/>
-<label key="1879097965" value="Troll-like Hide"/>
-<label key="1879097966" value="Quick Movements"/>
-<label key="1879097967" value="Fluid Movements"/>
-<label key="1879097968" value="Elusive Movements"/>
-<label key="1879097969" value="Speed of the Wolf"/>
-<label key="1879097970" value="Speed of the Warg"/>
-<label key="1879097971" value="Speed of the Pack"/>
-<label key="1879097972" value="Mazauk's Blessing"/>
-<label key="1879097973" value="Mazauk's Grace"/>
-<label key="1879097974" value="Gorgoris' Blessing"/>
-<label key="1879097975" value="Gorgoris' Grace"/>
+<label key="1879097956" value="Immunité"/>
+<label key="1879097959" value="Santé restaurée"/>
+<label key="1879097960" value="Puissance augmentée"/>
+<label key="1879097961" value="Puissance augmentée"/>
+<label key="1879097962" value="Puissance augmentée"/>
+<label key="1879097963" value="Peau renforcée"/>
+<label key="1879097964" value="Peau durcie"/>
+<label key="1879097965" value="Peau de troll"/>
+<label key="1879097966" value="Mouvements rapides"/>
+<label key="1879097967" value="Mouvements fluides"/>
+<label key="1879097968" value="Mouvements furtifs"/>
+<label key="1879097969" value="Vitesse du loup"/>
+<label key="1879097970" value="Vitesse du ouargue"/>
+<label key="1879097971" value="Vitesse de la meute"/>
+<label key="1879097972" value="Bénédiction de Mazauk"/>
+<label key="1879097973" value="Grâce de Mazauk"/>
+<label key="1879097974" value="Bénédiction de Gorgori"/>
+<label key="1879097975" value="Grâce de Gorgori"/>
 <label key="1879098038" value="Dispersion de l'ombre"/>
 <label key="1879098101" value="Fouet de feu"/>
 <label key="1879098108" value="Voltige"/>
@@ -1751,16 +1751,27 @@
 <label key="1879102276" value="Déclencher Etourdissement d’esprit spectral"/>
 <label key="1879102277" value="Gurthul Advanced Hint"/>
 <label key="1879102280" value="Cri du faucon"/>
-<label key="1879102518" value="Increased Morale"/>
-<label key="1879102519" value="Increased Morale"/>
-<label key="1879102520" value="Increased Morale"/>
-<label key="1879102521" value="Increased Power"/>
-<label key="1879102522" value="Increased Power"/>
-<label key="1879102523" value="Increased Power"/>
-<label key="1879103773" value="Induce Rooted"/>
-<label key="1879103782" value="Eyes of Unnerving"/>
-<label key="1879103966" value="Immunity"/>
-<label key="1879117443" value="Dying Rage"/>
+<label key="1879102518" value="Moral augmenté"/>
+<label key="1879102519" value="Moral augmenté"/>
+<label key="1879102520" value="Moral augmenté"/>
+<label key="1879102521" value="Puissance augmentée"/>
+<label key="1879102522" value="Puissance augmentée"/>
+<label key="1879102523" value="Puissance augmentée"/>
+<label key="1879103782" value="Regard intimidant"/>
+<label key="1879103966" value="Immunité"/>
+<label key="1879104836" value="Fertile Slime"/>
+<label key="1879104863" value="Fungal Bloom"/>
+<label key="1879104864" value="Fell Restoration"/>
+<label key="1879104868" value="Fungal Spores"/>
+<label key="1879104869" value="Fell Sacrifice"/>
+<label key="1879105178" value="Curse of Sticky Feet"/>
+<label key="1879105179" value="Curse of Deadly Sorrows"/>
+<label key="1879105180" value="Curse of the Lethargic Heart"/>
+<label key="1879107096" value="Improved Curse of Sticky Feet"/>
+<label key="1879107328" value="Improved Plague Gourd"/>
+<label key="1879113668" value="Defiler's Poison"/>
+<label key="1879113781" value="Fire Gourd"/>
+<label key="1879117443" value="Rage agonisante"/>
 <label key="key:620757391:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
 <label key="key:620757393:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
 <label key="key:620757396:181298206" value="Porté : vos attaques automatiques sont 5% plus difficiles à bloquer."/>
@@ -2474,11 +2485,11 @@
 <label key="key:620795518:106251889" value="-3 % de résistance aux chants et aux cris"/>
 <label key="key:620795519:54354734" value="-3 % de résistance aux chants et aux cris"/>
 <label key="key:620795524:54354734" value="Sous sa bannière de détermination, le chef des morts gelés ne peut pas être renversé, étourdi, ni rendu vulnérable à une manoeuvre de confrérie."/>
-<label key="key:620795525:54354734" value="Lorsqu'il se tient solidement campé sur ses pattes, le dragon ne peut pas être assommé, étourdi ou rendu vulnérable par une manoeuvre de confrérie."/>
-<label key="key:620795526:54354734" value="L'être spectral agonisant a émis un nuage contagieux, et vous en avez trop respiré."/>
-<label key="key:620795527:54354734" value="Le souffle pestilentiel de l'être spectral s'est emparé de vous."/>
+<label key="key:620795525:54354734" value="La détermination des Morts gelés les immunise contre les manoeuvres de communauté et de troupe de guerre."/>
+<label key="key:620795526:54354734" value="La force d'âme des Morts gelés referme très rapidement leurs blessures."/>
+<label key="key:620795527:54354734" value="La fureur des Morts gelés augmente la vitesse et la puissance de leurs attaques."/>
 <label key="key:620795528:54354734" value="Sous sa bannière de force morale, le moral du chef des morts gelés semble insubmersible."/>
-<label key="key:620795529:54354734" value="Sous sa bannière de fureur, la force du chef des morts gelés devient hallucinante."/>
+<label key="key:620795529:54354734" value="Sous sa bannière de fureur, la force du chef des morts gelés devient démesurée."/>
 <label key="key:620795594:54354734" value="Cette créature a entendu l'appel de ses camarades et va bientôt rejoindre leur rituel."/>
 <label key="key:620795644:54354734" value="Le courroux de Zurm est sur Barz."/>
 <label key="key:620795645:54354734" value="Le courroux de Barz est sur Zurm."/>
@@ -2542,23 +2553,23 @@
 <label key="key:620796400:54354734" value="Réduit la limitation des dégâts de feu. Cet effect est cumulable."/>
 <label key="key:620796401:54354734" value="Un feu tourbillonnant répond à chaque attaque et protège le personnage en son sein."/>
 <label key="key:620796415:54354734" value="Les morts gelés regagnent rapidement leur Moral lorsqu'ils sont sous cet effet."/>
-<label key="key:620796452:181298206" value="Damages attackers."/>
-<label key="key:620796452:54354734" value="Attackers beware the fury of the orcs. It burns so deeply that those attacking the orc will feel the wrath of the orc's blood."/>
-<label key="key:620796455:106251893" value="You become immune to Stun, Daze, Knockdown and Fear effects for the duration of this skill."/>
-<label key="key:620796455:54354734" value="Fury overwhlems you and you spend the last vestige of your battlefury to conquer your enemies."/>
-<label key="key:620796456:54354734" value="Unleashing the rage within you comes with a hefty price."/>
-<label key="key:620796464:54354734" value="Your presence inspires those beneath you."/>
-<label key="key:620796465:54354734" value="Light is swallowed by the spider's tie to darkness and shadow."/>
-<label key="key:620796466:181298206" value="Damages attackers."/>
-<label key="key:620796466:54354734" value="Attackers will soon learn that your tie to the shadow gives you great strength."/>
+<label key="key:620796452:181298206" value="Inflige des dégâts aux attaquants."/>
+<label key="key:620796452:54354734" value="Attention à la furie des orques que vous attaquez. Elle est si vive que ceux qui s'en prennent aux orques risquent de subir leur colère."/>
+<label key="key:620796455:106251893" value="Vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} contre les effets Etourdissement, Hébétement, Renversement et Terreur tant que cette compétence fait effet."/>
+<label key="key:620796455:54354734" value="La rage s'empare de vous et vous vous jetez contre vos ennemis de toutes vos forces."/>
+<label key="key:620796456:54354734" value="Libérer la rage accumulée en vous ne se fait pas sans mal."/>
+<label key="key:620796464:54354734" value="Votre présence inspire ceux qui sont au-dessous de vous."/>
+<label key="key:620796465:54354734" value="La lumière est absorbée en raison du lien de l'araignée avec les ténèbres et les ombres."/>
+<label key="key:620796466:181298206" value="Inflige des dégâts aux attaquants."/>
+<label key="key:620796466:54354734" value="Vos assaillants se rendront vite compte que les liens qui vous unissent à l'Ombre vous confèrent une force considérable."/>
 <label key="key:620796470:106251890" value="Lorsque vous chargez, vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} contre tous les états de combat."/>
 <label key="key:620796470:54354734" value="Le fait de vous lancer dans le combat vous permet de bénéficier d'une vitesse de course plus importante et d'une immunité contre racine, hébètement et paralysie."/>
 <label key="key:620796474:54354734" value="Augmente votre détection de discrétion."/>
 <label key="key:620796482:54354734" value=".."/>
 <label key="key:620796491:106251889" value="Ralentit les mouvements de 40%"/>
 <label key="key:620796491:54354734" value="Ralenti par les toiles d'araignée."/>
-<label key="key:620796505:106251889" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
-<label key="key:620796505:54354734" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
+<label key="key:620796505:106251889" value="Vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} pour un temps limité contre les effets Etourdissement, Hébétement, Enracinement et Terreur."/>
+<label key="key:620796505:54354734" value="Vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} pour un temps limité contre les effets Etourdissement, Hébétement, Enracinement et Terreur."/>
 <label key="key:620796679:181298206" value="Dispersion de l'ombre : vous avez une chance d'absorber une partie des dégâts d'ombre que vous recevez."/>
 <label key="key:620796679:54354734" value="Chance accrue d'absorber des dégâts de type ombre que vous recevez."/>
 <label key="key:620796685:181298206" value="Vous avez une chance de renvoyer une partie des dégâts à l'attaquant sous forme de dégâts de type feu."/>
@@ -2603,10 +2614,10 @@
 <label key="key:620799667:54354734" value="Novice en équitation"/>
 <label key="key:620799781:54354734" value="Une racine jaillit du sol et vous envoie vers la source de l’attaque."/>
 <label key="key:620799982:181298206" value="Quitte tous les états d’immunité"/>
-<label key="key:620800568:54354734" value="Damage dealt to the marked target is increased from all sources."/>
-<label key="key:620801140:181298206" value="Roots for up to 16s"/>
-<label key="key:620801145:54354734" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
-<label key="key:620801689:106251890" value="You gain immunity to daze, stun, knockdown, root and fear effects for a short time."/>
-<label key="key:620801689:54354734" value="You are immune to all negative combat states."/>
-<label key="key:620811020:54354734" value="Offensive skills are reset."/>
+<label key="key:620800568:54354734" value="Les dégâts infligés à la cible sont augmentés de toute part."/>
+<label key="key:620801145:54354734" value="Votre regard inflige une peur terre chez les autres que vous apportez la terreur avec vous lorsque vous arrivez sur le champ de bataille."/>
+<label key="key:620801689:106251890" value="Vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} pour un temps limité aux effets d'hébétement, d'étourdissement, de renversement, d'enracinement et de terreur."/>
+<label key="key:620801689:54354734" value="Vous êtes ${PLAYERNAME:immunisé[m]|immunisée[f]} à tous les états de combat néfastes."/>
+<label key="key:620802479:106251889" value="Slows target's movement by 10%"/>
+<label key="key:620811020:54354734" value="Les compétences offensives sont réinitialisées."/>
 </labels>

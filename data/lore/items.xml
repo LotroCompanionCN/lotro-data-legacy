@@ -94798,7 +94798,7 @@
 <item key="1879095717" name="Dull Spirit Stone" pluralName="key:620795521:98907573" icon="1091426057-1091388958" level="50" category="ITEM" class="47" quality="UNCOMMON" description="key:620795521:54354734" valueTableId="1879049581" stackMax="50">
 <stats/>
 </item>
-<item key="1879095718" name="Glimmering Spirit Sone" pluralName="key:620795522:98907573" icon="1091426053-1091388958" level="50" category="ITEM" class="47" quality="RARE" description="key:620795522:54354734" valueTableId="1879049581" stackMax="50">
+<item key="1879095718" name="Glimmering Spirit Stone" pluralName="key:620795522:98907573" icon="1091426053-1091388958" level="50" category="ITEM" class="47" quality="RARE" description="key:620795522:54354734" valueTableId="1879049581" stackMax="50">
 <stats/>
 </item>
 <item key="1879095719" name="Luminous Spirit Stone" pluralName="key:620795523:98907573" icon="1091426055-1091388958" level="50" category="ITEM" class="47" quality="INCOMPARABLE" description="key:620795523:54354734" valueTableId="1879049581" stackMax="50">
@@ -98800,7 +98800,7 @@
 </stats>
 <effect type="ON_EQUIP" id="1879097493" name="Lynx Appearance 2"/>
 </item>
-<item key="1879098142" name="Excellent Amulet of the Front-lynx" icon="1090523202-1090519043-1090523203-1090528575" level="37" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="37" valueTableId="1879050115">
+<item key="1879098142" name="Excellent Amulet of the Frost-lynx" icon="1090523202-1090519043-1090523203-1090528575" level="37" slot="NECK" category="ITEM" class="49" equipmentCategory="23" binding="BIND_ON_EQUIP" durability="80" sturdiness="NORMAL" quality="RARE" minLevel="37" valueTableId="1879050115">
 <stats>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="OCPR" scaling="1879053967"/>
@@ -99084,7 +99084,7 @@
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
-<item key="1879098676" name="Excellent Amulet of the Front-lynx Recipe" icon="1090537012-1090522692-1090537013" level="35" category="ITEM" class="59" quality="RARE" requiredProfession="1879055299;3" description="key:620797216:54354734" valueTableId="1879054943">
+<item key="1879098676" name="Excellent Amulet of the Frost-lynx Recipe" icon="1090537012-1090522692-1090537013" level="35" category="ITEM" class="59" quality="RARE" requiredProfession="1879055299;3" description="key:620797216:54354734" valueTableId="1879054943">
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
@@ -109301,6 +109301,12 @@
 <stats/>
 </item>
 <item key="1879115227" name="Plaque of Minathranc" pluralName="key:620809119:98907573" icon="1090648465-1090519721-1090648466" level="1" category="ITEM" class="27" binding="BIND_ON_ACQUIRE" quality="COMMON" description="key:620809119:54354734" valueTableId="1879049280">
+<stats/>
+</item>
+<item key="1894514716" name="Rope" icon="1090519170-1090519041" category="ITEM" class="53">
+<stats/>
+</item>
+<item key="1894514722" name="Rope" icon="1090519170-1090519041" category="ITEM" class="53">
 <stats/>
 </item>
 </items>

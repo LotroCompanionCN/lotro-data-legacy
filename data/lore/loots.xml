@@ -9688,7 +9688,7 @@
 <itemsTableEntry weight="1" itemId="1879094173" name="Major Shield-maiden Herald Armaments Recipe"/>
 <itemsTableEntry weight="1" itemId="1879094156" name="Major Swordswoman Herald Armaments Recipe"/>
 <itemsTableEntry weight="1" itemId="1879094201" name="Major Maid-at-arms Herald Armaments Recipe"/>
-<itemsTableEntry weight="2" itemId="1879098676" name="Excellent Amulet of the Front-lynx Recipe"/>
+<itemsTableEntry weight="2" itemId="1879098676" name="Excellent Amulet of the Frost-lynx Recipe"/>
 <itemsTableEntry weight="2" itemId="1879098666" name="Excellent Amulet of the Spotted Lynx Recipe"/>
 <itemsTableEntry weight="2" itemId="1879098696" name="Excellent Amulet of the Black Lynx Recipe"/>
 <itemsTableEntry weight="2" itemId="1879098709" name="Greater Amulet of the Blood-raven Recipe"/>
@@ -29391,38 +29391,38 @@
 <trophyListEntry dropFrequency="0.7" itemId="1879090005" name="Sleek Kergrim Skin"/>
 </trophyList>
 <trophyList id="1879097182">
-<trophyListEntry dropFrequency="1.0" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.4" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.4" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.2" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095719" name="Luminous Spirit Stone"/>
 <trophyListEntry dropFrequency="0.25" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="0.25" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="0.1" itemId="1879095719" name="Luminous Spirit Stone"/>
 <trophyListEntry dropFrequency="0.1" itemId="1879095719" name="Luminous Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097183">
-<trophyListEntry dropFrequency="1.0" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.4" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.4" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.1" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095719" name="Luminous Spirit Stone"/>
 <trophyListEntry dropFrequency="0.7" itemId="1879095719" name="Luminous Spirit Stone"/>
 <trophyListEntry dropFrequency="0.25" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="0.1" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="0.05" itemId="1879095719" name="Luminous Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097184">
 <trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.25" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.05" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.2" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="0.2" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097185">
 <trophyListEntry dropFrequency="0.25" itemId="1879095717" name="Dull Spirit Stone"/>
@@ -29432,37 +29432,37 @@
 <trophyListEntry dropFrequency="0.25" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.1" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.05" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.6" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.25" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="0.6" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="0.25" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Stone"/>
 <trophyListEntry dropFrequency="0.25" itemId="1879095719" name="Luminous Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097187">
-<trophyListEntry dropFrequency="1.0" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.4" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.4" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.1" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.05" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879095719" name="Luminous Spirit Stone"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879095719" name="Luminous Spirit Stone"/>
 <trophyListEntry dropFrequency="0.7" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="0.25" itemId="1879095719" name="Luminous Spirit Stone"/>
+<trophyListEntry dropFrequency="0.1" itemId="1879095719" name="Luminous Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097188">
 <trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.25" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.1" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="0.1" itemId="1879095718" name="Glimmering Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097189">
 <trophyListEntry dropFrequency="0.7" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.25" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.1" itemId="1879095717" name="Dull Spirit Stone"/>
 <trophyListEntry dropFrequency="0.1" itemId="1879095717" name="Dull Spirit Stone"/>
-<trophyListEntry dropFrequency="0.2" itemId="1879095718" name="Glimmering Spirit Sone"/>
-<trophyListEntry dropFrequency="0.1" itemId="1879095718" name="Glimmering Spirit Sone"/>
+<trophyListEntry dropFrequency="0.2" itemId="1879095718" name="Glimmering Spirit Stone"/>
+<trophyListEntry dropFrequency="0.1" itemId="1879095718" name="Glimmering Spirit Stone"/>
 <trophyListEntry dropFrequency="0.05" itemId="1879095719" name="Luminous Spirit Stone"/>
 </trophyList>
 <trophyList id="1879097804">

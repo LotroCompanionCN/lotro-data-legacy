@@ -1347,22 +1347,22 @@
 <trait identifier="1879072432" name="Advanced Skill: Resilience" iconId="1090553264" category="11" nature="3" tooltip="key:620774675:191029568" description="key:620774675:54354734">
 <skill id="1879072525" name="Resilience"/>
 </trait>
-<trait identifier="1879072435" name="Appearance 1" iconId="1090553268" category="54" nature="4" tooltip="key:620774683:191029568" description="key:620774683:54354734">
+<trait identifier="1879072435" name="Fighter Appearance" iconId="1090553268" category="54" nature="2" tooltip="key:620774683:191029568" description="key:620774683:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
-<trait identifier="1879072436" name="Appearance 2" iconId="1090553269" category="54" nature="4" tooltip="key:620774684:191029568" description="key:620774684:54354734">
+<trait identifier="1879072436" name="White Hand Fighter Appearance" iconId="1090553269" category="54" nature="2" tooltip="key:620774684:191029568" description="key:620774684:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
-<trait identifier="1879072437" name="Appearance 3" iconId="1090553270" category="54" nature="4" tooltip="key:620774685:191029568" description="key:620774685:54354734">
+<trait identifier="1879072437" name="Helmed Ongbúrz Soldier Appearance" iconId="1090553270" category="54" nature="2" tooltip="key:620774685:191029568" description="key:620774685:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
-<trait identifier="1879072438" name="Appearance 4" iconId="1090553271" category="54" nature="4" tooltip="key:620774686:191029568" description="key:620774686:54354734">
+<trait identifier="1879072438" name="Helmed Krahjarn Soldier Appearance" iconId="1090553271" category="54" nature="2" tooltip="key:620774686:191029568" description="key:620774686:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
-<trait identifier="1879072439" name="Appearance 5" iconId="1090553272" category="54" nature="4" tooltip="key:620774687:191029568" description="key:620774687:54354734">
+<trait identifier="1879072439" name="Helmed Krahjarn Drummer Appearance" iconId="1090553272" category="54" nature="2" tooltip="key:620774687:191029568" description="key:620774687:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
-<trait identifier="1879072440" name="Appearance 6" iconId="1090553273" category="54" nature="4" tooltip="key:620774688:191029568" description="key:620774688:54354734">
+<trait identifier="1879072440" name="Helmed Soldier Appearance" iconId="1090553273" category="54" nature="2" tooltip="key:620774688:191029568" description="key:620774688:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072441" name="Health Boost" iconId="1090553274" category="43" nature="3" tooltip="key:620774689:191029568" description="key:620774689:54354734">
@@ -1389,22 +1389,22 @@
 <trait identifier="1879072448" name="Advanced Skill: Clinging Webs" iconId="1090553281" category="11" nature="3" tooltip="key:620774696:191029568" description="key:620774696:54354734">
 <skill id="1879072533" name="Clinging Webs"/>
 </trait>
-<trait identifier="1879072451" name="Appearance 1" iconId="1090553285" category="54" nature="4" tooltip="key:620774705:191029568" description="key:620774705:54354734">
+<trait identifier="1879072451" name="Shadow Watcher Appearance" iconId="1090553285" category="54" nature="2" tooltip="key:620774705:191029568" description="key:620774705:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
-<trait identifier="1879072452" name="Appearance 2" iconId="1090553286" category="54" nature="4" tooltip="key:620774706:191029568" description="key:620774706:54354734">
+<trait identifier="1879072452" name="Wood Creeper Appearance" iconId="1090553286" category="54" nature="2" tooltip="key:620774706:191029568" description="key:620774706:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
-<trait identifier="1879072453" name="Appearance 3" iconId="1090553287" category="54" nature="4" tooltip="key:620774707:191029568" description="key:620774707:54354734">
+<trait identifier="1879072453" name="Forest Biter Appearance" iconId="1090553287" category="54" nature="2" tooltip="key:620774707:191029568" description="key:620774707:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
-<trait identifier="1879072454" name="Appearance 4" iconId="1090553288" category="54" nature="4" tooltip="key:620774708:191029568" description="key:620774708:54354734">
+<trait identifier="1879072454" name="Tomb Ambusher Appearance" iconId="1090553288" category="54" nature="2" tooltip="key:620774708:191029568" description="key:620774708:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
-<trait identifier="1879072455" name="Appearance 5" iconId="1090553289" category="54" nature="4" tooltip="key:620774709:191029568" description="key:620774709:54354734">
+<trait identifier="1879072455" name="Moor Spinner Appearance" iconId="1090553289" category="54" nature="2" tooltip="key:620774709:191029568" description="key:620774709:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
-<trait identifier="1879072456" name="Appearance 6" iconId="1090553290" category="54" nature="4" tooltip="key:620774710:191029568" description="key:620774710:54354734">
+<trait identifier="1879072456" name="Cragstone Queen Appearance" iconId="1090553290" category="54" nature="2" tooltip="key:620774710:191029568" description="key:620774710:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072457" name="Avoidance Boost" iconId="1090553291" category="43" nature="3" tooltip="key:620774711:191029568" description="key:620774711:54354734">
@@ -1436,22 +1436,22 @@
 <trait identifier="1879072464" name="Advanced Skill: Set Trap" iconId="1090553297" category="11" nature="3" tooltip="key:620774719:191029568" description="key:620774719:54354734">
 <skill id="1879072543" name="Set Trap"/>
 </trait>
-<trait identifier="1879072467" name="Appearance 1" iconId="1090553301" category="54" nature="4" tooltip="key:620774725:191029568" description="key:620774725:54354734">
+<trait identifier="1879072467" name="White Hand Scout Appearance" iconId="1090553301" category="54" nature="2" tooltip="key:620774725:191029568" description="key:620774725:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
-<trait identifier="1879072468" name="Appearance 2" iconId="1090553302" category="54" nature="4" tooltip="key:620774726:191029568" description="key:620774726:54354734">
+<trait identifier="1879072468" name="Urukhai Sentry Appearance" iconId="1090553302" category="54" nature="2" tooltip="key:620774726:191029568" description="key:620774726:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
-<trait identifier="1879072469" name="Appearance 3" iconId="1090553303" category="54" nature="4" tooltip="key:620774727:191029568" description="key:620774727:54354734">
+<trait identifier="1879072469" name="White Hand Sentry Appearance" iconId="1090553303" category="54" nature="2" tooltip="key:620774727:191029568" description="key:620774727:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
-<trait identifier="1879072470" name="Appearance 4" iconId="1090553304" category="54" nature="4" tooltip="key:620774728:191029568" description="key:620774728:54354734">
+<trait identifier="1879072470" name="Dark-arrow Scout Appearance" iconId="1090553304" category="54" nature="2" tooltip="key:620774728:191029568" description="key:620774728:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
-<trait identifier="1879072471" name="Appearance 5" iconId="1090553305" category="54" nature="4" tooltip="key:620774729:191029568" description="key:620774729:54354734">
+<trait identifier="1879072471" name="Fel-arrow Scout Appearance" iconId="1090553305" category="54" nature="2" tooltip="key:620774729:191029568" description="key:620774729:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
-<trait identifier="1879072472" name="Appearance 6" iconId="1090553306" category="54" nature="4" tooltip="key:620774730:191029568" description="key:620774730:54354734">
+<trait identifier="1879072472" name="Black-bow Scout Appearance" iconId="1090553306" category="54" nature="2" tooltip="key:620774730:191029568" description="key:620774730:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072473" name="Damage Boost" iconId="1090553307" category="43" nature="3" tooltip="key:620774731:191029568" description="key:620774731:54354734">
@@ -1484,22 +1484,22 @@
 <trait identifier="1879072480" name="Advanced Skill: Snap Out of It!" iconId="1090553313" category="11" nature="3" tooltip="key:620774738:191029568" description="key:620774738:54354734">
 <skill id="1879072549" name="Snap Out of It!"/>
 </trait>
-<trait identifier="1879072483" name="Appearance 1" iconId="1090553317" category="54" nature="4" tooltip="key:620774746:191029568" description="key:620774746:54354734">
+<trait identifier="1879072483" name="Urukhai Soldier Appearance" iconId="1090553317" category="54" nature="2" tooltip="key:620774746:191029568" description="key:620774746:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
-<trait identifier="1879072484" name="Appearance 2" iconId="1090553318" category="54" nature="4" tooltip="key:620774747:191029568" description="key:620774747:54354734">
+<trait identifier="1879072484" name="Urukhai Lieutenant Appearance" iconId="1090553318" category="54" nature="2" tooltip="key:620774747:191029568" description="key:620774747:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
-<trait identifier="1879072485" name="Appearance 3" iconId="1090553319" category="54" nature="4" tooltip="key:620774748:191029568" description="key:620774748:54354734">
+<trait identifier="1879072485" name="Urukhai Captain Appearance" iconId="1090553319" category="54" nature="2" tooltip="key:620774748:191029568" description="key:620774748:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
-<trait identifier="1879072486" name="Appearance 4" iconId="1090553320" category="54" nature="4" tooltip="key:620774749:191029568" description="key:620774749:54354734">
+<trait identifier="1879072486" name="Urukhai Tyrant Appearance" iconId="1090553320" category="54" nature="2" tooltip="key:620774749:191029568" description="key:620774749:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
-<trait identifier="1879072487" name="Appearance 5" iconId="1090553321" category="54" nature="4" tooltip="key:620774750:191029568" description="key:620774750:54354734">
+<trait identifier="1879072487" name="Wicked Urukhai Lieutenant Appearance" iconId="1090553321" category="54" nature="2" tooltip="key:620774750:191029568" description="key:620774750:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
-<trait identifier="1879072488" name="Appearance 6" iconId="1090553322" category="54" nature="4" tooltip="key:620774751:191029568" description="key:620774751:54354734">
+<trait identifier="1879072488" name="Wicked Urukhai Captain Appearance" iconId="1090553322" category="54" nature="2" tooltip="key:620774751:191029568" description="key:620774751:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072489" name="Armour Boost" iconId="1090553275" category="43" nature="3" tooltip="key:620774752:191029568" description="key:620774752:54354734">
@@ -1530,20 +1530,23 @@
 <trait identifier="1879072496" name="Advanced Skill: Rallying Howl" iconId="1090553328" category="11" nature="3" tooltip="key:620774759:191029568" description="key:620774759:54354734">
 <skill id="1879072557" name="Rallying Howl"/>
 </trait>
-<trait identifier="1879072499" name="Appearance 1" iconId="1090553332" category="54" nature="4" tooltip="key:620774766:191029568" description="key:620774766:54354734">
+<trait identifier="1879072499" name="Ruins-howler Appearance" iconId="1090553332" category="54" nature="2" tooltip="key:620774766:191029568" description="key:620774766:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
-<trait identifier="1879072500" name="Appearance 2" iconId="1090553333" category="54" nature="4" tooltip="key:620774767:191029568" description="key:620774767:54354734">
+<trait identifier="1879072500" name="Bone-chewer Appearance" iconId="1090553333" category="54" nature="2" tooltip="key:620774767:191029568" description="key:620774767:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
-<trait identifier="1879072501" name="Appearance 3" iconId="1090553334" category="54" nature="4" tooltip="key:620774768:191029568" description="key:620774768:54354734">
+<trait identifier="1879072501" name="Corpse-ravager Appearance" iconId="1090553334" category="54" nature="2" tooltip="key:620774768:191029568" description="key:620774768:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
-<trait identifier="1879072502" name="Appearance 4" iconId="1090553335" category="54" nature="4" tooltip="key:620774769:191029568" description="key:620774769:54354734">
+<trait identifier="1879072502" name="War-beast Appearance" iconId="1090553335" category="54" nature="2" tooltip="key:620774769:191029568" description="key:620774769:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
-<trait identifier="1879072503" name="Appearance 5" iconId="1090553336" category="54" nature="4" tooltip="key:620774770:191029568" description="key:620774770:54354734">
+<trait identifier="1879072503" name="Den-leader Appearance" iconId="1090553336" category="54" nature="2" tooltip="key:620774770:191029568" description="key:620774770:54354734">
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
+</trait>
+<trait identifier="1879072504" name="Prowler Appearance" iconId="1090553337" category="54" nature="2" tooltip="key:620774771:191029568" description="key:620774771:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072505" name="Damage for Health (Rank 1)" iconId="1090553338" category="20" nature="5" tooltip="key:620774772:191029568" description="key:620774772:54354734">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="2.5"/>
@@ -1899,8 +1902,65 @@
 <trait identifier="1879076358" key="SHIELD_BRAWLER" name="Shield Brawler" iconId="1090562065" category="45" nature="4" tooltip="key:620777690:191029568" description="key:620777690:54354734">
 <stat name="BLOCK_PERCENTAGE" constant="2.0"/>
 </trait>
+<trait identifier="1879084077" name="Armour Boost" iconId="1090553275" category="43" nature="3" tooltip="key:620788939:191029568" description="key:620788939:54354734">
+<stat name="Combat_Agent_Armor_Value" constant="210.0"/>
+</trait>
+<trait identifier="1879084079" name="Bear Masked Tarkrîp Appearance" iconId="1091462232" category="54" nature="2" tooltip="key:620788935:191029568" description="key:620788935:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
+</trait>
+<trait identifier="1879084080" name="White Hand Soldier Appearance" iconId="1090623785" category="54" nature="2" tooltip="key:620788930:191029568" description="key:620788930:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="7.0"/>
+</trait>
 <trait identifier="1879084084" name="Evade: Rank 2" iconId="1090552289" category="21" nature="1">
 <stat name="EVADE_PERCENTAGE" constant="1.0"/>
+</trait>
+<trait identifier="1879084085" name="Goat Masked Krahjarn Appearance" iconId="1091462231" category="54" nature="2" tooltip="key:620788934:191029568" description="key:620788934:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
+</trait>
+<trait identifier="1879084091" name="Goat Masked Blogmal Appearance" iconId="1091462230" category="54" nature="2" tooltip="key:620788933:191029568" description="key:620788933:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
+</trait>
+<trait identifier="1879084093" name="Enhanced Skill: Curse of Sticky Feet" iconId="1091439827" category="43" nature="3" tooltip="key:620788942:191029568" description="key:620788942:54354734">
+<effectGenerator id="1879107096" name="Improved Curse of Sticky Feet" spellcraft="0.0"/>
+</trait>
+<trait identifier="1879084097" name="Blood-seeker Appearance" iconId="1090624170" category="54" nature="2" tooltip="key:620788951:191029568" description="key:620788951:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="7.0"/>
+</trait>
+<trait identifier="1879084098" name="Goat Masked Ongbúrz Appearance" iconId="1091462229" category="54" nature="2" tooltip="key:620788932:191029568" description="key:620788932:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
+</trait>
+<trait identifier="1879084103" name="Bear Masked Blogmal Appearance" iconId="1091462234" category="54" nature="2" tooltip="key:620788937:191029568" description="key:620788937:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="7.0"/>
+</trait>
+<trait identifier="1879084104" name="Morale Boost" iconId="1090553274" category="43" nature="3" tooltip="key:620788938:191029568" description="key:620788938:54354734">
+<stat name="MORALE" operator="MULTIPLY" descriptionOverride="-" constant="1.1"/>
+</trait>
+<trait identifier="1879084107" name="Bear Masked Ongbúrz Appearance" iconId="1091462233" category="54" nature="2" tooltip="key:620788936:191029568" description="key:620788936:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
+</trait>
+<trait identifier="1879084109" name="Goat Masked Tarkrîp Appearance" iconId="1091462228" category="54" nature="2" tooltip="key:620788931:191029568" description="key:620788931:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
+</trait>
+<trait identifier="1879084112" name="Ghost-bow Scout Appearance" iconId="1090624169" category="54" nature="2" tooltip="key:620788949:191029568" description="key:620788949:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="7.0"/>
+</trait>
+<trait identifier="1879084113" name="Enhanced Skill: Plague Gourd" iconId="1091439829" category="43" nature="3" tooltip="key:620788944:191029568" description="key:620788944:54354734">
+<stat name="Skill_ChanceCriticalHit_ChampionStrikesMod" descriptionOverride="key:620788944:106251889" constant="25.0"/>
+<effectGenerator id="1879107328" name="Improved Plague Gourd" spellcraft="0.0"/>
+</trait>
+<trait identifier="1879084115" name="Urukhai Overseer Appearance" iconId="1090624171" category="54" nature="2" tooltip="key:620788950:191029568" description="key:620788950:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="7.0"/>
+</trait>
+<trait identifier="1879084117" name="Advanced Skill: Fungal Spores" iconId="1091439830" category="11" nature="3" tooltip="key:620788945:191029568" description="key:620788945:54354734">
+<skill id="1879104839" name="Fungal Spores"/>
+</trait>
+<trait identifier="1879084118" name="Enhanced Skill: Fell Sacrifice" iconId="1091439828" category="43" nature="3" tooltip="key:620788943:191029568" description="key:620788943:54354734">
+<stat name="Skill_VitalCost_Trait_VulgarMagicMoraleCostReduction" constant="-50.0"/>
+<stat name="Skill_VitalCost_Trait_VulgarMagicPowerCostReduction" constant="-50.0"/>
+<stat name="Skill_RecoveryTime_Loremaster_LightofHope" operator="SUBSTRACT" constant="30.0"/>
+</trait>
+<trait identifier="1879084121" name="Shadow Queen Appearance" iconId="1090624034" category="54" nature="2" tooltip="key:620788948:191029568" description="key:620788948:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="7.0"/>
 </trait>
 <trait identifier="1879088470" name="Drum Use" iconId="1090648294" category="32" nature="1" cosmetic="true" tooltip="key:620790690:191029568" description="key:620790690:54354734"/>
 <trait identifier="1879088471" name="Theorbo Use" iconId="1090648295" category="32" nature="1" cosmetic="true" tooltip="key:620790691:191029568" description="key:620790691:54354734"/>
@@ -2170,5 +2230,149 @@
 </trait>
 <trait identifier="1879101895" name="Novice Riding" iconId="1090530243" category="29" nature="1" tooltip="key:620799689:191029568" description="key:620799689:54354734">
 <effectGenerator id="1879101894" name="Novice Riding" spellcraft="0.0"/>
+</trait>
+<trait identifier="1879103414" name="Helmed Krahjarn Soldier Appearance" iconId="1091422295" category="54" nature="2" tooltip="key:620800693:191029568" description="key:620800693:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="10.0"/>
+</trait>
+<trait identifier="1879103415" name="Blogmal Soldier Appearance" iconId="1091422296" category="54" nature="2" tooltip="key:620800694:191029568" description="key:620800694:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="11.0"/>
+</trait>
+<trait identifier="1879103416" name="Ongbúrz Warrior Appearance" iconId="1091422297" category="54" nature="2" tooltip="key:620800695:191029568" description="key:620800695:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="12.0"/>
+</trait>
+<trait identifier="1879103417" name="Elite Ongbúrz Warrior Appearance" iconId="1091422298" category="54" nature="2" tooltip="key:620800696:191029568" description="key:620800696:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="13.0"/>
+</trait>
+<trait identifier="1879103418" name="Ongbúrz Warlord Appearance" iconId="1091422299" category="54" nature="2" tooltip="key:620800697:191029568" description="key:620800697:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="14.0"/>
+</trait>
+<trait identifier="1879103419" name="Elite Ongbúrz Warlord Appearance" iconId="1091422300" category="54" nature="2" tooltip="key:620800698:191029568" description="key:620800698:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="15.0"/>
+</trait>
+<trait identifier="1879103420" name="Tarkrîp Fighter Appearance" iconId="1091422301" category="54" nature="2" tooltip="key:620800691:191029568" description="key:620800691:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="8.0"/>
+</trait>
+<trait identifier="1879103421" name="Tarkrîp Soldier Appearance" iconId="1091422302" category="54" nature="2" tooltip="key:620800692:191029568" description="key:620800692:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="9.0"/>
+</trait>
+<trait identifier="1879103422" name="Auroch Masked Ongbúrz Appearance" iconId="1091462237" category="54" nature="2" tooltip="key:620800701:191029568" description="key:620800701:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="10.0"/>
+</trait>
+<trait identifier="1879103423" name="Auroch Masked Blogmal Appearance" iconId="1091462238" category="54" nature="2" tooltip="key:620800702:191029568" description="key:620800702:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="11.0"/>
+</trait>
+<trait identifier="1879103424" name="Auroch Masked Krahjarn Appearance" iconId="1091462239" category="54" nature="2" tooltip="key:620800703:191029568" description="key:620800703:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="12.0"/>
+</trait>
+<trait identifier="1879103425" name="Drake Masked Ongbúrz Appearance" iconId="1091462240" category="54" nature="2" tooltip="key:620800704:191029568" description="key:620800704:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="13.0"/>
+</trait>
+<trait identifier="1879103426" name="Drake Masked Blogmal Appearance" iconId="1091462241" category="54" nature="2" tooltip="key:620800705:191029568" description="key:620800705:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="14.0"/>
+</trait>
+<trait identifier="1879103427" name="Drake Masked Krahjarn Appearance" iconId="1091462227" category="54" nature="2" tooltip="key:620800706:191029568" description="key:620800706:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="15.0"/>
+</trait>
+<trait identifier="1879103428" name="Bear Masked Krahjarn Appearance" iconId="1091462235" category="54" nature="2" tooltip="key:620800699:191029568" description="key:620800699:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="8.0"/>
+</trait>
+<trait identifier="1879103429" name="Auroch Masked Tarkrîp Appearance" iconId="1091462236" category="54" nature="2" tooltip="key:620800700:191029568" description="key:620800700:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="9.0"/>
+</trait>
+<trait identifier="1879103430" name="Rift-crawler Queen Appearance" iconId="1091422303" category="54" nature="2" tooltip="key:620800709:191029568" description="key:620800709:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="10.0"/>
+</trait>
+<trait identifier="1879103431" name="Vile Moor-web Appearance" iconId="1091422304" category="54" nature="2" tooltip="key:620800710:191029568" description="key:620800710:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="11.0"/>
+</trait>
+<trait identifier="1879103432" name="Barrow Queen Appearance" iconId="1091422305" category="54" nature="2" tooltip="key:620800711:191029568" description="key:620800711:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="12.0"/>
+</trait>
+<trait identifier="1879103433" name="Bogbereth Spinner Appearance" iconId="1091422306" category="54" nature="2" tooltip="key:620800712:191029568" description="key:620800712:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="13.0"/>
+</trait>
+<trait identifier="1879103434" name="Bogbereth Matron Appearance" iconId="1091422307" category="54" nature="2" tooltip="key:620800713:191029568" description="key:620800713:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="14.0"/>
+</trait>
+<trait identifier="1879103435" name="Grimfang Ambusher Appearance" iconId="1091422308" category="54" nature="2" tooltip="key:620800714:191029568" description="key:620800714:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="15.0"/>
+</trait>
+<trait identifier="1879103436" name="Ash Weaver Appearance" iconId="1091422309" category="54" nature="2" tooltip="key:620800707:191029568" description="key:620800707:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="8.0"/>
+</trait>
+<trait identifier="1879103437" name="Kingsfell Creeper Appearance" iconId="1091422310" category="54" nature="2" tooltip="key:620800708:191029568" description="key:620800708:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="9.0"/>
+</trait>
+<trait identifier="1879103438" name="Black-bow Sentry Appearance" iconId="1091422311" category="54" nature="2" tooltip="key:620800717:191029568" description="key:620800717:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="10.0"/>
+</trait>
+<trait identifier="1879103439" name="Ghost-bow Sentry Appearance" iconId="1091422312" category="54" nature="2" tooltip="key:620800718:191029568" description="key:620800718:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="11.0"/>
+</trait>
+<trait identifier="1879103440" name="Dark-arrow Elite Appearance" iconId="1091422313" category="54" nature="2" tooltip="key:620800719:191029568" description="key:620800719:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="12.0"/>
+</trait>
+<trait identifier="1879103441" name="Fel-arrow Elite Appearance" iconId="1091422314" category="54" nature="2" tooltip="key:620800720:191029568" description="key:620800720:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="13.0"/>
+</trait>
+<trait identifier="1879103442" name="Black-bow Elite Appearance" iconId="1091422315" category="54" nature="2" tooltip="key:620800721:191029568" description="key:620800721:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="14.0"/>
+</trait>
+<trait identifier="1879103443" name="Ghost-bow Elite Appearance" iconId="1091422316" category="54" nature="2" tooltip="key:620800722:191029568" description="key:620800722:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="15.0"/>
+</trait>
+<trait identifier="1879103444" name="Dark-arrow Sentry Appearance" iconId="1091422317" category="54" nature="2" tooltip="key:620800715:191029568" description="key:620800715:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="8.0"/>
+</trait>
+<trait identifier="1879103445" name="Urukhai Scout Appearance" iconId="1091422318" category="54" nature="2" tooltip="key:620800716:191029568" description="key:620800716:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="9.0"/>
+</trait>
+<trait identifier="1879103446" name="Tarkrîp Tyrant Appearance" iconId="1091422319" category="54" nature="2" tooltip="key:620800725:191029568" description="key:620800725:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="10.0"/>
+</trait>
+<trait identifier="1879103447" name="Blogmal Lieutenant Appearance" iconId="1091422320" category="54" nature="2" tooltip="key:620800726:191029568" description="key:620800726:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="11.0"/>
+</trait>
+<trait identifier="1879103448" name="Blogmal Captain Appearance" iconId="1091422321" category="54" nature="2" tooltip="key:620800727:191029568" description="key:620800727:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="12.0"/>
+</trait>
+<trait identifier="1879103449" name="Blogmal Tyrant Appearance" iconId="1091422322" category="54" nature="2" tooltip="key:620800728:191029568" description="key:620800728:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="13.0"/>
+</trait>
+<trait identifier="1879103450" name="Wicked Urukhai Tyrant Appearance" iconId="1091422323" category="54" nature="2" tooltip="key:620800729:191029568" description="key:620800729:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="14.0"/>
+</trait>
+<trait identifier="1879103451" name="Urukhai War-Tyrant Appearance" iconId="1091422324" category="54" nature="2" tooltip="key:620800730:191029568" description="key:620800730:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="15.0"/>
+</trait>
+<trait identifier="1879103452" name="Tarkrîp Lieutenant Appearance" iconId="1091422325" category="54" nature="2" tooltip="key:620800723:191029568" description="key:620800723:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="8.0"/>
+</trait>
+<trait identifier="1879103453" name="Tarkrîp Captain Appearance" iconId="1091422326" category="54" nature="2" tooltip="key:620800724:191029568" description="key:620800724:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="9.0"/>
+</trait>
+<trait identifier="1879103454" name="Dire Warg Appearance" iconId="1091422327" category="54" nature="2" tooltip="key:620800733:191029568" description="key:620800733:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="10.0"/>
+</trait>
+<trait identifier="1879103455" name="Twilight-howler Appearance" iconId="1091422328" category="54" nature="2" tooltip="key:620800734:191029568" description="key:620800734:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="11.0"/>
+</trait>
+<trait identifier="1879103456" name="Pack-lord Appearance" iconId="1091422329" category="54" nature="2" tooltip="key:620800735:191029568" description="key:620800735:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="12.0"/>
+</trait>
+<trait identifier="1879103457" name="Man-Flayer Appearance" iconId="1091422330" category="54" nature="2" tooltip="key:620800736:191029568" description="key:620800736:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="13.0"/>
+</trait>
+<trait identifier="1879103458" name="Mountain-prowler Appearance" iconId="1091422291" category="54" nature="2" tooltip="key:620800737:191029568" description="key:620800737:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="14.0"/>
+</trait>
+<trait identifier="1879103459" name="Raging Dire Warg Appearance" iconId="1091422292" category="54" nature="2" tooltip="key:620800738:191029568" description="key:620800738:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="15.0"/>
+</trait>
+<trait identifier="1879103460" name="Red-fang Appearance" iconId="1091422293" category="54" nature="2" tooltip="key:620800731:191029568" description="key:620800731:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="8.0"/>
+</trait>
+<trait identifier="1879103461" name="Scavenger Appearance" iconId="1091422294" category="54" nature="2" tooltip="key:620800732:191029568" description="key:620800732:54354734">
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="9.0"/>
 </trait>
 </traits>

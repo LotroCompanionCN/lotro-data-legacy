@@ -1550,14 +1550,14 @@
 <label key="1879098015" value="Saethoniel"/>
 <label key="1879098016" value="Tûzantar"/>
 <label key="1879098017" value="Pâshnar"/>
-<label key="1879098018" value="Egbert Ditchins"/>
+<label key="1879098018" value="Egbert Graben"/>
 <label key="1879098019" value="Cathorn"/>
 <label key="1879098020" value="Celoseth"/>
 <label key="1879098021" value="Halgils"/>
 <label key="1879098022" value="Tongdir"/>
 <label key="1879098023" value="Blythe"/>
 <label key="1879098024" value="Dayna"/>
-<label key="1879098025" value="Bellflower Pitts"/>
+<label key="1879098025" value="Gloria Pitts"/>
 <label key="1879098206" value="Ísleif"/>
 <label key="1879098207" value="Badennas"/>
 <label key="1879098208" value="Graland Weißfuß"/>
@@ -1615,6 +1615,9 @@
 <label key="1879101922" value="Sally Drescher"/>
 <label key="1879102215" value="Tweggi"/>
 <label key="1879102908" value="Alwuld"/>
+<label key="1894514717" value="Ostur"/>
+<label key="1894514718" value="Akur"/>
+<label key="1894514719" value="Odur"/>
 <label key="key:620757644:229802005" value="Geachteter Bauer"/>
 <label key="key:620757737:229802005" value="Wirt"/>
 <label key="key:620757892:229802005" value="Gastwirt"/>
@@ -2256,24 +2259,24 @@
 <label key="key:620796387:229802005" value="Händler für Jäger"/>
 <label key="key:620796388:229802005" value="Restehändler"/>
 <label key="key:620796389:229802005" value="Händler für Kundige"/>
-<label key="key:620796569:229802005" value="Jewelry Trader"/>
-<label key="key:620796570:229802005" value="Loremaster Trader"/>
-<label key="key:620796571:229802005" value="Minstrel Trader"/>
-<label key="key:620796602:229802005" value="Core Corruptions Trader"/>
-<label key="key:620796603:229802005" value="Resistance Corruptions Trader"/>
-<label key="key:620796604:229802005" value="Food Trader"/>
-<label key="key:620796605:229802005" value="Special Items Trader"/>
-<label key="key:620796606:229802005" value="Orc Corruptions Trader"/>
-<label key="key:620796607:229802005" value="Potions Trader"/>
-<label key="key:620796608:229802005" value="Defensive Potions Trader"/>
-<label key="key:620796609:229802005" value="Spider Corruptions Trader"/>
-<label key="key:620796610:229802005" value="Uruk Corruptions Trader"/>
-<label key="key:620796611:229802005" value="Warg Corruptions Trader"/>
-<label key="key:620796612:229802005" value="Burglar Trader"/>
-<label key="key:620796613:229802005" value="Captain Trader"/>
-<label key="key:620796614:229802005" value="Champion Trader"/>
-<label key="key:620796615:229802005" value="Guardian Trader"/>
-<label key="key:620796616:229802005" value="Hunter Trader"/>
+<label key="key:620796569:229802005" value="Schmuckhändler"/>
+<label key="key:620796570:229802005" value="Händler für Kundige"/>
+<label key="key:620796571:229802005" value="Händler für Barden"/>
+<label key="key:620796602:229802005" value="Kernaspekte-Händler"/>
+<label key="key:620796603:229802005" value="Resistenzaspekte-Händler"/>
+<label key="key:620796604:229802005" value="Verpflegungshändler"/>
+<label key="key:620796605:229802005" value="Händler für besondere Gegenstände"/>
+<label key="key:620796606:229802005" value="Orkaspekte-Händler"/>
+<label key="key:620796607:229802005" value="Tränkehändler"/>
+<label key="key:620796608:229802005" value="Händler für Verteidigungstränke"/>
+<label key="key:620796609:229802005" value="Spinnenaspekte-Händler"/>
+<label key="key:620796610:229802005" value="Uruk-Aspekte-Händler"/>
+<label key="key:620796611:229802005" value="Wargaspekte-Händler"/>
+<label key="key:620796612:229802005" value="Händler für Schurken"/>
+<label key="key:620796613:229802005" value="Händler für Hauptleute"/>
+<label key="key:620796614:229802005" value="Händler für Waffenmeister"/>
+<label key="key:620796615:229802005" value="Händler für Wächter"/>
+<label key="key:620796616:229802005" value="Händler für Jäger"/>
 <label key="key:620796833:229802005" value="Waffenflicker"/>
 <label key="key:620796834:229802005" value="Gemischtwarenhändler"/>
 <label key="key:620796835:229802005" value="Tauschhändler"/>
@@ -2302,5 +2305,5 @@
 <label key="key:620799678:229802005" value="Stallbursche"/>
 <label key="key:620799713:229802005" value="Rennleiterin"/>
 <label key="key:620799958:229802005" value="Heiler"/>
-<label key="key:620800515:229802005" value="Item Trader"/>
+<label key="key:620800515:229802005" value="Ausrüstungshändler"/>
 </labels>

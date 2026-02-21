@@ -7564,4 +7564,27 @@
 <virtue id="TOLERANCE"/>
 </rewards>
 </deed>
+<deed id="1894514720" name="The Adventures of Ostur and Akur" rawName="key:636223490:141758597" type="EXPLORER" minLevel="10" category="10" level="45" description="key:636223490:141747235">
+<objectives>
+<objective index="1">
+<landmarkDetection showBillboardText="false" landmarkId="1879048316" landmarkName="Thorin's Hall - The Great Hall"/>
+</objective>
+<objective index="2">
+<npcTalk progressOverride="key:636223490:164511447" showBillboardText="false" npcId="1894514719" npcName="Odur"/>
+</objective>
+<objective index="3" text="key:620759438:94621395">
+<enterDetection progressOverride="key:636223490:199486769"/>
+<enterDetection progressOverride="key:636223490:199486770"/>
+<enterDetection progressOverride="key:636223490:199486771"/>
+<enterDetection progressOverride="key:636223490:199486772"/>
+<enterDetection progressOverride="key:636223490:199486773"/>
+<enterDetection progressOverride="key:636223490:199486774"/>
+<enterDetection progressOverride="key:636223490:199486775"/>
+</objective>
+</objectives>
+<rewards>
+<XP quantity="6443"/>
+<title id="1894514715" name="the Wanderer"/>
+</rewards>
+</deed>
 </deeds>

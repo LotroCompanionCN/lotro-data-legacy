@@ -422,6 +422,7 @@
 <label key="1894514711" value="Calantar"/>
 <label key="1894514712" value="the Legend"/>
 <label key="1894514713" value="the Insane"/>
+<label key="1894514715" value="the Wanderer"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Honourary Shirriff"/>
 <label key="key:620758793:175532558" value="You have aided the Bounders of the Shire greatly and been granted the title of Honourary Shirriff."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Apprentice Scholar"/>
@@ -1270,4 +1271,6 @@
 <label key="key:636223488:75314017" value="Hardcore challenge reward for completing Garth Agarwen."/>
 <label key="key:636223488:75314018" value="Hardcore challenge reward for completing The Great Barrow."/>
 <label key="key:636223488:96594722" value="Hardcore challenge reward for completing all the availalble challenges."/>
+<label key="key:636223495:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} the Wanderer"/>
+<label key="key:636223495:175532558" value="You have found Ostur and Akur, friends of Odur of Thorin's Hall, wandering the lands of Eriador."/>
 </labels>

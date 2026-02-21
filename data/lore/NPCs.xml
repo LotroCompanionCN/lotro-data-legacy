@@ -1737,4 +1737,7 @@
 <NPC id="1879101922" name="Sally Threshing" gender="FEMALE" title="key:620799713:229802005"/>
 <NPC id="1879102215" name="Tweggi" gender="MALE" title="key:620799958:229802005"/>
 <NPC id="1879102908" name="Alwuld" gender="MALE" title="key:620800515:229802005"/>
+<NPC id="1894514717" name="Ostur"/>
+<NPC id="1894514718" name="Akur"/>
+<NPC id="1894514719" name="Odur"/>
 </NPCs>

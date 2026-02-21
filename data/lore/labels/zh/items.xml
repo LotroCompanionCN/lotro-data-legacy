@@ -18829,7 +18829,7 @@
 <label key="1879092402" value="大军之刀"/>
 <label key="1879092403" value="痛苦之强力斧"/>
 <label key="1879092404" value="英勇之斧"/>
-<label key="1879092405" value="银制狼牙棒"/>
+<label key="1879092405" value="银制手斧"/>
 <label key="1879092406" value="暴君之钉头锤"/>
 <label key="1879092407" value="金芒钉头锤"/>
 <label key="1879092408" value="惩罚之狼牙棒"/>
@@ -21897,6 +21897,8 @@
 <label key="1879115225" value="阿莱安特的铭牌"/>
 <label key="1879115226" value="麦内班得的铭牌"/>
 <label key="1879115227" value="米纳然的铭牌"/>
+<label key="1894514716" value="Rope"/>
+<label key="1894514722" value="Rope"/>
 <label key="key:620757454:100083276" value="钱"/>
 <label key="key:620757454:203761950" value="一叠钱"/>
 <label key="key:620757516:54354734" value="一封信。"/>

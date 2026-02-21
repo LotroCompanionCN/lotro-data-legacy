@@ -301,84 +301,84 @@
 <barterProfile profileId="1879098028" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879091392" name="Damage for Health (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879091393" name="Damage for Power (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879091394" name="Health for Damage (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879091395" name="Health for Power (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879091396" name="Power for Damage (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879091397" name="Power for Health (Rank 2)"/>
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879098029" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="16"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <receive id="1879091398" name="Ancient Dwarf Mitigation Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="16"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <receive id="1879091399" name="Beleriand Mitigation Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="16"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <receive id="1879091400" name="Common Mitigation Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="16"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <receive id="1879091401" name="Fire Mitigation Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="16"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <receive id="1879091402" name="Light Mitigation Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="16"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <receive id="1879091403" name="Westernesse Mitigation Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <receive id="1879091404" name="Cry Resistance Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <receive id="1879091405" name="Tactical Resistance Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <receive id="1879091406" name="Physical Resistance Boost (Rank 2)"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <receive id="1879091391" name="Song Resistance Boost (Rank 2)"/>
 </barterEntry>
 </barterProfile>
@@ -434,62 +434,62 @@
 </barterProfile>
 <barterProfile profileId="1879098031" name="">
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097941" name="Akúlhun's Brand of the Tracker"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097948" name="Akúlhun's Brand of the Scout"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097949" name="Akúlhun's Brand of the Skirmisher"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097950" name="Akúlhun's Brand of the Fighter"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097951" name="Akúlhun's Brand of the Soldier"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097952" name="Akúlhun's Brand of the Sentry"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097953" name="Akúlhun's Brand of the Chief Guard"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097954" name="Akúlhun's Brand of the Chief Warrior"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097955" name="Akúlhun's Brand of the Taskmaster"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097942" name="Akúlhun's Brand of the Lieutenant"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097943" name="Akúlhun's Brand of the Commander"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097944" name="Akúlhun's Brand of the Chieftain"/>
 </barterEntry>
@@ -497,43 +497,43 @@
 <barterProfile profileId="1879098032" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="12"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="12"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097980" name="Racial Trait: Front-line Fodder"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="32"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="16"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="16"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879097981" name="Racial Trait: Rage of the Misbegotten"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="40"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879097982" name="Racial Trait: Warrior Against the Deep"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="8"/>
 <receive id="1879097983" name="Racial Trait: Tireless Warrior"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="48"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="24"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="24"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879097984" name="Racial Trait: Flayer of Flesh"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="28"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="14"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="14"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098000" name="Racial Skill: Blood of Fire"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098001" name="Racial Skill:  Undying Rage"/>
 </barterEntry>
@@ -549,32 +549,32 @@
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097928" name="Aged Blood of Man" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="18"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="4"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="4"/>
 <receive id="1879097929" name="Blood of Man" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879097930" name="Fresh Blood of Man" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097931" name="Aged Blood of the Fair Folk" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="18"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="4"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="4"/>
 <receive id="1879097932" name="Blood of the Fair Folk" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="6"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="6"/>
 <receive id="1879097933" name="Fresh Blood of the Fair Folk" quantity="5"/>
 </barterEntry>
 </barterProfile>
@@ -585,12 +585,12 @@
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097923" name="Blood of the Stone Folk" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097924" name="Fresh Blood of the Stone Folk" quantity="5"/>
 </barterEntry>
 <barterEntry>
@@ -599,12 +599,12 @@
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097926" name="Blood of the Little Folk" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097927" name="Fresh Blood of the Little Folk" quantity="5"/>
 </barterEntry>
 <barterEntry>
@@ -613,65 +613,65 @@
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097935" name="Draught of War-tyrant Spittle" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097936" name="Draught of Mordirith's Ire" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097904" name="Phial of Mazauk's Resolve" quantity="5"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="2"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="2"/>
 <receive id="1879097905" name="Phial of Gorgoris' Kiss" quantity="5"/>
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879098035" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="12"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="12"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097985" name="Racial Trait: Eight-legged Foe"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="32"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="16"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="16"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879097986" name="Racial Trait: Swallower of Light"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="40"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879097987" name="Racial Trait: Ancient as the Stars"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="8"/>
 <receive id="1879097988" name="Racial Trait: Enemy of the First Children"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="48"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="24"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="24"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879097989" name="Racial Trait: Drinker of Blood"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="28"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="14"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="14"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098002" name="Racial Skill:  Born of Shadow"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098003" name="Racial Skill:  Shelob's Gift"/>
 </barterEntry>
@@ -679,43 +679,43 @@
 <barterProfile profileId="1879098036" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="12"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="12"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097990" name="Racial Trait: New Breed"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="32"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="16"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="16"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879097991" name="Racial Trait: Leaders of the Orcs"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="40"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879097992" name="Racial Trait: Favoured Servant of the Dark"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="8"/>
 <receive id="1879097993" name="Racial Trait: Tireless Warrior"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="48"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="24"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="24"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879097994" name="Racial Trait: Brutal Persuasion"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="28"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="14"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="14"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098004" name="Racial Skill:  Imposing Presence"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098005" name="Racial Skill:  Get a Grip!"/>
 </barterEntry>
@@ -723,43 +723,43 @@
 <barterProfile profileId="1879098037" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="24"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="12"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="12"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097995" name="Racial Trait: Four-legged Foe"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="32"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="16"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="16"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879097996" name="Racial Trait: Pack Mentality"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="40"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879097997" name="Racial Trait: Pack Elder"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="8"/>
 <receive id="1879097998" name="Racial Trait: Foe of the Light"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="48"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="24"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="24"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879097999" name="Racial Trait: Pack Alpha"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="28"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="14"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="14"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098006" name="Racial Skill: Pack Hunters"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="44"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="22"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="22"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879098007" name="Racial Skill: Eyes of Unnerving"/>
 </barterEntry>
@@ -1247,49 +1247,49 @@
 <barterProfile profileId="1879102881" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="35"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="30"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="30"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="12"/>
 <receive id="1879102486" name="Thagallthrek Helm"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102485" name="Thagallthrek Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102484" name="Thagallthrek Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="25"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="25"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879102481" name="Thagallthrek Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102483" name="Thagallthrek Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="25"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102482" name="Thagallthrek Boots"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102577" name="Dornhigil"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102576" name="Bronwehigil"/>
 </barterEntry>
@@ -1297,61 +1297,61 @@
 <barterProfile profileId="1879102882" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102492" name="Kappwin Helm"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="3"/>
 <receive id="1879102491" name="Kappwin Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="5"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="3"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="3"/>
 <give id="1879095719" name="Luminous Spirit Stone"/>
 <receive id="1879102490" name="Kappwin Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="15"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="12"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="12"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102487" name="Kappwin Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="5"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="3"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="3"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102489" name="Kappwin Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="12"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="3"/>
 <receive id="1879102488" name="Kappwin Boots"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="15"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="3"/>
 <receive id="1879102591" name="Móthskold"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="15"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102581" name="Bronwenaith"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="5"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="3"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="3"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879111444" name="Carbuncle Earring"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="15"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="8"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="8"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879110743" name="Ettendeep's Bane"/>
 </barterEntry>
@@ -1359,49 +1359,49 @@
 <barterProfile profileId="1879102883" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="35"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="30"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="30"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="12"/>
 <receive id="1879102504" name="Threkkappi Helm"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102503" name="Threkkappi Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102502" name="Threkkappi Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="25"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="25"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879102499" name="Threkkappi Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102501" name="Threkkappi Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="25"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102500" name="Threkkappi Boots"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102580" name="Tordram"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102578" name="Dagorhigil"/>
 </barterEntry>
@@ -1409,49 +1409,49 @@
 <barterProfile profileId="1879102884" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="35"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="30"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="30"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="12"/>
 <receive id="1879102498" name="Hlifworth Helm"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102497" name="Hlifworth Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102496" name="Hlifworth Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="25"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="25"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879102493" name="Hlifworth Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102495" name="Hlifworth Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="25"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102494" name="Hlifworth Boots"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102593" name="Skotrand"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102574" name="Thalionhathol"/>
 </barterEntry>
@@ -1459,49 +1459,49 @@
 <barterProfile profileId="1879102885" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="35"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="30"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="30"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="12"/>
 <receive id="1879102480" name="Hlifherór Helm"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102479" name="Hlifherór Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102478" name="Hlifherór Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="25"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="25"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879102475" name="Hlifherór Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102477" name="Hlifherór Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="25"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102476" name="Hlifherór Boots"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102575" name="Cudúr"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102579" name="Filigodrist"/>
 </barterEntry>
@@ -1509,73 +1509,73 @@
 <barterProfile profileId="1879102886" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone"/>
 <receive id="1879102673" name="Snúa-men"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="3"/>
 <receive id="1879102679" name="Sterk-baug"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102670" name="Angechor"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102676" name="Ancient Flasket"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone"/>
 <receive id="1879102674" name="Edhelharnhigil"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="3"/>
 <receive id="1879102680" name="Lorchor"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102671" name="Edhelharnechor"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102677" name="Pouch of Thorns"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone"/>
 <receive id="1879102675" name="Narinn"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="3"/>
 <receive id="1879102681" name="Filigodringor"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102672" name="Iorechor"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102678" name="Quartz Figurine"/>
 </barterEntry>
@@ -1583,49 +1583,49 @@
 <barterProfile profileId="1879102887" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="35"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="30"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="30"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="12"/>
 <receive id="1879102468" name="Feldskyn Hat"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102467" name="Feldskyn Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102466" name="Feldskyn Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="25"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="25"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879102463" name="Feldskyn Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102465" name="Feldskyn Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="25"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102464" name="Feldskyn Shoes"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102582" name="Balanis"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102583" name="Golumagol"/>
 </barterEntry>
@@ -1633,49 +1633,49 @@
 <barterProfile profileId="1879102888" name="">
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="35"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="30"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="30"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="12"/>
 <receive id="1879102474" name="Anganskáld Hat"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="20"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="10"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="10"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="6"/>
 <receive id="1879102473" name="Anganskáld Shoulders"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102472" name="Anganskáld Guard"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="25"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="25"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="10"/>
 <receive id="1879102469" name="Anganskáld Gloves"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="10"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="5"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="5"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102471" name="Anganskáld Leggings"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="25"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102470" name="Anganskáld Shoes"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="5"/>
 <receive id="1879102592" name="Luthskold"/>
 </barterEntry>
 <barterEntry>
 <give id="1879095717" name="Dull Spirit Stone" quantity="30"/>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="15"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="15"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="7"/>
 <receive id="1879102584" name="Romegil"/>
 </barterEntry>
@@ -1708,96 +1708,96 @@
 </barterProfile>
 <barterProfile profileId="1879103801" name="">
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097945" name="Akúlhun's Brand of the High Chieftain"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879097946" name="Akúlhun's Brand of the Overlord"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="40"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="40"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879097947" name="Akúlhun's Brand of the Tyrant"/>
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879103802" name="">
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102525" name="Lainedhal's Insignia of the Footman"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102551" name="Lainedhal's Insignia of the Esquire"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102552" name="Lainedhal's Insignia of the Guardsman"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102553" name="Lainedhal's Insignia of the Man-at-Arms"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102554" name="Lainedhal's Insignia of the Sergeant of the Guard"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102555" name="Lainedhal's Insignia of the Sergeant-at-Arms"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102556" name="Lainedhal's Insignia of the Master Guardsman"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102557" name="Lainedhal's Insignia of the Master-at-Arms"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102558" name="Lainedhal's Insignia of the High Warden"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102545" name="Lainedhal's Insignia of the Lieutenant"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102546" name="Lainedhal's Insignia of the Commander"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102547" name="Lainedhal's Insignia of the Third Marshal"/>
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879103803" name="">
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102548" name="Lainedhal's Insignia of the Second Marshal"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="20"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="20"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="2"/>
 <receive id="1879102549" name="Lainedhal's Insignia of the First Marshal"/>
 </barterEntry>
 <barterEntry>
-<give id="1879095718" name="Glimmering Spirit Sone" quantity="40"/>
+<give id="1879095718" name="Glimmering Spirit Stone" quantity="40"/>
 <give id="1879095719" name="Luminous Spirit Stone" quantity="4"/>
 <receive id="1879102550" name="Lainedhal's Insignia of the Captain-General"/>
 </barterEntry>

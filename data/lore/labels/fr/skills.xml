@@ -786,6 +786,7 @@
 <label key="1879085113" value="Coup de pied circulaire"/>
 <label key="1879085114" value="Cri furieux"/>
 <label key="1879085117" value="Tir (niveau 4)"/>
+<label key="1879085127" value="2H Weapon Attack"/>
 <label key="1879085129" value="Attaque de racines"/>
 <label key="1879085142" value="Tranchoir (niveau 4)"/>
 <label key="1879085148" value="Tranche (niveau 3)"/>
@@ -1293,14 +1294,14 @@
 <label key="1879097785" value="Invocation de ver"/>
 <label key="1879097826" value="Boule de feu"/>
 <label key="1879097828" value="Flamme jaillissante"/>
-<label key="1879097861" value="Get a Grip!"/>
-<label key="1879097863" value="Pack Hunters"/>
-<label key="1879097865" value="Eyes of Unnerving"/>
-<label key="1879097866" value="Blood of Fire"/>
-<label key="1879097868" value="Dying Rage"/>
-<label key="1879097871" value="Born of Shadow"/>
-<label key="1879097873" value="Shelob's Gift"/>
-<label key="1879097874" value="Imposing Presence"/>
+<label key="1879097861" value="Du nerf !"/>
+<label key="1879097863" value="Chasse en meute"/>
+<label key="1879097865" value="Regard intimidant"/>
+<label key="1879097866" value="Sang enflammé"/>
+<label key="1879097868" value="Rage mortelle"/>
+<label key="1879097871" value="Native des ombres"/>
+<label key="1879097873" value="Don d'Arachne"/>
+<label key="1879097874" value="Présence imposante"/>
 <label key="1879097878" value="Tendon déchiré"/>
 <label key="1879097879" value="Regard circulaire"/>
 <label key="1879097880" value="A l'attaque !"/>
@@ -1367,7 +1368,19 @@
 <label key="1879102223" value="Fléau de maître du savoir"/>
 <label key="1879102224" value="Vengeance de Gurthul"/>
 <label key="1879102439" value="Dernier lancer"/>
-<label key="1879102630" value="Super Heal"/>
+<label key="1879102630" value="Super Guérison"/>
+<label key="1879104837" value="Headbreaker"/>
+<label key="1879104838" value="Curse of the Coward's Soul"/>
+<label key="1879104839" value="Fungal Spores"/>
+<label key="1879104840" value="Curse of Deadly Sorrows"/>
+<label key="1879104841" value="Curse of Sticky Feet"/>
+<label key="1879104842" value="Fungal Bloom"/>
+<label key="1879104843" value="Curse of the Lethargic Heart"/>
+<label key="1879104844" value="Fertile Slime"/>
+<label key="1879104845" value="Fell Sacrifice"/>
+<label key="1879104846" value="Fell Restoration"/>
+<label key="1879104847" value="Fire Gourd"/>
+<label key="1879104848" value="Plague Gourd"/>
 <label key="key:620757890:228830419" value="Cette compétence est une version rapide de discrétion."/>
 <label key="key:620759186:228830419" value="Après avoir utilisé votre Coup à double tranchant, vous pouvez porter une parie d’attaques puissantes contre votre cible."/>
 <label key="key:620759211:228830419" value="Après avoir utilisé Frappe à double tranchant, vous infligez des dégâts importants, tout en vous offrant une fenêtre de 6 s pour utiliser vos compétences de communauté si vous faites partie d'une communauté."/>
@@ -1796,6 +1809,7 @@
 <label key="key:620788773:228830419" value="Attaque qui compense son manque d'élégance par l'efficacité de sa brutalité."/>
 <label key="key:620788775:228830419" value="Attaque élémentaire à distance au moyen d'une arme."/>
 <label key="key:620788782:228830419" value="Grand coup tranchant circulaire qui peut infliger des dégâts à plusieurs cibles se trouvant devant celui qui attaque."/>
+<label key="key:620788800:228830419" value="Auto-attack when wielding a two-handed weapon."/>
 <label key="key:620788803:228830419" value="Attaque tranchante basique mais efficace."/>
 <label key="key:620788806:228830419" value="Deux attaques rapides portées contre votre cible."/>
 <label key="key:620789554:228830419" value="Vos actes héroïques inspirent vos compagnons, ce qui leur rend leur Puissance, tout en vidant de la vôtre. Cette compétence ne peut être utilisée qu'après avoir vaincu un ennemi."/>
@@ -1947,14 +1961,14 @@
 <label key="key:620795938:228830419" value="Votre connaissance de la langue des chats vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
 <label key="key:620795997:228830419" value="Votre connaissance de la langue des tortues vous permet d'en appeler une pour vous redonner un peu d'espoir."/>
 <label key="key:620796000:228830419" value="A l'aide de soigneuses pensées, le maître du savoir peut remettre un compagnon tombé en état de se battre, ressuscitant ainsi un allié vaincu au prix modeste de quelques herbes odorantes."/>
-<label key="key:620796444:228830419" value="As an Uruk you are adept at whipping those lesser beasts in Sauron's army back into shape."/>
-<label key="key:620796447:228830419" value="Wargs are pack hunters. You can target a foe and increase the damage dealt by all members of your war party."/>
-<label key="key:620796449:228830419" value="So great is the fear your eyes can cause that you bring dread to the field of battle."/>
-<label key="key:620796451:228830419" value="Rage seething beneath the surface of your flesh takes on a physical manifestation and any daring to attack you will feel the wrath of the orcs!"/>
-<label key="key:620796454:228830419" value="When death nears, you gain the ability to call on the power of your blood and become a powerful force of destruction before your flame is extinguished. Most offensive skills are reset when this skill is activated."/>
-<label key="key:620796458:228830419" value="Your heritage extends to the fabric of shadow and you harness a piece of that black energy to damage foes who trespass near you."/>
-<label key="key:620796461:228830419" value="Your ancestry affords you incredible powers of recovery. After successfully defeating an opponent you can immediately drain them of vitality and restore your health."/>
-<label key="key:620796463:228830419" value="Your presence inspires those around you to greater strength; mostly through fear."/>
+<label key="key:620796444:228830419" value="En tant qu'Ourouk-haï, vous avez la possibilité d'écraser les créatures inférieures de l'armée de Sauron."/>
+<label key="key:620796447:228830419" value="Les ouargues chassent en meutes. Vous pouvez cibler un ennemi et augmenter les dégâts infligés par tous les membres de votre groupe."/>
+<label key="key:620796449:228830419" value="Vos yeux peuvent causer une telle peur que vous régnez sur le champ de bataille."/>
+<label key="key:620796451:228830419" value="La rage qui bouillonne en vous se manifeste physiquement, et tous ceux qui vous attaqueront connaîtront la colère des Orques !"/>
+<label key="key:620796454:228830419" value="Lorsque la mort est proche, vous obtenez la capacité d'appeler le pouvoir de votre sang et de devenir une puissante force de destruction avant que votre flamme ne s'éteigne. La plupart des compétences d'attaque sont réinitialisées lorsque celle-ci s'active."/>
+<label key="key:620796458:228830419" value="Votre héritage s'étend à la composition des ombres, et vous utilisez un morceau de cette énergie noire pour attaquer les ennemis qui approchent."/>
+<label key="key:620796461:228830419" value="Votre lignée vous permet de bénéficier d'incroyables pouvoirs de récupération. Lorsque vous vainquez un ennemi, vous pouvez immédiatement lui dérober toute sa vitalité afin de récupérer de la santé."/>
+<label key="key:620796463:228830419" value="Votre présence inspire ceux qui sont autour de vous et les rend plus forts, principalement car ils ont peur de vous."/>
 <label key="key:620796467:228830419" value="Vos dents se plantent profondément dans les chairs de l'ennemi, ce qui déchire son tendon et offre ainsi l'opportunité de réaliser une manoeuvre de groupe."/>
 <label key="key:620796468:228830419" value="Un rapide balayage du regard nuit empêche votre adversaire de se concentrer."/>
 <label key="key:620796469:228830419" value="Quand l'heure du combat est venue, c'est aux Orques qu'il incombe de briser les lignes adverses. Vous gagnez une brève immunité contre les effets de racine, d'hébètement et d'étourdissement. Votre vitesse augmente brièvement."/>
@@ -1981,4 +1995,16 @@
 <label key="key:620799391:228830419" value="Retournez rapidement dans votre maison personnelle. Cette compétence s'interrompt facilement."/>
 <label key="key:620799393:228830419" value="Retournez rapidement à la maison de votre confrérie. Cette compétence s'interrompt facilement."/>
 <label key="key:620799546:228830419" value="Cette compétence permet à l'aigle de faire échouer la tentative de la cible qu'il combat."/>
+<label key="key:620802446:228830419" value="Returns target ally to activity from defeat.  Only useable out of combat."/>
+<label key="key:620802447:228830419" value="A strong blow from the Defiler's staff.  Contact with a Defiler's staff can poison many denizens of Middle-earth."/>
+<label key="key:620802448:228830419" value="Coats the opponent's feet in a sticky substance that slows their movement speed."/>
+<label key="key:620802449:228830419" value="Spores weave their way into the target, helping to speed the healing process."/>
+<label key="key:620802450:228830419" value="A gourd filled with burning embers is launched at your opponent, setting them alight."/>
+<label key="key:620802451:228830419" value="Douse opponent with corrosive liquid that weakens their armour and releases a soporific gas that reduces Will, Fate and Strength."/>
+<label key="key:620802452:228830419" value="Gourds filled with foul herbs and liquids from the depths of Angmar relieve the sting of wounds on the flesh of foul creatures."/>
+<label key="key:620802453:228830419" value="A plague of flies fills a foetid gourd which explodes on your opponent. On a good throw, the plague flies may cause your opponent to become easier to hit for a short time."/>
+<label key="key:620802454:228830419" value="A gourd thrown at the target plagues them with spores attacking their heart and weakening their resolve.  This skill is only effective against players."/>
+<label key="key:620802456:228830419" value="Living slime coats the target's wounds and restores health."/>
+<label key="key:620802457:228830419" value="When finished casting, Fell Restoration instantly restores a huge amount of health to target."/>
+<label key="key:620802458:228830419" value="Release hallucenogenic spores that strike fear into nearby enemies."/>
 </labels>

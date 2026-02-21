@@ -473,6 +473,7 @@
 <label key="1879072501" value="Apparence 3"/>
 <label key="1879072502" value="Apparence 4"/>
 <label key="1879072503" value="Apparence 5"/>
+<label key="1879072504" value="Prowler Appearance"/>
 <label key="1879072505" value="Dégâts contre santé (niveau 1)"/>
 <label key="1879072506" value="Dégâts contre Puissance (niveau 1)"/>
 <label key="1879072507" value="Santé contre dégâts (niveau 1)"/>
@@ -566,7 +567,25 @@
 <label key="1879076104" value="Utilisation des armes et armures"/>
 <label key="1879076155" value="Cornes de bravoure"/>
 <label key="1879076358" value="Combat au bouclier"/>
+<label key="1879084077" value="Armour Boost"/>
+<label key="1879084079" value="Bear Masked Tarkrîp Appearance"/>
+<label key="1879084080" value="White Hand Soldier Appearance"/>
 <label key="1879084084" value="Esquive : niveau 2"/>
+<label key="1879084085" value="Goat Masked Krahjarn Appearance"/>
+<label key="1879084091" value="Goat Masked Blogmal Appearance"/>
+<label key="1879084093" value="Enhanced Skill: Curse of Sticky Feet"/>
+<label key="1879084097" value="Blood-seeker Appearance"/>
+<label key="1879084098" value="Goat Masked Ongbúrz Appearance"/>
+<label key="1879084103" value="Bear Masked Blogmal Appearance"/>
+<label key="1879084104" value="Morale Boost"/>
+<label key="1879084107" value="Bear Masked Ongbúrz Appearance"/>
+<label key="1879084109" value="Goat Masked Tarkrîp Appearance"/>
+<label key="1879084112" value="Ghost-bow Scout Appearance"/>
+<label key="1879084113" value="Enhanced Skill: Plague Gourd"/>
+<label key="1879084115" value="Urukhai Overseer Appearance"/>
+<label key="1879084117" value="Advanced Skill: Fungal Spores"/>
+<label key="1879084118" value="Enhanced Skill: Fell Sacrifice"/>
+<label key="1879084121" value="Shadow Queen Appearance"/>
 <label key="1879088470" value="Utilisation de tambour"/>
 <label key="1879088471" value="Utilisation de tuorbe"/>
 <label key="1879090925" value="Chants de l'arc"/>
@@ -595,34 +614,34 @@
 <label key="1879097466" value="Utilisation de cornemuse"/>
 <label key="1879097468" value="Utilisation des cloches de vache de base"/>
 <label key="1879097470" value="Utilisation des cloches de vache des landes"/>
-<label key="1879097831" value="Front-line Fodder"/>
-<label key="1879097832" value="Rage of the Misbegotten"/>
-<label key="1879097833" value="Warrior Against the Deep"/>
-<label key="1879097834" value="Tireless Warrior"/>
-<label key="1879097835" value="Flayer of Flesh"/>
-<label key="1879097836" value="Eight-legged Menace"/>
-<label key="1879097837" value="Swallower of Light"/>
-<label key="1879097838" value="Ancient as the Stars"/>
-<label key="1879097839" value="Enemies of the First Children"/>
-<label key="1879097840" value="Drinker of Blood"/>
-<label key="1879097841" value="New Breed"/>
-<label key="1879097842" value="Leaders of the Orcs"/>
-<label key="1879097843" value="Favoured Servant of the Dark"/>
-<label key="1879097844" value="Tireless Warrior"/>
-<label key="1879097845" value="Brutal persuasion"/>
-<label key="1879097846" value="Four-legged Foe"/>
-<label key="1879097847" value="Pack Mentality"/>
-<label key="1879097848" value="Pack Elder"/>
-<label key="1879097849" value="Foe of the Light"/>
-<label key="1879097850" value="Pack Alpha"/>
-<label key="1879097853" value="Advanced Skill: Blood of Fire"/>
-<label key="1879097854" value="Advanced Skill: Undying Rage"/>
-<label key="1879097855" value="Advanced Skill: Born of Shadow"/>
-<label key="1879097856" value="Advanced Skill: Shelob's Gift"/>
-<label key="1879097857" value="Advanced Skill: Imposing Presence"/>
-<label key="1879097858" value="Advanced Skill: Get a Grip!"/>
-<label key="1879097859" value="Advanced Skill: Pack Hunters"/>
-<label key="1879097860" value="Advanced Skill: Eyes of Unnerving"/>
+<label key="1879097831" value="Chair à canon"/>
+<label key="1879097832" value="Rage des illégitimes"/>
+<label key="1879097833" value="Ennemi des profondeurs"/>
+<label key="1879097834" value="Guerrier infatigable"/>
+<label key="1879097835" value="Ecorcheur"/>
+<label key="1879097836" value="Menace à huit pattes"/>
+<label key="1879097837" value="Avaleuse de lumière"/>
+<label key="1879097838" value="Vieille comme le monde"/>
+<label key="1879097839" value="Ennemie des Premiers Enfants"/>
+<label key="1879097840" value="Buveuse de sang"/>
+<label key="1879097841" value="Nouvelle race"/>
+<label key="1879097842" value="Chef des orques"/>
+<label key="1879097843" value="Serviteur choyé des ténèbres"/>
+<label key="1879097844" value="Guerrier infatigable"/>
+<label key="1879097845" value="Persuasion brutale"/>
+<label key="1879097846" value="Menace à quatre pattes"/>
+<label key="1879097847" value="Mentalité de meute"/>
+<label key="1879097848" value="Ancien de la meute"/>
+<label key="1879097849" value="Ennemi de la lumière"/>
+<label key="1879097850" value="Alpha de la meute"/>
+<label key="1879097853" value="Compétence avancée : Sang de feu"/>
+<label key="1879097854" value="Compétence avancée : Rage agonisante"/>
+<label key="1879097855" value="Compétence avancée : Native des ombres"/>
+<label key="1879097856" value="Compétence avancée : Don d'Arachne"/>
+<label key="1879097857" value="Compétence avancée : Présence imposante"/>
+<label key="1879097858" value="Compétence avancée : Du nerf !"/>
+<label key="1879097859" value="Compétence avancée : Chasse en meute"/>
+<label key="1879097860" value="Compétence avancée : Regard intimidant"/>
 <label key="1879101492" value="Ami de la nature"/>
 <label key="1879101513" value="Maison dans le Pays de Bree"/>
 <label key="1879101514" value="Maison dans le Pays de Bree"/>
@@ -639,6 +658,54 @@
 <label key="1879101614" value="Rendez-vous à la maison de votre confrérie"/>
 <label key="1879101615" value="Retour à la maison personnelle"/>
 <label key="1879101895" value="${PLAYERNAME:Cavalier|Cavalière} novice"/>
+<label key="1879103414" value="Helmed Krahjarn Soldier Appearance"/>
+<label key="1879103415" value="Blogmal Soldier Appearance"/>
+<label key="1879103416" value="Ongbúrz Warrior Appearance"/>
+<label key="1879103417" value="Elite Ongbúrz Warrior Appearance"/>
+<label key="1879103418" value="Ongbúrz Warlord Appearance"/>
+<label key="1879103419" value="Elite Ongbúrz Warlord Appearance"/>
+<label key="1879103420" value="Tarkrîp Fighter Appearance"/>
+<label key="1879103421" value="Tarkrîp Soldier Appearance"/>
+<label key="1879103422" value="Auroch Masked Ongbúrz Appearance"/>
+<label key="1879103423" value="Auroch Masked Blogmal Appearance"/>
+<label key="1879103424" value="Auroch Masked Krahjarn Appearance"/>
+<label key="1879103425" value="Drake Masked Ongbúrz Appearance"/>
+<label key="1879103426" value="Drake Masked Blogmal Appearance"/>
+<label key="1879103427" value="Drake Masked Krahjarn Appearance"/>
+<label key="1879103428" value="Bear Masked Krahjarn Appearance"/>
+<label key="1879103429" value="Auroch Masked Tarkrîp Appearance"/>
+<label key="1879103430" value="Rift-crawler Queen Appearance"/>
+<label key="1879103431" value="Vile Moor-web Appearance"/>
+<label key="1879103432" value="Barrow Queen Appearance"/>
+<label key="1879103433" value="Bogbereth Spinner Appearance"/>
+<label key="1879103434" value="Bogbereth Matron Appearance"/>
+<label key="1879103435" value="Grimfang Ambusher Appearance"/>
+<label key="1879103436" value="Ash Weaver Appearance"/>
+<label key="1879103437" value="Kingsfell Creeper Appearance"/>
+<label key="1879103438" value="Black-bow Sentry Appearance"/>
+<label key="1879103439" value="Ghost-bow Sentry Appearance"/>
+<label key="1879103440" value="Dark-arrow Elite Appearance"/>
+<label key="1879103441" value="Fel-arrow Elite Appearance"/>
+<label key="1879103442" value="Black-bow Elite Appearance"/>
+<label key="1879103443" value="Ghost-bow Elite Appearance"/>
+<label key="1879103444" value="Dark-arrow Sentry Appearance"/>
+<label key="1879103445" value="Urukhai Scout Appearance"/>
+<label key="1879103446" value="Tarkrîp Tyrant Appearance"/>
+<label key="1879103447" value="Blogmal Lieutenant Appearance"/>
+<label key="1879103448" value="Blogmal Captain Appearance"/>
+<label key="1879103449" value="Blogmal Tyrant Appearance"/>
+<label key="1879103450" value="Wicked Urukhai Tyrant Appearance"/>
+<label key="1879103451" value="Urukhai War-Tyrant Appearance"/>
+<label key="1879103452" value="Tarkrîp Lieutenant Appearance"/>
+<label key="1879103453" value="Tarkrîp Captain Appearance"/>
+<label key="1879103454" value="Dire Warg Appearance"/>
+<label key="1879103455" value="Twilight-howler Appearance"/>
+<label key="1879103456" value="Pack-lord Appearance"/>
+<label key="1879103457" value="Man-Flayer Appearance"/>
+<label key="1879103458" value="Mountain-prowler Appearance"/>
+<label key="1879103459" value="Raging Dire Warg Appearance"/>
+<label key="1879103460" value="Red-fang Appearance"/>
+<label key="1879103461" value="Scavenger Appearance"/>
 <label key="key:620757613:191029568" value="On vous considère comme quelqu'un qui pourrait un jour influencer directement le cours des évènements de la Terre du Milieu"/>
 <label key="key:620757613:54354734" value="On vous considère comme quelqu'un qui pourrait un jour influencer directement le cours des évènements de la Terre du Milieu"/>
 <label key="key:620758784:191029568" value="Vous avez la capacité de chevaucher des montures."/>
@@ -1510,6 +1577,8 @@
 <label key="key:620774769:54354734" value="Autre apparence visuelle pour votre Ouargue traqueur"/>
 <label key="key:620774770:191029568" value="Autre apparence visuelle pour votre Ouargue traqueur"/>
 <label key="key:620774770:54354734" value="Autre apparence visuelle pour votre Ouargue traqueur"/>
+<label key="key:620774771:191029568" value="A different visual appearance for your Warg Stalker.  A grey warg with grey-brown legs, white rimmed ears, and a white masked face."/>
+<label key="key:620774771:54354734" value="A different visual appearance for your Warg Stalker.  A grey warg with grey-brown legs, white rimmed ears, and a white masked face."/>
 <label key="key:620774772:106251892" value="Réduit votre santé totale de ${PERCENTVALUE}."/>
 <label key="key:620774772:191029568" value="Les traits de corruption vous permettent d'améliorer un aspect de votre personnage au détriment d'autres aspects."/>
 <label key="key:620774772:54354734" value="Les traits de corruption vous permettent d'améliorer un aspect de votre personnage au détriment d'autres aspects."/>
@@ -1693,6 +1762,43 @@
 <label key="key:620777591:54354734" value="Permet d'utiliser les cors de champion."/>
 <label key="key:620777690:191029568" value="Les nains sont d'excellents défenseurs au combat."/>
 <label key="key:620777690:54354734" value="Vos capacités de défense au combat ont augmenté."/>
+<label key="key:620788930:191029568" value="A different visual appearance for your Orc Reaver.  A green skinned orc wearing a White Hand helm, leather tunic, and heavy armour on the shoulders, arms, and lower legs.  A sword in scabbard is worn on the back."/>
+<label key="key:620788930:54354734" value="A different visual appearance for your Orc Reaver.  A green skinned orc wearing a White Hand helm, leather tunic, and heavy armour on the shoulders, arms, and lower legs.  A sword in scabbard is worn on the back."/>
+<label key="key:620788931:191029568" value="A different visual appearance for your Orc Defiler.  A red skinned orc wearing a brown leather tunic."/>
+<label key="key:620788931:54354734" value="A different visual appearance for your Orc Defiler.  A red skinned orc wearing a brown leather tunic."/>
+<label key="key:620788932:191029568" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620788932:54354734" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620788933:191029568" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620788933:54354734" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620788934:191029568" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620788934:54354734" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620788935:191029568" value="A different visual appearance for your Orc Defiler.  A red skinned orc wearing a brown leather tunic."/>
+<label key="key:620788935:54354734" value="A different visual appearance for your Orc Defiler.  A red skinned orc wearing a brown leather tunic."/>
+<label key="key:620788936:191029568" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620788936:54354734" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620788937:191029568" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620788937:54354734" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620788938:191029568" value="Increase maximum morale by +10%"/>
+<label key="key:620788938:54354734" value="Increase maximum morale by +10%"/>
+<label key="key:620788939:191029568" value="Increase armour rating by 210"/>
+<label key="key:620788939:54354734" value="Increase armour rating by 210"/>
+<label key="key:620788942:191029568" value="In addition to the movement penalty, opponents affected by this curse have their Fire Mitigation reduced by 10%."/>
+<label key="key:620788942:54354734" value="In addition to the movement penalty, opponents affected by this curse have their Fire Mitigation reduced by 10%."/>
+<label key="key:620788943:191029568" value="Reduces cooldown by 30 seconds.  Halves morale and power casting costs."/>
+<label key="key:620788943:54354734" value="Reduces cooldown by 30 seconds.  Halves morale and power casting costs."/>
+<label key="key:620788944:106251889" value="Increases Critical Hit chance of Plague Gourd by ${PERCENTVALUE}"/>
+<label key="key:620788944:191029568" value="Increases chance for critical hit and increases the loss of block, parry and evade when a critical hit is made."/>
+<label key="key:620788944:54354734" value="Increases chance for critical hit and increases the loss of block, parry and evade when a critical hit is made."/>
+<label key="key:620788945:191029568" value="Spores weave their way into the target, helping to speed the healing process."/>
+<label key="key:620788945:54354734" value="Spores weave their way into the target, helping to speed the healing process."/>
+<label key="key:620788948:191029568" value="A different visual appearance for your Spider Weaver.  A black spider with a yellow luminescent lower abdomen. The legs are coloured black and red with yellow luminescent mid-sections."/>
+<label key="key:620788948:54354734" value="A different visual appearance for your Spider Weaver.  A black spider with a yellow luminescent lower abdomen. The legs are coloured black and red with yellow luminescent mid-sections."/>
+<label key="key:620788949:191029568" value="A different visual appearance for your Uruk Blackarrow.  A dark skinned, long haired uruk with white paint decorating the face, chest, and arms."/>
+<label key="key:620788949:54354734" value="A different visual appearance for your Uruk Blackarrow.  A dark skinned, long haired uruk with white paint decorating the face, chest, and arms."/>
+<label key="key:620788950:191029568" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic, helm, and heavy armour on the shoulders, hands, and lower legs.  His armour is dark coloured."/>
+<label key="key:620788950:54354734" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic, helm, and heavy armour on the shoulders, hands, and lower legs.  His armour is dark coloured."/>
+<label key="key:620788951:191029568" value="A different visual appearance for your Warg Stalker.  A dark red-brown warg with white fur on the lower face and muzzle."/>
+<label key="key:620788951:54354734" value="A different visual appearance for your Warg Stalker.  A dark red-brown warg with white fur on the lower face and muzzle."/>
 <label key="key:620790690:191029568" value="Permet l'utilisation des tambours."/>
 <label key="key:620790690:54354734" value="Permet l'utilisation des tambours."/>
 <label key="key:620790691:191029568" value="Permet l'utilisation des tuorbes."/>
@@ -1757,23 +1863,23 @@
 <label key="key:620796148:54354734" value="Permet l'utilisation des cloches de vache."/>
 <label key="key:620796151:191029568" value="Permet l'utilisation des cloches de vache perfectionnées."/>
 <label key="key:620796151:54354734" value="Permet l'utilisation des cloches de vache des landes spéciales."/>
-<label key="key:620796422:106251889" value="Increases your movement by ${PERCENTVALUE}."/>
-<label key="key:620796443:191029568" value="You can inspire the forces of darkness to even greater feats, even as they near the brink of defeat."/>
-<label key="key:620796443:54354734" value="You can inspire the forces of darkness to even greater feats, even as they near the brink of defeat."/>
-<label key="key:620796446:191029568" value="You are pack hunters and can call out one target, increasing the efficiency of your allies against that target."/>
-<label key="key:620796446:54354734" value="You are pack hunters and can call out one target, increasing the efficiency of your allies against that target."/>
-<label key="key:620796448:191029568" value="So great is the fear inspired by your eyes that you bring dread to those around you."/>
-<label key="key:620796448:54354734" value="So great is the fear inspired by your eyes that you bring dread to those around you."/>
-<label key="key:620796450:191029568" value="The rage of the orcs burns strong within you. You can draw upon your racial strength and make those that attack you suffer for their transgression."/>
-<label key="key:620796450:54354734" value="The rage of the orcs burns strong within you. You can draw upon your racial strength and make those that attack you suffer for their transgression."/>
-<label key="key:620796453:191029568" value="As death's shroud closes in upon you, you are able to enter one last frenzied rage before the end."/>
-<label key="key:620796453:54354734" value="As death's shroud closes in upon you, you are able to enter one last frenzied rage before the end."/>
-<label key="key:620796457:191029568" value="You are able to draw upon the darkness from whence the first of your kind was born and cloak yourself in harmful shadows."/>
-<label key="key:620796457:54354734" value="You are able to draw upon the darkness from whence the first of your kind was born and cloak yourself in harmful shadows."/>
-<label key="key:620796460:191029568" value="Upon defeating an opponent you are able to use their shattered husk for sustenance."/>
-<label key="key:620796460:54354734" value="Upon defeating an opponent you are able to use their shattered husk for sustenance."/>
-<label key="key:620796462:191029568" value="Your presence inspires the lesser beings around you to greater strength."/>
-<label key="key:620796462:54354734" value="Your presence inspires the lesser beings around you to greater strength."/>
+<label key="key:620796422:106251889" value="Augmente votre déplacement de ${PERCENTVALUE}."/>
+<label key="key:620796443:191029568" value="Vous pouvez inciter les forces des ténèbres à encore plus de prouesses, même lorsqu'elles sont au bord de la défaite."/>
+<label key="key:620796443:54354734" value="Vous pouvez inciter les forces des ténèbres à encore plus de prouesses, même lorsqu'elles sont au bord de la défaite."/>
+<label key="key:620796446:191029568" value="Vous chassez en meute et pouvez désigner une cible pour améliorer l'efficacité de vos alliés contre cette cible."/>
+<label key="key:620796446:54354734" value="Vous chassez en meute et pouvez désigner une cible pour améliorer l'efficacité de vos alliés contre cette cible."/>
+<label key="key:620796448:191029568" value="La peur qu'inspire votre regard est telle, que vous frappez d'effroi ceux qui vous entourent."/>
+<label key="key:620796448:54354734" value="La peur qu'inspire votre regard est telle, que vous frappez d'effroi ceux qui vous entourent."/>
+<label key="key:620796450:191029568" value="La rage des orques brûle au plus profond de vous. Vous pouvez faire appel à la force caractéristique de votre race pour faire regretter leurs actes à vos assaillants."/>
+<label key="key:620796450:54354734" value="La rage des orques brûle au plus profond de vous. Vous pouvez faire appel à la force caractéristique de votre race pour faire regretter leurs actes à vos assaillants."/>
+<label key="key:620796453:191029568" value="Juste avant que la mort ne soit prête à vous emporter, vous êtes capable d'entrer dans une dernière rage destructrice."/>
+<label key="key:620796453:54354734" value="Juste avant que la mort ne soit prête à vous emporter, vous êtes capable d'entrer dans une dernière rage destructrice."/>
+<label key="key:620796457:191029568" value="Vous êtes capable de faire appel aux ténèbres d'où sont sortis vos ancêtres pour vous dissimuler et attaquer sournoisement."/>
+<label key="key:620796457:54354734" value="Vous êtes capable de faire appel aux ténèbres d'où sont sortis vos ancêtres pour vous dissimuler et attaquer sournoisement."/>
+<label key="key:620796460:191029568" value="Lorsque vous triomphez d'un adversaire, vous êtes capable d'utiliser les éclats de son enveloppe pour vous nourrir."/>
+<label key="key:620796460:54354734" value="Lorsque vous triomphez d'un adversaire, vous êtes capable d'utiliser ce qu'il reste de son enveloppe charnelle pour vous nourrir."/>
+<label key="key:620796462:191029568" value="Source d'inspiration pour les êtres inférieurs qui vous entourent, votre présence leur confère une plus grande force."/>
+<label key="key:620796462:54354734" value="Source d'inspiration pour les êtres inférieurs qui vous entourent, votre présence leur confère une plus grande force."/>
 <label key="key:620799379:191029568" value="Permet l'utilisation de compagnons hors combat."/>
 <label key="key:620799379:54354734" value="Permet l'utilisation de compagnons hors combat."/>
 <label key="key:620799396:191029568" value="Résidence du Pays de Bree"/>
@@ -1806,4 +1912,100 @@
 <label key="key:620799498:54354734" value="Vous êtes capable de revenir rapidement à votre maison de confrérie."/>
 <label key="key:620799689:191029568" value="Vous savez monter les montures dociles."/>
 <label key="key:620799689:54354734" value="Vous savez monter les montures dociles."/>
+<label key="key:620800691:191029568" value="A different visual appearance for your Orc Reaver.  A red skinned orc wearing a leather tunic and heavy armour on the shoulders, arms, and lower legs."/>
+<label key="key:620800691:54354734" value="A different visual appearance for your Orc Reaver.  A red skinned orc wearing a leather tunic and heavy armour on the shoulders, arms, and lower legs."/>
+<label key="key:620800692:191029568" value="A different visual appearance for your Orc Reaver.  A red skinned orc wearing a leather tunic and heavy armour on the shoulders, arms, and lower legs.  A sword in scabbard is worn on the back."/>
+<label key="key:620800692:54354734" value="A different visual appearance for your Orc Reaver.  A red skinned orc wearing a leather tunic and heavy armour on the shoulders, arms, and lower legs.  A sword in scabbard is worn on the back."/>
+<label key="key:620800693:191029568" value="A different visual appearance for your Orc Reaver.  A black skinned orc wearing a leather helm, leather tunic, and heavy armour on the shoulders, arms, and lower legs.  A sword in scabbard is worn on the back."/>
+<label key="key:620800693:54354734" value="A different visual appearance for your Orc Reaver.  A black skinned orc wearing a leather helm, leather tunic, and heavy armour on the shoulders, arms, and lower legs.  A sword in scabbard is worn on the back."/>
+<label key="key:620800694:191029568" value="A different visual appearance for your Orc Reaver.  A blue skinned orc wearing a chain tunic and heavy armour on the shoulders, arms, and lower legs.  The heavy armour is dyed black and red."/>
+<label key="key:620800694:54354734" value="A different visual appearance for your Orc Reaver.  A blue skinned orc wearing a chain tunic and heavy armour on the shoulders, arms, and lower legs.  The heavy armour is dyed black and red."/>
+<label key="key:620800695:191029568" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing an ornate set of heavy armour with a helm."/>
+<label key="key:620800695:54354734" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing an ornate set of heavy armour with a helm."/>
+<label key="key:620800696:191029568" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing an ornate set of heavy armour  with a helm.  The heavy armour is dyed black and red."/>
+<label key="key:620800696:54354734" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing an ornate set of heavy armour  with a helm.  The heavy armour is dyed black and red."/>
+<label key="key:620800697:191029568" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing a spiked set of armour with a masked helm."/>
+<label key="key:620800697:54354734" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing a spiked set of armour with a masked helm."/>
+<label key="key:620800698:191029568" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing a spiked set of armour with a masked helm.  The armour is dyed orange and green."/>
+<label key="key:620800698:54354734" value="A different visual appearance for your Orc Reaver.  A yellow skinned orc wearing a spiked set of armour with a masked helm.  The armour is dyed orange and green."/>
+<label key="key:620800699:191029568" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620800699:54354734" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620800700:191029568" value="A different visual appearance for your Orc Defiler.  A red skinned orc wearing a brown leather tunic."/>
+<label key="key:620800700:54354734" value="A different visual appearance for your Orc Defiler.  A red skinned orc wearing a brown leather tunic."/>
+<label key="key:620800701:191029568" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620800701:54354734" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620800702:191029568" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620800702:54354734" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620800703:191029568" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620800703:54354734" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620800704:191029568" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620800704:54354734" value="A different visual appearance for your Orc Defiler.  A yellow skinned orc wearing a blue leather tunic."/>
+<label key="key:620800705:191029568" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620800705:54354734" value="A different visual appearance for your Orc Defiler.  A blue skinned orc wearing a green leather tunic, leather bracers, and heavy armour on the lower legs."/>
+<label key="key:620800706:191029568" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620800706:54354734" value="A different visual appearance for your Orc Defiler.  A black skinned orc wearing a purple leather tunic and heavy red armour on the shoulders and arms."/>
+<label key="key:620800707:191029568" value="A different visual appearance for your Spider Weaver.  A blue spider with a yellow and orange luminescent lower abdomen. The legs are coloured blue and black with orange and yellow luminescent mid-sections."/>
+<label key="key:620800707:54354734" value="A different visual appearance for your Spider Weaver.  A blue spider with a yellow and orange luminescent lower abdomen. The legs are coloured blue and black with orange and yellow luminescent mid-sections."/>
+<label key="key:620800708:191029568" value="A different visual appearance for your Spider Weaver.  A bright green and red striped spider with a pale yellow coloured lower abdomen and orange and green coloured legs."/>
+<label key="key:620800708:54354734" value="A different visual appearance for your Spider Weaver.  A bright green and red striped spider with a pale yellow coloured lower abdomen and orange and green coloured legs."/>
+<label key="key:620800709:191029568" value="A different visual appearance for your Spider Weaver.  A luminescent yellow and green spider with red eyes and orange tipped legs."/>
+<label key="key:620800709:54354734" value="A different visual appearance for your Spider Weaver.  A luminescent yellow and green spider with red eyes and orange tipped legs."/>
+<label key="key:620800710:191029568" value="A different visual appearance for your Spider Weaver.  A yellow and brown luminescent spider with green and black tipped legs.  The head is bright red and the upper abdomen is coloured in red, brown, and orange. The upper section of the legs are banded red and black."/>
+<label key="key:620800710:54354734" value="A different visual appearance for your Spider Weaver.  A yellow and brown luminescent spider with green and black tipped legs.  The head is bright red and the upper abdomen is coloured in red, brown, and orange. The upper section of the legs are banded red and black."/>
+<label key="key:620800711:191029568" value="A different visual appearance for your Spider Weaver.  A red and yellow luminescent spider with dark red tipped legs.  The upper abdomen is striped in red and yellow. The leg mid-sections are coloured a luminescent yellow and orange."/>
+<label key="key:620800711:54354734" value="A different visual appearance for your Spider Weaver.  A red and yellow luminescent spider with dark red tipped legs.  The upper abdomen is striped in red and yellow. The leg mid-sections are coloured a luminescent yellow and orange."/>
+<label key="key:620800712:191029568" value="A different visual appearance for your Spider Weaver.  A pink, purple, and white luminescent spider with red tipped legs."/>
+<label key="key:620800712:54354734" value="A different visual appearance for your Spider Weaver.  A pink, purple, and white luminescent spider with red tipped legs."/>
+<label key="key:620800713:191029568" value="A different visual appearance for your Spider Weaver.  A yellow and brown spider with a pink and cream coloured head.  The legs are pink and red with yellow coloured tips."/>
+<label key="key:620800713:54354734" value="A different visual appearance for your Spider Weaver.  A yellow and brown spider with a pink and cream coloured head.  The legs are pink and red with yellow coloured tips."/>
+<label key="key:620800714:191029568" value="A different visual appearance for your Spider Weaver.  A blue, purple, and red spider with a red and purple patterned upper abdomen.  The leg have yellow coloured joins and the tips are orange striped.  The head is pink and purple."/>
+<label key="key:620800714:54354734" value="A different visual appearance for your Spider Weaver.  A blue, purple, and red spider with a red and purple patterned upper abdomen.  The leg have yellow coloured joins and the tips are orange striped.  The head is pink and purple."/>
+<label key="key:620800715:191029568" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, bald uruk with black paint decorating the face, chest, and arms.  The uruk is equipped with shoulder armour."/>
+<label key="key:620800715:54354734" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, bald uruk with black paint decorating the face, chest, and arms.  The uruk is equipped with shoulder armour."/>
+<label key="key:620800716:191029568" value="A different visual appearance for your Uruk Blackarrow.  A pale skinned, bald uruk."/>
+<label key="key:620800716:54354734" value="A different visual appearance for your Uruk Blackarrow.  A pale skinned, bald uruk."/>
+<label key="key:620800717:191029568" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, bald uruk with white paint decorating the face and chest.  The uruk is equipped with shoulder armour."/>
+<label key="key:620800717:54354734" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, bald uruk with white paint decorating the face and chest.  The uruk is equipped with shoulder armour."/>
+<label key="key:620800718:191029568" value="A different visual appearance for your Uruk Blackarrow.  A dark skinned, bald uruk with white paint decorating the face, chest, and arms.  The uruk is equipped with shoulder armour."/>
+<label key="key:620800718:54354734" value="A different visual appearance for your Uruk Blackarrow.  A dark skinned, bald uruk with white paint decorating the face, chest, and arms.  The uruk is equipped with shoulder armour."/>
+<label key="key:620800719:191029568" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, long haired uruk with black paint decorating the face, chest, and arms. The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800719:54354734" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, long haired uruk with black paint decorating the face, chest, and arms. The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800720:191029568" value="A different visual appearance for your Uruk Blackarrow.  A blue skinned, long haired uruk with red and black paint decorating the face, chest, and arms.  The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800720:54354734" value="A different visual appearance for your Uruk Blackarrow.  A blue skinned, long haired uruk with red and black paint decorating the face, chest, and arms.  The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800721:191029568" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, long haired uruk with white paint decorating the face and chest.  The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800721:54354734" value="A different visual appearance for your Uruk Blackarrow.  A red skinned, long haired uruk with white paint decorating the face and chest.  The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800722:191029568" value="A different visual appearance for your Uruk Blackarrow.  A dark skinned, long haired uruk with white paint decorating the face, chest, and arms. The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800722:54354734" value="A different visual appearance for your Uruk Blackarrow.  A dark skinned, long haired uruk with white paint decorating the face, chest, and arms. The uruk is equipped with a leather tunic and bracers."/>
+<label key="key:620800723:191029568" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face is painted white."/>
+<label key="key:620800723:54354734" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face is painted white."/>
+<label key="key:620800724:191029568" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic and heavy armour on the face, shoulders, and lower legs.  His armour is dark coloured and his face is painted white."/>
+<label key="key:620800724:54354734" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic and heavy armour on the face, shoulders, and lower legs.  His armour is dark coloured and his face is painted white."/>
+<label key="key:620800725:191029568" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic, helm, and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face is painted white."/>
+<label key="key:620800725:54354734" value="A different visual appearance for your Uruk Warleader.  A red skinned, bald uruk wearing a reinforced tunic, helm, and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face is painted white."/>
+<label key="key:620800726:191029568" value="A different visual appearance for your Uruk Warleader.  A blue skinned, bald uruk wearing a reinforced tunic and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face and hands are painted red."/>
+<label key="key:620800726:54354734" value="A different visual appearance for your Uruk Warleader.  A blue skinned, bald uruk wearing a reinforced tunic and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face and hands are painted red."/>
+<label key="key:620800727:191029568" value="A different visual appearance for your Uruk Warleader.  A blue skinned, bald uruk wearing a reinforced tunic and heavy armour on the face, shoulders, and lower legs.  His armour is dark coloured and his face and hands are painted red."/>
+<label key="key:620800727:54354734" value="A different visual appearance for your Uruk Warleader.  A blue skinned, bald uruk wearing a reinforced tunic and heavy armour on the face, shoulders, and lower legs.  His armour is dark coloured and his face and hands are painted red."/>
+<label key="key:620800728:191029568" value="A different visual appearance for your Uruk Warleader.  A blue skinned, bald uruk wearing a reinforced tunic, helm, and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face and hands are painted red."/>
+<label key="key:620800728:54354734" value="A different visual appearance for your Uruk Warleader.  A blue skinned, bald uruk wearing a reinforced tunic, helm, and heavy armour on the shoulders and lower legs.  His armour is dark coloured and his face and hands are painted red."/>
+<label key="key:620800729:191029568" value="A different visual appearance for your Uruk Warleader.  A pale skinned, bald uruk wearing a helm and heavy armour on the shoulders, chest, and hands.  His armour is tinted red."/>
+<label key="key:620800729:54354734" value="A different visual appearance for your Uruk Warleader.  A pale skinned, bald uruk wearing a helm and heavy armour on the shoulders, chest, and hands.  His armour is tinted red."/>
+<label key="key:620800730:191029568" value="A different visual appearance for your Uruk Warleader.  A pale skinned, bald uruk wearing a helm and heavy armour on the shoulders, chest, and hands.  His armour is brightly coloured in gold, red, and brown."/>
+<label key="key:620800730:54354734" value="A different visual appearance for your Uruk Warleader.  A pale skinned, bald uruk wearing a helm and heavy armour on the shoulders, chest, and hands.  His armour is brightly coloured in gold, red, and brown."/>
+<label key="key:620800731:191029568" value="A different visual appearance for your Warg Stalker.  A grey-white warg."/>
+<label key="key:620800731:54354734" value="A different visual appearance for your Warg Stalker.  A grey-white warg."/>
+<label key="key:620800732:191029568" value="A different visual appearance for your Warg Stalker.  A tan coloured warg with wounds on the neck, forelegs, and face."/>
+<label key="key:620800732:54354734" value="A different visual appearance for your Warg Stalker.  A tan coloured warg with wounds on the neck, forelegs, and face."/>
+<label key="key:620800733:191029568" value="A different visual appearance for your Warg Stalker.  A grey warg with light grey fur on the forelegs, neck, and face."/>
+<label key="key:620800733:54354734" value="A different visual appearance for your Warg Stalker.  A grey warg with light grey fur on the forelegs, neck, and face."/>
+<label key="key:620800734:191029568" value="A different visual appearance for your Warg Stalker.  A white warg with light wounds along the face, hindquarters, and neck."/>
+<label key="key:620800734:54354734" value="A different visual appearance for your Warg Stalker.  A white warg with light wounds along the face, hindquarters, and neck."/>
+<label key="key:620800735:191029568" value="A different visual appearance for your Warg Stalker.  A grey-white warg with wounds along the neck, body, shoulders, and face.  The feet, neck, and hips have dark coloured fur."/>
+<label key="key:620800735:54354734" value="A different visual appearance for your Warg Stalker.  A grey-white warg with wounds along the neck, body, shoulders, and face.  The feet, neck, and hips have dark coloured fur."/>
+<label key="key:620800736:191029568" value="A different visual appearance for your Warg Stalker.  A brown-orange warg with black stripes."/>
+<label key="key:620800736:54354734" value="A different visual appearance for your Warg Stalker.  A brown-orange warg with black stripes."/>
+<label key="key:620800737:191029568" value="A different visual appearance for your Warg Stalker.  A red-brown warg with a white furred pattern."/>
+<label key="key:620800737:54354734" value="A different visual appearance for your Warg Stalker.  A red-brown warg with a white furred pattern."/>
+<label key="key:620800738:191029568" value="A different visual appearance for your Warg Stalker.  A black coloured warg covered with wounds. Bloody flesh and bone are visible."/>
+<label key="key:620800738:54354734" value="A different visual appearance for your Warg Stalker.  A black coloured warg covered with wounds. Bloody flesh and bone are visible."/>
 </labels>

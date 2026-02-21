@@ -422,6 +422,7 @@
 <label key="1894514711" value="Calantar"/>
 <label key="1894514712" value="die Legende"/>
 <label key="1894514713" value="der / die Verrückte"/>
+<label key="1894514715" value="the Wanderer"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Ehren-Landbüttel"/>
 <label key="key:620758793:175532558" value="Ihr habt den Auenland-Grenzern sehr geholfen und seid zum Ehren-Landbüttel ernannt worden."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Gelehrtheit"/>
@@ -1270,4 +1271,6 @@
 <label key="key:636223488:75314017" value="Hardcore Challenge Belohnung für das Abschließen von Garth Agarwen."/>
 <label key="key:636223488:75314018" value="Hardcore Challenge Belohnung für das Abschließen vom Großen Hügelgrab."/>
 <label key="key:636223488:96594722" value="Hardcore Challenge Belohnung für die Bewältigung aller verfügbaren Herausforderungen."/>
+<label key="key:636223495:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} the Wanderer"/>
+<label key="key:636223495:175532558" value="You have found Ostur and Akur, friends of Odur of Thorin's Hall, wandering the lands of Eriador."/>
 </labels>

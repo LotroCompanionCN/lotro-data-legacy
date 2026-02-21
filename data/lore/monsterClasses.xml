@@ -14,12 +14,6 @@
 <classTrait minLevel="50" traitId="1879072430" traitName="Enhanced Skill: Glory in Victory"/>
 <classTrait minLevel="50" traitId="1879072431" traitName="Enhanced Skill: Devastating Strike"/>
 <classTrait minLevel="50" traitId="1879072432" traitName="Advanced Skill: Resilience"/>
-<classTrait minLevel="50" traitId="1879072435" traitName="Appearance 1"/>
-<classTrait minLevel="50" traitId="1879072436" traitName="Appearance 2"/>
-<classTrait minLevel="50" traitId="1879072437" traitName="Appearance 3"/>
-<classTrait minLevel="50" traitId="1879072438" traitName="Appearance 4"/>
-<classTrait minLevel="50" traitId="1879072439" traitName="Appearance 5"/>
-<classTrait minLevel="50" traitId="1879072440" traitName="Appearance 6"/>
 <classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
@@ -53,6 +47,28 @@
 <classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classTrait minLevel="50" traitId="1879097853" traitName="Advanced Skill: Blood of Fire"/>
+<classTrait minLevel="50" traitId="1879097854" traitName="Advanced Skill: Undying Rage"/>
+<classTrait minLevel="50" traitId="1879097831" traitName="Front-line Fodder"/>
+<classTrait minLevel="50" traitId="1879097832" traitName="Rage of the Misbegotten"/>
+<classTrait minLevel="50" traitId="1879097833" traitName="Warrior Against the Deep"/>
+<classTrait minLevel="50" traitId="1879097834" traitName="Tireless Warrior"/>
+<classTrait minLevel="50" traitId="1879097835" traitName="Flayer of Flesh"/>
+<classTrait minLevel="50" traitId="1879072435" traitName="Fighter Appearance"/>
+<classTrait minLevel="50" traitId="1879072436" traitName="White Hand Fighter Appearance"/>
+<classTrait minLevel="50" traitId="1879072437" traitName="Helmed Ongbúrz Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879072438" traitName="Helmed Krahjarn Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879072439" traitName="Helmed Krahjarn Drummer Appearance"/>
+<classTrait minLevel="50" traitId="1879072440" traitName="Helmed Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879084080" traitName="White Hand Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879103420" traitName="Tarkrîp Fighter Appearance"/>
+<classTrait minLevel="50" traitId="1879103421" traitName="Tarkrîp Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879103414" traitName="Helmed Krahjarn Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879103415" traitName="Blogmal Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879103416" traitName="Ongbúrz Warrior Appearance"/>
+<classTrait minLevel="50" traitId="1879103417" traitName="Elite Ongbúrz Warrior Appearance"/>
+<classTrait minLevel="50" traitId="1879103418" traitName="Ongbúrz Warlord Appearance"/>
+<classTrait minLevel="50" traitId="1879103419" traitName="Elite Ongbúrz Warlord Appearance"/>
 <classSkill minLevel="50" skillId="1879073674" skillName="Sudden Strikes"/>
 <classSkill minLevel="50" skillId="1879073675" skillName="Jagged Cut"/>
 <classSkill minLevel="50" skillId="1879073676" skillName="Sundering Blow"/>
@@ -69,29 +85,18 @@
 <classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
 </monsterClass>
 <monsterClass id="1879073665" code="128" key="Defiler" name="Shaman" tag="" iconId="1090551241" abbreviation="SHA" description="key:620775392:228830419">
-<classSkill minLevel="1" skillId="1879073674" skillName="Sudden Strikes"/>
-</monsterClass>
-<monsterClass id="1879073666" code="179" key="Blackarrow" name="Blackarrow" tag="" iconId="1090551243" abbreviation="BLA" description="key:620775395:228830419">
-<classVirtue id="1879063892" name="Damage" startRank="3" maxRank="5"/>
-<classVirtue id="1879063893" name="Health" startRank="0" maxRank="3"/>
-<classVirtue id="1879063894" name="Power" startRank="2" maxRank="4"/>
-<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="4"/>
+<classVirtue id="1879063892" name="Damage" startRank="0" maxRank="2"/>
+<classVirtue id="1879063893" name="Health" startRank="2" maxRank="4"/>
+<classVirtue id="1879063894" name="Power" startRank="3" maxRank="5"/>
+<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="3"/>
 <classVirtue id="1879063896" name="Avoidance" startRank="0" maxRank="2"/>
-<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="2"/>
-<classTrait minLevel="50" traitId="1879072457" traitName="Avoidance Boost"/>
-<classTrait minLevel="50" traitId="1879072458" traitName="Resistance Boost"/>
-<classTrait minLevel="50" traitId="1879072459" traitName="Deadly Aim"/>
-<classTrait minLevel="50" traitId="1879072460" traitName="Uncanny Reactions"/>
-<classTrait minLevel="50" traitId="1879072461" traitName="Enhanced Skill: Hindering Shot"/>
-<classTrait minLevel="50" traitId="1879072462" traitName="Penetrating Arrows"/>
-<classTrait minLevel="50" traitId="1879072463" traitName="Swift Draw"/>
-<classTrait minLevel="50" traitId="1879072464" traitName="Advanced Skill: Set Trap"/>
-<classTrait minLevel="50" traitId="1879072467" traitName="Appearance 1"/>
-<classTrait minLevel="50" traitId="1879072468" traitName="Appearance 2"/>
-<classTrait minLevel="50" traitId="1879072469" traitName="Appearance 3"/>
-<classTrait minLevel="50" traitId="1879072470" traitName="Appearance 4"/>
-<classTrait minLevel="50" traitId="1879072471" traitName="Appearance 5"/>
-<classTrait minLevel="50" traitId="1879072472" traitName="Appearance 6"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="4"/>
+<classTrait minLevel="50" traitId="1879084093" traitName="Enhanced Skill: Curse of Sticky Feet"/>
+<classTrait minLevel="50" traitId="1879084118" traitName="Enhanced Skill: Fell Sacrifice"/>
+<classTrait minLevel="50" traitId="1879084113" traitName="Enhanced Skill: Plague Gourd"/>
+<classTrait minLevel="50" traitId="1879084104" traitName="Morale Boost"/>
+<classTrait minLevel="50" traitId="1879084077" traitName="Armour Boost"/>
+<classTrait minLevel="50" traitId="1879084117" traitName="Advanced Skill: Fungal Spores"/>
 <classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
@@ -125,6 +130,114 @@
 <classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classTrait minLevel="50" traitId="1879097853" traitName="Advanced Skill: Blood of Fire"/>
+<classTrait minLevel="50" traitId="1879097854" traitName="Advanced Skill: Undying Rage"/>
+<classTrait minLevel="50" traitId="1879097831" traitName="Front-line Fodder"/>
+<classTrait minLevel="50" traitId="1879097832" traitName="Rage of the Misbegotten"/>
+<classTrait minLevel="50" traitId="1879097833" traitName="Warrior Against the Deep"/>
+<classTrait minLevel="50" traitId="1879097834" traitName="Tireless Warrior"/>
+<classTrait minLevel="50" traitId="1879097835" traitName="Flayer of Flesh"/>
+<classTrait minLevel="50" traitId="1879084109" traitName="Goat Masked Tarkrîp Appearance"/>
+<classTrait minLevel="50" traitId="1879084098" traitName="Goat Masked Ongbúrz Appearance"/>
+<classTrait minLevel="50" traitId="1879084091" traitName="Goat Masked Blogmal Appearance"/>
+<classTrait minLevel="50" traitId="1879084085" traitName="Goat Masked Krahjarn Appearance"/>
+<classTrait minLevel="50" traitId="1879084079" traitName="Bear Masked Tarkrîp Appearance"/>
+<classTrait minLevel="50" traitId="1879084107" traitName="Bear Masked Ongbúrz Appearance"/>
+<classTrait minLevel="50" traitId="1879084103" traitName="Bear Masked Blogmal Appearance"/>
+<classTrait minLevel="50" traitId="1879103428" traitName="Bear Masked Krahjarn Appearance"/>
+<classTrait minLevel="50" traitId="1879103429" traitName="Auroch Masked Tarkrîp Appearance"/>
+<classTrait minLevel="50" traitId="1879103422" traitName="Auroch Masked Ongbúrz Appearance"/>
+<classTrait minLevel="50" traitId="1879103423" traitName="Auroch Masked Blogmal Appearance"/>
+<classTrait minLevel="50" traitId="1879103424" traitName="Auroch Masked Krahjarn Appearance"/>
+<classTrait minLevel="50" traitId="1879103425" traitName="Drake Masked Ongbúrz Appearance"/>
+<classTrait minLevel="50" traitId="1879103426" traitName="Drake Masked Blogmal Appearance"/>
+<classTrait minLevel="50" traitId="1879103427" traitName="Drake Masked Krahjarn Appearance"/>
+<classSkill minLevel="50" skillId="1879104844" skillName="Fertile Slime"/>
+<classSkill minLevel="50" skillId="1879104842" skillName="Fungal Bloom"/>
+<classSkill minLevel="50" skillId="1879104846" skillName="Fell Restoration"/>
+<classSkill minLevel="50" skillId="1879104845" skillName="Fell Sacrifice"/>
+<classSkill minLevel="50" skillId="1879104843" skillName="Curse of the Lethargic Heart"/>
+<classSkill minLevel="50" skillId="1879104841" skillName="Curse of Sticky Feet"/>
+<classSkill minLevel="50" skillId="1879104838" skillName="Curse of the Coward's Soul"/>
+<classSkill minLevel="50" skillId="1879104840" skillName="Curse of Deadly Sorrows"/>
+<classSkill minLevel="50" skillId="1879104847" skillName="Fire Gourd"/>
+<classSkill minLevel="50" skillId="1879104848" skillName="Plague Gourd"/>
+<classSkill minLevel="50" skillId="1879104837" skillName="Headbreaker"/>
+<classSkill minLevel="50" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="50" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="50" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+<monsterClass id="1879073666" code="179" key="Blackarrow" name="Blackarrow" tag="" iconId="1090551243" abbreviation="BLA" description="key:620775395:228830419">
+<classVirtue id="1879063892" name="Damage" startRank="3" maxRank="5"/>
+<classVirtue id="1879063893" name="Health" startRank="0" maxRank="3"/>
+<classVirtue id="1879063894" name="Power" startRank="2" maxRank="4"/>
+<classVirtue id="1879063895" name="Armour" startRank="0" maxRank="4"/>
+<classVirtue id="1879063896" name="Avoidance" startRank="0" maxRank="2"/>
+<classVirtue id="1879063897" name="Resistance" startRank="0" maxRank="2"/>
+<classTrait minLevel="50" traitId="1879072457" traitName="Avoidance Boost"/>
+<classTrait minLevel="50" traitId="1879072458" traitName="Resistance Boost"/>
+<classTrait minLevel="50" traitId="1879072459" traitName="Deadly Aim"/>
+<classTrait minLevel="50" traitId="1879072460" traitName="Uncanny Reactions"/>
+<classTrait minLevel="50" traitId="1879072461" traitName="Enhanced Skill: Hindering Shot"/>
+<classTrait minLevel="50" traitId="1879072462" traitName="Penetrating Arrows"/>
+<classTrait minLevel="50" traitId="1879072463" traitName="Swift Draw"/>
+<classTrait minLevel="50" traitId="1879072464" traitName="Advanced Skill: Set Trap"/>
+<classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091352" traitName="Damage for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072507" traitName="Health for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091353" traitName="Health for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072508" traitName="Health for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091354" traitName="Health for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072509" traitName="Power for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091355" traitName="Power for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072510" traitName="Power for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091356" traitName="Power for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072511" traitName="Common Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091359" traitName="Common Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072512" traitName="Fire Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091360" traitName="Fire Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072513" traitName="Light Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091361" traitName="Light Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072514" traitName="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091357" traitName="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072515" traitName="Beleriand Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091358" traitName="Beleriand Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072516" traitName="Westernesse Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091362" traitName="Westernesse Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072517" traitName="Song Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091366" traitName="Song Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072518" traitName="Cry Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091363" traitName="Cry Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072519" traitName="Tactical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091364" traitName="Tactical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classTrait minLevel="50" traitId="1879097841" traitName="New Breed"/>
+<classTrait minLevel="50" traitId="1879097842" traitName="Leaders of the Orcs"/>
+<classTrait minLevel="50" traitId="1879097843" traitName="Favoured Servant of the Dark"/>
+<classTrait minLevel="50" traitId="1879097844" traitName="Tireless Warrior"/>
+<classTrait minLevel="50" traitId="1879097845" traitName="Brutal persuasion"/>
+<classTrait minLevel="50" traitId="1879097857" traitName="Advanced Skill: Imposing Presence"/>
+<classTrait minLevel="50" traitId="1879097858" traitName="Advanced Skill: Get a Grip!"/>
+<classTrait minLevel="50" traitId="1879072467" traitName="White Hand Scout Appearance"/>
+<classTrait minLevel="50" traitId="1879072468" traitName="Urukhai Sentry Appearance"/>
+<classTrait minLevel="50" traitId="1879072469" traitName="White Hand Sentry Appearance"/>
+<classTrait minLevel="50" traitId="1879072470" traitName="Dark-arrow Scout Appearance"/>
+<classTrait minLevel="50" traitId="1879072471" traitName="Fel-arrow Scout Appearance"/>
+<classTrait minLevel="50" traitId="1879072472" traitName="Black-bow Scout Appearance"/>
+<classTrait minLevel="50" traitId="1879084112" traitName="Ghost-bow Scout Appearance"/>
+<classTrait minLevel="50" traitId="1879103444" traitName="Dark-arrow Sentry Appearance"/>
+<classTrait minLevel="50" traitId="1879103445" traitName="Urukhai Scout Appearance"/>
+<classTrait minLevel="50" traitId="1879103438" traitName="Black-bow Sentry Appearance"/>
+<classTrait minLevel="50" traitId="1879103439" traitName="Ghost-bow Sentry Appearance"/>
+<classTrait minLevel="50" traitId="1879103440" traitName="Dark-arrow Elite Appearance"/>
+<classTrait minLevel="50" traitId="1879103441" traitName="Fel-arrow Elite Appearance"/>
+<classTrait minLevel="50" traitId="1879103442" traitName="Black-bow Elite Appearance"/>
+<classTrait minLevel="50" traitId="1879103443" traitName="Ghost-bow Elite Appearance"/>
 <classSkill minLevel="50" skillId="1879073697" skillName="Strong Pull"/>
 <classSkill minLevel="50" skillId="1879073698" skillName="Screaming Shafts"/>
 <classSkill minLevel="50" skillId="1879073699" skillName="Punctured Target"/>
@@ -156,12 +269,6 @@
 <classTrait minLevel="50" traitId="1879072478" traitName="Harsh Language"/>
 <classTrait minLevel="50" traitId="1879072479" traitName="Enhanced Skill: Field Promotion"/>
 <classTrait minLevel="50" traitId="1879072480" traitName="Advanced Skill: Snap Out of It!"/>
-<classTrait minLevel="50" traitId="1879072483" traitName="Appearance 1"/>
-<classTrait minLevel="50" traitId="1879072484" traitName="Appearance 2"/>
-<classTrait minLevel="50" traitId="1879072485" traitName="Appearance 3"/>
-<classTrait minLevel="50" traitId="1879072486" traitName="Appearance 4"/>
-<classTrait minLevel="50" traitId="1879072487" traitName="Appearance 5"/>
-<classTrait minLevel="50" traitId="1879072488" traitName="Appearance 6"/>
 <classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
@@ -195,6 +302,28 @@
 <classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classTrait minLevel="50" traitId="1879097841" traitName="New Breed"/>
+<classTrait minLevel="50" traitId="1879097842" traitName="Leaders of the Orcs"/>
+<classTrait minLevel="50" traitId="1879097843" traitName="Favoured Servant of the Dark"/>
+<classTrait minLevel="50" traitId="1879097844" traitName="Tireless Warrior"/>
+<classTrait minLevel="50" traitId="1879097845" traitName="Brutal persuasion"/>
+<classTrait minLevel="50" traitId="1879097857" traitName="Advanced Skill: Imposing Presence"/>
+<classTrait minLevel="50" traitId="1879097858" traitName="Advanced Skill: Get a Grip!"/>
+<classTrait minLevel="50" traitId="1879072483" traitName="Urukhai Soldier Appearance"/>
+<classTrait minLevel="50" traitId="1879072484" traitName="Urukhai Lieutenant Appearance"/>
+<classTrait minLevel="50" traitId="1879072485" traitName="Urukhai Captain Appearance"/>
+<classTrait minLevel="50" traitId="1879072486" traitName="Urukhai Tyrant Appearance"/>
+<classTrait minLevel="50" traitId="1879072487" traitName="Wicked Urukhai Lieutenant Appearance"/>
+<classTrait minLevel="50" traitId="1879072488" traitName="Wicked Urukhai Captain Appearance"/>
+<classTrait minLevel="50" traitId="1879084115" traitName="Urukhai Overseer Appearance"/>
+<classTrait minLevel="50" traitId="1879103452" traitName="Tarkrîp Lieutenant Appearance"/>
+<classTrait minLevel="50" traitId="1879103453" traitName="Tarkrîp Captain Appearance"/>
+<classTrait minLevel="50" traitId="1879103446" traitName="Tarkrîp Tyrant Appearance"/>
+<classTrait minLevel="50" traitId="1879103447" traitName="Blogmal Lieutenant Appearance"/>
+<classTrait minLevel="50" traitId="1879103448" traitName="Blogmal Captain Appearance"/>
+<classTrait minLevel="50" traitId="1879103449" traitName="Blogmal Tyrant Appearance"/>
+<classTrait minLevel="50" traitId="1879103450" traitName="Wicked Urukhai Tyrant Appearance"/>
+<classTrait minLevel="50" traitId="1879103451" traitName="Urukhai War-Tyrant Appearance"/>
 <classSkill minLevel="50" skillId="1879073710" skillName="Intimidating Shout"/>
 <classSkill minLevel="50" skillId="1879073711" skillName="Cleave"/>
 <classSkill minLevel="50" skillId="1879073712" skillName="Crack The Whip"/>
@@ -226,12 +355,6 @@
 <classTrait minLevel="50" traitId="1879072446" traitName="Enhanced Skill: Tainted Kiss"/>
 <classTrait minLevel="50" traitId="1879072447" traitName="Steelweave Webs"/>
 <classTrait minLevel="50" traitId="1879072448" traitName="Advanced Skill: Clinging Webs"/>
-<classTrait minLevel="50" traitId="1879072451" traitName="Appearance 1"/>
-<classTrait minLevel="50" traitId="1879072452" traitName="Appearance 2"/>
-<classTrait minLevel="50" traitId="1879072453" traitName="Appearance 3"/>
-<classTrait minLevel="50" traitId="1879072454" traitName="Appearance 4"/>
-<classTrait minLevel="50" traitId="1879072455" traitName="Appearance 5"/>
-<classTrait minLevel="50" traitId="1879072456" traitName="Appearance 6"/>
 <classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
@@ -265,6 +388,28 @@
 <classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classTrait minLevel="50" traitId="1879097836" traitName="Eight-legged Menace"/>
+<classTrait minLevel="50" traitId="1879097837" traitName="Swallower of Light"/>
+<classTrait minLevel="50" traitId="1879097838" traitName="Ancient as the Stars"/>
+<classTrait minLevel="50" traitId="1879097839" traitName="Enemies of the First Children"/>
+<classTrait minLevel="50" traitId="1879097840" traitName="Drinker of Blood"/>
+<classTrait minLevel="50" traitId="1879097855" traitName="Advanced Skill: Born of Shadow"/>
+<classTrait minLevel="50" traitId="1879097856" traitName="Advanced Skill: Shelob's Gift"/>
+<classTrait minLevel="50" traitId="1879072451" traitName="Shadow Watcher Appearance"/>
+<classTrait minLevel="50" traitId="1879072452" traitName="Wood Creeper Appearance"/>
+<classTrait minLevel="50" traitId="1879072453" traitName="Forest Biter Appearance"/>
+<classTrait minLevel="50" traitId="1879072454" traitName="Tomb Ambusher Appearance"/>
+<classTrait minLevel="50" traitId="1879072455" traitName="Moor Spinner Appearance"/>
+<classTrait minLevel="50" traitId="1879072456" traitName="Cragstone Queen Appearance"/>
+<classTrait minLevel="50" traitId="1879084121" traitName="Shadow Queen Appearance"/>
+<classTrait minLevel="50" traitId="1879103436" traitName="Ash Weaver Appearance"/>
+<classTrait minLevel="50" traitId="1879103437" traitName="Kingsfell Creeper Appearance"/>
+<classTrait minLevel="50" traitId="1879103430" traitName="Rift-crawler Queen Appearance"/>
+<classTrait minLevel="50" traitId="1879103431" traitName="Vile Moor-web Appearance"/>
+<classTrait minLevel="50" traitId="1879103432" traitName="Barrow Queen Appearance"/>
+<classTrait minLevel="50" traitId="1879103433" traitName="Bogbereth Spinner Appearance"/>
+<classTrait minLevel="50" traitId="1879103434" traitName="Bogbereth Matron Appearance"/>
+<classTrait minLevel="50" traitId="1879103435" traitName="Grimfang Ambusher Appearance"/>
 <classSkill minLevel="50" skillId="1879073737" skillName="Piercing Attack"/>
 <classSkill minLevel="50" skillId="1879073738" skillName="Tainted Kiss"/>
 <classSkill minLevel="50" skillId="1879073739" skillName="Latent Poison"/>
@@ -296,11 +441,6 @@
 <classTrait minLevel="50" traitId="1879072494" traitName="Enhanced Skill: Sprint"/>
 <classTrait minLevel="50" traitId="1879072495" traitName="The Element of Surprise"/>
 <classTrait minLevel="50" traitId="1879072496" traitName="Advanced Skill: Rallying Howl"/>
-<classTrait minLevel="50" traitId="1879072499" traitName="Appearance 1"/>
-<classTrait minLevel="50" traitId="1879072500" traitName="Appearance 2"/>
-<classTrait minLevel="50" traitId="1879072501" traitName="Appearance 3"/>
-<classTrait minLevel="50" traitId="1879072502" traitName="Appearance 4"/>
-<classTrait minLevel="50" traitId="1879072503" traitName="Appearance 5"/>
 <classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
@@ -334,6 +474,28 @@
 <classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
 <classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
 <classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classTrait minLevel="50" traitId="1879097846" traitName="Four-legged Foe"/>
+<classTrait minLevel="50" traitId="1879097847" traitName="Pack Mentality"/>
+<classTrait minLevel="50" traitId="1879097848" traitName="Pack Elder"/>
+<classTrait minLevel="50" traitId="1879097849" traitName="Foe of the Light"/>
+<classTrait minLevel="50" traitId="1879097850" traitName="Pack Alpha"/>
+<classTrait minLevel="50" traitId="1879097859" traitName="Advanced Skill: Pack Hunters"/>
+<classTrait minLevel="50" traitId="1879097860" traitName="Advanced Skill: Eyes of Unnerving"/>
+<classTrait minLevel="50" traitId="1879072499" traitName="Ruins-howler Appearance"/>
+<classTrait minLevel="50" traitId="1879072500" traitName="Bone-chewer Appearance"/>
+<classTrait minLevel="50" traitId="1879072501" traitName="Corpse-ravager Appearance"/>
+<classTrait minLevel="50" traitId="1879072502" traitName="War-beast Appearance"/>
+<classTrait minLevel="50" traitId="1879072503" traitName="Den-leader Appearance"/>
+<classTrait minLevel="50" traitId="1879072504" traitName="Prowler Appearance"/>
+<classTrait minLevel="50" traitId="1879084097" traitName="Blood-seeker Appearance"/>
+<classTrait minLevel="50" traitId="1879103460" traitName="Red-fang Appearance"/>
+<classTrait minLevel="50" traitId="1879103461" traitName="Scavenger Appearance"/>
+<classTrait minLevel="50" traitId="1879103454" traitName="Dire Warg Appearance"/>
+<classTrait minLevel="50" traitId="1879103455" traitName="Twilight-howler Appearance"/>
+<classTrait minLevel="50" traitId="1879103456" traitName="Pack-lord Appearance"/>
+<classTrait minLevel="50" traitId="1879103457" traitName="Man-Flayer Appearance"/>
+<classTrait minLevel="50" traitId="1879103458" traitName="Mountain-prowler Appearance"/>
+<classTrait minLevel="50" traitId="1879103459" traitName="Raging Dire Warg Appearance"/>
 <classSkill minLevel="50" skillId="1879072565" skillName="Stealth"/>
 <classSkill minLevel="50" skillId="1879073750" skillName="Claws"/>
 <classSkill minLevel="50" skillId="1879073751" skillName="Pounce"/>

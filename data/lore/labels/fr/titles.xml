@@ -422,6 +422,7 @@
 <label key="1894514711" value="Calantar"/>
 <label key="1894514712" value="La Légende"/>
 <label key="1894514713" value="Le Fou / La Folle"/>
+<label key="1894514715" value="the Wanderer"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Shiriffe honoraire"/>
 <label key="key:620758793:175532558" value="Vous avez grandement aidé les Frontaliers de la Comté et obtenu le titre de Shiriffe honoraire."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:apprenti érudit[m]|apprentie érudite[f]}"/>
@@ -1270,4 +1271,6 @@
 <label key="key:636223488:75314017" value="Récompense du défi hardcore pour avoir terminé Garth Agarwen."/>
 <label key="key:636223488:75314018" value="Récompense du défi hardcore pour avoir terminé Le Grand Galgal."/>
 <label key="key:636223488:96594722" value="Récompense du défi hardcore pour avoir terminé tous les défis disponibles."/>
+<label key="key:636223495:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} the Wanderer"/>
+<label key="key:636223495:175532558" value="You have found Ostur and Akur, friends of Odur of Thorin's Hall, wandering the lands of Eriador."/>
 </labels>

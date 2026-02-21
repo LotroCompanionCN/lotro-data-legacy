@@ -4932,8 +4932,8 @@
 </result>
 </recipeResult>
 </recipe>
-<recipe id="1879098704" name="Excellent Amulet of the Front-lynx" profession="JEWELLER" tier="4" category="54" xp="6" singleUse="true">
-<scrollItem itemId="1879098676" name="Excellent Amulet of the Front-lynx Recipe" icon="1090537012-1090522692-1090537013"/>
+<recipe id="1879098704" name="Excellent Amulet of the Frost-lynx" profession="JEWELLER" tier="4" category="54" xp="6" singleUse="true">
+<scrollItem itemId="1879098676" name="Excellent Amulet of the Frost-lynx Recipe" icon="1090537012-1090522692-1090537013"/>
 <recipeResult>
 <ingredient quantity="4">
 <ingredientItem itemId="1879055403" name="Platinum Ingot" icon="1090537027-1090519043-1090640816"/>
@@ -4942,7 +4942,7 @@
 <ingredientItem itemId="1879055408" name="Polished Adamant" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <result>
-<resultItem itemId="1879098142" name="Excellent Amulet of the Front-lynx" icon="1090523202-1090519043-1090523203-1090528575"/>
+<resultItem itemId="1879098142" name="Excellent Amulet of the Frost-lynx" icon="1090523202-1090519043-1090523203-1090528575"/>
 </result>
 </recipeResult>
 </recipe>

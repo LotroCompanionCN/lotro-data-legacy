@@ -111,4 +111,11 @@
 <induction id="1879099363" duration="5.0" multiplyMods="268438240"/>
 <induction id="1879101990" duration="10.0" multiplyMods="268440644"/>
 <induction id="1879102635" duration="4.0" multiplyMods="268438240"/>
+<induction id="1879106803" duration="3.0" multiplyMods="268440644,268438240"/>
+<induction id="1879106804" duration="2.0" multiplyMods="268440644,268438240"/>
+<induction id="1879106805" duration="5.0" multiplyMods="268440644,268438240"/>
+<induction id="1879106806" duration="2.0" multiplyMods="268440644,268438240"/>
+<induction id="1879106807" duration="3.0" multiplyMods="268440644,268438240"/>
+<induction id="1879106808" duration="2.0" multiplyMods="268440644,268438240"/>
+<induction id="1879106809" duration="2.0" multiplyMods="268440644,268438240"/>
 </inductions>

@@ -7510,7 +7510,7 @@
 <powerCost pointsProgression="1879072529"/>
 <attack damageQualifier="3" damageType="1">
 <effectsMgr>
-<effect id="1879103773" name="Induce Rooted"/>
+<effect id="1879103773"/>
 </effectsMgr>
 </attack>
 </details>
@@ -8963,6 +8963,12 @@
 <geometry minRange="3.0" maxRange="35.0"/>
 <powerCost percentage="0.1"/>
 <attack damageQualifier="3" damageType="1" maxDamageProgression="1879051310" flags="1"/>
+</details>
+</skill>
+<skill identifier="1879085127" name="2H Weapon Attack" iconId="1090519170" description="key:620788800:228830419">
+<details actionDurationContribution="2.75" flags="64">
+<geometry maxRange="3.0"/>
+<attack damageQualifier="1" damageType="1" maxDamageProgression="1879073691" damageModifier="1.3"/>
 </details>
 </skill>
 <skill identifier="1879085129" name="Sending Root Attack" iconId="1090522259">
@@ -15004,6 +15010,140 @@
 <effectsMgr>
 <effect id="1879087518" name="Increased Morale"/>
 <effect id="1879087521" name="Increased Power"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104837" name="Headbreaker" category="8" iconId="1091429131" description="key:620802447:228830419">
+<details actionDurationContribution="2.0" cooldown="3.0" flags="64">
+<geometry maxRange="3.0"/>
+<powerCost pointsProgression="1879073687"/>
+<attack damageQualifier="1" damageType="1" maxDamageProgression="1879049333">
+<effectsMgr>
+<effect id="1879113668" name="Defiler's Poison"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104838" name="Curse of the Coward's Soul" category="42" iconId="1091429129" description="key:620802458:228830419">
+<details actionDurationContribution="2.0" cooldown="30.0" flags="64" maxTargets="3" resistCategory="7">
+<geometry detectionAnchor="3" shape="sphere" radius="6.0"/>
+<powerCost pointsProgression="1879072529"/>
+<attack damageQualifier="2">
+<effectsMgr>
+<effect id="1879098376" name="Induce Feared"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104839" name="Fungal Spores" category="7" iconId="1091429133" description="key:620802449:228830419">
+<requiredTrait id="1879084117" name="Advanced Skill: Fungal Spores"/>
+<details actionDurationContribution="2.0" cooldown="3.0">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879072558"/>
+<attack damageQualifier="2" damageType="1">
+<effectsMgr>
+<effect id="1879104868" name="Fungal Spores"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104840" name="Curse of Deadly Sorrows" category="42" iconId="1091429132" description="key:620802451:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106803" cooldown="30.0" flags="64" resistCategory="2">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879072529"/>
+<attack damageQualifier="2">
+<effectsMgr>
+<effect id="1879105179" name="Curse of Deadly Sorrows"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104841" name="Curse of Sticky Feet" category="42" iconId="1091429134" description="key:620802448:228830419">
+<details actionDurationContribution="2.0" cooldown="15.0" flags="64">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879072531"/>
+<attack damageQualifier="2">
+<effectsMgr override="268443045">
+<effect id="1879105178" name="Curse of Sticky Feet"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104842" name="Fungal Bloom" category="7" iconId="1091429138" description="key:620802452:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106809" cooldown="4.0">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879073728"/>
+<attack damageQualifier="2" damageType="1">
+<effectsMgr>
+<effect id="1879104863" name="Fungal Bloom"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104843" name="Curse of the Lethargic Heart" category="42" iconId="1091429140" description="key:620802454:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106808" cooldown="30.0" flags="64" resistCategory="2">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879072529"/>
+<attack damageQualifier="2">
+<effectsMgr>
+<effect id="1879105180" name="Curse of the Lethargic Heart"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104844" name="Fertile Slime" category="7" iconId="1091429130" description="key:620802456:228830419">
+<details actionDurationContribution="2.0" cooldown="6.0">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879073728"/>
+<attack damageQualifier="2" damageType="1">
+<effectsMgr>
+<effect id="1879104836" name="Fertile Slime"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104845" name="Fell Sacrifice" category="7" iconId="1091429135" description="key:620802446:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106805" cooldown="60.0" cooldownMods="268437569">
+<geometry maxRange="30.0"/>
+<moraleCost points="3000.0" mods="268436868"/>
+<powerCost points="500.0" mods="268440647"/>
+<attack damageQualifier="2" damageType="1">
+<effectsMgr>
+<effect id="1879104869" name="Fell Sacrifice"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104846" name="Fell Restoration" category="7" iconId="1091429136" description="key:620802457:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106807" cooldown="30.0">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879073728"/>
+<attack damageQualifier="2" damageType="1">
+<effectsMgr>
+<effect id="1879104864" name="Fell Restoration"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104847" name="Fire Gourd" category="15" iconId="1091429137" description="key:620802450:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106806" cooldown="6.0" flags="64">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879072546"/>
+<attack damageQualifier="2" damageType="16" maxDamageProgression="1879051310">
+<effectsMgr>
+<effect id="1879113781" name="Fire Gourd"/>
+</effectsMgr>
+</attack>
+</details>
+</skill>
+<skill identifier="1879104848" name="Plague Gourd" category="15" iconId="1091429139" description="key:620802453:228830419">
+<details actionDurationContribution="2.0" inductionId="1879106804" cooldown="8.0" flags="64" resistCategory="2">
+<geometry maxRange="30.0"/>
+<powerCost pointsProgression="1879072546"/>
+<attack damageQualifier="2" damageType="32" maxDamageProgression="1879049333">
+<effectsMgr type="ATTACK_CRITICAL" override="268443049">
+<effect id="1879105547"/>
 </effectsMgr>
 </attack>
 </details>

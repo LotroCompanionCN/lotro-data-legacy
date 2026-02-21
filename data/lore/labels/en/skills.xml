@@ -786,6 +786,7 @@
 <label key="1879085113" value="Swinging Dropkick"/>
 <label key="1879085114" value="Enraging Scream"/>
 <label key="1879085117" value="Fire (Rank 4)"/>
+<label key="1879085127" value="2H Weapon Attack"/>
 <label key="1879085129" value="Sending Root Attack"/>
 <label key="1879085142" value="Cleave (Rank 4)"/>
 <label key="1879085148" value="Slice (Rank 3)"/>
@@ -1368,6 +1369,18 @@
 <label key="1879102224" value="Gurthul's Retribution"/>
 <label key="1879102439" value="Final Throw"/>
 <label key="1879102630" value="Super Heal"/>
+<label key="1879104837" value="Headbreaker"/>
+<label key="1879104838" value="Curse of the Coward's Soul"/>
+<label key="1879104839" value="Fungal Spores"/>
+<label key="1879104840" value="Curse of Deadly Sorrows"/>
+<label key="1879104841" value="Curse of Sticky Feet"/>
+<label key="1879104842" value="Fungal Bloom"/>
+<label key="1879104843" value="Curse of the Lethargic Heart"/>
+<label key="1879104844" value="Fertile Slime"/>
+<label key="1879104845" value="Fell Sacrifice"/>
+<label key="1879104846" value="Fell Restoration"/>
+<label key="1879104847" value="Fire Gourd"/>
+<label key="1879104848" value="Plague Gourd"/>
 <label key="key:620757890:228830419" value="This skill is a fast version of stealth."/>
 <label key="key:620759186:228830419" value="After using your Double-edged Strike, you can make a pair of powerful attack against your target."/>
 <label key="key:620759211:228830419" value="After using your Double-edged Strike, you make an attack which inflicts high damage, with a chance of creating a 6s opportunity to use Fellowship skills if you are in a Fellowship."/>
@@ -1796,6 +1809,7 @@
 <label key="key:620788773:228830419" value="An attack that makes up for a lack of elegance with brutal effectiveness."/>
 <label key="key:620788775:228830419" value="A basic ranged weapon attack."/>
 <label key="key:620788782:228830419" value="A sweeping cut that can damage multiple targets in front of the attacker."/>
+<label key="key:620788800:228830419" value="Auto-attack when wielding a two-handed weapon."/>
 <label key="key:620788803:228830419" value="A basic, but effective cutting attack."/>
 <label key="key:620788806:228830419" value="Two quick attacks on your target."/>
 <label key="key:620789554:228830419" value="Your heroic actions inspire your fellows restoring their power, while sapping yours. This skill can only be played after defeating an enemy."/>
@@ -1981,4 +1995,16 @@
 <label key="key:620799391:228830419" value="Return quickly to your personal home. This skill is easily interrupted."/>
 <label key="key:620799393:228830419" value="Return quickly to your kinship's house. This skill is easily interrupted."/>
 <label key="key:620799546:228830419" value="This skill will cause the Eagle to break the induction of a target, they are fighting."/>
+<label key="key:620802446:228830419" value="Returns target ally to activity from defeat.  Only useable out of combat."/>
+<label key="key:620802447:228830419" value="A strong blow from the Defiler's staff.  Contact with a Defiler's staff can poison many denizens of Middle-earth."/>
+<label key="key:620802448:228830419" value="Coats the opponent's feet in a sticky substance that slows their movement speed."/>
+<label key="key:620802449:228830419" value="Spores weave their way into the target, helping to speed the healing process."/>
+<label key="key:620802450:228830419" value="A gourd filled with burning embers is launched at your opponent, setting them alight."/>
+<label key="key:620802451:228830419" value="Douse opponent with corrosive liquid that weakens their armour and releases a soporific gas that reduces Will, Fate and Strength."/>
+<label key="key:620802452:228830419" value="Gourds filled with foul herbs and liquids from the depths of Angmar relieve the sting of wounds on the flesh of foul creatures."/>
+<label key="key:620802453:228830419" value="A plague of flies fills a foetid gourd which explodes on your opponent. On a good throw, the plague flies may cause your opponent to become easier to hit for a short time."/>
+<label key="key:620802454:228830419" value="A gourd thrown at the target plagues them with spores attacking their heart and weakening their resolve.  This skill is only effective against players."/>
+<label key="key:620802456:228830419" value="Living slime coats the target's wounds and restores health."/>
+<label key="key:620802457:228830419" value="When finished casting, Fell Restoration instantly restores a huge amount of health to target."/>
+<label key="key:620802458:228830419" value="Release hallucenogenic spores that strike fear into nearby enemies."/>
 </labels>

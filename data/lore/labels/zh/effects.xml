@@ -1757,9 +1757,20 @@
 <label key="1879102521" value="能量提升"/>
 <label key="1879102522" value="能量提升"/>
 <label key="1879102523" value="能量提升"/>
-<label key="1879103773" value="致使定身"/>
 <label key="1879103782" value="恐惧凝视"/>
 <label key="1879103966" value="免疫"/>
+<label key="1879104836" value="治疗黏液"/>
+<label key="1879104863" value="蘑菇花"/>
+<label key="1879104864" value="邪恶恢复"/>
+<label key="1879104868" value="菌孢"/>
+<label key="1879104869" value="邪恶复活"/>
+<label key="1879105178" value="陷足诅咒"/>
+<label key="1879105179" value="悲伤诅咒"/>
+<label key="1879105180" value="昏睡诅咒"/>
+<label key="1879107096" value="滑腻之足的进阶诅咒"/>
+<label key="1879107328" value="进阶瘟疫葫芦"/>
+<label key="1879113668" value="污染之毒"/>
+<label key="1879113781" value="火葫芦"/>
 <label key="1879117443" value="无尽狂怒"/>
 <label key="key:620757391:181298206" value="作用： 略微提升你的命中率。"/>
 <label key="key:620757393:181298206" value="作用： 略微提升你的命中率。"/>
@@ -2604,9 +2615,9 @@
 <label key="key:620799781:54354734" value="你被地上的定身效果缠身，暴露在敌人的攻击之下。"/>
 <label key="key:620799982:181298206" value="退出所有免疫状态"/>
 <label key="key:620800568:54354734" value="被标记目标受到的伤害全面增加。"/>
-<label key="key:620801140:181298206" value="定身持续16秒"/>
 <label key="key:620801145:54354734" value="你的眼睛能够造成极度的恐慌，因为你总是给战场带来死亡。"/>
 <label key="key:620801689:106251890" value="在短时间内对迷惑、眩晕、定身、恐惧与击倒效果免疫。"/>
 <label key="key:620801689:54354734" value="你对所有负面战斗状态免疫。"/>
+<label key="key:620802479:106251889" value="-10% 移动速度"/>
 <label key="key:620811020:54354734" value="重置攻击技能。"/>
 </labels>

@@ -19330,7 +19330,7 @@
 <label key="1879095687" value="Shining Heart-wood"/>
 <label key="1879095694" value="Large Ornate Lever"/>
 <label key="1879095717" value="Dull Spirit Stone"/>
-<label key="1879095718" value="Glimmering Spirit Sone"/>
+<label key="1879095718" value="Glimmering Spirit Stone"/>
 <label key="1879095719" value="Luminous Spirit Stone"/>
 <label key="1879095733" value="Blackened Mammoth Hoof"/>
 <label key="1879095734" value="Blackened Mammoth Tail"/>
@@ -20035,7 +20035,7 @@
 <label key="1879098139" value="Strong Amulet of the Polar Bear"/>
 <label key="1879098140" value="Advanced Amulet of the Frost-lynx"/>
 <label key="1879098141" value="Advanced Amulet of the Frost-lynx"/>
-<label key="1879098142" value="Excellent Amulet of the Front-lynx"/>
+<label key="1879098142" value="Excellent Amulet of the Frost-lynx"/>
 <label key="1879098143" value="Excellent Amulet of the Spotted Lynx"/>
 <label key="1879098144" value="Greater Amulet of the Blood-raven"/>
 <label key="1879098145" value="Supreme Amulet of the Snowcrest Eagle"/>
@@ -20102,7 +20102,7 @@
 <label key="1879098670" value="Supreme Amulet of the Frost-lynx Recipe"/>
 <label key="1879098673" value="Supreme Amulet of the Snowcrest Eagle Recipe"/>
 <label key="1879098674" value="Strong Amulet of the Wildpaw-bear Recipe"/>
-<label key="1879098676" value="Excellent Amulet of the Front-lynx Recipe"/>
+<label key="1879098676" value="Excellent Amulet of the Frost-lynx Recipe"/>
 <label key="1879098677" value="Advanced Amulet of the Frost-lynx Recipe"/>
 <label key="1879098678" value="Lesser Amulet of the Frost-lynx Recipe"/>
 <label key="1879098680" value="Lesser Amulet of the Black Bear Recipe Recipe"/>
@@ -21897,6 +21897,8 @@
 <label key="1879115225" value="Plaque of Ariant"/>
 <label key="1879115226" value="Plaque of Menelband"/>
 <label key="1879115227" value="Plaque of Minathranc"/>
+<label key="1894514716" value="Rope"/>
+<label key="1894514722" value="Rope"/>
 <label key="key:620757454:100083276" value="Money"/>
 <label key="key:620757454:203761950" value="A stack of money"/>
 <label key="key:620757516:54354734" value="A letter."/>
@@ -33522,7 +33524,7 @@
 <label key="key:620795521:54354734" value="This stone emits a soft sickly yellow glow, even in darkness and has an odd rune carved upon its surface."/>
 <label key="key:620795521:98907573" value="Dull Soul Stones"/>
 <label key="key:620795522:54354734" value="This stone emits a sickly yellow glimmer even in dim lighting. There is an odd rune carved into its surface."/>
-<label key="key:620795522:98907573" value="Glimmering Soul Stones"/>
+<label key="key:620795522:98907573" value="Glimmering Spirit Stones"/>
 <label key="key:620795523:54354734" value="This stone shines with a luminous, though sickly, yellow glow even in the dark. There is an odd rune carved into its surface."/>
 <label key="key:620795523:98907573" value="Luminous Soul Stones"/>
 <label key="key:620795536:54354734" value="A trophy gathered from a mammoth corpse."/>
