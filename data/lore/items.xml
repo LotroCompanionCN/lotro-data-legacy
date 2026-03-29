@@ -107309,7 +107309,7 @@
 <item key="1879101765" name="Festival Run Token" pluralName="key:620799588:98907573" icon="1091405276-1091388958" level="1" category="ITEM" class="47" binding="BIND_ON_ACQUIRE" quality="UNCOMMON" description="key:620799588:54354734" valueTableId="1879049581" stackMax="50">
 <stats/>
 </item>
-<item key="1879101772" name="Cushioned Bench Decoration Recipe" icon="1090537081-1090522692-1090537082" level="35" category="ITEM" class="58" binding="BIND_ON_ACQUIRE" quality="RARE" requiredFaction="1879091343;5" requiredProfession="1879055477;3" description="key:620799593:54354734" valueTableId="1879054943">
+<item key="1879101772" name="Cushioned Bench Decoration Recipe" icon="1090537081-1090522692-1090537082" level="35" category="ITEM" class="58" binding="BIND_ON_ACQUIRE" quality="RARE" requiredFaction="1879091344;5" requiredProfession="1879055477;3" description="key:620799593:54354734" valueTableId="1879054943">
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
@@ -107333,7 +107333,7 @@
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>
-<item key="1879101788" name="Red Elven Canopy Bed Decoration Recipe" icon="1090537081-1090522692-1090537082" level="35" category="ITEM" class="58" binding="BIND_ON_ACQUIRE" quality="RARE" requiredFaction="1879091343;5" requiredProfession="1879055477;3" description="key:620799595:54354734" valueTableId="1879054943">
+<item key="1879101788" name="Red Elven Canopy Bed Decoration Recipe" icon="1090537081-1090522692-1090537082" level="35" category="ITEM" class="58" binding="BIND_ON_ACQUIRE" quality="RARE" requiredFaction="1879091344;5" requiredProfession="1879055477;3" description="key:620799595:54354734" valueTableId="1879054943">
 <stats/>
 <effect type="ON_USE" id="1879054945" name="GrantRecipeEffect"/>
 </item>

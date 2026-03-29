@@ -16447,6 +16447,9 @@
 <ingredient>
 <ingredientItem itemId="1879083944" name="Spool of Rough Thread" icon="1090543108-1090519041-1090640816"/>
 </ingredient>
+<ingredient>
+<ingredientItem itemId="1879055163" name="Leather Bindings" icon="1090531617-1090519042-1090640816"/>
+</ingredient>
 <result>
 <resultItem itemId="1879101932" name="Small 'Tree Shadow' Rug" icon="1091402897-1090519041-1091402927"/>
 </result>
@@ -17315,11 +17318,14 @@
 <recipe id="1879102064" name="Large White 'Leaf Border' Rug" profession="TAILOR" tier="2" category="67" xp="4">
 <scrollItem itemId="1879102061" name="Large White 'Leaf Border' Rug Decoration Recipe" icon="1090537081-1090522692-1090537082"/>
 <recipeResult>
-<ingredient quantity="2">
+<ingredient>
 <ingredientItem itemId="1879055627" name="Bolt of Linen Cloth" icon="1090530508-1090519041-1090640816"/>
 </ingredient>
 <ingredient>
 <ingredientItem itemId="1879062788" name="Spool of Fine Thread" icon="1090543106-1090519041-1090640816"/>
+</ingredient>
+<ingredient>
+<ingredientItem itemId="1879055613" name="Leather Brace" icon="1090536818-1090519042-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879102003" name="Large White 'Leaf Border' Rug" icon="1091402897-1090519041-1091402927"/>
@@ -19763,6 +19769,9 @@
 </ingredient>
 <ingredient>
 <ingredientItem itemId="1879062789" name="Spool of Cotton Thread" icon="1090543108-1090519041-1090640816"/>
+</ingredient>
+<ingredient>
+<ingredientItem itemId="1879055641" name="Sturdy Leather Bindings" icon="1090531617-1090519042-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879102023" name="Small 'Ring and Leaf' Rug" icon="1091402897-1090519041-1091402927"/>
@@ -23648,6 +23657,9 @@
 <ingredient>
 <ingredientItem itemId="1879068332" name="Spool of Silk Thread" icon="1090552840-1090519042-1090640816"/>
 </ingredient>
+<ingredient>
+<ingredientItem itemId="1879055705" name="Darkened Leather Bindings" icon="1090531617-1090519043-1090640816"/>
+</ingredient>
 <result>
 <resultItem itemId="1879101558" name="Cushioned Bench" icon="1091402943-1090519041-1091402922"/>
 </result>
@@ -23656,11 +23668,14 @@
 <recipe id="1879102065" name="Large 'Dragon-fly' Rug" profession="TAILOR" tier="4" category="67" xp="4">
 <scrollItem itemId="1879102059" name="Large 'Dragon-fly' Rug Decoration Recipe" icon="1090537081-1090522692-1090537082"/>
 <recipeResult>
-<ingredient quantity="2">
+<ingredient>
 <ingredientItem itemId="1879055688" name="Bolt of Silk Cloth" icon="1090530508-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
 <ingredientItem itemId="1879068332" name="Spool of Silk Thread" icon="1090552840-1090519042-1090640816"/>
+</ingredient>
+<ingredient>
+<ingredientItem itemId="1879055669" name="Pristine Leather Brace" icon="1090536814-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879102024" name="Large 'Dragon-fly' Rug" icon="1091402897-1090519041-1091402927"/>
@@ -27336,6 +27351,9 @@
 </ingredient>
 <ingredient>
 <ingredientItem itemId="1879083943" name="Spool of Elven-thread" icon="1090552840-1090519042-1090640816"/>
+</ingredient>
+<ingredient>
+<ingredientItem itemId="1879055709" name="Exceptional Leather Bindings" icon="1090531617-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879102025" name="Small 'High Seas' Rug" icon="1091402897-1090519041-1091402927"/>
