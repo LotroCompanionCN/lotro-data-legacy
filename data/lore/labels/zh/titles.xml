@@ -422,7 +422,7 @@
 <label key="1894514711" value="光予者"/>
 <label key="1894514712" value="不败者"/>
 <label key="1894514713" value="疯子"/>
-<label key="1894514715" value="the Wanderer"/>
+<label key="1894514715" value="漫游者"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 荣誉治安官"/>
 <label key="key:620758793:175532558" value="你给夏尔的边境警卫帮了大忙了，你被授予荣誉治安官称号。"/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 学者学徒"/>
@@ -1271,6 +1271,6 @@
 <label key="key:636223488:75314017" value="完成加斯阿格温的硬核挑战奖励。"/>
 <label key="key:636223488:75314018" value="完成大古墓的硬核挑战奖励。"/>
 <label key="key:636223488:96594722" value="完成所有可用挑战的硬核挑战奖励。"/>
-<label key="key:636223495:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} the Wanderer"/>
-<label key="key:636223495:175532558" value="You have found Ostur and Akur, friends of Odur of Thorin's Hall, wandering the lands of Eriador."/>
+<label key="key:636223495:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} 漫游者"/>
+<label key="key:636223495:175532558" value="你已经找到了奥斯图尔和阿库尔，他们是索林大厅的奥杜的朋友，正在中土地区漫游。"/>
 </labels>
