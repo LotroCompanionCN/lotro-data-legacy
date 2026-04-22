@@ -21889,6 +21889,11 @@
 <label key="1879102679" value="Sterk-baug"/>
 <label key="1879102680" value="Lorchor"/>
 <label key="1879102681" value="Filigodringor"/>
+<label key="1879108350" value="Master Jeweller Scroll Case"/>
+<label key="1879108358" value="Master Metalworker Scroll Case"/>
+<label key="1879108362" value="Master Tailor Scroll Case"/>
+<label key="1879108366" value="Master Weaponsmith Scroll Case"/>
+<label key="1879108370" value="Master Woodworker Scroll Case"/>
 <label key="1879110743" value="Ettendeep's Bane"/>
 <label key="1879111444" value="Carbuncle Earring"/>
 <label key="1879115221" value="Plaque of Echad Garthadir"/>
@@ -34890,6 +34895,16 @@
 <label key="key:620800234:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
 <label key="key:620800235:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
 <label key="key:620800236:54354734" value="This item provides an immunity to incoming negative combat states for the amount of time specified. This insignia can only be used when out of combat."/>
+<label key="key:620804277:54354734" value="On opening, the scroll case will reveal a rare Master Metalworker recipe."/>
+<label key="key:620804277:98907573" value="Master Metalworker Scroll Case"/>
+<label key="key:620804285:54354734" value="On opening, the scroll case will reveal a rare Master Tailor recipe."/>
+<label key="key:620804285:98907573" value="Master Tailor Scroll Case"/>
+<label key="key:620804293:54354734" value="On opening, the scroll case will reveal a rare Master Weaponsmith recipe."/>
+<label key="key:620804293:98907573" value="Master Weaponsmith Scroll Case"/>
+<label key="key:620804301:54354734" value="On opening, the scroll case will reveal a rare Master Woodworker recipe."/>
+<label key="key:620804301:98907573" value="Master Woodworker Scroll Case"/>
+<label key="key:620804312:54354734" value="On opening, the scroll case will reveal a rare Master Jeweller recipe."/>
+<label key="key:620804312:98907573" value="Master Jeweller Scroll Case"/>
 <label key="key:620809118:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
 <label key="key:620809118:98907573" value="..."/>
 <label key="key:620809119:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>

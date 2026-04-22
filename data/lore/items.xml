@@ -109266,6 +109266,26 @@
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879054052"/>
 </stats>
 </item>
+<item key="1879108350" name="Master Jeweller Scroll Case" pluralName="key:620804312:98907573" icon="1091441637-1090519043-1091441638" level="50" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" quality="RARE" description="key:620804312:54354734" valueTableId="1879049280" stackMax="5">
+<stats/>
+<effect type="ON_USE" id="1879108374" name="Scroll Case"/>
+</item>
+<item key="1879108358" name="Master Metalworker Scroll Case" pluralName="key:620804277:98907573" icon="1091441622-1090519043-1091441623" level="50" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" quality="RARE" description="key:620804277:54354734" valueTableId="1879049280" stackMax="5">
+<stats/>
+<effect type="ON_USE" id="1879108382" name="Scroll Case"/>
+</item>
+<item key="1879108362" name="Master Tailor Scroll Case" pluralName="key:620804285:98907573" icon="1091441628-1090519043-1091441629" level="50" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" quality="RARE" description="key:620804285:54354734" valueTableId="1879049280" stackMax="5">
+<stats/>
+<effect type="ON_USE" id="1879108386" name="Scroll Case"/>
+</item>
+<item key="1879108366" name="Master Weaponsmith Scroll Case" pluralName="key:620804293:98907573" icon="1091441631-1090519043-1091441632" level="50" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" quality="RARE" description="key:620804293:54354734" valueTableId="1879049280" stackMax="5">
+<stats/>
+<effect type="ON_USE" id="1879108390" name="Scroll Case"/>
+</item>
+<item key="1879108370" name="Master Woodworker Scroll Case" pluralName="key:620804301:98907573" icon="1091441634-1090519043-1091441635" level="50" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" quality="RARE" description="key:620804301:54354734" valueTableId="1879049280" stackMax="5">
+<stats/>
+<effect type="ON_USE" id="1879108394" name="Scroll Case"/>
+</item>
 <item key="1879110743" name="Ettendeep's Bane" icon="1090556974-1090519044-1090556975-1090556976" level="50" slot="MAIN_HAND" precludedSlots="OFF_HAND" category="WEAPON" class="36" equipmentCategory="16" binding="BIND_ON_ACQUIRE" unique="true" durability="100" sturdiness="NORMAL" quality="INCOMPARABLE" minLevel="50" requiredClass="Captain" requiredGloryRank="7" valueTableId="1879050473" dps="31.354204" dpsTableId="1879049506" minDamage="87" maxDamage="114" damageType="BELERIAND" weaponType="HALBERD" speed="1">
 <stats>
 <stat name="MIGHT" scaling="1879050116"/>

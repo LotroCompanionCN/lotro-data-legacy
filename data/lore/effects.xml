@@ -5289,6 +5289,11 @@
 </propertyModEffect>
 <propertyModEffect id="1879107096" name="Improved Curse of Sticky Feet" iconId="1090519170" baseFlags="6284"/>
 <propertyModEffect id="1879107328" name="Improved Plague Gourd" iconId="1090519170" baseFlags="6284"/>
+<effect id="1879108374" name="Scroll Case" baseFlags="4124"/>
+<effect id="1879108382" name="Scroll Case" baseFlags="4124"/>
+<effect id="1879108386" name="Scroll Case" baseFlags="4124"/>
+<effect id="1879108390" name="Scroll Case" baseFlags="4124"/>
+<effect id="1879108394" name="Scroll Case" baseFlags="4124"/>
 <vitalOverTimeEffect id="1879113668" name="Defiler's Poison" iconId="1090522396" duration="3.0" pulseCount="4" baseFlags="4542" stat="Health_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879049743" modifiers="268437688,268440525,268441090"/>
 </vitalOverTimeEffect>

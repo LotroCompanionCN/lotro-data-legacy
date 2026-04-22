@@ -1615,6 +1615,7 @@
 <label key="1879101922" value="Салли Трешинг"/>
 <label key="1879102215" value="Твегги"/>
 <label key="1879102908" value="Алвульд"/>
+<label key="1879111779" value="Glanlin"/>
 <label key="1894514717" value="Остур"/>
 <label key="1894514718" value="Акур"/>
 <label key="1894514719" value="Одур"/>
@@ -2306,4 +2307,5 @@
 <label key="key:620799713:229802005" value="Распорядительница скачек"/>
 <label key="key:620799958:229802005" value="Целитель"/>
 <label key="key:620800515:229802005" value="Торговец"/>
+<label key="key:620806715:229802005" value="Supply &amp; Recipe Trader"/>
 </labels>

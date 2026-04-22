@@ -21204,6 +21204,103 @@
 <itemsTable id="1879102114">
 <itemsTableEntry weight="100" itemId="1879102112" name="Ashûrz's Adornment"/>
 </itemsTable>
+<itemsTable id="1879108398">
+<itemsTableEntry weight="10" itemId="1879091115" name="Engraved Beryl Ring Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091226" name="Engraved Beryl Necklace Recipe"/>
+<itemsTableEntry weight="10" itemId="1879092944" name="Engraved Beryl Earring Recipe"/>
+<itemsTableEntry weight="10" itemId="1879092909" name="Engraved Beryl Bracelet Recipe"/>
+</itemsTable>
+<itemsTable id="1879108406">
+<itemsTableEntry weight="10" itemId="1879091141" name="Elven Polished Ancient Helm Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091110" name="Elven Polished Ancient Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091164" name="Elven Polished Ancient Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091297" name="Elven Polished Ancient Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091131" name="Elven Polished Ancient Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091176" name="Elven Polished Ancient Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091250" name="Light Ancient Shield Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091216" name="Heavy Ancient Shield Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100345" name="Dwarf Polished Ancient Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100478" name="Dwarf Polished Ancient Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100637" name="Dwarf Polished Ancient Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099671" name="Dwarf Polished Ancient Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100207" name="Dwarf Polished Ancient Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099771" name="Polished Ancient Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099834" name="Polished Ancient Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100344" name="Polished Ancient Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100244" name="Polished Ancient Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100951" name="Polished Ancient Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091009" name="Ancient Steel Smithing Hammer Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091154" name="Ancient Steel Woodworking Tools Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091272" name="Ancient Steel Mining Pick Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091205" name="Ancient Steel Cooking Supplies Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091211" name="Ancient Steel Scholar's Glass Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091004" name="Ancient Steel Jeweller's Tools Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091016" name="Ancient Steel Tailor's Tools Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091230" name="Ancient Steel Farming Tools Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091190" name="Ancient Steel Forester's Axe Recipe"/>
+</itemsTable>
+<itemsTable id="1879108414">
+<itemsTableEntry weight="10" itemId="1879091058" name="Polished Ancient Steel Sword Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091043" name="Polished Ancient Steel Dagger Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091008" name="Polished Ancient Steel Axe Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091137" name="Polished Ancient Steel Greatsword Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091012" name="Polished Ancient Steel Headsman's Axe Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091071" name="Polished Ancient Steel Halberd Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091258" name="Polished Ancient Steel Mace Recipe"/>
+</itemsTable>
+<itemsTable id="1879108418">
+<itemsTableEntry weight="10" itemId="1879091107" name="Carved Black Ash Bow Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091184" name="Carved Black Ash Crossbow Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091293" name="Carved Black Ash Staff Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091301" name="Carved Black Ash Spear Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091281" name="Carved Black Ash Hammer Recipe"/>
+</itemsTable>
+<itemsTable id="1894514723">
+<itemsTableEntry weight="10" itemId="1879091014" name="Superb Radiant Robe Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091015" name="Superb Galadhrim Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091075" name="Superb Radiant Shoes Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091080" name="Superb Galadhrim Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091082" name="Superb Galadhrim Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091130" name="Superb Radiant Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091182" name="Superb Radiant Hat Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091189" name="Superb Galadhrim Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091214" name="Superb Galadhrim Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091218" name="Superb Radiant Cloak Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091227" name="Superb Radiant Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091228" name="Superb Radiant Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091243" name="Superb Radiant Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879091291" name="Superb Galadhrim Helm Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099382" name="Westernesse Superb Galadhrim Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099451" name="Westernesse Superb Galadhrim Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099516" name="Westernesse Superb Radiant Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099557" name="Dwarf Superb Galadhrim Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099649" name="Dwarf Superb Radiant Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099659" name="Westernesse Superb Galadhrim Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099663" name="Elf Superb Radiant Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099763" name="Elf Superb Radiant Shoes Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099803" name="Dwarf Superb Galadhrim Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099813" name="Westernesse Superb Radiant Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099831" name="Dwarf Superb Radiant Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099833" name="Elf Superb Galadhrim Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099871" name="Dwarf Superb Galadhrim Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099911" name="Elf Superb Radiant Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879099956" name="Westernesse Superb Radiant Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100069" name="Dwarf Superb Radiant Shoes Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100276" name="Elf Superb Radiant Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100315" name="Elf Superb Galadhrim Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100388" name="Westernesse Superb Radiant Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100418" name="Westernesse Superb Galadhrim Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100490" name="Westernesse Superb Galadhrim Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100502" name="Dwarf Superb Radiant Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100594" name="Elf Superb Radiant Armour Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100599" name="Elf Superb Galadhrim Gloves Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100650" name="Elf Superb Galadhrim Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100666" name="Dwarf Superb Radiant Shoulder Guards Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100696" name="Elf Superb Galadhrim Boots Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100722" name="Westernesse Superb Radiant Shoes Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100730" name="Dwarf Superb Galadhrim Leggings Recipe"/>
+<itemsTableEntry weight="10" itemId="1879100924" name="Dwarf Superb Galadhrim Shoulder Guards Recipe"/>
+</itemsTable>
 <treasureList id="1879050234">
 <treasureListEntry weight="100" treasureGroupProfileId="1879050696"/>
 <treasureListEntry weight="10" treasureGroupProfileId="1879050697"/>
@@ -22143,6 +22240,21 @@
 </treasureList>
 <treasureList id="1879098350">
 <treasureListEntry weight="1" treasureGroupProfileId="1879098346"/>
+</treasureList>
+<treasureList id="1879108422">
+<treasureListEntry weight="100" treasureGroupProfileId="1879108398"/>
+</treasureList>
+<treasureList id="1879108430">
+<treasureListEntry weight="100" treasureGroupProfileId="1879108406"/>
+</treasureList>
+<treasureList id="1879108434">
+<treasureListEntry weight="100" treasureGroupProfileId="1894514723"/>
+</treasureList>
+<treasureList id="1879108438">
+<treasureListEntry weight="100" treasureGroupProfileId="1879108414"/>
+</treasureList>
+<treasureList id="1879108442">
+<treasureListEntry weight="100" treasureGroupProfileId="1879108418"/>
 </treasureList>
 <trophyList id="1879050233">
 <trophyListEntry dropFrequency="1.0" treasureGroupProfileId="1879050266"/>

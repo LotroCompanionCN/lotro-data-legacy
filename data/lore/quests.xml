@@ -40504,7 +40504,7 @@
 <object id="1879084283" name="Pure Athelas Extract"/>
 </rewards>
 </quest>
-<quest id="1879091412" name="Glinghant Corrupted" rawName="key:620792475:228870261" category="19" level="50" size="FELLOWSHIP" description="key:620792475:54354734">
+<quest id="1879091412" name="Glinghant Corrupted" rawName="key:620792475:228870261" category="19" level="50" size="FELLOWSHIP" repeatable="-1" description="key:620792475:54354734">
 <bestower npcId="1879090878" npcName="Harthadril" text="key:620792475:218649169"/>
 <objectives>
 <objective index="1" text="key:620792475:94621393">
@@ -40531,11 +40531,11 @@
 <rewards>
 <money gold="0" silver="24" copper="85"/>
 <reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
-<XP quantity="4042"/>
-<object id="1879092853" name="Battered Arnorian Armour" quantity="3"/>
+<object id="1879092853" name="Battered Arnorian Armour" quantity="4"/>
+<object id="1879092852" name="Arnorian Armour Fragments" quantity="10"/>
 <selectOneOf>
-<object id="1879061400" name="Perfect Pie" quantity="5"/>
-<object id="1879050464" name="Milkthistle Draught" quantity="5"/>
+<object id="1879061400" name="Perfect Pie" quantity="2"/>
+<object id="1879098940" name="Pure Milkthistle Draught" quantity="2"/>
 </selectOneOf>
 </rewards>
 </quest>
@@ -40625,7 +40625,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879091445" name="Balhest, Lord of Ost Elendil" rawName="key:620792495:228870261" category="19" level="50" size="FELLOWSHIP" description="key:620792495:54354734">
+<quest id="1879091445" name="Balhest, Lord of Ost Elendil" rawName="key:620792495:228870261" category="19" level="50" size="FELLOWSHIP" repeatable="-1" description="key:620792495:54354734">
 <bestower npcId="1879090879" npcName="Legrindavor" text="key:620792495:218649169"/>
 <objectives>
 <objective index="1" text="key:620792495:94621393">
@@ -40651,11 +40651,11 @@
 <rewards>
 <money gold="0" silver="24" copper="85"/>
 <reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
-<XP quantity="4042"/>
-<object id="1879092853" name="Battered Arnorian Armour" quantity="3"/>
+<object id="1879092853" name="Battered Arnorian Armour" quantity="4"/>
+<object id="1879092852" name="Arnorian Armour Fragments" quantity="10"/>
 <selectOneOf>
-<object id="1879061407" name="Delicious Steak" quantity="5"/>
-<object id="1879052081" name="Pure Essence of Athelas" quantity="3"/>
+<object id="1879061407" name="Delicious Steak" quantity="2"/>
+<object id="1879052081" name="Pure Essence of Athelas"/>
 </selectOneOf>
 </rewards>
 </quest>
@@ -40688,7 +40688,7 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879091447" name="End Dolvaethor's Menace" rawName="key:620792497:228870261" category="19" level="50" size="FELLOWSHIP" description="key:620792497:54354734">
+<quest id="1879091447" name="End Dolvaethor's Menace" rawName="key:620792497:228870261" category="19" level="50" size="FELLOWSHIP" repeatable="-1" description="key:620792497:54354734">
 <bestower npcId="1879090877" npcName="Glangilith" text="key:620792497:218649169"/>
 <objectives>
 <objective index="1" text="key:620792497:94621393">
@@ -40715,11 +40715,11 @@
 <rewards>
 <money gold="0" silver="24" copper="85"/>
 <reputationItem factionId="1879091343" faction="The Wardens of Annúminas" amount="700"/>
-<XP quantity="4042"/>
-<object id="1879092853" name="Battered Arnorian Armour" quantity="3"/>
+<object id="1879092853" name="Battered Arnorian Armour" quantity="4"/>
+<object id="1879092852" name="Arnorian Armour Fragments" quantity="10"/>
 <selectOneOf>
-<object id="1879061412" name="Masterful Mash" quantity="5"/>
-<object id="1879052081" name="Pure Essence of Athelas" quantity="3"/>
+<object id="1879061412" name="Masterful Mash" quantity="2"/>
+<object id="1879052081" name="Pure Essence of Athelas"/>
 </selectOneOf>
 </rewards>
 </quest>
