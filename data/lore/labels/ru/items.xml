@@ -21889,11 +21889,11 @@
 <label key="1879102679" value="Стерк-Бауг"/>
 <label key="1879102680" value="Лорхор"/>
 <label key="1879102681" value="Филигодрингор"/>
-<label key="1879108350" value="Master Jeweller Scroll Case"/>
-<label key="1879108358" value="Master Metalworker Scroll Case"/>
-<label key="1879108362" value="Master Tailor Scroll Case"/>
-<label key="1879108366" value="Master Weaponsmith Scroll Case"/>
-<label key="1879108370" value="Master Woodworker Scroll Case"/>
+<label key="1879108350" value="Футляр с рецептом искусного ювелира"/>
+<label key="1879108358" value="Футляр с рецептом искусного кузнеца"/>
+<label key="1879108362" value="Футляр с рецептом искусного портного"/>
+<label key="1879108366" value="Футляр с рецептом искусного оружейника"/>
+<label key="1879108370" value="Футляр с рецептом искусного деревообработчика"/>
 <label key="1879110743" value="Проклятие Эттенских пещер"/>
 <label key="1879111444" value="Серьга с карбункулом"/>
 <label key="1879115221" value="Табличка Эхад Гартадир"/>
@@ -34895,16 +34895,16 @@
 <label key="key:620800234:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
 <label key="key:620800235:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
 <label key="key:620800236:54354734" value="Этот предмет на некоторое время дарует вам невосприимчивость к негативным боевым состояниям. Его можно использовать только вне боя."/>
-<label key="key:620804277:54354734" value="On opening, the scroll case will reveal a rare Master Metalworker recipe."/>
-<label key="key:620804277:98907573" value="Master Metalworker Scroll Case"/>
-<label key="key:620804285:54354734" value="On opening, the scroll case will reveal a rare Master Tailor recipe."/>
-<label key="key:620804285:98907573" value="Master Tailor Scroll Case"/>
-<label key="key:620804293:54354734" value="On opening, the scroll case will reveal a rare Master Weaponsmith recipe."/>
-<label key="key:620804293:98907573" value="Master Weaponsmith Scroll Case"/>
-<label key="key:620804301:54354734" value="On opening, the scroll case will reveal a rare Master Woodworker recipe."/>
-<label key="key:620804301:98907573" value="Master Woodworker Scroll Case"/>
-<label key="key:620804312:54354734" value="On opening, the scroll case will reveal a rare Master Jeweller recipe."/>
-<label key="key:620804312:98907573" value="Master Jeweller Scroll Case"/>
+<label key="key:620804277:54354734" value="Открыв футляр, вы найдете редкий рецепт искусного кузнеца."/>
+<label key="key:620804277:98907573" value="Футляр с рецептом искусного кузнеца"/>
+<label key="key:620804285:54354734" value="Открыв футляр, вы найдете редкий рецепт искусного портного."/>
+<label key="key:620804285:98907573" value="Футляр с рецептом искусного портного"/>
+<label key="key:620804293:54354734" value="Открыв футляр, вы найдете редкий рецепт искусного оружейника."/>
+<label key="key:620804293:98907573" value="Футляр с рецептом искусного оружейника"/>
+<label key="key:620804301:54354734" value="Открыв футляр, вы найдете редкий рецепт искусного деревообработчика."/>
+<label key="key:620804301:98907573" value="Футляр с рецептом искусного деревообработчика"/>
+<label key="key:620804312:54354734" value="Открыв футляр, вы найдете редкий рецепт искусного ювелира."/>
+<label key="key:620804312:98907573" value="Футляр с рецептом искусного ювелира"/>
 <label key="key:620809118:54354734" value="Табличка, найденная в руинах Аннуминаса."/>
 <label key="key:620809118:98907573" value=""/>
 <label key="key:620809119:54354734" value="Табличка, найденная в руинах Аннуминаса."/>

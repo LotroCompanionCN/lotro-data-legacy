@@ -251,7 +251,7 @@
 <label key="1879074189" value="родич / родич"/>
 <label key="1879074191" value="основательница / основатель"/>
 <label key="1879074192" value="властительница / властитель"/>
-<label key="1879074193" value="провост"/>
+<label key="1879074193" value="профос"/>
 <label key="1879074194" value="родич / родич"/>
 <label key="1879074196" value="основательница / основатель"/>
 <label key="1879074197" value="глава"/>
@@ -322,13 +322,13 @@
 <label key="1879084001" value="Погибель Света"/>
 <label key="1879084002" value="гроза эльфов"/>
 <label key="1879084003" value="бич Подгорья"/>
-<label key="1879084004" value="военный вождь"/>
+<label key="1879084004" value="военачальник"/>
 <label key="1879084005" value="убийца хоббитов"/>
 <label key="1879084006" value="заклинатель костей"/>
 <label key="1879084007" value="Глашатай Тьмы"/>
 <label key="1879084008" value="жнец гномьих душ"/>
 <label key="1879084009" value="вожак"/>
-<label key="1879084010" value="предводитель"/>
+<label key="1879084010" value="верховный вожак"/>
 <label key="1879084011" value="Бич Западных Земель"/>
 <label key="1879084012" value="гроза гномов"/>
 <label key="1879084013" value="начальник отряда"/>
@@ -338,15 +338,15 @@
 <label key="1879084017" value="Враг Чести"/>
 <label key="1879084018" value="бич людского рода"/>
 <label key="1879084019" value="враг эльфов"/>
-<label key="1879084020" value="надсмотрщик"/>
+<label key="1879084020" value="предводитель"/>
 <label key="1879084021" value="живодер"/>
 <label key="1879084022" value="воин"/>
 <label key="1879084023" value="воин"/>
 <label key="1879084024" value="Палач"/>
 <label key="1879084025" value="убийца людей"/>
-<label key="1879084027" value="военачальник"/>
+<label key="1879084027" value="боевой командир"/>
 <label key="1879084028" value="пращур"/>
-<label key="1879084029" value="боевой командир"/>
+<label key="1879084029" value="подстрекатель"/>
 <label key="1879084030" value="воин"/>
 <label key="1879084032" value="наблюдатель"/>
 <label key="1879084033" value="Коса Скорби"/>
@@ -852,7 +852,7 @@
 <label key="key:620774565:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ширский пивовар"/>
 <label key="key:620774565:175532558" value="Вы знаете толк в ширском пиве и эле."/>
 <label key="key:620774851:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, глава"/>
-<label key="key:620774851:175532558" value="Вы - лидер содружества."/>
+<label key="key:620774851:175532558" value="Вы - глава содружества."/>
 <label key="key:620774852:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, офицер"/>
 <label key="key:620774852:175532558" value="Вы - офицер содружества."/>
 <label key="key:620774853:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:родич[f]|родич}"/>
@@ -908,7 +908,7 @@
 <label key="key:620775449:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: чья жена[m]| чей муж[f]} -"/>
 <label key="key:620775449:175532558" value="Вы связаны священными узами брака."/>
 <label key="key:620775851:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:леди[f]|лорд}"/>
-<label key="key:620775851:175532558" value="Вы - лидер содружества."/>
+<label key="key:620775851:175532558" value="Вы - глава содружества."/>
 <label key="key:620775852:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, сенешаль"/>
 <label key="key:620775852:175532558" value="Вы - офицер содружества."/>
 <label key="key:620775853:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:родич[f]|родич}"/>
@@ -916,7 +916,7 @@
 <label key="key:620775854:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:основательница[f]|основатель}"/>
 <label key="key:620775854:175532558" value="Вы - основатель содружества."/>
 <label key="key:620775855:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:хирил[f]|тур}"/>
-<label key="key:620775855:175532558" value="Вы - лидер содружества."/>
+<label key="key:620775855:175532558" value="Вы - глава содружества."/>
 <label key="key:620775856:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:аранэль[f]|каун}"/>
 <label key="key:620775856:175532558" value="Вы - офицер содружества."/>
 <label key="key:620775857:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:родич[f]|родич}"/>
@@ -924,15 +924,15 @@
 <label key="key:620775858:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:рин[f]|эйниор}"/>
 <label key="key:620775858:175532558" value="Вы - основатель содружества."/>
 <label key="key:620775859:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:властительница[f]|властитель}"/>
-<label key="key:620775859:175532558" value="Вы - лидер содружества."/>
-<label key="key:620775860:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, провост"/>
+<label key="key:620775859:175532558" value="Вы - глава содружества."/>
+<label key="key:620775860:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, профос"/>
 <label key="key:620775860:175532558" value="Вы - офицер содружества."/>
 <label key="key:620775861:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:родич[f]|родич}"/>
 <label key="key:620775861:175532558" value="Вы - член содружества."/>
 <label key="key:620775862:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:основательница[f]|основатель}"/>
 <label key="key:620775862:175532558" value="Вы - основатель содружества."/>
 <label key="key:620775863:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, глава"/>
-<label key="key:620775863:175532558" value="Вы - лидер содружества."/>
+<label key="key:620775863:175532558" value="Вы - глава содружества."/>
 <label key="key:620775864:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:добровольная помощница главы[f]|добровольный помощник главы}"/>
 <label key="key:620775864:175532558" value="Вы - офицер содружества."/>
 <label key="key:620775865:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:родич[f]|родич}"/>
@@ -1069,19 +1069,19 @@
 <label key="key:620782812:175532558" value="Ваше имя хорошо известно эльфам. Они пугают им непослушных детей."/>
 <label key="key:620782813:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, бич Подгорья"/>
 <label key="key:620782813:175532558" value="Когда войско Ангмара спустится под землю, чтобы сразиться с гномами в их подгорных пещерах, возможно, во главе отрядов поставят вас. Вы доказали, что в битве с этими карликами вам нет равных!"/>
-<label key="key:620782814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, военный вождь"/>
+<label key="key:620782814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, военачальник"/>
 <label key="key:620782814:175532558" value="Вы - офицер племени."/>
 <label key="key:620782815:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, убийца хоббитов"/>
 <label key="key:620782815:175532558" value="Не зная жалости, вы душите и режете полуросликов. В уничтожении этого народца вам нет равных."/>
 <label key="key:620782816:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, заклинатель костей"/>
 <label key="key:620782816:175532558" value="Вы - основатель племени."/>
 <label key="key:620782817:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Глашатай Тьмы"/>
-<label key="key:620782817:175532558" value="Вы - истинный глашатай могущества Темного властелина. Вы одолели несметное число врагов и многих еще одолеете."/>
+<label key="key:620782817:175532558" value="Вы - истинный глашатай могущества Темного Властелина. Вы одолели несметное число врагов и многих еще одолеете."/>
 <label key="key:620782818:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, жнец гномьих душ"/>
 <label key="key:620782818:175532558" value="Гномы трясутся от страха, увидев вас. Вы сотнями пожинаете их души!"/>
 <label key="key:620782819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, вожак"/>
-<label key="key:620782819:175532558" value="Вы - лидер племени."/>
-<label key="key:620782820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, предводитель"/>
+<label key="key:620782819:175532558" value="Вы - глава племени."/>
+<label key="key:620782820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, верховный вожак"/>
 <label key="key:620782820:175532558" value="Вы - основатель племени."/>
 <label key="key:620782821:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Бич Западных Земель"/>
 <label key="key:620782821:175532558" value="Ни один из воинов запада не может устоять перед вами. Вы шагаете, оставляя позади груды тел. Вы - истинный бич западных земель."/>
@@ -1101,8 +1101,8 @@
 <label key="key:620782828:175532558" value="Люди боятся вас. Каждый из них знает ваше имя и дрожит от страха, едва услышав его."/>
 <label key="key:620782829:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, враг эльфов"/>
 <label key="key:620782829:175532558" value="Ваш клинок сразил многих эльфов и жаждет еще эльфийской крови."/>
-<label key="key:620782830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, надсмотрщик"/>
-<label key="key:620782830:175532558" value="Вы - лидер племени."/>
+<label key="key:620782830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, предводитель"/>
+<label key="key:620782830:175532558" value="Вы - глава племени."/>
 <label key="key:620782831:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, живодер"/>
 <label key="key:620782831:175532558" value="Пробиваясь сквозь ряды людей, вы впадаете в сладкое исступление. Вас знают как убийцу и истязателя людского рода."/>
 <label key="key:620782832:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, воин"/>
@@ -1115,12 +1115,12 @@
 <label key="key:620782835:175532558" value="Ваш клинок часто пьет кровь людей. Немногие отважатся противостоять вам!"/>
 <label key="key:620782836:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}"/>
 <label key="key:620782836:175532558" value="Ваше звание, имя и фамилия."/>
-<label key="key:620782837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, военачальник"/>
-<label key="key:620782837:175532558" value="Вы - лидер племени."/>
+<label key="key:620782837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, боевой командир"/>
+<label key="key:620782837:175532558" value="Вы - глава племени."/>
 <label key="key:620782838:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, пращур"/>
 <label key="key:620782838:175532558" value="Вы - основатель племени."/>
-<label key="key:620782839:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, боевой командир"/>
-<label key="key:620782839:175532558" value="Вы - лидер племени."/>
+<label key="key:620782839:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, подстрекатель"/>
+<label key="key:620782839:175532558" value="Вы - глава племени."/>
 <label key="key:620782840:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, воин"/>
 <label key="key:620782840:175532558" value="Вы - воин племени."/>
 <label key="key:620782842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, наблюдатель"/>
