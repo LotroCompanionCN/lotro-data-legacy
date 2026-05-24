@@ -22,6 +22,34 @@
 <XP quantity="4042"/>
 <trait id="1879062506" name="Sword and Staff"/>
 </rewards>
+<loot id="1879062498" name="Lore of the Blade, Page 5" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879062499" name="Lore of the Blade, Page 11" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879062500" name="Lore of the Blade, Page 18" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879062501" name="Lore of the Blade, Page 26" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879062502" name="Lore of the Blade, Page 35" probabilities="1">
+<mobSpec mobDivision="100" species="39"/>
+</loot>
+<loot id="1879062503" name="Lore of the Blade, Page 45" probabilities="1">
+<mobSpec mobDivision="100" species="39"/>
+</loot>
+<loot id="1879062504" name="Lore of the Blade, Page 56" probabilities="1">
+<mobSpec mobDivision="100" species="39"/>
+</loot>
+<loot id="1879062505" name="Lore of the Blade, Page 68" probabilities="1">
+<mobSpec mobDivision="100" species="39"/>
+</loot>
 </deed>
 <deed id="1879048669" key="The_Book_of_Beasts" name="The Book of Beasts" rawName="key:620759230:228870261" type="CLASS" minLevel="39" requiredClass="Lore-master" category="9" level="42" description="key:620759230:54354734">
 <objectives>
@@ -46,6 +74,30 @@
 <XP quantity="4042"/>
 <trait id="1879052186" name="Noble Savage"/>
 </rewards>
+<loot id="1879052178" name="The Book of Beasts, Page 3" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052179" name="The Book of Beasts, Page 6" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052180" name="The Book of Beasts, Page 8" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052181" name="The Book of Beasts, Page 14" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052182" name="The Book of Beasts, Page 25" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
+<loot id="1879052183" name="The Book of Beasts, Page 26" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
+<loot id="1879052184" name="The Book of Beasts, Page 33" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
+<loot id="1879052185" name="The Book of Beasts, Page 37" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
 </deed>
 <deed id="1879048670" key="Of_Leaf_and_Twig" name="Of Leaf and Twig" rawName="key:620759241:228870261" type="CLASS" minLevel="39" requiredClass="Lore-master" category="9" level="46" description="key:620759241:54354734">
 <objectives>
@@ -94,6 +146,30 @@
 <XP quantity="4042"/>
 <trait id="1879052880" name="Rally!"/>
 </rewards>
+<loot id="1879052872" name="Melodies of the Valar, Page 12" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879052873" name="Melodies of the Valar, Page 14" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879052874" name="Melodies of the Valar, Page 23" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879052875" name="Melodies of the Valar, Page 24" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879052876" name="Melodies of the Valar, Page 27" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879052877" name="Melodies of the Valar, Page 29" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879052878" name="Melodies of the Valar, Page 30" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879052879" name="Melodies of the Valar, Page 32" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
 </deed>
 <deed id="1879048691" key="The_Rising_Chord" name="The Rising Chord" rawName="key:620759628:228870261" type="CLASS" minLevel="39" requiredClass="Minstrel" category="9" level="44" description="key:620759628:54354734">
 <objectives>
@@ -118,6 +194,34 @@
 <XP quantity="4042"/>
 <trait id="1879052894" name="Song of the Hopeful Heart"/>
 </rewards>
+<loot id="1879052886" name="The Rising Chord, Page 3" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879052887" name="The Rising Chord, Page 4" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879052888" name="The Rising Chord, Page 11" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879052889" name="The Rising Chord, Page 14" probabilities="1">
+<mobSpec mobDivision="45" species="7"/>
+<mobSpec mobDivision="89" species="7"/>
+</loot>
+<loot id="1879052890" name="The Rising Chord, Page 16" probabilities="1">
+<mobSpec mobDivision="100" species="41"/>
+</loot>
+<loot id="1879052891" name="The Rising Chord, Page 23" probabilities="1">
+<mobSpec mobDivision="100" species="41"/>
+</loot>
+<loot id="1879052892" name="The Rising Chord, Page 27" probabilities="1">
+<mobSpec mobDivision="100" species="41"/>
+</loot>
+<loot id="1879052893" name="The Rising Chord, Page 28" probabilities="1">
+<mobSpec mobDivision="100" species="41"/>
+</loot>
 </deed>
 <deed id="1879048692" key="Valour%27s_Marches" name="Valour's Marches" rawName="key:620759641:228870261" type="CLASS" minLevel="39" requiredClass="Minstrel" category="9" level="46" description="key:620759641:54354734">
 <objectives>
@@ -166,6 +270,30 @@
 <XP quantity="4042"/>
 <trait id="1879052124" name="Flashing Blades"/>
 </rewards>
+<loot id="1879052116" name="The Book of Knives, Page 3" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879052117" name="The Book of Knives, Page 5" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879052118" name="The Book of Knives, Page 12" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879052119" name="The Book of Knives, Page 17" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879052120" name="The Book of Knives, Page 18" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
+<loot id="1879052121" name="The Book of Knives, Page 23" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
+<loot id="1879052122" name="The Book of Knives, Page 26" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
+<loot id="1879052123" name="The Book of Knives, Page 31" probabilities="1">
+<mobSpec mobDivision="67" species="12"/>
+</loot>
 </deed>
 <deed id="1879048704" key="Knee-breaker%27s_Manual" name="Knee-breaker's Manual" rawName="key:620759198:228870261" type="CLASS" minLevel="39" requiredClass="Burglar" category="9" level="44" description="key:620759198:54354734">
 <objectives>
@@ -190,6 +318,34 @@
 <XP quantity="4042"/>
 <trait id="1879052147" name="Sweep the Leg"/>
 </rewards>
+<loot id="1879052139" name="Knee-breaker's Manual, Page 1" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052140" name="Knee-breaker's Manual, Page 3" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052141" name="Knee-breaker's Manual, Page 4" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052142" name="Knee-breaker's Manual, Page 8" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052143" name="Knee-breaker's Manual, Page 10" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879052144" name="Knee-breaker's Manual, Page 15" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879052145" name="Knee-breaker's Manual, Page 16" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879052146" name="Knee-breaker's Manual, Page 19" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
 </deed>
 <deed id="1879048705" key="The_Expert%27s_Guide_to_Dirty_Fighting" name="The Expert's Guide to Dirty Fighting" rawName="key:620759209:228870261" type="CLASS" minLevel="39" requiredClass="Burglar" category="9" level="46" description="key:620759209:54354734">
 <objectives>
@@ -1358,6 +1514,30 @@
 <XP quantity="4042"/>
 <trait id="1879052498" name="Bard's Arrow"/>
 </rewards>
+<loot id="1879052490" name="A Shot in the Dark, Page 5" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052491" name="A Shot in the Dark, Page 10" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052492" name="A Shot in the Dark, Page 14" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052493" name="A Shot in the Dark, Page 16" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879052494" name="A Shot in the Dark, Page 19" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
+<loot id="1879052495" name="A Shot in the Dark, Page 22" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
+<loot id="1879052496" name="A Shot in the Dark, Page 23" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
+<loot id="1879052497" name="A Shot in the Dark, Page 25" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
 </deed>
 <deed id="1879052486" key="The_Way_of_the_Hunter" name="The Way of the Hunter" rawName="key:620759424:228870261" type="CLASS" minLevel="39" requiredClass="Hunter" category="9" level="44" description="key:620759424:54354734">
 <objectives>
@@ -1382,6 +1562,34 @@
 <XP quantity="4042"/>
 <trait id="1879052516" name="Press Onward"/>
 </rewards>
+<loot id="1879052508" name="The Way of the Hunter, Page 1" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052509" name="The Way of the Hunter, Page 3" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052510" name="The Way of the Hunter, Page 4" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052511" name="The Way of the Hunter, Page 8" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879052512" name="The Way of the Hunter, Page 17" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879052513" name="The Way of the Hunter, Page 20" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879052514" name="The Way of the Hunter, Page 21" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879052515" name="The Way of the Hunter, Page 28" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
 </deed>
 <deed id="1879052487" key="The_Furthest_Charge" name="The Furthest Charge" rawName="key:620759438:228870261" type="CLASS" minLevel="39" requiredClass="Hunter" category="9" level="46" description="key:620759438:54354734">
 <objectives>
@@ -1430,6 +1638,30 @@
 <XP quantity="4042"/>
 <trait id="1879053026" name="Defy Corruption"/>
 </rewards>
+<loot id="1879053018" name="The Candle's Flame, Page 4" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879053019" name="The Candle's Flame, Page 7" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879053020" name="The Candle's Flame, Page 13" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879053021" name="The Candle's Flame, Page 16" probabilities="1">
+<mobSpec mobDivision="70" species="37"/>
+</loot>
+<loot id="1879053022" name="The Candle's Flame, Page 25" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879053023" name="The Candle's Flame, Page 26" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879053024" name="The Candle's Flame, Page 31" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879053025" name="The Candle's Flame, Page 35" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
 </deed>
 <deed id="1879053013" key="The_Treatise_of_Valour" name="The Treatise of Valour" rawName="key:620759764:228870261" type="CLASS" minLevel="39" requiredClass="Captain" category="9" level="44" description="key:620759764:54354734">
 <objectives>
@@ -1454,6 +1686,34 @@
 <XP quantity="4042"/>
 <trait id="1879053048" name="Shield of the Dúnedain"/>
 </rewards>
+<loot id="1879053040" name="Treatise of Valour, Page 2" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879053041" name="Treatise of Valour, Page 3" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879053042" name="Treatise of Valour, Page 5" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879053043" name="Treatise of Valour, Page 10" probabilities="1">
+<mobSpec mobDivision="45" species="61"/>
+<mobSpec mobDivision="89" species="61"/>
+</loot>
+<loot id="1879053044" name="Treatise of Valour, Page 12" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879053045" name="Treatise of Valour, Page 15" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879053046" name="Treatise of Valour, Page 18" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879053047" name="Treatise of Valour, Page 22" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
 </deed>
 <deed id="1879053014" key="The_Book_of_Oaths" name="The Book of Oaths" rawName="key:620759777:228870261" type="CLASS" minLevel="39" requiredClass="Captain" category="9" level="46" description="key:620759777:54354734">
 <objectives>
@@ -1502,6 +1762,30 @@
 <XP quantity="4042"/>
 <trait id="1879059852" name="Ferocious Strikes"/>
 </rewards>
+<loot id="1879059844" name="The Tome of Swords, Page 1" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879059845" name="The Tome of Swords, Page 4" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879059846" name="The Tome of Swords, Page 7" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879059847" name="The Tome of Swords, Page 12" probabilities="1">
+<mobSpec mobDivision="104" species="41"/>
+</loot>
+<loot id="1879059848" name="The Tome of Swords, Page 13" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879059849" name="The Tome of Swords, Page 17" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879059850" name="The Tome of Swords, Page 21" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
+<loot id="1879059851" name="The Tome of Swords, Page 25" probabilities="1">
+<mobSpec mobDivision="79" species="63"/>
+</loot>
 </deed>
 <deed id="1879059840" key="The_Joy_of_Battle" name="The Joy of Battle" rawName="key:620764889:228870261" type="CLASS" minLevel="39" requiredClass="Champion" category="9" level="44" description="key:620764889:54354734">
 <objectives>
@@ -1526,6 +1810,34 @@
 <XP quantity="4042"/>
 <trait id="1879059868" name="Fight On!"/>
 </rewards>
+<loot id="1879059860" name="The Joy of Battle, Page 11" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879059861" name="The Joy of Battle, Page 14" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879059862" name="The Joy of Battle, Page 18" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879059863" name="The Joy of Battle, Page 24" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879059864" name="The Joy of Battle, Page 25" probabilities="1">
+<mobSpec mobDivision="100" species="53"/>
+</loot>
+<loot id="1879059865" name="The Joy of Battle, Page 28" probabilities="1">
+<mobSpec mobDivision="100" species="53"/>
+</loot>
+<loot id="1879059866" name="The Joy of Battle, Page 32" probabilities="1">
+<mobSpec mobDivision="100" species="53"/>
+</loot>
+<loot id="1879059867" name="The Joy of Battle, Page 36" probabilities="1">
+<mobSpec mobDivision="100" species="53"/>
+</loot>
 </deed>
 <deed id="1879059841" key="The_Artisan_Blade" name="The Artisan Blade" rawName="key:620764901:228870261" type="CLASS" minLevel="39" requiredClass="Champion" category="9" level="46" description="key:620764901:54354734">
 <objectives>
@@ -1574,6 +1886,30 @@
 <XP quantity="4042"/>
 <trait id="1879060163" name="Shield-smash"/>
 </rewards>
+<loot id="1879060155" name="The Best Defence, Page 2" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879060156" name="The Best Defence, Page 3" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879060157" name="The Best Defence, Page 5" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879060158" name="The Best Defence, Page 9" probabilities="1">
+<mobSpec mobDivision="70" species="39"/>
+</loot>
+<loot id="1879060159" name="The Best Defence, Page 12" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
+<loot id="1879060160" name="The Best Defence, Page 16" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
+<loot id="1879060161" name="The Best Defence, Page 17" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
+<loot id="1879060162" name="The Best Defence, Page 19" probabilities="1">
+<mobSpec mobDivision="85" species="33"/>
+</loot>
 </deed>
 <deed id="1879060152" key="A_Shield-maiden%27s_Song" name="A Shield-maiden's Song" rawName="key:620765217:228870261" type="CLASS" minLevel="39" requiredClass="Guardian" category="9" level="44" description="key:620765217:54354734">
 <objectives>
@@ -1598,6 +1934,34 @@
 <XP quantity="4042"/>
 <trait id="1879060179" name="Guardian's Threat"/>
 </rewards>
+<loot id="1879060171" name="A Shield-maiden's Song, Page 1" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879060172" name="A Shield-maiden's Song, Page 8" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879060173" name="A Shield-maiden's Song, Page 11" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879060174" name="A Shield-maiden's Song, Page 12" probabilities="1">
+<mobSpec mobDivision="45" species="70"/>
+<mobSpec mobDivision="89" species="70"/>
+</loot>
+<loot id="1879060175" name="A Shield-maiden's Song, Page 15" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879060176" name="A Shield-maiden's Song, Page 19" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879060177" name="A Shield-maiden's Song, Page 25" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
+<loot id="1879060178" name="A Shield-maiden's Song, Page 26" probabilities="1">
+<mobSpec mobDivision="124" species="7"/>
+</loot>
 </deed>
 <deed id="1879060153" key="The_Final_Word" name="The Final Word" rawName="key:620765229:228870261" type="CLASS" minLevel="39" requiredClass="Guardian" category="9" level="46" description="key:620765229:54354734">
 <objectives>
@@ -2323,6 +2687,24 @@
 <XP quantity="896"/>
 <virtue id="WISDOM"/>
 </rewards>
+<loot id="1879071985" name="Journal of Cardolan, Page 5" probabilities="5">
+<mobSpec landId="1879049792" landName="Bree-land" species="41"/>
+</loot>
+<loot id="1879071986" name="Journal of Cardolan, Page 7" probabilities="5">
+<mobSpec landId="1879049792" landName="Bree-land" species="41"/>
+</loot>
+<loot id="1879071987" name="Journal of Cardolan, Page 15" probabilities="5">
+<mobSpec landId="1879049792" landName="Bree-land" species="41"/>
+</loot>
+<loot id="1879071988" name="Journal of Cardolan, Page 16" probabilities="5">
+<mobSpec landId="1879049792" landName="Bree-land" species="41"/>
+</loot>
+<loot id="1879071989" name="Journal of Cardolan, Page 22" probabilities="5">
+<mobSpec landId="1879049792" landName="Bree-land" species="41"/>
+</loot>
+<loot id="1879071990" name="Journal of Cardolan, Page 28" probabilities="5">
+<mobSpec landId="1879049792" landName="Bree-land" species="41"/>
+</loot>
 </deed>
 <deed id="1879071674" key="The_History_of_the_D%C3%BAnedain" name="The History of the Dúnedain" rawName="key:620774283:228870261" type="LORE" minLevel="1" category="7" level="5" description="key:620774283:54354734">
 <objectives>
@@ -7239,6 +7621,15 @@
 <XP quantity="4042"/>
 <virtue id="HONESTY"/>
 </rewards>
+<loot id="1879099087" name="Tarnished Button" probabilities="3">
+<mobSpec mobDivision="178" species="63" subSpecies="317"/>
+</loot>
+<loot id="1879099090" name="Bent Button" probabilities="3">
+<mobSpec mobDivision="178" species="63" subSpecies="317"/>
+</loot>
+<loot id="1879099093" name="Blackened Cufflink" probabilities="3">
+<mobSpec mobDivision="178" species="63" subSpecies="317"/>
+</loot>
 </deed>
 <deed id="1879099329" key="Craban-slayer_(Lone-lands)" name="Craban-slayer" rawName="key:620797657:228870261" type="SLAYER" minLevel="1" category="8" level="15" description="key:620797657:54354734">
 <objectives>
@@ -7540,6 +7931,15 @@
 <XP quantity="4042"/>
 <title id="1879115229" name="Sage of the Sunken City"/>
 </rewards>
+<loot id="1879115226" name="Plaque of Menelband" probabilities="10">
+<mobSpec landId="1879086545" landName="Evendim" species="39"/>
+</loot>
+<loot id="1879115227" name="Plaque of Minathranc" probabilities="10">
+<mobSpec landId="1879086545" landName="Evendim" species="39"/>
+</loot>
+<loot id="1879115223" name="Plaque of Tirband" probabilities="10">
+<mobSpec landId="1879086545" landName="Evendim" species="39"/>
+</loot>
 </deed>
 <deed id="1879115195" key="Spirits_Aiding_Angmar_(Advanced)" name="Spirits Aiding Angmar (Advanced)" rawName="key:620809102:228870261" type="SLAYER" minLevel="45" category="12" level="50" description="key:620809102:54354734">
 <objectives>
