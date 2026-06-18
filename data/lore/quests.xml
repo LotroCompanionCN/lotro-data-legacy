@@ -944,7 +944,7 @@
 </selectOneOf>
 </rewards>
 <loot id="1879062338" name="Soft Lynx-hide" probabilities="100">
-<mobSpec mobDivision="3" species="75"/>
+<mobSpec mobDivision="3" genus="14" species="75"/>
 </loot>
 </quest>
 <quest id="1879048250" name="Blankets from the Baying Wolves" rawName="key:620767280:228870261" category="34" level="15" description="key:620767280:54354734">
@@ -1034,12 +1034,12 @@
 </selectOneOf>
 </rewards>
 <loot id="1879062347" name="Boar Leg-bone" probabilities="75">
-<mobSpec mobDivision="112" species="34"/>
-<mobSpec mobDivision="69" species="34"/>
+<mobSpec mobDivision="112" genus="14" species="34"/>
+<mobSpec mobDivision="69" genus="14" species="34"/>
 </loot>
 <loot id="1879062348" name="Boar-foot" probabilities="75">
-<mobSpec mobDivision="112" species="34"/>
-<mobSpec mobDivision="69" species="34"/>
+<mobSpec mobDivision="112" genus="14" species="34"/>
+<mobSpec mobDivision="69" genus="14" species="34"/>
 </loot>
 </quest>
 <quest id="1879048254" name="Candac's Delay" rawName="key:620758676:228870261" category="34" level="15" description="key:620758676:54354734">
@@ -1185,7 +1185,7 @@
 </selectOneOf>
 </rewards>
 <loot id="1879051366" name="Warg-tail" probabilities="100">
-<mobSpec mobDivision="112" species="66"/>
+<mobSpec mobDivision="112" genus="14" species="66"/>
 </loot>
 </quest>
 <quest id="1879048260" name="Vengeance for the Lost" rawName="key:620758689:228870261" category="34" level="18" description="key:620758689:54354734">
@@ -8859,8 +8859,8 @@
 <XP quantity="592"/>
 </rewards>
 <loot id="1879049798" name="Boar-shank" probabilities="75">
-<mobSpec mobDivision="73" species="34"/>
-<mobSpec mobDivision="140" species="34"/>
+<mobSpec mobDivision="73" genus="14" species="34"/>
+<mobSpec mobDivision="140" genus="14" species="34"/>
 </loot>
 </quest>
 <quest id="1879048560" name="Trouble in Buckland" rawName="key:620757752:228870261" category="28" level="10" description="key:620757752:54354734">
@@ -9547,7 +9547,7 @@
 <objective index="1" text="key:620762689:94621393">
 <dialog npcId="1879048598" npcName="Lunathron" text="key:620762689:63183937"/>
 <monsterDied progressOverride="key:620762689:22075073" count="20">
-<monsterSelection mobDivision="131" species="12"/>
+<monsterSelection mobDivision="131" class="148" species="12"/>
 </monsterDied>
 <monsterDied mobId="1879056870" mobName="Iron Crown Tamer" count="10"/>
 </objective>
@@ -12405,10 +12405,10 @@
 <objective index="1" text="key:620757787:94621393">
 <monsterDied mobId="1879049934" mobName="Créoth Disciple" count="20"/>
 <monsterDied progressOverride="key:620757787:22075073" count="24">
-<monsterSelection mobDivision="106" species="61"/>
+<monsterSelection mobDivision="106" class="70" species="61"/>
 </monsterDied>
 <monsterDied progressOverride="key:620757787:22075074" count="10">
-<monsterSelection mobDivision="106" species="61"/>
+<monsterSelection mobDivision="106" class="51" species="61"/>
 </monsterDied>
 </objective>
 <objective index="2" text="key:620757787:94621394">
@@ -13320,7 +13320,7 @@
 </selectOneOf>
 </rewards>
 <loot id="1879051440" name="Norbog-leg" probabilities="75">
-<mobSpec mobDivision="99" genus="8" species="49"/>
+<mobSpec mobDivision="99" genus="4" species="49"/>
 </loot>
 </quest>
 <quest id="1879051432" name="Relics of Rhudaur" rawName="key:620758733:228870261" category="50" level="32" size="FELLOWSHIP" description="key:620758733:54354734">
@@ -21309,12 +21309,12 @@
 <objectives>
 <objective index="1" text="key:620766065:94621393">
 <monsterDied progressOverride="key:620766065:22075073" count="8">
-<monsterSelection mobDivision="74" species="63"/>
-<monsterSelection mobDivision="74" species="63"/>
+<monsterSelection mobDivision="74" class="51" species="63"/>
+<monsterSelection mobDivision="74" class="10" species="63"/>
 </monsterDied>
 <monsterDied progressOverride="key:620766065:22075074" count="8">
-<monsterSelection mobDivision="74" species="63"/>
-<monsterSelection mobDivision="74" species="63"/>
+<monsterSelection mobDivision="74" class="70" species="63"/>
+<monsterSelection mobDivision="74" class="50" species="63"/>
 </monsterDied>
 </objective>
 <objective index="2" text="key:620766065:94621394">
@@ -21747,8 +21747,8 @@
 <objective index="1" text="key:620766188:94621393">
 <dialog npcId="1879049638" npcName="Ponto Hornblower" text="key:620766188:63183937"/>
 <monsterDied progressOverride="key:620766188:22075073" count="6">
-<monsterSelection mobDivision="38" species="63"/>
-<monsterSelection mobDivision="61" species="63"/>
+<monsterSelection mobDivision="38" class="70" species="63"/>
+<monsterSelection mobDivision="61" class="70" species="63"/>
 </monsterDied>
 </objective>
 <objective index="2" text="key:620766188:94621394">
@@ -28801,8 +28801,8 @@
 </selectOneOf>
 </rewards>
 <loot id="1879079088" name="Favourite Fishing-pole" probabilities="50">
-<mobSpec mobDivision="103" genus="4" species="16"/>
-<mobSpec mobDivision="128" genus="4" species="16"/>
+<mobSpec mobDivision="103" genus="3" species="16"/>
+<mobSpec mobDivision="128" genus="3" species="16"/>
 </loot>
 </quest>
 <quest id="1879079089" name="Reconnecting Ties" rawName="key:620779439:228870261" category="28" level="9" description="key:620779439:54354734">
@@ -29518,7 +29518,7 @@
 <mobSpec mobDivision="69" species="7"/>
 </loot>
 <loot id="1879079548" name="Bushy Wolf-tail" probabilities="80">
-<mobSpec landId="1879062345" landName="The Lone-lands" species="24"/>
+<mobSpec landId="1879062345" landName="The Lone-lands" genus="14" species="24"/>
 </loot>
 <loot id="1879079547" name="Sharp Boar-tusk" probabilities="50">
 <mob id="1879079468" name="Long-tusk Scrubrunner"/>
@@ -31266,7 +31266,7 @@
 <XP quantity="1648"/>
 </rewards>
 <loot id="1879081341" name="Heavy Bear-hide" probabilities="100">
-<mobSpec mobDivision="115" species="10"/>
+<mobSpec mobDivision="115" genus="14" species="10"/>
 </loot>
 </quest>
 <quest id="1879081342" name="Fallen to the Wargs" rawName="key:620780875:228870261" category="13" level="23" description="key:620780875:54354734">
@@ -40766,8 +40766,8 @@
 <npcTalk progressOverride="key:620792393:22075073" showBillboardText="false"/>
 <npcTalk progressOverride="key:620792393:22075074" showBillboardText="false"/>
 <monsterDied progressOverride="key:620792393:22075075" count="8">
-<monsterSelection mobDivision="167" species="39"/>
-<monsterSelection mobDivision="150" species="39"/>
+<monsterSelection mobDivision="167" class="70" species="39"/>
+<monsterSelection mobDivision="150" class="70" species="39"/>
 </monsterDied>
 </objective>
 <objective index="2" text="key:620792393:94621394">

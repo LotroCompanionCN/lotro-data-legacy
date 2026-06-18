@@ -21904,6 +21904,7 @@
 <label key="1879115227" value="Plaque of Minathranc"/>
 <label key="1894514716" value="Rope"/>
 <label key="1894514722" value="Rope"/>
+<label key="1894514724" value="Annúminas Boat Post"/>
 <label key="key:620757454:100083276" value="Money"/>
 <label key="key:620757454:203761950" value="A stack of money"/>
 <label key="key:620757516:54354734" value="A letter."/>
@@ -34119,13 +34120,13 @@
 <label key="key:620797512:98907573" value="Shield-spike Removal Kits"/>
 <label key="key:620797513:54354734" value="A crammed bookshelf, it looks like a few of the books were recently placed."/>
 <label key="key:620797513:98907573" value="..."/>
-<label key="key:620797516:54354734" value="A set of paperwork confirming a construction work order for the community of HOUSINGNAME."/>
+<label key="key:620797516:54354734" value="A set of paperwork confirming a construction work order for the community of Thorin's Hall."/>
 <label key="key:620797516:98907573" value="Construction Work Order"/>
-<label key="key:620797517:54354734" value="A set of paperwork confirming a construction work order for the community of HOUSINGNAME."/>
+<label key="key:620797517:54354734" value="A set of paperwork confirming a construction work order for the community of Duillond."/>
 <label key="key:620797517:98907573" value="Construction Work Order"/>
-<label key="key:620797518:54354734" value="A set of paperwork confirming a construction work order for the community of HOUSINGNAME."/>
+<label key="key:620797518:54354734" value="A set of paperwork confirming a construction work order for the community of Michel Delving."/>
 <label key="key:620797518:98907573" value="Construction Work Order"/>
-<label key="key:620797519:54354734" value="A set of paperwork confirming a construction work order for the community of HOUSINGNAME."/>
+<label key="key:620797519:54354734" value="A set of paperwork confirming a construction work order for the community of Bree."/>
 <label key="key:620797519:98907573" value="Construction Work Order"/>
 <label key="key:620797583:54354734" value="This scoll has lessons for learning how to play the Drums."/>
 <label key="key:620797584:54354734" value="This scoll has lessons for learning how to play the Flute."/>
@@ -34917,4 +34918,5 @@
 <label key="key:620809123:98907573" value="..."/>
 <label key="key:620809124:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
 <label key="key:620809124:98907573" value="..."/>
+<label key="key:636223496:54354734" value="An ornate post designed in the image of an Arnorian ship"/>
 </labels>

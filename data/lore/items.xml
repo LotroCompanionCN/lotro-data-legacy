@@ -109329,4 +109329,8 @@
 <item key="1894514722" name="Rope" icon="1090519170-1090519041" category="ITEM" class="53">
 <stats/>
 </item>
+<item key="1894514724" name="Annúminas Boat Post" icon="1105985536-1090519041-1091947416" level="15" category="ITEM" class="87" binding="BIND_ON_ACQUIRE" quality="COMMON" minLevel="-1" description="key:636223496:54354734" valueTableId="1879101673">
+<stats/>
+<housingHooks categories="14"/>
+</item>
 </items>
