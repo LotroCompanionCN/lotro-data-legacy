@@ -544,6 +544,7 @@
 <label key="1879115180" value="Warden of Annúminas"/>
 <label key="1879115181" value="Markers of the Sunken City"/>
 <label key="1879115195" value="Spirits Aiding Angmar (Advanced)"/>
+<label key="1879115232" value="Boar-slayer"/>
 <label key="1894514720" value="The Adventures of Ostur and Akur"/>
 <label key="key:620758795:118018273" value="The Bounders are a division of the Shirriffs responsible for watching and protecting the borders -- or the Bounds -- of the Shire, as well as assisting Shire-folk in need."/>
 <label key="key:620758795:22075073" value="Complete quests within the Shire"/>
@@ -4219,6 +4220,9 @@
 <label key="key:620809125:54354734" value="Find the marker plaques scattered throughout Annúminas."/>
 <label key="key:620809125:94621393" value="Find the marker plaques scattered throughout Annúminas."/>
 <label key="key:620809125:94621394" value="Find the marker plaques scattered throughout Annúminas."/>
+<label key="key:620809128:22075073" value="Defeat Boars in Eriador"/>
+<label key="key:620809128:228870261" value="Boar-slayer"/>
+<label key="key:620809128:54354734" value="For too long, Boar-kind has plagued the land. In your efforts, you have shown a desire to drive them from Middle-earth."/>
 <label key="key:636223490:141747235" value="Odur in Thorin's Hall often thinks of his roaming companions."/>
 <label key="key:636223490:141758597" value="The Adventures of Ostur and Akur"/>
 <label key="key:636223490:164511447" value="Talk to Odur in Thorin's Hall"/>

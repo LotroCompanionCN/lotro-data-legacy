@@ -411,6 +411,7 @@
 <label key="1879115190" value="Праведный Гнев"/>
 <label key="1879115192" value="Сама Стойкость"/>
 <label key="1879115197" value="Страж Аннуминаса"/>
+<label key="1879115228" value="Pork-chopper"/>
 <label key="1879115229" value="Мудрость Затопленного Города"/>
 <label key="1894514704" value="Следопыт"/>
 <label key="1894514705" value="Копье Оромэ"/>
@@ -1249,6 +1250,8 @@
 <label key="key:620809097:175532558" value="Сражаясь во имя Эриадора, вы бесстрашно вошли в Аннуминас и уничтожили множество горторогов."/>
 <label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Страж Аннуминаса"/>
 <label key="key:620809101:175532558" value="Ваши подвиги в городе королей не остались незамеченными. Следопыты оценили их по заслугам. Теперь для них вы Страж Аннуминаса."/>
+<label key="key:620809122:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Pork-chopper"/>
+<label key="key:620809122:175532558" value="For too long, the Boars have plagued the land. In your efforts, you have shown a desire to drive the vile Boar-kind from Middle-earth."/>
 <label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Мудрость Затопленного Города"/>
 <label key="key:620809126:175532558" value="Вам удалось найти тайные знания, хранившиеся в Аннуминасе, и спасти их, пока они не достались Амартиэли."/>
 <label key="key:636223488:133344739" value="Вы помогли всем обитателям Эриадора, не потерпев ни единого поражения."/>

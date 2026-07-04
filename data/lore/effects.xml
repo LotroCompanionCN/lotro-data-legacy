@@ -4833,7 +4833,7 @@
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="40.0"/>
 <stat name="CombatState_CurrentStateImmunities" descriptionOverride="key:620796455:106251893" value="(2,6,7,8,12,14,19,21)"/>
 </propertyModEffect>
-<countdownEffect id="1879097870" name="Fury's Price" appliedDescription="key:620796456:54354734" iconId="1091456476" duration="10.0" baseFlags="4540">
+<countdownEffect id="1879097870" name="Fury's Price" appliedDescription="key:620796456:54354734" iconId="1091456476" duration="15.0" baseFlags="4540">
 <onExpire id="1879079637" name="Smite Player"/>
 </countdownEffect>
 <auraEffect id="1879097872" name="Born of Shadow[e]" iconId="1091417880" baseFlags="6204" type="2">

@@ -544,6 +544,7 @@
 <label key="1879115180" value="Wächter von Annúminas"/>
 <label key="1879115181" value="Markierungssteine der Versunkenen Stadt"/>
 <label key="1879115195" value="Angmars hilfreiche Geister (mittelschwer)"/>
+<label key="1879115232" value="Boar-slayer"/>
 <label key="1894514720" value="The Adventures of Ostur and Akur"/>
 <label key="key:620758795:118018273" value="Die Grenzer sind eine Abteilung der Landbüttel, die dafür verantwortlich sind, die Grenzen - oder die Grenzanlagen - des Auenlandes zu bewachen und zu schützen, aber auch dem Auenland-Volk Beistand zu leisten, wenn es nötig sein sollte."/>
 <label key="key:620758795:22075073" value="Erfüllt Aufgaben im Auenland."/>
@@ -4219,6 +4220,9 @@
 <label key="key:620809125:54354734" value="Findet die Markierungstafeln, die in Annúminas verstreut sind."/>
 <label key="key:620809125:94621393" value="Findet die Markierungstafeln, die in Annúminas verstreut sind."/>
 <label key="key:620809125:94621394" value="Findet die Markierungstafeln, die in Annúminas verstreut sind."/>
+<label key="key:620809128:22075073" value="Defeat Boars in Eriador"/>
+<label key="key:620809128:228870261" value="Boar-slayer"/>
+<label key="key:620809128:54354734" value="For too long, Boar-kind has plagued the land. In your efforts, you have shown a desire to drive them from Middle-earth."/>
 <label key="key:636223490:141747235" value="Odur in Thorin's Hall often thinks of his roaming companions."/>
 <label key="key:636223490:141758597" value="The Adventures of Ostur and Akur"/>
 <label key="key:636223490:164511447" value="Talk to Odur in Thorin's Hall"/>

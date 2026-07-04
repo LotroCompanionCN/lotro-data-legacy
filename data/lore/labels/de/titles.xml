@@ -411,6 +411,7 @@
 <label key="1879115190" value="der / die Rechtschaffene"/>
 <label key="1879115192" value="der / die Gefürchtete"/>
 <label key="1879115197" value="Wächter / Wächterin von Annúminas"/>
+<label key="1879115228" value="Pork-chopper"/>
 <label key="1879115229" value="Weiser / Weise der Versunkenen Stadt"/>
 <label key="1894514704" value="der Entdecker / die Entdeckerin"/>
 <label key="1894514705" value="Speer von Oromë"/>
@@ -1249,6 +1250,8 @@
 <label key="key:620809097:175532558" value="Ihr seid furchtlos nach Annúminas gezogen und habt viele Gertheryg erschlagen, um Eriador zu verteidigen."/>
 <label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Wächter[m]|Wächterin[f]} von Annúminas"/>
 <label key="key:620809101:175532558" value="Eure Bemühungen in Annúminas sind den Waldläufern nicht verborgen geblieben. Aufgrund Eurer unermüdlichen Hilfe bei der Verteidigung der Stadt der Könige haben sie Euch den Titel ${PLAYERNAME:Wächter[m]|Wächterin[f]} verliehen."/>
+<label key="key:620809122:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Pork-chopper"/>
+<label key="key:620809122:175532558" value="For too long, the Boars have plagued the land. In your efforts, you have shown a desire to drive the vile Boar-kind from Middle-earth."/>
 <label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Weiser[m]|Weise[f]} der Versunkenen Stadt"/>
 <label key="key:620809126:175532558" value="Ihr habt das verborgene Wissen der Stadt Annúminas gefunden und beschützt, bevor es in die Hände von Amarthiels Hauptleuten fallen konnte."/>
 <label key="key:636223488:133344739" value="Hardcore Challenge Belohnung für die Erfüllung aller Aufgaben in allen Zonen."/>

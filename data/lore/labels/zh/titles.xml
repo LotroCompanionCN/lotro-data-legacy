@@ -411,6 +411,7 @@
 <label key="1879115190" value="，正义战士"/>
 <label key="1879115192" value="，无畏勇士"/>
 <label key="1879115197" value="安努米纳斯卫士"/>
+<label key="1879115228" value="Pork-chopper"/>
 <label key="1879115229" value="沦陷之城的游侠"/>
 <label key="1894514704" value="探险家"/>
 <label key="1894514705" value="欧洛米长矛"/>
@@ -1249,6 +1250,8 @@
 <label key="key:620809097:175532558" value="为了保卫埃里阿多尔，你无所畏惧的跨进安努米纳斯，解决了无数的怪兽。"/>
 <label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, 安努米纳斯卫士"/>
 <label key="key:620809101:175532558" value="游侠们一直铭记着你为安努米纳斯所付出的努力。 由于你无私的援助了王者之城的防守作战，所以他们决定授予你“卫士”的头衔。"/>
+<label key="key:620809122:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Pork-chopper"/>
+<label key="key:620809122:175532558" value="For too long, the Boars have plagued the land. In your efforts, you have shown a desire to drive the vile Boar-kind from Middle-earth."/>
 <label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME},沦陷之城的游侠"/>
 <label key="key:620809126:175532558" value="你发现并保护了安努米纳斯城中隐藏着的智慧，避免了它们落入敌人手中。"/>
 <label key="key:636223488:133344739" value="在所有区域完成任务的硬核挑战奖励。"/>

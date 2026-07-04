@@ -7964,6 +7964,37 @@
 <virtue id="TOLERANCE"/>
 </rewards>
 </deed>
+<deed id="1879115232" key="Boar-slayer" name="Boar-slayer" rawName="key:620809128:228870261" type="SLAYER" minLevel="5" category="10" level="5" description="key:620809128:54354734">
+<objectives>
+<objective index="1" progressOverride="key:620809128:22075073">
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879051583" landName="The Shire" species="34"/>
+</monsterDied>
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879049792" landName="Bree-land" species="34"/>
+</monsterDied>
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879061048" landName="Ered Luin" species="34"/>
+</monsterDied>
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879063884" landName="Angmar" species="34"/>
+</monsterDied>
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879062345" landName="The Lone-lands" species="34"/>
+</monsterDied>
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879072154" landName="The North Downs" species="34"/>
+</monsterDied>
+<monsterDied showBillboardText="false">
+<monsterSelection landId="1879072246" landName="The Trollshaws" species="34"/>
+</monsterDied>
+</objective>
+</objectives>
+<rewards>
+<XP quantity="279"/>
+<title id="1879115228" name="Pork-chopper"/>
+</rewards>
+</deed>
 <deed id="1894514720" name="The Adventures of Ostur and Akur" rawName="key:636223490:141758597" type="EXPLORER" minLevel="10" category="10" level="45" description="key:636223490:141747235">
 <objectives>
 <objective index="1">

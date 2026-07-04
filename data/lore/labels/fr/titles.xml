@@ -411,6 +411,7 @@
 <label key="1879115190" value="l'Intègre"/>
 <label key="1879115192" value="le / la Redoutable"/>
 <label key="1879115197" value="Gardien / Gardienne d'Annuminas"/>
+<label key="1879115228" value="Pork-chopper"/>
 <label key="1879115229" value="sage de la cité engloutie"/>
 <label key="1894514704" value="L'Explorateur / L’Exploratrice"/>
 <label key="1894514705" value="La Lance d'Oromë"/>
@@ -1249,6 +1250,8 @@
 <label key="key:620809097:175532558" value="Faisant fi de toute peur, vous êtes ${PLAYERNAME:entré[m]|entrée[f]} dans Annuminas et y avez tué de nombreux Gorthorogs pour défendre l'Eriador."/>
 <label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gardien[m]|Gardienne[f]} d'Annuminas"/>
 <label key="key:620809101:175532558" value="Les efforts que vous avez déployés à Annuminas ont attiré l'attention des Rôdeurs. En raison de votre aide incessante pour défendre la cité des rois, ils vous ont conféré le titre de ${PLAYERNAME:Gardien[m]|Gardienne[f]}."/>
+<label key="key:620809122:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Pork-chopper"/>
+<label key="key:620809122:175532558" value="For too long, the Boars have plagued the land. In your efforts, you have shown a desire to drive the vile Boar-kind from Middle-earth."/>
 <label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, sage de la cité engloutie"/>
 <label key="key:620809126:175532558" value="Vous avez trouvé et protégé le savoir caché de la cité d'Annuminas avant qu'il ne puisse être remis aux mains des capitaines d'Amarthiel."/>
 <label key="key:636223488:133344739" value="Récompense du défi hardcore pour avoir terminé les quêtes dans toutes les zones."/>

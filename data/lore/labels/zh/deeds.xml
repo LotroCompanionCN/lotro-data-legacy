@@ -544,6 +544,7 @@
 <label key="1879115180" value="安努米纳斯卫士"/>
 <label key="1879115181" value="沦陷之城的标记"/>
 <label key="1879115195" value="与安格玛结盟的灵魂（高级）"/>
+<label key="1879115232" value="Boar-slayer"/>
 <label key="1894514720" value="奥斯图尔与阿库尔之旅"/>
 <label key="key:620758795:118018273" value="边境警卫是治安官的一个分支，负责守护夏尔的疆界——或是界线，同时也向有需要的夏尔人提供帮助。"/>
 <label key="key:620758795:22075073" value="完成夏尔境内的任务"/>
@@ -4219,6 +4220,9 @@
 <label key="key:620809125:54354734" value="漫游安努米纳斯的土地，找到散落各地的有标记的铭牌。"/>
 <label key="key:620809125:94621393" value="漫游安努米纳斯的土地，找到散落各地的有标记的铭牌。"/>
 <label key="key:620809125:94621394" value="漫游安努米纳斯的土地，找到散落各地的有标记的铭牌。"/>
+<label key="key:620809128:22075073" value="Defeat Boars in Eriador"/>
+<label key="key:620809128:228870261" value="Boar-slayer"/>
+<label key="key:620809128:54354734" value="For too long, Boar-kind has plagued the land. In your efforts, you have shown a desire to drive them from Middle-earth."/>
 <label key="key:636223490:141747235" value="索林大厅中的奥杜尔时常思念他那些旅游的伙伴。"/>
 <label key="key:636223490:141758597" value="奥斯图尔与阿库尔之旅"/>
 <label key="key:636223490:164511447" value="与索林大厅中的奥杜尔交谈"/>

@@ -411,6 +411,7 @@
 <label key="1879115190" value="the Righteous"/>
 <label key="1879115192" value="the Formidable"/>
 <label key="1879115197" value="Warden of Annúminas"/>
+<label key="1879115228" value="Pork-chopper"/>
 <label key="1879115229" value="Sage of the Sunken City"/>
 <label key="1894514704" value="the Explorer"/>
 <label key="1894514705" value="Spear of Oromë"/>
@@ -1249,6 +1250,8 @@
 <label key="key:620809097:175532558" value="You have fearlessly stridden into Annúminas and slain many Gertheryg within in the defense of Eriador."/>
 <label key="key:620809101:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Warden of Annúminas"/>
 <label key="key:620809101:175532558" value="Your efforts within Annúminas have not gone unnoticed by the Rangers. Because of your unceasing aid in the defense of the City of the Kings, they have bestowed upon you the title of Warden."/>
+<label key="key:620809122:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Pork-chopper"/>
+<label key="key:620809122:175532558" value="For too long, the Boars have plagued the land. In your efforts, you have shown a desire to drive the vile Boar-kind from Middle-earth."/>
 <label key="key:620809126:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sage of the Sunken City"/>
 <label key="key:620809126:175532558" value="You have found and protected the hidden lore of the city of Annúminas before it could be delivered to the hands of Amarthiel's captains."/>
 <label key="key:636223488:133344739" value="Hardcore challenge reward for completing quests in all zones."/>
