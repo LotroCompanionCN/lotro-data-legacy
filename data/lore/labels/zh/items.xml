@@ -18010,7 +18010,7 @@
 <label key="1879089635" value="信心耳饰"/>
 <label key="1879089637" value="罗格穆尔的戒指"/>
 <label key="1879089640" value="罗格穆尔的轻视"/>
-<label key="1879089641" value="罗格穆尔之刀"/>
+<label key="1879089641" value="罗格穆尔之刃"/>
 <label key="1879089642" value="无名猛击棒"/>
 <label key="1879089643" value="破头刃"/>
 <label key="1879089644" value="林地人之友"/>
@@ -21889,11 +21889,11 @@
 <label key="1879102679" value="斯特-博格"/>
 <label key="1879102680" value="拉尔切"/>
 <label key="1879102681" value="菲利廷格尔"/>
-<label key="1879108350" value="Master Jeweller Scroll Case"/>
-<label key="1879108358" value="Master Metalworker Scroll Case"/>
-<label key="1879108362" value="Master Tailor Scroll Case"/>
-<label key="1879108366" value="Master Weaponsmith Scroll Case"/>
-<label key="1879108370" value="Master Woodworker Scroll Case"/>
+<label key="1879108350" value="珠宝大师卷轴盒"/>
+<label key="1879108358" value="铁匠大师卷轴盒"/>
+<label key="1879108362" value="裁缝大师卷轴盒"/>
+<label key="1879108366" value="锻造大师卷轴盒"/>
+<label key="1879108370" value="木工大师卷轴盒"/>
 <label key="1879110743" value="伊顿深渊的死敌"/>
 <label key="1879111444" value="红榴石耳环"/>
 <label key="1879115221" value="爱查德加萨迪的铭牌"/>
@@ -21904,7 +21904,7 @@
 <label key="1879115227" value="米纳然的铭牌"/>
 <label key="1894514716" value="绳子"/>
 <label key="1894514722" value="绳子"/>
-<label key="1894514724" value="Annúminas Boat Post"/>
+<label key="1894514724" value="安努米纳斯船舶雕像"/>
 <label key="key:620757454:100083276" value="钱"/>
 <label key="key:620757454:203761950" value="一叠钱"/>
 <label key="key:620757516:54354734" value="一封信。"/>
@@ -34896,16 +34896,16 @@
 <label key="key:620800234:54354734" value="该物品可以提供在特定时间内对有害战斗状态的免疫。  包括对被联合技击晕的免疫。只可以在非战斗时使用。"/>
 <label key="key:620800235:54354734" value="该物品可以提供在特定时间内对有害战斗状态的免疫。  包括对被联合技击晕的免疫。只可以在非战斗时使用。"/>
 <label key="key:620800236:54354734" value="该物品可以提供在特定时间内对有害战斗状态的免疫。  包括对被联合技击晕的免疫。只可以在非战斗时使用。"/>
-<label key="key:620804277:54354734" value="On opening, the scroll case will reveal a rare Master Metalworker recipe."/>
-<label key="key:620804277:98907573" value="Master Metalworker Scroll Case"/>
-<label key="key:620804285:54354734" value="On opening, the scroll case will reveal a rare Master Tailor recipe."/>
-<label key="key:620804285:98907573" value="Master Tailor Scroll Case"/>
-<label key="key:620804293:54354734" value="On opening, the scroll case will reveal a rare Master Weaponsmith recipe."/>
-<label key="key:620804293:98907573" value="Master Weaponsmith Scroll Case"/>
-<label key="key:620804301:54354734" value="On opening, the scroll case will reveal a rare Master Woodworker recipe."/>
-<label key="key:620804301:98907573" value="Master Woodworker Scroll Case"/>
-<label key="key:620804312:54354734" value="On opening, the scroll case will reveal a rare Master Jeweller recipe."/>
-<label key="key:620804312:98907573" value="Master Jeweller Scroll Case"/>
+<label key="key:620804277:54354734" value="打开后，这个卷轴盒子就会展露出一份稀有的铁匠大师配方。"/>
+<label key="key:620804277:98907573" value="铁匠大师卷轴盒"/>
+<label key="key:620804285:54354734" value="打开后，这个卷轴盒子就会展露出一份稀有的裁缝大师配方。"/>
+<label key="key:620804285:98907573" value="裁缝大师卷轴盒"/>
+<label key="key:620804293:54354734" value="打开后，这个卷轴盒子就会展露出一份稀有的锻造大师。"/>
+<label key="key:620804293:98907573" value="锻造大师卷轴盒"/>
+<label key="key:620804301:54354734" value="打开后，这个卷轴盒子就会展露出一份稀有的木工大师配方。"/>
+<label key="key:620804301:98907573" value="木工大师卷轴盒"/>
+<label key="key:620804312:54354734" value="打开后，这个卷轴盒子就会展露出一份稀有的珠宝大师配方。"/>
+<label key="key:620804312:98907573" value="珠宝大师卷轴盒"/>
 <label key="key:620809118:54354734" value="在安努米纳斯的废墟之中找到的一块带有标记的铭牌。"/>
 <label key="key:620809118:98907573" value="..."/>
 <label key="key:620809119:54354734" value="在安努米纳斯的废墟之中找到的一块带有标记的铭牌。"/>
@@ -34918,5 +34918,5 @@
 <label key="key:620809123:98907573" value="..."/>
 <label key="key:620809124:54354734" value="在安努米纳斯的废墟之中找到的一块带有标记的铭牌。"/>
 <label key="key:620809124:98907573" value="..."/>
-<label key="key:636223496:54354734" value="An ornate post designed in the image of an Arnorian ship"/>
+<label key="key:636223496:54354734" value="一座阿诺尔王国船只形象设计的华丽雕像"/>
 </labels>
