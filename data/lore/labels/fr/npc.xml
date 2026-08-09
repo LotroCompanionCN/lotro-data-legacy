@@ -1619,6 +1619,8 @@
 <label key="1894514717" value="Ostur"/>
 <label key="1894514718" value="Akur"/>
 <label key="1894514719" value="Odur"/>
+<label key="1894514727" value="Grashgrod"/>
+<label key="1894514728" value="Laegluin"/>
 <label key="key:620757644:229802005" value="Fermier respecté"/>
 <label key="key:620757737:229802005" value="Aubergiste"/>
 <label key="key:620757892:229802005" value="Aubergiste"/>
@@ -2308,4 +2310,6 @@
 <label key="key:620799958:229802005" value="Guérisseur"/>
 <label key="key:620800515:229802005" value="Négociant en objets"/>
 <label key="key:620806715:229802005" value="Supply &amp; Recipe Trader"/>
+<label key="key:636223498:229802005" value="Scoutmaster"/>
+<label key="key:636223499:229802005" value="Herald"/>
 </labels>

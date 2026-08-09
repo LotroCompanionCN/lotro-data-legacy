@@ -109333,4 +109333,10 @@
 <stats/>
 <housingHooks categories="14"/>
 </item>
+<item key="1894514725" name="War Report" icon="1090523518-1090519041-1090523519" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" description="key:636223497:54354734">
+<stats/>
+</item>
+<item key="1894514726" name="War Report" icon="1090523518-1090519041-1090523519" level="1" category="ITEM" class="57" binding="BIND_ON_ACQUIRE" unique="true" description="key:636223497:54354734">
+<stats/>
+</item>
 </items>

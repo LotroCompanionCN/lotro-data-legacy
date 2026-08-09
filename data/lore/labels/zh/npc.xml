@@ -1619,6 +1619,8 @@
 <label key="1894514717" value="奥斯图尔"/>
 <label key="1894514718" value="阿库尔"/>
 <label key="1894514719" value="奥杜尔"/>
+<label key="1894514727" value="格拉什格罗德"/>
+<label key="1894514728" value="拉格莱因"/>
 <label key="key:620757644:229802005" value="受人尊敬的农夫"/>
 <label key="key:620757737:229802005" value="酒店老板"/>
 <label key="key:620757892:229802005" value="酒店老板"/>
@@ -2308,4 +2310,6 @@
 <label key="key:620799958:229802005" value="医者"/>
 <label key="key:620800515:229802005" value="收藏家"/>
 <label key="key:620806715:229802005" value="供应商兼配方销售商"/>
+<label key="key:636223498:229802005" value="侦察队长"/>
+<label key="key:636223499:229802005" value="传令官"/>
 </labels>

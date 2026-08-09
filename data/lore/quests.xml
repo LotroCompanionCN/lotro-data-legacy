@@ -38870,7 +38870,7 @@
 <objective index="9" text="key:620790688:94621401">
 <emote progressOverride="key:620790688:22075081" emoteId="1879071876" command="dance3" npcId="1879087664" npcName="Galmi"/>
 <failureConditions>
-<timeExpired showProgressText="false" showBillboardText="false" duration="7"/>
+<timeExpired showProgressText="false" showBillboardText="false" duration="12"/>
 </failureConditions>
 </objective>
 <objective index="10" text="key:620790688:171765008">
@@ -50727,5 +50727,25 @@
 <XP quantity="1197"/>
 <trait id="1879101895" name="Novice Riding"/>
 </rewards>
+</quest>
+<quest id="1894514729" name="War Reports" rawName="key:636223500:228870261" category="26" level="50" monsterPlay="true" minLevel="50" description="key:636223500:54354734">
+<bestower npcId="1879092087" npcName="Soldier Paashum" text="key:636223500:218649169"/>
+<objectives>
+<objective index="1" text="key:636223500:94621393">
+<dialog npcId="1894514727" npcName="Grashgrod" text="key:636223500:218649170"/>
+<npcTalk npcId="1894514727" npcName="Grashgrod"/>
+</objective>
+</objectives>
+<rewards/>
+</quest>
+<quest id="1894514730" name="War Reports" rawName="key:636223501:228870261" category="26" level="50" minLevel="50" description="key:636223501:54354734">
+<bestower npcId="1879091719" npcName="Sergeant-at-Arms Inuelen" text="key:636223501:218649169"/>
+<objectives>
+<objective index="1" text="key:636223501:94621393">
+<dialog npcId="1894514728" npcName="Laegluin" text="key:636223501:218649170"/>
+<npcTalk npcId="1894514728" npcName="Laegluin"/>
+</objective>
+</objectives>
+<rewards/>
 </quest>
 </quests>

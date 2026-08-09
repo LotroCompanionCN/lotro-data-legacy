@@ -1741,4 +1741,6 @@
 <NPC id="1894514717" name="Ostur"/>
 <NPC id="1894514718" name="Akur"/>
 <NPC id="1894514719" name="Odur"/>
+<NPC id="1894514727" name="Grashgrod" gender="MALE" title="key:636223498:229802005"/>
+<NPC id="1894514728" name="Laegluin" gender="MALE" title="key:636223499:229802005"/>
 </NPCs>

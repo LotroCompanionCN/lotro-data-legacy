@@ -21905,6 +21905,8 @@
 <label key="1894514716" value="Rope"/>
 <label key="1894514722" value="Rope"/>
 <label key="1894514724" value="Annúminas Boat Post"/>
+<label key="1894514725" value="War Report"/>
+<label key="1894514726" value="War Report"/>
 <label key="key:620757454:100083276" value="Money"/>
 <label key="key:620757454:203761950" value="A stack of money"/>
 <label key="key:620757516:54354734" value="A letter."/>
@@ -34919,4 +34921,5 @@
 <label key="key:620809124:54354734" value="A marker plaque found amongst the ruins of Annúminas."/>
 <label key="key:620809124:98907573" value="..."/>
 <label key="key:636223496:54354734" value="An ornate post designed in the image of an Arnorian ship"/>
+<label key="key:636223497:54354734" value="A recent report on battles in the Ettenmoors"/>
 </labels>
